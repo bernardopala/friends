@@ -1,0 +1,277 @@
+script_element,character,text
+heading,,"[Scene: Chandler's Office, Chandler is on a coffee break. Shelley enters.]"
+dialogue,Shelley,"Hey gorgeous, how's it going?"
+dialogue,Chandler,Dehydrated Japanese noodles under fluorescent lights... does it get better than this?
+dialogue,Shelley,"Question. You're not dating anybody, are you, because I met somebody who would be perfect for you."
+dialogue,Chandler,"Ah, y'see, perfect might be a problem. Had you said 'co-dependent', or 'self-destructive'..."
+dialogue,Shelley,Do you want a date Saturday?
+dialogue,Chandler,Yes please.
+dialogue,Shelley,"Okay. He's cute, he's funny, he's-"
+dialogue,Chandler,He's a he?
+dialogue,Shelley,"Well yeah! ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now...(backs out of the room) Okay, goodbye..."
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, everyone is there.)"
+dialogue,Chandler,"...Couldn't enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?"
+dialogue,Rachel,"Um... yeah. Well, I mean, when I first met you, y'know, I thought maybe, possibly, you might be..."
+dialogue,Chandler,You did?
+dialogue,Rachel,"Yeah, but then you spent Phoebe's entire birthday party talking to my breasts, so then I figured maybe not."
+dialogue,Chandler,"Huh. Did, uh... any of the rest of you guys think that when you first met me?"
+dialogue,Monica,I did.
+dialogue,Phoebe,"Yeah, I think so, yeah."
+dialogue,Joey,Not me.
+dialogue,Ross,"Nono, me neither. Although, uh, y'know, back in college, Susan Sallidor did."
+dialogue,Chandler,You're kidding! Did you tell her I wasn't?
+dialogue,Ross,"No. No, it's just 'cause, uh, I kinda wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman... who also liked her, so..."
+action,,"(Joey congratulates Ross, sees Chandler's look and abruptly stops.)"
+dialogue,Chandler,"Well, this is fascinating. So, uh, what is it about me?"
+dialogue,Phoebe,"I dunno, 'cause you're smart, you're funny..."
+dialogue,Chandler,"Ross is smart and funny, d'you ever think that about him?"
+dialogue,All,Yeah! Right!
+dialogue,Chandler,WHAT IS IT?!
+dialogue,Monica,"Okay, I-I d'know, you-you just- you have a quality."
+dialogue,All,Yes. Absolutely. A quality.
+dialogue,Chandler,"Oh, oh, a quality, good, because I was worried you guys were gonna be vague about this."
+action,,(Phone rings; Monica gets it)
+dialogue,Monica,"Hello? Hello? Oh! Rachel, it's Paolo calling from Rome."
+dialogue,Rachel,"Oh my God! Calling from Rome! (Takes phone) Bon giorno, caro mio."
+dialogue,Ross,(to Joey) So he's calling from Rome. I could do that. Just gotta go to Rome.
+dialogue,Rachel,"Monica, your dad just beeped in, but can you make it quick? Talking to Rome. (Showing off to Phoebe and Chandler) I'm talking to Rome."
+dialogue,Monica,"Hey dad, what's up? (Listens) Oh God. Ross, it's Nana."
+heading,,"[Scene: The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and Monica enter and everyone says hi and kisses.)"
+dialogue,Ross,"So, uh, how's she doing?"
+dialogue,Aunt Lillian,The doctor says it's a matter of hours.
+dialogue,Monica,"How-how are you, Mom?"
+dialogue,Mrs. Geller,"Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?"
+dialogue,Monica,What?
+dialogue,Mrs. Geller,What's different?
+dialogue,Monica,Nothing.
+dialogue,Mrs. Geller,"Oh, maybe that's it."
+action,,"(Monica strides over to Ross, who is making coffee, and talks to him aside.)"
+dialogue,Monica,"She is unbelievable, our mother is..."
+dialogue,Ross,"Okay, relax, relax. We are gonna be here for a while, it looks like, and we still have boyfriends and your career to cover."
+dialogue,Monica,Oh God!
+action,,(They hug.)
+action,,"[Cut to the hospital, later. Everyone is talking about Nana.]"
+dialogue,Monica,The fuzzy little mints at the bottom of her purse.
+dialogue,Ross,"Oh! ...Yeah, they were gross. Oh, you know what I loved? Her Sweet 'n' Los. How she was always stealing them from- from restaurants."
+dialogue,Mr. Geller,"Not just restaurants, from our house."
+action,,(The nurse comes out of Nana's room.)
+dialogue,Nurse,Mrs. Geller?
+action,,(Everyone stands up. Cut to Ross and Monica in Nana's room.)
+dialogue,Ross,She looks so small.
+dialogue,Monica,I know.
+dialogue,Ross,"Well, at least she's with Pop-Pop and Aunt Phyllis now."
+dialogue,Monica,"G'bye, Nana. (She kisses her on the forehead.)"
+dialogue,Ross,"Bye, Nana."
+action,,(He goes to kiss her but she moves. Monica screams. Ross shouts and stares in disbelief. Monica runs out of the room.)
+dialogue,Monica,Ross!
+action,,(Ross runs out too.)
+dialogue,Mrs. Geller,What is going on?!
+dialogue,Ross,"Y'know how-how the nurse said that-that Nana had passed? Well, she's not, quite.."
+dialogue,Mrs. Geller,What?
+dialogue,Ross,"She's not- past, she's present, she's back."
+dialogue,Aunt Lillian,(reentering) What's going on?
+dialogue,Mr. Geller,She may have died.
+dialogue,Aunt Lillian,She may have died?
+dialogue,Mr. Geller,We're looking into it.
+action,,(Monica returns with the nurse and they go into Nana's room.)
+dialogue,Ross,"I, uh, I'll go see. (He goes in)"
+dialogue,Nurse,This almost never happens!
+action,,(Nana passes for the second time and the nurse pulls the blanket over her. Ross and Monica go to tell the family)
+dialogue,Ross,Now she's passed.
+heading,,"[Scene: Central Perk, Chandler, Phoebe, Joey, and Rachel are there.]"
+dialogue,Chandler,"I just have to know, okay. Is it my hair?"
+dialogue,Rachel,"(exasperated) Yes, Chandler, that's exactly what it is. It's your hair."
+dialogue,Phoebe,"Yeah, you have homosexual hair."
+action,,(Monica and Ross enter.)
+dialogue,Rachel,"So, um, did she..."
+dialogue,Ross,Twice.
+dialogue,Joey,Twice?
+dialogue,Phoebe,"Oh, that sucks!"
+dialogue,Joey,You guys okay?
+dialogue,Ross,"I dunno, it's weird. I mean, I know she's gone, but I just don't feel, uh..."
+dialogue,Phoebe,Maybe that's 'cause she's not really gone.
+dialogue,Ross,"Nono, she's gone."
+dialogue,Monica,We checked. A lot.
+dialogue,Phoebe,"Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, y'know? (She circles her hand around her right shoulder. Chandler, sitting on her right, draws back nervously) Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know? ...I miss her."
+dialogue,Rachel,"Aw. Hey, Pheebs, want this? (Gives her a pencil)"
+dialogue,Phoebe,Thanks!
+dialogue,Rachel,Sure. I just sharpened her this morning.
+dialogue,Joey,"Now, see, I don't believe any of that. I think once you're dead, you're dead! You're gone! You're worm food! (realises his tactlessness) ...So Chandler looks gay, huh?"
+dialogue,Phoebe,"Y'know, I dunno who this is, but it's not Debbie. (Hands back the pencil)"
+heading,,"[Scene: Nana's house, Ross, Mrs. Geller and Aunt Lillian are going through clothes.]"
+dialogue,Ross,I thought it was gonna be a closed casket.
+dialogue,Mrs. Geller,"Well, that doesn't mean she can't look nice!"
+action,,"(They open a cupboard which, amongst other things, contains a chest of drawers)"
+dialogue,Mrs. Geller,"Sweetie, you think you can get in there?"
+dialogue,Ross,(sarcastic) I don't see why not.
+action,,(He tries pushing against the chest of drawers. Then he opens one of the drawers and climbs into the closet using that; he falls behind the chest of drawers with a shout.)
+dialogue,Ross,Here's my retainer!
+heading,,"[Scene: Monica and Rachel's, Monica is talking to her father.]"
+dialogue,Mr. Geller,I was just thinking. When my time comes-
+dialogue,Monica,Dad!
+dialogue,Mr. Geller,"Listen to me! When my time comes, I wanna be buried at sea."
+dialogue,Monica,You what?
+dialogue,Mr. Geller,"I wanna be buried at sea, it looks like fun."
+dialogue,Monica,Define fun.
+dialogue,Mr. Geller,"C'mon, you'll make a day of it! You'll rent a boat, pack a lunch..."
+dialogue,Monica,"...And then we throw your body in the water... Gee, that does sound fun."
+dialogue,Mr. Geller,"Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'."
+dialogue,Monica,That's probably what they'll say.
+dialogue,Mr. Geller,I'd like that.
+heading,,"[Scene: Chandler's Office, Shelley is drinking coffee; Chandler enters.]"
+dialogue,Chandler,"Hey, gorgeous."
+dialogue,Shelley,"(sheepish) Hey. Look, I'm sorry about yesterday, I, um-"
+dialogue,Chandler,"No, nono, don't- don't worry about it. Believe me, apparently other people have made the same mistake."
+dialogue,Shelley,Oh! Okay! Phew!
+dialogue,Chandler,"So, uh... what do you think it is about me?"
+dialogue,Shelley,"I dunno, uh... you just have a-a..."
+dialogue,Chandler,"...Quality, right, great."
+dialogue,Shelley,"Y'know, it's a shame, because you and Lowell would've made a great couple."
+dialogue,Chandler,"Lowell? Financial Services' Lowell, that's who you saw me with?"
+dialogue,Shelley,What? He's cute!
+dialogue,Chandler,"Well, yeah... 's'no Brian in Payroll."
+dialogue,Shelley,Is Brian...?
+dialogue,Chandler,"No! Uh, I d'know! The point is, if you were gonna set me up with someone, I'd like to think you'd set me up with someone like him."
+dialogue,Shelley,"Well, I think Brian's a little out of your league."
+dialogue,Chandler,Excuse me? You don't think I could get a Brian? Because I could get a Brian. Believe you me. ...I'm really not.
+heading,,"[Scene: Nana's Bedroom, Ross is holding a dress out from inside the closet.]"
+dialogue,Ross,(holding a dress out from inside the closet) This one?
+dialogue,Aunt Lillian,No.
+dialogue,Ross,"I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy."
+dialogue,Aunt Lillian,"You know, whatever we pick, she would've told us it's the wrong one."
+dialogue,Mrs. Geller,You're right. We'll go with the burgundy.
+dialogue,Ross,Oh! A fine choice. I'm coming out. (Starts to climb over the furniture)
+dialogue,Aunt Lillian,Wait! We need shoes!
+action,,(Ross falls back inside)
+dialogue,Ross,"Okay. Um, how about these? (Holds out a pair)"
+dialogue,Mrs. Geller,That's really a day shoe.
+dialogue,Ross,And where she's going everyone else'll be dressier?
+dialogue,Aunt Lillian,Could we see something in a slimmer heel?
+dialogue,Ross,"(forages around) Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work."
+dialogue,Aunt Lillian,"No, it really should be burgundy."
+dialogue,Mrs. Geller,Mm. Unless we go with a different dress?
+dialogue,Ross,"No! Nonono, wait a sec. I may have something in the back."
+action,,"(He finds a shoebox (out of shot), pulls it down and opens it. It is full of Sweet 'n' Lo 's.)"
+dialogue,Ross,Oh my God..
+dialogue,Mrs. Geller,"Is everything all right, dear?"
+dialogue,Ross,"Yeah, just... just Nana stuff."
+action,,(He reaches up higher and knocks down another shoebox lid. Sweet 'n' Lo 's rain down on him)
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, Monica and Rachel are preparing to leave for the funeral.]"
+dialogue,Ross,"(entering) How we doing, you guys ready?"
+dialogue,Monica,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?
+dialogue,Ross,Some days it's all I can think about.
+dialogue,Phoebe,"(entering) Hi, sorry I'm late, I couldn't find my bearings."
+dialogue,Rachel,"Oh, you-you mean your earrings?"
+dialogue,Phoebe,What'd I say?
+dialogue,Rachel,(sticking her foot out) Hm-m.
+dialogue,Monica,Are these the shoes?
+dialogue,Rachel,Yes. Paolo sent them from Italy.
+dialogue,Ross,"What, we-uh- we don't have shoes here, or...?"
+dialogue,Joey,(entering with Chandler) Morning. We ready to go?
+dialogue,Chandler,"Well, don't we look nice all dressed up?...It's stuff like that, isn't it?"
+action,,(They all leave.)
+heading,,"[Scene: The cemetary, after the funeral.]"
+dialogue,Monica,It was a really beautiful service.
+dialogue,Mrs. Geller,"It really was. Oh, c'mere, sweetheart. (Hugs her) Y'know, I think it might be time for you to start using night cream."
+action,,"(Joey listens to his overcoat for a second and sighs, then notices Chandler watching)"
+dialogue,Joey,What?
+dialogue,Chandler,"Nothing, just your overcoat sounds remarkably like Brent Mussberger."
+dialogue,Joey,"Check it out, Giants-Cowboys. (He has a pocket TV)"
+dialogue,Chandler,You're watching a football game at a funeral?
+dialogue,Joey,"No, it's the pre-game. I'm gonna watch it at the reception."
+dialogue,Chandler,"You are a frightening, frightening man."
+action,,(Rachel steps in a patch of mud)
+dialogue,Rachel,Oh no! My new Paolo shoes!
+dialogue,Ross,"Oh, I hope they're not ruined."
+dialogue,Phoebe,"God, what a great day. ...What? Weather-wise!"
+dialogue,Ross,"I know, uh, the air, the-the trees... even though Nana's gone there's, there's something almost, uh- I dunno, almost life-aff- (Not looking where he is going he falls into an open grave)"
+dialogue,All,God! Ross!
+dialogue,Ross,I'm fine. Just-just... having my worst fear realised...
+heading,,"[Scene: The Wake, at the Gellers' house. Ross is lying on his back, with Phoebe squatting over him, checking to see if he's injured.]"
+dialogue,Phoebe,"Okay, don't worry, I'm just checking to see if the muscle's in spasm...huh."
+dialogue,Ross,"What, what is it?"
+dialogue,Phoebe,You missed a belt loop.
+dialogue,Ross,Oh! No-n-
+dialogue,Phoebe,"Okay, it's in spasm."
+dialogue,Mrs. Geller,"Here, sweetie, here. I took these when I had my golfing accident. (Hands Ross a bottle of pills. Then turns to Monica and pats her hair over her ears)"
+action,,"(Cut to Chandler and a woman, Andrea, reaching for the same slice of meat)"
+dialogue,Chandler,"Oh, no-"
+dialogue,Andrea,"Sorry- Hi, I'm Dorothy's daughter."
+dialogue,Chandler,"Hi, I'm Chandler, and I have no idea who Dorothy is."
+action,,"(They shake hands. Cut to Ross emerging from a hallway, grinning inanely. He is obviously very stoned)"
+dialogue,Phoebe,"Hey, look who's up! How do you feel?"
+dialogue,Ross,"I feel great. I feel- great, I fleel great."
+dialogue,Monica,"Wow, those pills really worked, huh?"
+dialogue,Ross,"Not the first two, but the second two- woooo! ...I love you guys. You guys are the greatest. I love my sister (Kisses Monica), I love Pheebs... (Hugs her)"
+dialogue,Phoebe,Ooh! That's so nice...
+dialogue,Ross,...Chandler!
+dialogue,Chandler,Hey.
+dialogue,Ross,"(hugs him) And listen, man, if you wanna be gay, be gay. Doesn't matter to me."
+dialogue,Andrea,(turns to a friend) You were right. (They walk off and leave Chandler.)
+dialogue,Ross,Rachel. Rachel Rachel. (Sits down beside her) I love you the most.
+dialogue,Rachel,"(humouring him) Oh, well you know who I love the most?"
+dialogue,Ross,No.
+dialogue,Rachel,You!
+dialogue,Ross,Oh.. you don't get it! (Passes out and slumps across her)
+action,,(Cut to Joey watching TV in the corner. He makes an extravagant gesture of disappointment.)
+dialogue,Mr. Geller,Whaddya got there?
+dialogue,Joey,"(hides the TV, but he still has an earphone) Just a, uh... hearing disability."
+dialogue,Mr. Geller,What's the score?
+dialogue,Joey,Seventeen-fourteen Giants... three minutes to go in the third.
+dialogue,Mr. Geller,Beautiful! (Turns to watch with him)
+action,,(Time lapse. A large crowd of men are now watching the game)
+dialogue,Rachel,"(still trapped under Ross) Pheebs, could you maybe hand me a cracker?"
+dialogue,Mrs. Geller,(to Monica) Your grandmother would have hated this.
+dialogue,Monica,"Well, sure, what with it being her funeral and all."
+dialogue,Mrs. Geller,"No, I'd be hearing about 'Why didn't I get the honey-glazed ham?', I didn't spend enough on flowers, and if I spent more she'd be saying 'Why are you wasting your money? I don't need flowers, I'm dead'."
+dialogue,Monica,That sounds like Nana.
+dialogue,Mrs. Geller,Do you know what it's like to grow up with someone who is critical of every single thing you say?
+dialogue,Monica,...I can imagine.
+dialogue,Mrs. Geller,"I'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is."
+dialogue,Monica,"That is a wonder. So tell me something, Mom. If you had to do it all over again, I mean, if she was here right now, would you tell her?"
+dialogue,Mrs. Geller,Tell her what?
+dialogue,Monica,"How she drove you crazy, picking on every little detail, like your hair... for example."
+dialogue,Mrs. Geller,I'm not sure I know what you're getting at.
+dialogue,Monica,Do you think things would have been better if you'd just told her the truth?
+dialogue,Mrs. Geller,...No. I think some things are better left unsaid. I think it's nicer when people just get along.
+dialogue,Monica,Huh.
+dialogue,Mrs. Geller,"More wine, dear?"
+dialogue,Monica,"Oh, I think so."
+dialogue,Mrs. Geller,"(reaches out to fiddle with Monica's hair again, and realises) Those earrings look really lovely on you."
+dialogue,Monica,Thank you. They're yours.
+dialogue,Mrs. Geller,Actually they were Nana's.
+action,,(There is a cry of disappointment from the crowd of men.)
+dialogue,Mr. Geller,Now I'm depressed! ...(To everyone) Even more than I was.
+heading,,"[Scene: Central Perk, the gang are looking at old photos.]"
+dialogue,Rachel,"Hey, who's this little naked guy?"
+dialogue,Ross,That little naked guy would be me.
+dialogue,Rachel,"Aww, look at the little thing."
+dialogue,Ross,"Yes, yes, fine, that is my penis. Can we be grown-ups now?"
+dialogue,Chandler,Who are those people?
+dialogue,Ross,Got me.
+dialogue,Monica,"Oh, that's Nana, right there in the middle. (Reads the back) 'Me and the gang at Java Joe's'."
+dialogue,Rachel,"Wow, Monica, you look just like your grandmother. How old was she there?"
+dialogue,Monica,"Let's see, 1939... yeah, 24, 25?"
+dialogue,Ross,Looks like a fun gang. (They all look at each other and smile)
+dialogue,Joey,"Ooh, look-look-look-look-look! I got Monica naked!"
+dialogue,Ross,"(looking) Nono, that would be me again. I'm, uh, just trying something."
+action,,Closing Credits
+heading,,"[Scene: Chandler's Office, Chandler is on a coffee break as Lowell enters.]"
+dialogue,Chandler,"Hey, Lowell."
+dialogue,Lowell,"Hey, Chandler."
+dialogue,Chandler,So how's it going there in Financial Services?
+dialogue,Lowell,It's like Mardi Gras without the paper mache heads. How 'bout you?
+dialogue,Chandler,"Good, good. Listen, heh, I dunno what Shelley told you about me, but, uh... I'm not."
+dialogue,Lowell,I know. That's what I told her.
+dialogue,Chandler,Really.
+dialogue,Lowell,Yeah.
+dialogue,Chandler,So- you can tell?
+dialogue,Lowell,"Pretty much, most of the time. We have a kind of... radar."
+dialogue,Chandler,"So you don't think I have a, a quality?"
+dialogue,Lowell,"Speaking for my people, I'd have to say no. By the way, your friend Brian from Payroll, he is."
+dialogue,Chandler,He is ?
+dialogue,Lowell,"Yup, and waaay out of your league. (Exits)"
+dialogue,Chandler,"Out of my league. I could get a Brian. (Brian enters behind him) If I wanted to get a Brian, I could get a Brian. (Sees him) Hey, Brian."
+action,,End

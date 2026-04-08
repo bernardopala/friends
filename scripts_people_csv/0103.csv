@@ -1,0 +1,305 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, everyone but Phoebe is there.]"
+dialogue,Phoebe,(entering) Hi guys!
+dialogue,All,"Hey, Pheebs! Hi!"
+dialogue,Ross,"Hey. Oh, oh, how'd it go?"
+dialogue,Phoebe,"Um, not so good. He walked me to the subway and said 'We should do this again!'"
+dialogue,All,Ohh. Ouch.
+dialogue,Rachel,"What? He said 'we should do it again', that's good, right?"
+dialogue,Monica,"Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'."
+dialogue,Rachel,Since when?
+dialogue,Joey,"Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'."
+dialogue,Chandler,Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.
+dialogue,Phoebe,"Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'."
+dialogue,Rachel,And everybody knows this?
+dialogue,Joey,Yeah. Cushions the blow.
+dialogue,Chandler,"Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm."
+dialogue,Ross,"That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm."
+dialogue,Monica,"Uh, Ross."
+dialogue,Ross,"What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!"
+action,,Opening Credits
+heading,,"[Scene: Chandler and Joey's, Chandler is helping Joey rehearse for a part.]"
+dialogue,Chandler,"""So how does it feel knowing you're about to die?"""
+dialogue,Joey,"""Warden, in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die."""
+dialogue,Chandler,"Hey, that was really good!"
+dialogue,Joey,Thanks! Let's keep going.
+dialogue,Chandler,"Okay. ""So. Whaddya want from me, Damone, huh?"""
+dialogue,Joey,"""I just wanna go back to my cell. 'Cause in my cell, I can smoke."""
+dialogue,Chandler,"""Smoke away."""
+action,,"(Joey takes out a pack of cigarettes and a lighter. He fumbles and drops the lighter. Then he lights a cigarett, takes a drag, and coughs.)"
+dialogue,Chandler,I think this is probably why Damone smokes in his cell alone.
+dialogue,Joey,What?
+dialogue,Chandler,Relax your hand!
+action,,(Joey lets his wrist go limp.)
+dialogue,Chandler,Not so much!
+dialogue,Joey,Whoah!
+dialogue,Chandler,Hey!
+dialogue,Joey,Hey!
+dialogue,Chandler,"Alright, now try taking a puff."
+action,,(Joey tries and visibly winces.)
+dialogue,Chandler,Alright.. okay. No. Give it to me.
+dialogue,Joey,"No no no, I am not giving you a cigarette."
+dialogue,Chandler,"It's fine, it's fine. Look, do you wanna get this part, or not? Here."
+action,,(Joey reluctantly gives him the cigarette.)
+dialogue,Chandler,"Don't think of it as a cigarette. Think of it as the thing that's been missing from your hand. When you're holding it, you feel right. You feel complete."
+dialogue,Joey,Y'miss it?
+dialogue,Chandler,"Nah, not so much. Alright, now we smoke. (Takes a puff.) Oh.. my.. God. (He continues to smoke.)"
+heading,,"[Scene, Central Perk, everyone except Phoebe and Rachel is there.]"
+dialogue,Monica,"No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger."
+action,,(The guys stretch out their fingers.)
+dialogue,Joey,That's ridiculous!
+dialogue,Ross,Can I use.. either thumb?
+dialogue,Rachel,"(carrying a tray of drinks) Alright, don't tell me, don't tell me! (Starts handing them out.) Decaf cappucino for Joey.. Coffee black.. Late.. And an iced tea. I'm getting pretty good at this!"
+dialogue,All,"Yeah. Yeah, excellent."
+dialogue,Rachel,(leaving to serve others) Good for me!
+action,,(The gang swaps all the drinks for what they ordered as Phoebe enters. She sits down without saying hi.)
+dialogue,Joey,"Y'okay, Phoebe?"
+dialogue,Phoebe,"Yeah- no- I'm just- it's, I haven't worked- It's my bank."
+dialogue,Monica,What did they do to you?
+dialogue,Phoebe,"It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-"
+dialogue,Ross,Easy.
+dialogue,Phoebe,- and there's five hundred extra dollars in my account.
+dialogue,Chandler,"Oh, Satan's minions at work again..."
+dialogue,Phoebe,"Yes, 'cause now I have to go down there, and deal with them."
+dialogue,Joey,What are you talking about? Keep it!
+dialogue,Phoebe,"It's not mine, I didn't earn it, if I kept it, it would be like stealing."
+dialogue,Rachel,"Yeah, but if you spent it, it would be like shopping!"
+dialogue,Phoebe,"Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'..."
+dialogue,Monica,We're with you. We got it.
+action,,(Chandler leans over the back of the couch out of sight.)
+dialogue,Phoebe,Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt.
+dialogue,Rachel,"Chandler, what are you doing?"
+dialogue,Monica,(puling him up) Hey. Whaddya doing?
+action,,(Chandler tries to shrug nonchalantly but eventually he has to exhale a mouthful of smoke.)
+dialogue,All,"Oh! Oh, God!"
+dialogue,Ross,What is this?!
+dialogue,Chandler,"I'm smoking. I'm smoking, I'm smoking."
+dialogue,Phoebe,"Oh, I can't believe you! You've been so good, for three years!"
+dialogue,Chandler,And this- is my reward!
+dialogue,Ross,"Hold on a second, alright? Just think about what you went through the last time you quit."
+dialogue,Chandler,"Okay, so this time I won't quit!"
+dialogue,All,Ohhh! Put it out!
+dialogue,Chandler,"All right! I'm putting it out, I'm putting it out. (He drops it in Phoebe's coffee.)"
+dialogue,Phoebe,"Oh, no! I- I can't drink this now!"
+dialogue,Monica,"Alright. I'm gonna go change, I've got a date."
+dialogue,Rachel,This Alan again? How's it goin'?
+dialogue,Monica,"'S'going pretty good, y'know? It's nice, and, we're having fun."
+dialogue,Joey,So when do we get to meet the guy?
+dialogue,Monica,"Let's see, today's Monday... Never."
+dialogue,All,"Oh, come on! Come on!"
+dialogue,Monica,No. Not after what happened with Steve.
+dialogue,Chandler,What are you talking about? We love Schhteve! Schhteve was schhexy!.. Sorry.
+dialogue,Monica,"Look, I don't even know how I feel about him yet. Just give me a chance to figure that out."
+dialogue,Rachel,"Well, then can we meet him?"
+dialogue,Monica,Nope. Schhorry.
+heading,,"[Scene: Iridium, Monica and Paula are at work.]"
+dialogue,Monica,"I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd."
+dialogue,Paula,"Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you."
+dialogue,Monica,"I know. I just wish that once, I'd bring a guy home that they actually liked."
+dialogue,Paula,"Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy.."
+heading,,"[Scene: Monica and Rachel's, Chandler is smoking out on the balcony, Phoebe is absent.]"
+dialogue,Joey,"Let it go, Ross."
+dialogue,Ross,"Yeah, well, you didn't know Chi Chi."
+dialogue,Monica,Do you all promise?
+dialogue,All,Yeah! We promise! We'll be good!
+dialogue,Monica,(shouts to Chandler) Chandler? Do you promise to be good?
+action,,(Chandler makes a 'Cross my heart' sign. It starts to rain and he taps on the window.)
+dialogue,Joey,"You can come in, but your filter-tipped little buddy has to stay outside!"
+action,,(Chandler sulkilty picks up a garbage can lid and uses it as an umbrella.)
+action,,"(Phoebe enters, walks to the couch, sits down, and begins to read a letter without saying hi.)"
+dialogue,Ross,"Hey, Pheebs."
+dialogue,Phoebe,"'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- (Searches in her purse) - football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!"
+dialogue,Rachel,What bank is this?
+action,,(The intercom buzzes.)
+dialogue,Monica,Hey. It's him. (On the intercom) Who is it?
+dialogue,Alan,(on the intercom) It's Alan.
+dialogue,Joey,(shouting to Chandler) Chandler! He's here!
+action,,"(Chandler comes in, dripping wet.)"
+dialogue,Monica,"(to all) Okay, please be good, please . Just remember how much you all like me."
+action,,(She opens the door and Alan enters.)
+dialogue,Monica,"Hi. Alan, this is everybody. Everybody, this is Alan."
+dialogue,Alan,Hi.
+dialogue,All,"Hi, Alan."
+dialogue,Alan,I've heard schho much about all you guyschh!
+action,,(Everyone laughs.)
+action,,"[Time lapse, Alan is leaving.]"
+dialogue,Monica,"(to Alan) Thanks. I'll call you tomorrow. (Alan exits, to all) Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?"
+action,,(Silence.)
+dialogue,Monica,C'mon!
+dialogue,Ross,"...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him."
+dialogue,All,Loved him! Yeah! He's great!
+dialogue,Monica,Wait a minute! We're talking about someone that I'm going out with?
+dialogue,All,Yeah!
+dialogue,Rachel,And did you notice...? (She spreads her thumb and index finger.)
+dialogue,The Guys,(reluctantly) Yeah.
+dialogue,Joey,Know what was great? The way his smile was kinda crooked.
+dialogue,Phoebe,"Yes, yes! Like the man in the shoe!"
+dialogue,Ross,...What shoe?
+dialogue,Phoebe,"From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'"
+action,,(Dubious pause.)
+dialogue,Ross,...So I think Alan will become the yardstick against which all future boyfriends will be measured.
+dialogue,Rachel,"What future boyfriends? Nono, I th- I think this could be, y'know, it."
+dialogue,Monica,Really!
+dialogue,Chandler,"Oh, yeah. I'd marry him just for his David Hasselhof impression alone. You know I'm gonna be doing that at parties, right? (Does the impression)"
+dialogue,Ross,"You know what I like most about him, though?"
+dialogue,All,What?
+dialogue,Ross,The way he makes me feel about myself.
+dialogue,All,Yeah...
+action,,Commercial Break
+heading,,"[Scene: Central Perk, Monica is alone as Ross, Rachel, Chandler, and Joey enter dejectedly in softball gear.]"
+dialogue,Monica,Hi.. how was the game?
+dialogue,Ross,Well..
+dialogue,All,WE WON!! Thank you! Yes!
+dialogue,Monica,Fantastic! I have one question: How is that possible?
+dialogue,Joey,Alan.
+dialogue,Ross,"He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-..."
+dialogue,Rachel,"I mean, it-it was like, it was like he made us into a team."
+dialogue,Chandler,"Yep, we sure showed those Hassidic jewellers a thing or two about softball.."
+dialogue,Monica,Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..
+dialogue,Ross,What?
+dialogue,Monica,"..I dunno, a little too Alan?"
+dialogue,Rachel,"Well, no. That's impossible. You can never be too Alan."
+dialogue,Ross,"Yeah, it's his, uh, innate Alan-ness that-that-that we adore."
+dialogue,Chandler,I personally could have a gallon of Alan.
+heading,,"[Scene: A street, Phoebe walks up to a homeless person (Lizzie) she knows.]"
+dialogue,Phoebe,"Hey, Lizzie."
+dialogue,Lizzie,"Hey, Weird Girl."
+dialogue,Phoebe,I brought you alphabet soup.
+dialogue,Lizzie,Did you pick out the vowels?
+dialogue,Phoebe,"Yes. But I left in the Ys. 'Cause, y'know, ""sometimes y"". Uh, I also have something else for you. (She searches in her purse.)"
+dialogue,Lizzie,Saltines?
+dialogue,Phoebe,"No, but would you like a thousand dollars and a football phone?"
+dialogue,Lizzie,"What? (She opens the envelope Phoebe has given her.) Oh my God, there's really money in here."
+dialogue,Phoebe,I know.
+dialogue,Lizzie,"Weird Girl, what are you doing?"
+dialogue,Phoebe,"No, I want you to have it. I don't want it."
+dialogue,Lizzie,"No, no, I ha-I have to give you something."
+dialogue,Phoebe,"Oh, that's fine, no."
+dialogue,Lizzie,Would you like my tin-foil hat?
+dialogue,Phoebe,"No. 'Cause you need that. No, it's okay, thanks."
+dialogue,Lizzie,"Please, let me do something."
+dialogue,Phoebe,"Okay, alright, you buy me a soda, and then we're even. Okay?"
+dialogue,Lizzie,Okay.
+dialogue,Phoebe,Okay.
+heading,,"[Scene: Chandler's office, Chandler looks around, opens his desk drawer, takes a puff of a cigarette, sprays around some air freshener, and takes some breath spray. He types for a little while, opens the drawer again, and takes another drag of the cigarette. While not paying attention, he sprays the breath spray around the room, takes a squirt of air freshener and gags.]"
+heading,,"[Scene: A Street, Phoebe and Lizzie are at a hot dog vendor.]"
+dialogue,Lizzie,Keep the change. (To Phoebe) Sure you don't wanna pretzel?
+dialogue,Phoebe,"No, I'm fine."
+dialogue,Lizzie,(leaves) See ya.
+action,,(Phoebe opens the can and reacts.)
+dialogue,Phoebe,Huh!
+heading,,"[Scene: Central Perk, Phoebe is telling everyone about her discovery.]"
+dialogue,Ross,A thumb ?!
+action,,(Phoebe nods.)
+dialogue,All,Eww!
+dialogue,Phoebe,"I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!"
+dialogue,Chandler,"Well, maybe it's a contest, y'know? Like, collect all five?"
+dialogue,Phoebe,"Does, um, anyone wanna see?"
+dialogue,All,Nooo!
+action,,(Chandler lights a cigarette.)
+dialogue,All,"Oh, hey, don't do that! Cut it out!"
+dialogue,Rachel,It's worse than the thumb!
+dialogue,Chandler,"Hey, this is so unfair!"
+dialogue,Monica,"Oh, why is it unfair?"
+dialogue,Chandler,"So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?"
+action,,(An awkward silence ensues.)
+dialogue,Joey,...Does the knuckle-cracking bother everybody?
+dialogue,Rachel,"Well, I-I could live without it."
+dialogue,Joey,"Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?"
+action,,(Phoebe spits out her hair.)
+dialogue,Ross,"Oh, now, don't listen to him, Pheebs, I think it's endearing."
+dialogue,Joey,"Oh, (Imitating Ross) ""you do, do you""?"
+action,,(Monica laughs and snorts.)
+dialogue,Ross,"You know, there's nothing wrong with speaking correctly."
+dialogue,Rachel,"""Indeed there isn't""... I should really get back to work."
+dialogue,Phoebe,"Yeah, 'cause otherwise someone might get what they actually ordered."
+dialogue,Rachel,"Ohh-ho-hooohhh. The hair comes out, and the gloves come on."
+action,,"(They degenerate into bickering and Chandler happily starts to smoke, undisturbed.)"
+heading,,"[Scene: Iridium, Monica and Paula are working.]"
+dialogue,Monica,Did you ever go out with a guy your friends all really like?
+dialogue,Paula,No.
+dialogue,Monica,"Okay.. Well, I'm going out with a guy my friends all really like."
+dialogue,Paula,"Waitwait.. we talking about the coyotes here? All right, a cow got through!"
+dialogue,Monica,"Can you believe it? ...Y'know what? I just don't feel the thing . I mean, they feel the thing, I don't feel the thing."
+dialogue,Paula,"Honey.. you should always feel the thing . Listen, if that's how you feel about the guy, Monica, dump him!"
+dialogue,Monica,I know.. it's gonna be really hard.
+dialogue,Paula,"Well, he's a big boy, he'll get over it."
+dialogue,Monica,"No, he'll be fine. It's the other five I'm worried about."
+heading,,"[Scene: Cental Perk, Joey and Ross are persecuting Chandler about his smoking.]"
+dialogue,Joey,Do you have any respect for your body?
+dialogue,Ross,Don't you realise what you're-you're doing to yourself?
+dialogue,Chandler,"Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it."
+dialogue,Rachel,"(holding the phone out to Chandler) Chandler? It's Alan, he wants to speak to you."
+dialogue,Chandler,"Really? He does? (taking the phone) Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks! (He hands the phone back and stubs out his cigarette.)"
+dialogue,Rachel,"(to Ross, who has wandered up) God, he's good."
+dialogue,Ross,If only he were a woman.
+dialogue,Rachel,Yeah.
+action,,(They give each other a dubious look.)
+heading,,"[Scene: Monica and Rachel's, everyond except Monica and Joey is watching Lambchop.]"
+dialogue,Chandler,"Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too."
+dialogue,Ross,Okay. I think it's time to change somebody's nicotine patch. (Does so.)
+dialogue,Monica,(entering) Hey. Where's Joey?
+dialogue,Chandler,"Joey ate my last stick of gum, so I killed him. Do you think that was wrong?"
+dialogue,Rachel,I think he's across the hall.
+dialogue,Monica,Thanks. (Goes to fetch him.)
+dialogue,Ross,(finishing changing Chandler's nicotine patch) There y'go.
+dialogue,Chandler,"(deadpan) Ooh, I'm alive with pleasure now."
+dialogue,Ross,"Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?"
+dialogue,Phoebe,Does anyone want the rest of this Pop-Tart?
+dialogue,Ross,"Hey, I might!"
+dialogue,Phoebe,"Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb."
+dialogue,All,You're kidding. Oh my God.
+dialogue,Phoebe,"And on my way over here, I stepped in gum. ...What is up with the universe?!"
+dialogue,Joey,"(dragged in by Monica, he has just gotten out of the shower) What's going on?"
+dialogue,Monica,Nothing. I just think it's nice when we're all here together.
+dialogue,Joey,Even nicer when everyone gets to wear their underwear..
+dialogue,Rachel,"Uh, Joey.."
+dialogue,Joey,"Oh, God! (Hurriedly closes his legs.)"
+dialogue,Monica,(turns off the TV) Okay..
+dialogue,All,Oh! That was Lambchop!
+dialogue,Monica,"Please, guys, we have to talk."
+dialogue,Phoebe,"Wait, wait, I'm getting a deja vu ...no, I'm not."
+dialogue,Monica,"Alright, we have to talk."
+dialogue,Phoebe,There it is!
+dialogue,Monica,"Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan."
+action,,(They all gasp and clutch each other.)
+dialogue,Ross,Is there somebody else?
+dialogue,Monica,"No, nononono.. it's just.. things change. People change."
+dialogue,Rachel,We didn't change..
+dialogue,Joey,So that's it? It's over? Just like that?
+dialogue,Phoebe,"You know.. you let your guard down, you start to really care about someone, and I just- I- (starts chewing her hair)"
+dialogue,Monica,"Look, I- I could go on pretending-"
+dialogue,Joey,Okay!
+dialogue,Monica,"-but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!"
+dialogue,Ross,"Who-who wants fair? Y'know, I just want things back. Y'know, the way they were."
+dialogue,Monica,I'm sorry..
+dialogue,Chandler,"(sarcastic) Oh, she's sorry! I feel better!"
+dialogue,Rachel,"(tearful) I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-"
+dialogue,Monica,I'll meet somone else. There'll be other Alans.
+dialogue,All,"Oh, yeah! Right!"
+dialogue,Monica,Are you guys gonna be okay?
+dialogue,Ross,"Hey hey, we'll be fine. We're just gonna need a little time."
+dialogue,Monica,(dubious) I understand.
+heading,,"[Scene: A Restaurant, Monica is breaking the news to Alan.]"
+dialogue,Alan,Wow.
+dialogue,Monica,"I'm, I'm really sorry."
+dialogue,Alan,"Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved."
+dialogue,Monica,Relieved?
+dialogue,Alan,"Yeah, well, I had a great time with you.. I just can't stand your friends."
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's, everyone is mopping around and eating ice cream.]"
+dialogue,Rachel,Remember when we went to Central Park and rented boats?.. That was fun.
+dialogue,Ross,Yeah. He could row like a viking.
+dialogue,Monica,(entering) Hi.
+dialogue,All,Mmm.
+dialogue,Ross,So how'd it go?
+dialogue,Monica,"Oh, y'know.."
+dialogue,Phoebe,Did he mention us?
+dialogue,Monica,He said he's really gonna miss you guys. (dubious look)
+dialogue,Ross,"You had a rough day, huh.. c'mere. (She sits down and Ross strokes her forehead.)"
+dialogue,Chandler,...That's it. I'm getting cigarettes.
+dialogue,All,No no no!
+dialogue,Chandler,"(leaving) I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!"
+dialogue,Phoebe,(shouting as he leaves) If you never smoke again I'll give you seven thousand dollars!
+dialogue,Chandler,"(returns) Yeah, alright."
+action,,End

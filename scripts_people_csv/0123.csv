@@ -1,0 +1,333 @@
+script_element,character,text
+heading,,"[Scene: The hospital, Ross, Rachel, Chandler, Joey, and Monica are in the waiting room, waiting for Carol and Susan to arrive.]"
+dialogue,Ross,She's not here yet. She's not here. She's having my baby and she's not here.
+dialogue,Monica,I'm sure everything's fine. Has her water broke yet?
+dialogue,Ross,"I don't know, but when I spoke to her, she said she had already passed the mucus plug."
+action,,(Joey makes a sound of absolute disgust.)
+dialogue,Joey,Do we have to know about that?
+dialogue,Monica,"Joey, what are you gonna do when you have a baby?"
+dialogue,Joey,"I'm gonna be in the waitin' room, handing out cigars."
+dialogue,Chandler,"Yes, Joey's made arrangements to have his baby in a movie from the 50's."
+dialogue,Ross,"God, I don't believe this. She could be giving birth in the cab."
+dialogue,Rachel,"Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction."
+action,,(Everyone looks at Rachel as though she made a tasteless comment.)
+dialogue,Rachel,"What, it's ok when Chandler does it?"
+dialogue,Chandler,You have to pick your moments.
+action,,"(Phoebe arrives, guitar in hand.)"
+dialogue,Phoebe,"Did I miss it, did I miss it?"
+dialogue,Ross,She's not even here yet.
+dialogue,Monica,What's with the guitar?
+dialogue,Phoebe,"I just thought we might be here for awhile. You know, things might get musical."
+action,,(Carol and Susan arrive.)
+dialogue,Ross,(to Carol) Where the hell have you been?
+dialogue,Susan,We stopped at the gift shop.
+dialogue,Carol,"I was looking at stuffed animals, and Susan wanted a Chunky ."
+dialogue,Ross,"Susan wanted a Chunky . We're having a baby, ok, a baby, you don't stop for Chunky s."
+dialogue,Chandler,I used to have that bumper sticker.
+action,,(Everyone is amused by Chandler's comment.)
+dialogue,Chandler,(to Rachel) You see what I mean.
+action,,Opening Credits
+heading,,"[Scene: Carol's Hospital Room, Carol is on the bed, Ross and Susan are at her side.]"
+dialogue,Ross,Stopped for a Chunky .
+dialogue,Carol,"Let it go, Ross."
+dialogue,Susan,I got an extra one. You want this? (holds the candy in front of Ross' face)
+dialogue,Ross,(weakly) No.
+action,,"(Carol's doctor, Dr. Franzblau arrives.)"
+dialogue,Dr. Franzblau,"Hey, how's my favorite parenting team doing?"
+dialogue,Ross,"Dr. Franzblau, hi."
+dialogue,Dr. Franzblau,"So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?"
+dialogue,Carol,"Oh, I love them. Each one's like a little party in my uterus."
+dialogue,Susan,They're every four minutes and last 55 seconds.
+dialogue,Ross,"59 seconds. (holds up his watch) Quartz, ha."
+dialogue,Susan,"Swiss quartz, ha, ha."
+dialogue,Carol,Am I allowed to drink anything?
+dialogue,Dr. Franzblau,"Ice chips, just ice chips. They're at the nurses' station."
+dialogue,Ross,I'll get it.
+dialogue,Susan,"No, I'm getting it. I'll be right back."
+dialogue,Ross,I got it—I'm getting it!
+action,,"(They both leave just as Rachel enters the room, holding a cup.)"
+dialogue,Rachel,"Hi, I thought you might like some ice chips."
+dialogue,Carol,Thanks.
+dialogue,Rachel,"And if you need anything else, I—(notices the handsome Dr. Franzblau)—do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate."
+dialogue,Dr. Franzblau,It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.
+dialogue,Rachel,"Oh, that's funny!"
+heading,,"[Scene: The Waiting Room, Chandler is falling asleep on Monica's shoulder.]"
+dialogue,Monica,I want a baby.
+dialogue,Chandler,"Mmmm. Not tonight, honey. I got an early day tomorrow."
+dialogue,Monica,Get up. Come on. Let's get some coffee.
+dialogue,Chandler,"Oh, ok, 'cause we never do that."
+action,,"(Chandler and Monica leave. Cut to Joey, watching the Knicks/Celtics game on television.)"
+dialogue,Joey,"(to the screen) Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too."
+action,,(A young pregnant woman enters.)
+dialogue,Lydia,Knick fan?
+dialogue,Joey,"Oh, yeah."
+dialogue,Lydia,"Oh, boy, do they suck."
+dialogue,Joey,"Hey, listen, lady....(sees that she's pregnant)...whoa."
+dialogue,Lydia,"Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat."
+dialogue,Joey,Oh yeah? And who do you like?
+dialogue,Lydia,The Celtics.
+dialogue,Joey,"The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?"
+dialogue,Lydia,"Oh, shut up. You know, it's a rebuilding year. You... waah!"
+dialogue,Joey,"Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!"
+dialogue,Lydia,There is no father.
+dialogue,Joey,"Oh, oh, oh, sorry."
+dialogue,Lydia,"Ok, that's ok. I'm fine. I'm... oh!"
+dialogue,Joey,"Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here."
+dialogue,Lydia,Ok.
+action,,(Joey accompanies Lydia to a hospital room.)
+heading,,"[Scene: The Waiting Room, Phoebe is playing a song. Chandler, Monica, and Ross are there as well.]"
+dialogue,Phoebe,(singing)
+singing,Phoebe,"They're tiny and chubby and so sweet to touch,"
+singing,Phoebe,and soon they'll grow up and resent you so much.
+singing,Phoebe,"Now they're yelling at you and you don't know why,"
+singing,Phoebe,you cry and you cry and you cry.
+singing,Phoebe,And you cry and you cry and you cry...
+action,,(Ross gives Phoebe a dollar.)
+dialogue,Phoebe,"Thanks, Ross."
+dialogue,Ross,Yeah. I'm paying you to stop.
+dialogue,Phoebe,Ok.
+action,,"(A woman passes by, carrying newborn twins.)"
+dialogue,Phoebe,"Oh, look, twins. Hi, guys. Oh, cute, cute."
+dialogue,Monica,No fair. I don't even have one. How come they get two?
+dialogue,Chandler,You'll get one.
+dialogue,Monica,Oh yeah? When?
+dialogue,Chandler,"All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?"
+dialogue,Monica,Why won't I be married when I'm 40?
+dialogue,Chandler,"Oh, no, no. I just meant hypothetically."
+dialogue,Monica,"Ok, hypothetically, why won't I be married when I'm 40?"
+dialogue,Chandler,"No, no, no."
+dialogue,Monica,What is it? Is there something fundamentally unmarriable about me?
+dialogue,Chandler,"(trapped) Uh, uh."
+dialogue,Monica,Well?
+dialogue,Chandler,Dear God! This parachute is a knapsack! (throws himself over the back of the chair he was sitting in)
+action,,"(Rachel enters, in a formal dress.)"
+dialogue,Rachel,Hey.
+dialogue,Phoebe,"Hey. Ooh, look at you, dressy-dress."
+dialogue,Monica,Did you go home and change?
+dialogue,Rachel,"Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?"
+dialogue,Monica,"No, I haven't seen him."
+dialogue,Rachel,"Well, where is he? He is supposed to be here. (Pause) What if the baby needs him?"
+dialogue,Chandler,"Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?"
+dialogue,Rachel,"Yeah, why?"
+dialogue,Chandler,"No reason. (turns around, makes an 'Oh my God' gesture with his eyes)"
+heading,,[Scene: Joey and Lydia in the hospital room. Lydia is on the phone with her mother.]
+dialogue,Lydia,"Mom, we've been through this. No, I'm not calling him. I don't care if it is his kid, the guy's a jerk. No, I'm not alone. Joey's here. (pause) What do you mean, Joey who? (covers the phone, to Joey) Joey who?"
+dialogue,Joey,Tribbiani.
+dialogue,Lydia,"Joey Tribbiani. Yes, ok. Hold on. (to Joey) She wants to talk to you. Take the phone."
+dialogue,Joey,"(takes phone) Hi, yeah, it's me. (Listens) Oh, no no no, we're just friends. (Listens) Yeah, I'm single. (Listens) 25. (Listens) An actor. (Listens) Hello?"
+dialogue,Lydia,She's not much of a phone person.
+dialogue,Joey,"Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?"
+dialogue,Lydia,"Hey, Knick fan, am I interested in your views on fatherhood? Uh, no."
+dialogue,Joey,"Ok, look, maybe I should just go."
+dialogue,Lydia,Maybe you should.
+dialogue,Joey,"Good luck, and uh, take care, huh?"
+action,,"(He leaves, but then returns a moment later.)"
+dialogue,Joey,You know what the Celtics problem is? They let the players run the team.
+dialogue,Lydia,"Oh, that is so not true."
+dialogue,Joey,"Oh, it is."
+dialogue,Lydia,It isn't.
+dialogue,Joey,It is.
+dialogue,Lydia,Isn't!
+heading,,"[Scene: Carol's Hospital Room, Ross and Susan are coaching Carol.]"
+dialogue,Ross,Breathe.
+dialogue,Susan,Breathe.
+dialogue,Ross,Breathe.
+dialogue,Susan,Breathe.
+dialogue,Ross,Breathe.
+dialogue,Susan,Breathe.
+dialogue,Carol,You're gonna kill me!
+dialogue,Ross,"15 more seconds, 14, 13, 12..."
+dialogue,Carol,Count faster.
+dialogue,Susan,"It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie."
+dialogue,Ross,Who the hell is Jordie?
+dialogue,Susan,Your son.
+dialogue,Ross,"No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie."
+dialogue,Carol,"Well, Jamie was the name of Susan's first girlfriend, so we went back to Jordie."
+dialogue,Ross,"What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco."
+dialogue,Carol,"Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp."
+dialogue,Ross,I got it.
+dialogue,Susan,I got it.
+dialogue,Ross,"I got it! Hey, you get to sleep with her, I get the cramps."
+dialogue,Susan,"No, you don't."
+dialogue,Carol,"All right, that's it. I want both of you out."
+dialogue,Ross,Why?
+dialogue,Susan,He started it!
+dialogue,Ross,"No, you started it."
+dialogue,Susan,You did!
+dialogue,Carol,"I don't care. I am trying to get a person out of my body here, and you're not making it any easier."
+dialogue,Ross,But...
+dialogue,Carol,Now go!
+dialogue,Ross,(to Susan) Thanks a lot.
+dialogue,Susan,(to Ross) See what you did.
+dialogue,Ross,"(to Carol) Yeah, listen..."
+dialogue,Carol,Out !
+action,,(Ross and Susan both angrily leave the hopsital room.)
+heading,,"[Scene: Lydia's Hospital Room, Joey is helping Lydia go through labor, a nurse is now present in her room as well.]"
+dialogue,Nurse,"Breathe, breathe, breathe..."
+dialogue,Lydia,"Oh, no."
+action,,(Joey looks down at Lydia.)
+dialogue,Joey,Ew! What is that? Something exploded!
+dialogue,Nurse,"It's just her water breaking. Calm down, will you?"
+dialogue,Joey,"(panicked) Water breaking, what do you mean? What's that, water breaking?"
+dialogue,Nurse,"(to Joey) Breathe, breathe, breathe."
+heading,,"[Scene: The Hall, Ross and Susan are arguing.]"
+dialogue,Ross,Please. This is so your fault.
+dialogue,Susan,"How, how is this my fault?"
+dialogue,Ross,"Look, Carol never threw me out of a room before you came along."
+dialogue,Susan,"Yeah? Well, there's a lot of things Carol never did before I came along."
+dialogue,Ross,You tryin' to be clever? A funny lady?
+dialogue,Susan,You know what your problem is? You're threatened by me.
+dialogue,Ross,"Oh, I'm threatened by you?"
+dialogue,Susan,Yes.
+action,,"(Phoebe has heard them arguing and comes down the hall, taking them into a broom closet.)"
+dialogue,Phoebe,"Hey, hey, ok, all right, that's it! Get in here. Come on. My god, you guys, I don't believe you. There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing. So just stop all the yelling, just stop it!"
+dialogue,Ross,"Yeah, Susan."
+dialogue,Phoebe,"Don't make me do this again, I don't like my voice like this."
+action,,"(Phoebe goes to leave the room, but the door is locked.)"
+dialogue,Phoebe,"Ok, who wants to hear something ironic?"
+action,,Commercial Break
+heading,,"[Scene: The Broom Closet, Ross and Susan are trying to get out.]"
+dialogue,All,Help!
+dialogue,Ross,"I'm having a baby in here! Ok, everyone stand back. (Walks backwards as if he is going to break down the door, but steps in a bucket and falls) Ow."
+heading,,"[Scene: Carol's room, Rachel and Dr. Franzblau are there with her.]"
+dialogue,Carol,Are they here yet?
+dialogue,Rachel,"No, honey, they're not, but don't worry, because we are going to find them, and until we do, we are all here for you, ok?"
+dialogue,Carol,Ok.
+dialogue,Rachel,Ok?
+dialogue,Carol,Ok.
+dialogue,Rachel,"(to Dr. Franzblau) Ok, so anyway, you were telling me about Paris, it sounds fascinating."
+dialogue,Dr. Franzblau,"It really was. There was this great little pastry shop right by my hotel. (Carol sits up in pain, Rachel and Dr. Franzblau casually lay her back down) There you go, dear."
+heading,,"[Scene: Lydia's Room, Joey is helping her deliver.]"
+dialogue,Joey,"Come on, Lydia, you can do it. Push! Push 'em out, push 'em out, harder, harder. Push 'em out, push 'em out, way out! Let's get that ball and really move, hey, hey, ho, ho. Let's— (notices the nurse looking at him strangely) I was just—yeah, right. Push! Push!"
+heading,,"[Scene: The Broom Closet, Ross has picked up a vacuum and is holding it at the door.]"
+dialogue,Susan,"What're you gonna do, suck the door open?"
+dialogue,Ross,Help! Help!
+dialogue,Phoebe,"(singing) They found their bodies the very next day, they found their bodies the very next...(sees Ross and Susan staring at her) la la la la la la."
+dialogue,Susan and Ross,(even louder) Help!
+heading,,"[Scene: The Waiting Room, Monica is on the phone with her mother, Chandler is standing behind her.]"
+dialogue,Monica,"Now, Mom, everything's going fine, really. (Listens) Yeah, Ross is great. He's uh, he's in a whole other place. (Listens) No, he's gone. (Listens) No no, you don't have to fly back, really. (Listens) What do you mean this might be your only chance? (Listens) Would you stop? I'm only 26, I'm not even thinking about babies yet."
+action,,"(Monica sees a woman pass by with a baby, puts the phone to her chest, and starts to cry. Chandler takes the phone, makes a noise in it resembling static, and hangs up. Joey enters.)"
+dialogue,Chandler,Where have you been?
+dialogue,Joey,"Oh, just had a baby."
+dialogue,Chandler,Mazel tov!
+heading,,"[Scene: The Waiting Room, Rachel and Dr. Franzblau have gone to get coffee.]"
+dialogue,Dr. Franzblau,"I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?"
+dialogue,Rachel,"(anxiously) No, no, not at the moment, no, I'm not. Are you?"
+dialogue,Dr. Franzblau,"No, it's hard enough to get women to go out with me."
+dialogue,Rachel,"Right, yeah, I've heard that about cute doctors."
+dialogue,Dr. Franzblau,"No, no, really. I suppose it's because I spend so much time, you know, where I do."
+dialogue,Rachel,Oh.
+dialogue,Dr. Franzblau,"I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?"
+dialogue,Rachel,I'm a waitress.
+dialogue,Dr. Franzblau,"Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'..."
+dialogue,Rachel,(getting the point) Yeah. Gotcha.
+dialogue,Dr. Franzblau,I'm gonna go check up on your friend.
+dialogue,Rachel,Ok. That's fine. (takes her earrings out)
+heading,,"[Scene: The Hall Outside Lydia's Room, Joey is walking up to Lydia's room with balloons, but before he enters he sees that the baby's father has arrived. He listens at the door.]"
+dialogue,Lydia,So how did you know I was even here?
+dialogue,Guy,Your mom called me. So is this her?
+dialogue,Lydia,"No, this is a loaner."
+dialogue,Guy,I'm sorry you had to do this by yourself.
+dialogue,Lydia,"I wasn't by myself. I had a doctor, a nurse, and a helper guy. (Joey smiles) So, did you see who won the game?"
+dialogue,Guy,"Yeah, the Knicks by 10. They suck."
+dialogue,Lydia,"Yeah, they're not so bad."
+action,,"(Joey closes the door and ties the balloons to the knob. Then he walks away, holding the hand of an inflated balloon animal he had brought.)"
+heading,,"[Scene: The Broom Closet, Ross is trying to open the door with a credit card, with no success.]"
+dialogue,Ross,"Come on, come on. Damnit, damnit, damnit, damnit. (to Susan) This is all your fault. This is supposed to be, like, the greatest day of my life, y'know? My son is being born, and I should be in there, you know, instead of stuck in a closet with you."
+dialogue,Susan,The woman I love is having a baby today. I've been waiting for this just as much as you have.
+dialogue,Ross,"No no no, believe me. No one has been waiting for this as much as I have, ok? And you know what the funny thing is? When this day is over, you get to go home with the baby, ok? Where does that leave me?"
+dialogue,Susan,"You get to be the baby's father. Everyone knows who you are. Who am I? There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day."
+dialogue,Ross,Every day is Lesbian Lover Day.
+dialogue,Phoebe,This is so great.
+dialogue,Ross,You wanna explain that?
+dialogue,Phoebe,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one. And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most. And it's not even born yet. It's just, it's just the luckiest baby in the whole world. (pause) I'm sorry, you were fighting."
+heading,,"[Scene: Carol's Room, she is ready to give birth. Everyone is there except for Phoebe, Ross, and Susan, who are in the broom closet.]"
+dialogue,Carol,Where are they?
+dialogue,Monica,I'm sure they'll be here soon.
+dialogue,Rachel,"Yeah, honey, they wouldn't miss this."
+dialogue,Joey,Relax. You're only at nine centimeters. And the baby's at zero station.
+dialogue,Chandler,(to Joey) You are really frightening me.
+action,,(Carol suddenly screams in pain and grabs Chandler by the shirt.)
+dialogue,Chandler,"Somebody wanna help me, tryin' to rip out my heart. (they pull her hand off of him) Uh, that's great. (looking around) Anybody seen a nipple?"
+dialogue,Dr. Franzblau,"All right, ten centimeters, here we go."
+dialogue,Nurse,"All right, honey, time to start pushing."
+dialogue,Carol,But they're not here yet!
+dialogue,Dr. Franzblau,"I'm sorry, I can't tell the baby to wait for them."
+dialogue,Carol,"Oh, god."
+heading,,"[Scene: The Broom Closet, Ross has used a broom to open the air vent in the ceiling. Phoebe is wearing a janitor's uniform, ready to go up in the vent.]"
+dialogue,Ross,"Ok, got the vent open."
+dialogue,Phoebe,"(reading the nametag on the uniform) Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!"
+dialogue,Ross,"Ben, you ready? All right, gimme your foot. Ok, on three, Ben. One, two, three. Ok, That's it, Ben."
+action,,(Ross and Susan lift Phoebe up into the vent.)
+dialogue,Susan,What do you see?
+dialogue,Phoebe,"Well, Susan, I see what appears to be a dark vent. Wait. Yes, it is in fact a dark vent."
+action,,(A janitor opens the closet door from the outside.)
+dialogue,Ross,"Phoebs, It's open! It's open!"
+action,,"(Ross and Susan run to the delivery room, leaving Phoebe dangling from the vent.)"
+dialogue,Janitor,(to Ross and Susan) Wait! You forgot your legs!
+heading,,"[Scene: Carol's Room, Ross and Susan rush in.]"
+dialogue,All,"Push, push!"
+dialogue,Ross,We're here!
+dialogue,Carol,(irked) Where have you been?
+dialogue,Ross,"Long story, honey."
+dialogue,Dr. Franzblau,"All right, Carol, I need you to keep pushing. I need—(reaches for an instrument, Rachel's hand is on it) Excuse me, could I have this?"
+dialogue,Nurse,"All right, all right, there's a few too many people in this room, and there's about to be one more, so anybody who's not an ex-husband or a lesbian life partner, out you go!"
+dialogue,All,Good luck!
+action,,(Everyone heads for the door.)
+dialogue,Chandler,"(to nurse) Let me ask you, do you have to be Carol's lesbian life partner?"
+dialogue,Nurse,Out!
+dialogue,Dr. Franzblau,"All right, he's crowning. Here he comes."
+dialogue,Ross,"Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?"
+dialogue,Carol,(straining) Not.... helping!
+dialogue,Dr. Franzblau,"You're doing great, you're doing fine."
+dialogue,Ross,"(puts his head near the baby) Hello! (to Dr. Franzblau) Oh, sorry."
+dialogue,Susan,What do you see? What do you see?
+dialogue,Ross,"We got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. It's a boy, definitely a boy! All right! Ok, legs, knees, and feet. Oh, oh. He's here. He's a person."
+dialogue,Susan,"Oh, look at that."
+dialogue,Carol,What does he look like?
+dialogue,Ross,"Kinda like my uncle Ed, covered in Jell-o ."
+dialogue,Carol,Really?
+dialogue,Phoebe,"(from the air vent overhead) You guys, he's beautiful!"
+dialogue,Ross,"Oh, thanks, Pheebs!"
+action,,(They look up towards the vent and wave at Phoebe.)
+heading,,"[Scene: The Delivery Room, Carol is holding the infant.]"
+dialogue,Susan,"No shouting, but we still need a name for this little guy."
+dialogue,Ross,(thinking) How 'bout Ben?
+dialogue,Susan,I like Ben.
+dialogue,Carol,Ben. Ben. Ben's good. How come you never mentioned Ben before?
+dialogue,Ross,"We uh, we just cooked it up."
+dialogue,Susan,That's what we were off doing.
+action,,(Monica opens the door.)
+dialogue,Monica,Hi.
+dialogue,Ross,Hey.
+dialogue,Monica,Can we come in?
+action,,(The whole gang enters.)
+dialogue,Ross,"(to Ben) I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody."
+dialogue,Phoebe,"Susan, he looks just like you."
+dialogue,Susan,Thanks.
+dialogue,Rachel,"Oh, god, I can't believe one of us actually has one of these."
+dialogue,Chandler,"I know, I still am one of these."
+dialogue,Monica,"Ross, can I?"
+action,,(Monica holds Ben.)
+dialogue,Ross,"The head, the head. You gotta..."
+dialogue,Monica,"(getting choked up) Hi, Ben. Hi. I'm your Aunt Monica. Yes I am. I'm your Aunt Monica. I...I will always have gum."
+action,,Closing Credits
+heading,,"[Scene: The Hospital, the camera is placed as though it were Ben's eyes.]"
+dialogue,Ross,"Ben, I want you to know that there may be some times when I may not be around, like this. (walks out of the picture) But I'll still always come back, like this. (returns) And sometimes I may be away longer, like this. (walks away) But I'll still always come back, like this. (returns)"
+action,,(Chandler comes into the picture.)
+dialogue,Chandler,"And sometimes, I'll want you to steal third, and I'll go like this. (Does a baseball sign.)"
+action,,(The rest of the group come into the picture.)
+dialogue,Monica,He is so amazing.
+dialogue,Rachel,"Oh, I know. Look at him."
+dialogue,Joey,"Ben, Ben, hey Ben. Nothing. I don't think that's his name."
+dialogue,Phoebe,"Oh, look, look, he's closing his eyes. (screen goes blank) Look, he's opening his eyes. (picture comes back)"
+dialogue,Joey,"He doesn't do much, does he?"
+dialogue,Ross,"No, this is pretty much it."
+action,,(long moment of silence)
+dialogue,Rachel,You guys wanna get some coffee?
+dialogue,All,Yeah.
+dialogue,Ross,"All right, I'll see you guys later."
+action,,"(They all leave but Ross, but they all come back a few seconds later. They make faces at the baby.)"
+dialogue,Phoebe,"Oh, look, he's closing his eyes again."
+action,,(The screen fades to black.)
+action,,End

@@ -1,0 +1,305 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, Chandler, Monica, Phoebe, and Joey are there.]"
+dialogue,Chandler,"Wait a minute, wait. You’re telling me this actress person is the only woman you ever wanted who didn’t want you back?!"
+dialogue,Joey,Yeah! Oh my God! (to Chandler) Is this what it’s like to be you?
+dialogue,Monica,"Wow, you’re really crazy about her, huh?"
+dialogue,Joey,"Oh, you have no idea. And-and when we’re on stage I get to-to kiss her and-and touch her, but then she goes home with the director, and it’s like somebody’s ripping out my heart!"
+dialogue,Phoebe,"Oh, it’s so great to see you feeling like this!"
+dialogue,Ross,(entering) Hey!
+dialogue,All,Hey!
+dialogue,Ross,"Monica, uh Dad called this morning and ah, Aunt Silvia passed away."
+dialogue,Monica,"Yes!! Yes! Yeah, yeah, yeah!"
+dialogue,Ross,We were all pretty shaken up about it.
+dialogue,Phoebe,"Wait, am I missing something though? ‘Cause I thought death was something that’s supposed to be sad, in a way."
+dialogue,Ross,"Well ah, Aunt Silvia was, well not a nice person."
+dialogue,Monica,"Oh, she was a cruel, cranky, old bitch! (Ross gives her a look) (to Ross) And I’m sorry she died. Did Dad say I get the dollhouse?"
+dialogue,Ross,You get the dollhouse.
+dialogue,Monica,I get the dollhouse!
+dialogue,Phoebe,"Wow, a house for dolls, that is so cool! When I was kid, I had a barrel."
+dialogue,Joey,"Uh, Pheebs, you had a barrel for a dollhouse?"
+dialogue,Phoebe,"No, just a barrel."
+dialogue,Monica,"Y'know what, you can play with my dollhouse."
+dialogue,Phoebe,Really?! Really?!
+dialogue,Monica,"Any time you want. Y'know, when I was younger, all I wanted to do was to play with this dollhouse, but no!! It was to be looked at, but never played with."
+dialogue,Chandler,My Grandmother used to say that exact same thing to me.
+action,,Opening Credits
+heading,,"[Scene: Rachel’s office, Chandler and her are coming back from lunch.]"
+dialogue,Rachel,"Hey, Sophie!"
+dialogue,Sophie,"Hey, Rach!"
+dialogue,Chandler,Hey.
+dialogue,Sophie,Hey.
+dialogue,Rachel,"Thanks for lunch, Chandler. Y'know, you didn’t have to walk me all the way back up here."
+dialogue,Chandler,"Oh, that’s-that’s okay, no problem. (He starts to look around her office.)"
+dialogue,Rachel,"Honey um, honey, you do realise that we don’t keep the women’s lingerie here in the office?"
+dialogue,Chandler,"Yes, I realise that."
+dialogue,Rachel,Summer catalogue! (hands him the catalogue)
+dialogue,Chandler,That’s the stuff! (quickly grabs it)
+action,,"[Rachel’s boss, Joanna, enters]"
+dialogue,Joanna,"Rachel, I need the Versachi invoice. (to Chandler) Hello! You don’t work for me."
+dialogue,Rachel,"(introduces them) Joanna, this is my friend Chandler Bing (to Chandler) Joanna."
+dialogue,Joanna,Bing! That’s a great name.
+dialogue,Chandler,"Thanks, it’s ah, Gaelic, for ‘Thy turkey’s done.’ So ah, I’m gonna go, nice, nice meeting you."
+dialogue,Joanna,Me too.
+dialogue,Rachel,"Bye, Chandler."
+dialogue,Joanna,"(to Rachel) So ah, what’s wrong with him?"
+dialogue,Rachel,"Oh, nothing, he’s just goofy like that, I actually, hardly notice it anymore."
+dialogue,Joanna,"Oh no, no-no-no, is he ah, married, or involved with anyone?"
+dialogue,Rachel,"No!! No! He’s not married, or involved, with anyone!"
+dialogue,Joanna,"Oh, Rachel, (pause) actually, y'know what, forget it."
+dialogue,Rachel,"Well, I’ll ask him for you, if you want me too?"
+dialogue,Joanna,"Would you? Or, is it just to sad and desperate, and y'know something that Sophie would do?"
+dialogue,Sophie,"Uh, uh, uh, I am here."
+dialogue,Joanna,I know that.
+heading,,"[Scene: Monica and Rachel's, Monica is showing off her new dollhouse. It’s a huge dollhouse, that takes up the entire living room table.]"
+dialogue,Monica,"Look at it! Ohhh! Wallpaper’s a little faded, that’s okay. Carpet’s a little loose. Hardwood floors!!"
+dialogue,Phoebe,(entering) Hey!
+dialogue,Chandler,Hello.
+dialogue,Phoebe,Oh! Ooh! Oh Monica! It’s so beautiful.
+dialogue,Monica,I know!!!
+dialogue,Phoebe,"So, I’m here, ready to play."
+dialogue,Monica,Okay.
+dialogue,Phoebe,"I brought a bunch of stuff for the house, so check it out. Ha-ha. (She removes this large ceramic dog that comes up to the second floor and places it next to the house.)"
+dialogue,Monica,What’s this?
+dialogue,Phoebe,"That’s a dog, every house should have a dog."
+dialogue,Monica,Not one that can pee on the roof.
+dialogue,Phoebe,"Well, maybe it’s so big because the house was built on radioactive waste."
+dialogue,Chandler,(holding a tissue) And is this in case the house sneezes?
+dialogue,Phoebe,"No, no, that’s the ghost for the attic."
+dialogue,Monica,I don’t want a ghost.
+dialogue,Phoebe,"Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground."
+dialogue,Ross,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen."
+dialogue,Phoebe,"Okay, obviously you don’t know much about the U.S. government."
+dialogue,Rachel,(entering) Hey!
+dialogue,All,Hello.
+dialogue,Rachel,I need to talk to you!
+dialogue,Ross,"Sure, what’s up?"
+dialogue,Rachel,"Oh, sorry. I meant Chandler."
+dialogue,Ross,I-I know. Well if something comes up... (walks away)
+dialogue,Chandler,"Oh, I'm glad you guys are past that little awkward phase."
+dialogue,Rachel,"Okay, my boss, Joanna, when you left, she started asking questions about you..."
+dialogue,Chandler,"Oh-ho, liked what she saw, huh? Dug my action, did she? Checkin’ out the Chan-Chan man!"
+dialogue,Rachel,"(looks at him) That was (pause) surreal. Okay, what do think? Are you interested at all?"
+dialogue,Chandler,"Yeah, she seemed cool, attractive. I’ll do it."
+dialogue,Rachel,"Oh thank you, Chandler, this is so great, she’s gonna love me."
+dialogue,Phoebe,"(holding a dinosaur) Okay, dinosaur attack!! Quick, everybody into the house!! Ahh-ahh! (the dinosaur starts attacking the house. She starts to bark like a dog.) Roof! Rrroof-roof-roof!"
+dialogue,Monica,"Okay, Phoebe, y'know what? That-that’s it, that’s it, all right? No dinosaurs, no ghosts, no giant dogs, okay? They’re not the right size, they’re not Victorian, and they just don’t go."
+dialogue,Phoebe,"Okay, (starts to pack up her stuff) fine. Come dinosaur, we’re not welcome in the house of no imagination."
+dialogue,Ross,"Uh, Pheebs, while we’re hovering around the subject. I just have to say dinosaurs, they-they don’t go, rrroof!"
+dialogue,Phoebe,The little ones do.
+heading,,"[Scene: The Theatre, Joey and Kate are getting ready to rehearse the play.]"
+dialogue,Joey,"Hey, Kate!"
+dialogue,Kate,Morning.
+dialogue,Joey,"Listen, I ah, went to that restaurant that you were talking about last week..."
+dialogue,The Director,"Hey, lovely! Come, talk to me a minute! (she goes over to him)"
+dialogue,Joey,"(to himself) And I ate the food, I had the fish, it was good, yeah. It was good, yeah..."
+dialogue,Woman,"Hi, oh, I’m Lauren, Kate’s understudy."
+dialogue,Joey,"Oh, hey! Joey Tribbiani."
+dialogue,Lauren,I know! I-I’m a big fan of yours.
+dialogue,Joey,"(looks at her, shocked) What?!"
+dialogue,Lauren,"I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives ."
+dialogue,Joey,"Get out of here, really?!"
+dialogue,Lauren,Absolutely!
+dialogue,Joey,Yeah?
+dialogue,Lauren,"Oh but then, they went and dropped you down that elevator shaft."
+dialogue,Joey,They gave me the shaft all right.
+dialogue,Lauren,"(laughing) Oh, you’re so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something?"
+dialogue,Joey,"Well Ahh, (he sees Kate and the director kissing) yeah! Yeah, sure, a drink sounds great."
+dialogue,Lauren,Cool! I-I’ll see you then.
+dialogue,Joey,All right.
+dialogue,The Director,"All right, it’s time to act, my talking props. (Both Joey and Kate just look at each other.)"
+heading,,"[Scene: Monica and Rachel's, Phoebe is entering with her own dollhouse, that she made herself.]"
+dialogue,Phoebe,Hey!
+dialogue,All,Hey!
+dialogue,Phoebe,"Look everybody, look at my new dollhouse!!"
+dialogue,Rachel,Wow!!
+dialogue,Phoebe,"Look, look! (She lifts up the roof, and the front panel falls revealing the interior.)"
+dialogue,Ross,"Hey, what’s this?!"
+dialogue,Phoebe,"Oh, okay, it’s the slide instead of stairs. Watch this. (She slides a doll down the slide)"
+dialogue,Monica,"It’s very interesting, Phoebe."
+dialogue,Rachel,What’s this?
+dialogue,Phoebe,"The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed."
+dialogue,Ross,This is the coolest house ever!!
+action,,(Monica is looking on with a hurt expression on her face.)
+dialogue,Phoebe,"Hey, does anybody want to join me in the aroma room? (lights some incense)"
+dialogue,Rachel,All right!
+dialogue,Ross,I would!
+dialogue,Monica,"Hey, guys, guys, did you see my new, china cabinet?!"
+dialogue,Ross and Rachel,Uh-huh.
+dialogue,Phoebe,"Watch, watch. (She turns a strand of Christmas lights strung around the house.)"
+dialogue,Ross and Rachel,Ooohhhh!!
+dialogue,Phoebe,"And, and! (She turns on a bubble maker.)"
+dialogue,Ross and Rachel,Ahhhh!!
+dialogue,Chandler,"(entering) Hey, my Father’s house does that!"
+dialogue,Rachel,"(to Chandler) O-o-o-okay, how did it go? Tell me everything."
+dialogue,Chandler,"Well, the movie was great, dinner was great, and there’s nothing like a cool, crisp New York evening."
+dialogue,Rachel,Hmm.
+dialogue,Chandler,"Of course, I didn’t get to enjoy any of that, because Joanna’s such a big, dull dud !"
+heading,,"[Scene: Rachel’s office, Joanna’s telling Rachel, her side of the story.]"
+dialogue,Joanna,Chandler is fantastic!!
+dialogue,Rachel,What?!
+dialogue,Joanna,"Oh God, we just clicked! Y’know how people just click? Like he came by to pick me up, and I opened the door, and it was just like, click! Did he tell you?"
+dialogue,Rachel,"Oh, I...."
+dialogue,Joanna,"Oh, and he’s got such a good heart! Doesn’t he have a good heart?"
+dialogue,Rachel,"Oh, I know..."
+dialogue,Joanna,"Oh, I know and he’s soo sweet! Listen, he said he was going to call, so put him straight through."
+dialogue,Sophie,Isn’t this great?!
+dialogue,Joanna,Don’t spoil it.
+heading,,"[Scene: The Theatre, Joey and Kate are rehearsing.]"
+dialogue,Joey,"Come on baby, don’t go. Please? What do you say?"
+action,,[A phone rings.]
+dialogue,The Director,"(answering the phone) Hello. Oh! It’s you. Just ah, just one-one sec. (to Joey and Kate) I am going to take this call. When I continue, I hope that there will appear on stage this magical thing that in the theatre we call, committing to the moment ! (He goes to take the call.)"
+dialogue,Joey,(to Kate) That guy’s like a cartoon. What do you see in him anyway?
+dialogue,Kate,He happens to be brilliant. Which is more than I can say for that sweater you’re dating.
+dialogue,Joey,"Hey, I’m not interested in her sweater! It’s what’s underneath her sweater that counts. And besides, since ah, since when do you care who I’m going out with?"
+dialogue,Kate,"I don’t care. Why, do you want me to care?"
+dialogue,Joey,Do you want me to want you to care?
+dialogue,Kate,Do you?
+dialogue,Joey,What?
+dialogue,The Director,"(returning) Okay, I’m afraid to say this, but let’s pick it up where we left off."
+action,,[They resume rehearsing.]
+dialogue,Joey,"Come on baby, don’t go. Please? What do you say?"
+dialogue,Kate,I’ve got no reason to stay.
+action,,(Joey grabs her and kisses her.)
+dialogue,The Director,Stop!! Stop it! You must stop! You are bad actors! This is a terrible play! I’ll see you in the morning. (exits)
+dialogue,Kate,"I can’t believe we go on in, in a week."
+dialogue,Joey,"Hey, it’s gonna be all right."
+dialogue,Lauren,"(to Joey) Hey! So since we’re getting off early, do you want to go and paint mugs?"
+dialogue,Joey,What?
+dialogue,Lauren,You know! At the place I told you about last night?
+dialogue,Joey,"Oh, yeah, with the mug painting. Yeah. I was so listening to that. But ah, y'know what, I think I kinda need to work on my stuff tonight."
+dialogue,Lauren,"Oh, okay."
+dialogue,Joey,Okay. (he gives her a peck on the cheek)
+dialogue,Lauren,I’ll see you tomorrow. (she kisses him full on the mouth.)
+dialogue,Joey,Okay.
+dialogue,Lauren,G’night. (exits)
+dialogue,Joey,"(to Kate) Ah, are you okay?"
+dialogue,Kate,"Yeah, I guess. Look, what are we gonna do about this scene, huh?"
+dialogue,Joey,I don’t know.
+dialogue,Kate,"Well umm, maybe if it had more heat."
+dialogue,Joey,How do you mean?
+dialogue,Kate,"Well, Adrian’s looking for a reason to stay, right? Victor can’t just kiss her, he’s gotta, gotta really give her a reason, y'know?"
+dialogue,Joey,Maybe he could slip her the tongue.
+dialogue,Kate,"Or maybe, maybe he could grab her, and, and, and, and lift her up."
+dialogue,Joey,"Yeah, yeah, and then Adrian, she maybe she could wrap her legs around his waist."
+dialogue,Kate,"And then she could rip off his shirt and kiss his chest, and, and his stomach!"
+dialogue,Joey,"And then, then he could use his teeth, his teeth to undo her dress, and, and, and bite her!"
+dialogue,Kate,"And then right, right when the scene ends, he could take her with this raw, animal...."
+action,,"[cut to Joey’s bedroom, Joey and Kate are emerging from under the covers.]"
+dialogue,Joey,Something like that?
+dialogue,Kate,"Yeah, that’s pretty much what I had in mind."
+dialogue,Joey,Yeah.
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, Ross and Monica are eating breakfast as Joey enters, very happily.]"
+dialogue,Joey,(to Ross) Hey.
+dialogue,Ross,Hi.
+dialogue,Joey,(to Monica) Hey.
+action,,(He walks up behind Monica and gives her a big hug and a kiss on the neck.)
+dialogue,Ross,Hi.
+dialogue,Joey,Hey.
+action,,"(He walks over behind Ross, thinks about it for a moment, and gives him a big hug.)"
+dialogue,Ross,It’s a little early to be drinkin’.
+dialogue,Joey,"No-no, things ah, finally happened with Kate."
+dialogue,Ross,Ohhhhh!
+dialogue,Monica,You’re kidding?! That’s great!
+dialogue,Joey,"Oh, it was so amazing. After the (pause) love making..."
+dialogue,Monica,Oh my.
+dialogue,Joey,"Yep. I just, I just watched her sleep for like hours, just breathing in and breathing out. And then I knew she was dreaming ‘cause, ‘cause her eyes keep going like this. (He closes his eyes and moves them around, kinda like he’s been processed by the devil, or something.)"
+dialogue,Chandler,"(entering with Rachel) I’m telling ya, Joanna’s got it all wrong. Okay? All I said was, ‘This was fun. Let’s do it again sometime. I’ll give you a call.’"
+dialogue,Rachel,"Ohh, gee. I wonder why she thinks you’re going to call her?"
+dialogue,Chandler,That’s what you say at the end of a date.
+dialogue,Rachel,"You can’t just say, ‘Nice to meet you, good night?’"
+dialogue,Chandler,"To her face? Look it’s the end of the date, I’m standing there, I know all she’s waiting for is for me to say ‘I’ll call her’ and it’s just y'know, comes out. I can’t help it, it’s a compulsion."
+dialogue,Monica,"Come on Rach, when a guy says he’s going to call, it doesn’t mean he’s going to call. Hasn’t it ever happened to you?"
+dialogue,Rachel,"Well, they always called."
+dialogue,Monica,"Hmm, bite me."
+heading,,[Scene: Rachel’s office.]
+dialogue,Joanna,(entering) Did he call?
+dialogue,Rachel,No. Sorry.
+dialogue,Joanna,Why?! Why?! He said he’d call. Why hasn’t he called?
+dialogue,Sophie,"Maybe he’s intimated by really smart, strong, successful women."
+dialogue,Joanna,"Sophie, would you please climb out of my butt. Why hasn’t he called, Rachel? Why?"
+dialogue,Rachel,"Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss."
+dialogue,Joanna,Awkward? Why should he feel awkward?
+dialogue,Rachel,Well...
+dialogue,Joanna,"The only person that should feel awkward is you, and you didn’t tell him not to call me, did you?"
+dialogue,Rachel,No. I...
+dialogue,Joanna,"Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that."
+heading,,"[Scene: Central Perk, Chandler is reading a magazine as Rachel approaches.]"
+dialogue,Rachel,(grabbing the magazine out of his hands) Call her! Call her now!
+dialogue,Chandler,"Multiple, so many paper cuts."
+dialogue,Rachel,"Why hasn’t he called Rachel? Why? Why? I don’t understand. Why? He said he’ll call. Why? Why? Chandler I’m telling you she has flipped out, she’s gone crazy!"
+dialogue,Chandler,"(sarcastic) Oh, well give me the phone then."
+dialogue,Rachel,"Come on, this isn’t funny. She thinks it’s my fault that you haven’t called her. You have to call her!"
+dialogue,Chandler,"Look, you can’t call somebody after this long just to say, ‘In case you didn’t notice, I don’t like you!’"
+dialogue,Rachel,Well then you’re going to have to take her out again.
+dialogue,Chandler,Nooo!! She’s really dull! And she gets this gross mascara goop thing in the corner of her eye!
+dialogue,Rachel,"I don’t care! I don’t care! You are going to have to take her out again and end it, and end it in way that she knows it’s actually ended. And, I don’t care how hard it is for you, do not tell her that you will call her again!"
+dialogue,Chandler,"All right! Fine! But it’s just a lunch date, no more than an hour! And from now on I get my own dates, I don’t want you setting me up with anybody ever again!"
+dialogue,Rachel,That’s fine!
+dialogue,Chandler,"That’s just a lot of big talk, y'know."
+dialogue,Rachel,I know.
+heading,,"[Scene: Monica and Rachel's, Ross is entering.]"
+dialogue,Ross,Mon?
+dialogue,Monica,(from the bathroom) I’m in the shower!
+action,,[He closes the door and walks over to get something from the fridge. He starts to smell something and turns around to see Phoebe’s dollhouse smoking. He runs over and takes off the roof to reveal that the dollhouse fire.]
+dialogue,Ross,"Oh, fire! There, there’s a fire! Fire!!"
+action,,"[He tries to blow it out, and obviously, it doesn’t work. He runs over to the sink to get a glass of water to put out the fire, but since Monica is in the shower the water pressure is very low and takes a long time to fill the glass. In desperation he takes the half full glass over and dumps it on the fire, it doesn’t work. He then picks up the dollhouse and considers bringing it over to the sink, but decides to take it into the bathroom and use the shower to put it out. He kicks open the door and we hear Monica scream at the top of her lungs.]"
+heading,,"[Scene: The Theatre, Kate is arriving for rehearsal.]"
+dialogue,Joey,Hey.
+dialogue,Kate,Hi.
+dialogue,Joey,"So I ah, talked to Lauren, kinda told her how things were with us. Did you ah, did you talk to Marshall?"
+dialogue,Kate,About what?
+dialogue,Joey,"Y'know, about what happened with us."
+dialogue,Kate,"Nooo. And there’s really no reason he should find out, so ah let’s not make a big deal about it, okay?"
+dialogue,Joey,"What are you talking about? It was a big deal. I mean, come on you can’t tell me last night didn’t mean something to you. I-I was there, you’re not that good an actress."
+dialogue,Kate,"Look umm, I, I was, I was just caught up in the moment. That’s all it was. Joey, I’m-I’m sorry you feel bad, but haven’t you ever sleep with a women where it meant more to her than it did to you?"
+dialogue,Joey,Nooo.
+dialogue,Lauren,"(entering) Hi, Kate!"
+dialogue,Kate,"Hi, Lauren."
+dialogue,Joey,"Hi, Lauren."
+dialogue,Lauren,"Hi, pig!"
+heading,,"[Scene: Monica and Rachel's, Monica and Ross are inspecting the damage to the dollhouse.]"
+dialogue,Ross,"Sorry I ah, I scared you in there."
+dialogue,Monica,"Oh, that’s okay. By the way, I was just checking the shower massager."
+dialogue,Ross,Yeah.
+dialogue,Phoebe,(entering) Hey!
+dialogue,Monica,(runs over to her) I tried to reach you at work. There’s....been a fire.
+dialogue,Phoebe,What?! Oh my... (sees the remains of the house) Oh my God!! What happened?!
+dialogue,Ross,"Well, we believe it originated here. (He uses a pointer and points to the point of origin.) In the Aroma Room."
+dialogue,Phoebe,All right. Did everyone get out okay?
+dialogue,Monica,"Well, the giraffe’s okay. And so is the pirate."
+dialogue,Phoebe,"Ohh. What is this? (She sees a tissue covering something, and moves to remove it.)"
+dialogue,Ross,"No Phoebe, don’t look! You don’t want to see what’s under there!!"
+dialogue,Phoebe,"(She pauses to ready herself, and removes the tissue.) Ohh, the-the Foster puppets!"
+action,,"(She picks up a charred piece of plastic that once was the Foster puppets, and starts to break down. Monica goes over and comforts her.)"
+heading,,"[Scene: Rachel’s office, Chandler and Joanna are returning from their lunch date. He is telling her about her mascara problem. Rachel is already there.]"
+dialogue,Chandler,"It’s not a big deal. It’s, just it’s right here, (points to his eye) and it’s all the time."
+dialogue,Joanna,"Well, thanks again for lunch."
+dialogue,Chandler,"(He looks over at Rachel, who nods her head) Yes, this, this was pleasant."
+action,,(Rachel is slowing trying to leave and let them talk.)
+dialogue,Joanna,"It was, wasn’t it?"
+dialogue,Chandler,"The food there was, was great."
+dialogue,Joanna,Wasn’t it?
+dialogue,Chandler,So take care.
+dialogue,Joanna,You too.
+dialogue,Chandler,"Well, this was great. I’ll give you a call. We should do it again sometime. (Rachel is disappointed)"
+dialogue,Joanna,"Great! I’m looking forward to it. Rachel, any messages?"
+dialogue,Rachel,Sophie’s desk.
+action,,"(Chandler starts to leave ashamed of himself, but Rachel stops him in the hallway.)"
+dialogue,Rachel,(whispering) Chandler!! Are you gonna call her!
+dialogue,Chandler,Noo!
+dialogue,Rachel,Chandler!!
+dialogue,Chandler,"Look, I’m sorry. Okay? I’m weak, and pathetic, and sorry."
+dialogue,Rachel,"Okay, you are going to tell her and you’re going to tell her now. (She grabs his nipple and starts to twist it.)"
+dialogue,Chandler,Ahhhh—I’m not going to call you.
+dialogue,Joanna,What?
+dialogue,Chandler,"I’m sorry. I’m-I’m-I’m sorry that I said I was going to when I’m not. Look, this has nothing to do with you, y'know? And this isn’t Rachel’s fault. It’s me. I have serious, serious problems when it comes to women. I have issues with commitment, intimacy, (pause) mascara goop. And I’m really sorry, it’s just that this is not, this isn’t going to work out."
+dialogue,Joanna,"Well, this isn’t how I was hoping how this would end, but I guess I have to appreciate your honesty."
+dialogue,Chandler,"Yeah, o-okay."
+dialogue,Joanna,So...
+dialogue,Chandler,Well this is great! I’ll give you a call! We should do it again sometime!
+action,,"(Rachel is shocked, and holds her arms out in disbelief.)"
+action,,Closing Credits
+heading,,"[Scene: Chandler and Joey's, Joey is talking on the phone.]"
+dialogue,Joey,"(on phone) Well, so anyway Beth, what I’m saying is I should’ve considered your feelings before I went home with you that night. I’ve ah, I’ve recently learned what’s it like to be on your side of it, and I’m sorry. So, do you think you can forgive me? (listens) Great. Thanks. Okay, bye. (He sits down and crosses out something, and dials the phone again.) Hello, Jennifer? (listens) Oh hi, Mrs. Loreo, is Jennifer there? (listens) Oh, she’s not home huh? (listens) Well ah, actually I kinda need to talk to you too."
+action,,End

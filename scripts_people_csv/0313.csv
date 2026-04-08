@@ -1,0 +1,315 @@
+script_element,character,text
+heading,,"[Scene: A Video Store, Monica is running in to return a video.]"
+dialogue,Monica,(to clerk) Hi.
+action,,(The clerk enters the video into the computer.)
+dialogue,Clerk,"Six dollars, please."
+dialogue,Monica,Six? I just had it for one night. It’s three.
+dialogue,Clerk,"Eight o’clock is the cut-off and, (looks at his watch) aww, it’s 8:02."
+dialogue,Monica,"Y'know in a weird way, you have too much power. Look, you’re gonna have to help me out here, ‘cause I only have three."
+dialogue,Richard,"(standing behind her, without his moustache) I can help with that."
+dialogue,Monica,Oh my God. Richard? (turns around) Hi!
+dialogue,Richard,Hi!
+dialogue,Monica,"Wow! Your lip went bald. (Richard pays the clerk) Hey, thanks."
+dialogue,Richard,"So, you look great."
+dialogue,Monica,Right.
+dialogue,Richard,No you do. You... just...
+dialogue,Monica,What?
+dialogue,Richard,You’ve got panties stuck to your leg.
+dialogue,Monica,"(removes them) That’s because I-I was just grabbing some things out of the dryer, and it’s static cling. Or maybe it’s just that God knew I’d be running into you and saw an opportunity."
+dialogue,Richard,It’s good to see you.
+dialogue,Monica,It’s good to see you too.
+action,,"(They hug, and Richard notices a stocking stuck to Monica’s back, which he removes for her.)"
+action,,Opening Credits
+heading,,[Scene: continued from earlier.]
+dialogue,Monica,"You see that guy? He’s in classics now, but y'know as soon as we leave he’s going straight to the porn."
+dialogue,Richard,"He’s gonna go up to the counter with Citizen Kane , Vertigo , and Clockwork Orgy. (they both laugh) This is nice."
+dialogue,Monica,Yeah.
+dialogue,Richard,I missed this.
+dialogue,Monica,Me too.
+dialogue,Richard,"So, you wanna get a hamburger or something?"
+dialogue,Monica,"Oh, um, I don’t know if that’s a good idea."
+dialogue,Richard,"Oh. Look, just friends, I won’t grope you. I promise."
+dialogue,Monica,"No, I just I think that it’s too soon."
+dialogue,Richard,"No it’s not too soon, I had lunch at a eleven."
+heading,,"[Scene: Monica and Rachel's, Chandler, Ross. Joey, and Rachel are eating breakfast. Chandler is holding a bottle of Hersey’s Syrup .]"
+dialogue,Chandler,"Yeah, baby!"
+dialogue,Ross,What are you doing?
+dialogue,Chandler,Making chocolate milk. Do you want some?
+dialogue,Ross,No thanks. I’m 29.
+dialogue,Rachel,"(looking at her watch) Oh my God, I gotta go to work!"
+dialogue,Ross,"Oh sweetie, when do you think you’re going to get off tonight?"
+dialogue,Rachel,Oh I don’t know honey. It’s gonna be really late.
+dialogue,Ross,"Oh come on, not again."
+dialogue,Rachel,"I know. I’m sorry. Look, I’ll make a deal with you all right? Okay?"
+dialogue,Ross,Hmm.
+dialogue,Rachel,For every night that you’re asleep before I get home from work...
+dialogue,Ross,Yeah.
+dialogue,Rachel,I will wake you up in a way that’s proved very popular in the past.
+dialogue,Ross,"Now, if you need to stay late, I want to be supportive of that."
+dialogue,Rachel,Right.
+dialogue,Phoebe,"(entering, holding a pair of Roller Blades) Hi."
+dialogue,All,Hey.
+dialogue,Joey,(to Phoebe) Look at you. Since when do you roller blade?
+dialogue,Phoebe,"Oh! Since tomorrow. I met this really cute guy in the park and he like y'know, jogs, and blades, and swims, and so y'know we made a deal that’s he’s going to teach me all sorts of jock stuff."
+dialogue,Ross,And what are you going to do for him?
+dialogue,Phoebe,I’m going to let him.
+dialogue,Ross,Okay.
+dialogue,Joey,Cool.
+dialogue,Monica,(entering from her bedroom) Morning.
+dialogue,All,Hey.
+dialogue,Rachel,Somebody got in late last night.
+dialogue,Monica,"Yeah well, I ran into Richard."
+action,,(They all gasp)
+dialogue,Rachel,When did this happen?
+dialogue,Monica,"Oh, um, around 8:02. We ah, talked for a little while, and then um, we went out for an innocent burger."
+dialogue,Phoebe,"Oh, there’s no such thing as an innocent burger."
+dialogue,Ross,"So, are you gonna see him again?"
+dialogue,Monica,Tomorrow night.
+dialogue,Rachel,"Monica, what are you doing?"
+dialogue,Chandler,"Well, she spent the last six months getting over him, and now she’s celebrating that by going on a date with him."
+dialogue,Monica,"It’s not a date, okay. I’m just gonna teach him how to make lasagne for some pot luck dinner he has."
+dialogue,Joey,"Well, you might wanna make a little extra, y'know you’ll probably be hungry after the sex."
+dialogue,Monica,"We’re not gonna have sex! Okay, nothing’s changed here. He still doesn’t want children and I still do, so that’s why we’re just gonna be friends."
+dialogue,Ross,Naked friends.
+heading,,"[Scene: Chandler and Joey's, Joey is watching TV.]"
+dialogue,Rachel,(entering) Hey.
+dialogue,Joey,Hey.
+dialogue,Rachel,Do you have any ice?
+dialogue,Joey,"Check the freezer. If there’s none in there, then we’re probably out. Are you just getting in from work? It’s late."
+dialogue,Rachel,"Yeah, I know. I had the greatest day though, I got to sit in on the meeting with the reps from Calvin Klien . I told my boss I liked this line of lingerie, she ordered a ton of it. How was your day?"
+dialogue,Joey,I discovered I’m able to count all of my teeth using just my tongue.
+dialogue,Rachel,"Hmm. (she opens the freezer) Umm, why do you have a copy of The Shining in your freezer?"
+dialogue,Joey,"Oh, I was reading it last night, and I got scared, so."
+dialogue,Rachel,"But ah, you’re safe from it if it’s in the freezer?"
+dialogue,Joey,"Well, safer. Y'know, I mean I never start reading The Shining , without making sure we’ve got plenty of room in the freezer, y'know."
+dialogue,Rachel,How often do you read it?
+dialogue,Joey,Haven’t you ever read the same book over and over again?
+dialogue,Rachel,"Well, umm, I guess I read Little Women more than once. But I mean that’s a classic, what’s so great about The Shining ?"
+dialogue,Joey,"The question should be Rach, what is not so great about The Shining . Okay? And the answer would be: nothing. All right? This is like the scariest book ever. I bet it’s way better than that classic of yours."
+dialogue,Rachel,"Okay. Ah, well we’ll just see about that, okay. I will read The Shining , (she tries to take the book away from him but he doesn’t want to let it go) and you will read Little Women ."
+dialogue,Joey,"All right, you got it."
+dialogue,Rachel,All right.
+dialogue,Joey,Okay.
+dialogue,Rachel,Okay.
+dialogue,Joey,"Ah, now Rach, these ah, these little women."
+dialogue,Rachel,Yeah.
+dialogue,Joey,"How little are they? I mean, are they like scary little?"
+heading,,"[Scene: Central Perk, Chandler and Ross are there, Phoebe is entering with her date Robert.]"
+dialogue,Phoebe,"Um, Chandler, Ross, this is Robert."
+dialogue,Chandler,"Oh, hey."
+dialogue,Robert,Hi.
+dialogue,Ross,Hey.
+dialogue,Phoebe,"(to Robert) You’ve have lipstick right here (points to her cheek). That’s okay, it’s mine, we just kissed."
+dialogue,Ross,Oh.
+dialogue,Chandler,"(to Robert) So ah, isn’t a bit cold out for shorts?"
+dialogue,Robert,"Well, I’m from California."
+dialogue,Chandler,"Right, right. Sometimes you guys just burst into flames."
+action,,(Robert leans back on the arm of the chair and allows Chandler to see up his shorts and sees ‘little Robert.’ Chandler is horrified by this view.)
+dialogue,Chandler,"(standing up) I’m up! I’m up, I’ve gotten up now! Anybody ah, want anything?"
+dialogue,Phoebe,I’ll have coffee.
+dialogue,Robert,"Yeah, me too."
+dialogue,Ross,"Yeah, make that three."
+dialogue,Chandler,"Okay Ross, why don’t you come with me?"
+dialogue,Ross,"Okay. (goes over to the counter) (to Chandler) What ah, what is the matter with you? What’s going on?"
+dialogue,Chandler,Robert’s coming out.
+dialogue,Ross,"What, what do you mean, what? Is he gay?"
+dialogue,Chandler,No. He.....he’s coming out of his shorts.
+dialogue,Ross,What?!
+dialogue,Chandler,The man is showing brain.
+dialogue,Ross,"Are you sure? (Chandler nods: Yes!) Hold on. (walks over behind the couch) I’m sorry you guys, that was a coffee and a...."
+dialogue,Robert,Coffee.
+dialogue,Ross,Okay.
+dialogue,Robert,We could write it down for you?
+dialogue,Ross,"No, no, that won’t be ah, that won’t be necessary (leans down and looks up Robert’s shorts, seeing Robert’s package.)"
+dialogue,Chandler,(to Ross) Wellll?
+dialogue,Ross,"Yeah, yeah, yeah!"
+dialogue,Chandler,What do we do? What do we do?
+dialogue,Ross,"Well, I suppose we just try to not look directly at it."
+dialogue,Chandler,Like an eclipse.
+action,,(Ross nods his head.)
+heading,,"[Scene: Monica and Rachel's, Monica is teaching Richard how to make lasagne.]"
+dialogue,Richard,"So when people complement me on my cooking should I, what do I say?"
+dialogue,Monica,"You say ‘Thank you very much,’ and then you buy me something pretty. Come on, we’re gonna put are hands in this bowl, and we’re gonna start squishing the tomatoes."
+action,,(They both start squishing the tomatoes.)
+dialogue,Richard,"Ew, this feels very weird."
+dialogue,Monica,You touch people’s eyeballs every day and this feels weird.
+dialogue,Richard,"Yeah, well, sure I touch them, but I spent years learning not to squish them. (Monica grabs his hand in the tomatoes.) That’s my hand."
+dialogue,Monica,Oops.
+dialogue,Richard,Okay.
+dialogue,Monica,Gotta keep squishing.
+dialogue,Richard,Tomatoes are squishing.
+dialogue,Monica,Okay.
+action,,(Richard squishes a little too hard and some lands on his shirt.)
+dialogue,Richard,Op.
+dialogue,Monica,"Oh, gosh, you got some on your shirt."
+dialogue,Richard,Yeah.
+dialogue,Monica,"Hold on a second, just put a little club soda on it (does so) and it should umm, be....."
+action,,"(She is rubbing his chest and her voice trails off into silence, a long pause follows.)"
+dialogue,Richard,What?
+dialogue,Monica,"Umm, you’ve got some on your pants."
+dialogue,Richard,I’ll just throw them out.
+heading,,"[Scene: Central Perk, Chandler is watching Joey read Little Women , Ross is also there.]"
+dialogue,Joey,These little women. Wow!
+dialogue,Chandler,"Your liking it, huh?"
+dialogue,Joey,Oh yeah! Amy just burned Jo’s manuscript. I don’t see how he could ever forgive her.
+dialogue,Ross,"Umm, Jo’s a girl, it’s short for Josephine."
+dialogue,Joey,But Jo’s got a crush on Laurie. (Ross nods his head) Oh. You mean it’s like a girl-girl thing? ‘Cause that is the one thing missing from The Shining .
+dialogue,Chandler,"No, actually Laurie’s a boy."
+dialogue,Joey,No wonder Rachel had to read this so many times.
+action,,(Enter Phoebe and Robert)
+dialogue,Phoebe,Hey!
+dialogue,Chandler,Hey.
+dialogue,Ross,"Hey! How’d the ah, basketball go?"
+dialogue,Phoebe,"Oh, okay, I learned how to shoot a lay-up, a foul shot, and a twenty-three pointer."
+dialogue,Chandler,You mean a three pointer?
+dialogue,Phoebe,"Oh, I get more because I’m dainty."
+dialogue,Robert,"So um, is there a phone here, I can check my messages?"
+dialogue,Phoebe,"Yeah, in the back. You want a quarter?"
+dialogue,Robert,"Oh, no thanks. I always carry one in my sock."
+action,,"(He puts his leg up on the couch to get the quarter, once again exposing himself to Chandler and Ross. In horror, Chandler, slides over and leans against Joey on the couch.)"
+dialogue,Joey,"(noticing Chandler) What are you doing? (he pushes Chandler back to his side of the couch) Get back over on your side of the... (sees Robert in all his glory) Hello!! (to Robert) Hi, I’m Joey, we haven’t met."
+dialogue,Robert,"Ah, good to meet you. Robert."
+action,,(Robert walks away and the guys all start laughing in front of Phoebe.)
+dialogue,Phoebe,"What? (the guys keep laughing.) What? You guys, what is going on? You not like Robert? (the guys keep laughing.) Why are you laughing?!"
+dialogue,Ross,Calm down. There’s no reason to get testy.
+action,,(The guys start laughing harder.)
+dialogue,Phoebe,You guys!! Come on!
+dialogue,Chandler,"I’m sorry, I’m sorry, it just seems that Robert isn’t as concealed in the shorts area, as ah, one may have hoped."
+dialogue,Phoebe,What do you mean?
+dialogue,Robert,Hey. (sits down)
+dialogue,Phoebe,Hey.
+dialogue,Joey,"Hey Robert, could you ah, ha, pass me those cookies?"
+dialogue,Robert,Sure.
+action,,"(He puts his leg up on the table to pass Joey the cookies, and Phoebe sees what the guys are laughing at, and gasps.)"
+heading,,"[Scene: Monica and Rachel's, Monica is talking to Richard on the phone.]"
+dialogue,Monica,"So, how’d the lasagne go over? (listens) Really?! Good. So you owe me three pretty things. (listens) Yeah, I’ve been thinking a lot about you too. (listens) I know. It’s hard this whole platonic thing. (listens) It’s a word!"
+action,,(There’s a knock on the door.)
+dialogue,Monica,"Yeah, I do think it’s better this way. (listens) Yeah, we’re being smart. (gets up to answer the door) (listens) Yes, I’m sure.(she opens the door and it’s Richard)"
+dialogue,Richard,You really sure?
+dialogue,Monica,I’ll call you back. (starts kissing him)
+action,,Commercial Break
+heading,,"[Scene: Monica’s bedroom, she’s in bed with Richard.]"
+dialogue,Monica,So we can be friends who sleep together.
+dialogue,Richard,"Absolutely, this will just be something we do, like racquetball."
+dialogue,Monica,"Sounds smart and healthy to me. So um, just out of curiosity, um, do you currently have any other racquetball buddies?"
+dialogue,Richard,Just your dad. (pause) Although that’s actually racquetball. You know I-I do have a blind date with my sister’s neighbour next Tuesday.
+dialogue,Monica,Oh.
+dialogue,Richard,You want me to cancel it?
+dialogue,Monica,No! (pushes him) No!
+dialogue,Richard,Okay.
+dialogue,Monica,"‘Cause if you do that means you’d be cancelling it for me, and we’re just friends."
+dialogue,Richard,Exactly. (pushes her back)
+heading,,"[Scene: Central Perk, Robert is picking up Phoebe for a date.]"
+dialogue,Robert,Hey.
+dialogue,Phoebe,Hey. Ooh! Don’t sit down!
+dialogue,Robert,You ready to go to the batting cage?
+dialogue,Phoebe,"Yeah. And, first here’s a gift."
+dialogue,Robert,Oh! Wow! Hey!
+dialogue,Chandler,"Stretchy pants! Why, those are the greatest things in the world! If I were you I would wear them every day, every day!"
+dialogue,Robert,"Jeez, thank you really that is so nice. But um, to be honest, I don’t think I can wear these, they’re so tight, I feel like I’m on display. I’m sorry."
+dialogue,Phoebe,"That’s all right, that’s well, I figured.... (they start to leave as Joey enters.)"
+dialogue,Robert,(to Joey) Hey!
+dialogue,Joey,Hey! (starts to laugh.) How’s it going?
+dialogue,Ross,Good.
+dialogue,Joey,"Hey, Rach, how you doing with The Shining ?"
+dialogue,Rachel,"Oh, Danny just went into room 217."
+dialogue,Joey,"Oooh, the next part’s the best, when that dead lady in the bathtub..."
+dialogue,Rachel,"Oh, no, meh-nah-nah-nah, come on you’re gonna ruin it!"
+dialogue,Joey,All right I’ll talk in code. (to Ross and Chandler) Remember when the kid sees those two blanks in the hallway?
+dialogue,Chandler,"Hmmm, that’s very cool."
+dialogue,Joey,"Oh, all blank, and no blank, make’s blank a blank blank. Oh no-no-no, no, the end when Jack almost kills them all with that blank, but then at last second they get away. Aww!"
+dialogue,Rachel,Joey! I can’t believe you just did that!
+dialogue,Chandler,I can’t believe she cracked your code!
+dialogue,Rachel,"All right, okay, Laurie proposes to Jo, and she says no, even though she’s still in love with him, and then he ends up marring Amy."
+dialogue,Joey,"Hey! Mine was by accident! All right, the boiler explodes and destroys the hotel, and kills the dad."
+dialogue,Rachel,Eh. Beth dies.
+action,,(Joey recoils and gasps in horror.)
+dialogue,Joey,"Beth, Beth dies?"
+dialogue,Rachel,Um-hmm.
+dialogue,Joey,Is that true? If I keep reading is Beth gonna die?
+dialogue,Chandler,"No, Beth doesn’t die, she doesn’t die. Does she Rachel?"
+dialogue,Rachel,What?!
+dialogue,Ross,Joey’s asking if you’ve just ruined the first book he’s ever loved that didn’t star Jack Nicholson?
+dialogue,Rachel,No. She doesn’t die.
+dialogue,Joey,Then why would you say that?!
+dialogue,Rachel,"Because, I wanted to hurt you."
+dialogue,Robert,"(running in) Oh, there they are! I-I dropped my keys."
+action,,"(He bends over to pick them up, right in front of Rachel, who then gets a free peep show.)"
+dialogue,Rachel,(gasps) Oh my....
+dialogue,Robert,Got ‘em.
+heading,,"[Scene: Monica and Rachel's, Rachel is reading The Shining , as Monica enters.]"
+dialogue,Monica,Hi.
+dialogue,Rachel,(screams and grabs a potato masher to defend herself) Sorry. I’m sorry.
+dialogue,Monica,"You would not believe my day! I had to work two shifts, and then to top it off, I lost one of my fake boobs, (opens her coat revealing a large burn mark over her left breast.) in a grill fire."
+action,,(Rachel starts laughing.)
+dialogue,Monica,What are you smiling at?
+dialogue,Rachel,"I’m sorry, I was just thinking you’re day could still pick up."
+dialogue,Monica,"Yeah, right."
+action,,"(She goes into her bedroom, and sees Richard who has covered the room in roses and has two glasses of wine and a rose between his lips.)"
+dialogue,Richard,Hello.
+dialogue,Monica,I love this friend thing!
+heading,,"[Scene: Central Perk, Phoebe, Chandler, and Ross are there.]"
+dialogue,Phoebe,"Listen, Robert’s gonna be here any second so, will one of you just tell him?"
+dialogue,Ross,Oh.
+dialogue,Phoebe,"Please, right now, no, every time I see him it’s like ‘Is it on the lose?’ ‘Is it watching me?’"
+dialogue,Chandler,"We can’t tell him, you can’t go up to a guy you barely know and talk about his.... stuff."
+dialogue,Ross,"He’s right, even if it’s to say something complementary. (He stops and thinks about what he just said.)"
+dialogue,Robert,(entering) Hey!
+dialogue,Phoebe,Hey.
+dialogue,Robert,"(to Phoebe) So are ready for the gym? They’ve got this new rock climbing wall, we can spot each other."
+dialogue,Phoebe,"No, I can spot you from here."
+dialogue,Robert,What?
+dialogue,Phoebe,"Okay, listen Robert..."
+dialogue,Ross,"(to Chandler) Hey, don’t we have to..."
+dialogue,Chandler,"Yeah, we got, um-hmm."
+dialogue,Phoebe,"Umm, I think you’re really, really great..."
+dialogue,Robert,Oh God! Here we go again. Why does this keep happening to me? (spreads his legs) Is it something I’m putting out there? Is this my fault? Or am I just nuts?
+dialogue,Phoebe,"I-I-I-I-I don’t know, I don’t know what to say."
+dialogue,Gunther,"(cleaning up the table) (to Robert) Hey buddy, this is a family place, put the mouse back in the house."
+action,,(Robert looks down and realises the problem.)
+heading,,"[Scene: Richard’s bedroom, Monica has covered it in rose pedals and candles. We hear Richard come in to the apartment, and Monica frantically throws the rest of the pedals on the bed, and jumps onto the bed and puts a rose in her mouth, and bites a thorn.]"
+dialogue,Monica,Ow!
+dialogue,Richard,"(outside the bedroom) Really?! Well, it’s just like everyone else’s apartment. It’s got rooms, walls, and ceilings."
+dialogue,Richard’s Date,"Well, I just wanted to see where you lived. Now, give me the tour."
+dialogue,Monica,Oh my God! Oh my God! (She frantically tries to clean up the bedroom as Richard starts the tour.)
+dialogue,Richard,"Ah well, this is the living room."
+dialogue,Richard’s Date,Impressive.
+dialogue,Richard,All right. This is the kitchen.
+dialogue,Richard’s Date,"Oh, that’s real pretty. Wait a minute, don’t I get to see the bedroom?"
+dialogue,Richard,"The bedroom. Well it’s pretty much your typical... (opens the door as Monica hides under the covers, and quickly closes the door before his date can see the room.) bedroom."
+dialogue,Richard’s Date,We’re still on this side of the door.
+dialogue,Richard,Um-hmm.
+dialogue,Richard’s Date,"Yeah, but I didn’t get to see it."
+dialogue,Richard,Oh shoot! Maybe next time. (yawns) Thanks for a lovely evening. (shows her out)
+action,,"[Cut to into the bedroom, with Monica still hiding under the covers. Richard enters and sits down next to her.]"
+dialogue,Monica,"(still hiding under the blankets) So um, who was she?"
+dialogue,Richard,"Oh, (laughs) that was the blind date that I told you about, she called and switched it to today."
+dialogue,Monica,"(still hiding under the blankets) Did you like her? And I’m just asking as a friend, because I am totally fine with this."
+dialogue,Richard,"Well, you seem fine."
+dialogue,Monica,"(gets up) Okay, y'know what, I’m not fine, I’m not. I mean how can I be fine, hearing you come in with her, she wants to see your bedroom.... (pause) Y'know what, what if we’re friends who don’t see other people?"
+dialogue,Richard,You mean like exclusive friends?
+dialogue,Monica,"Why not?! I mean this has been the most amazing week. Would it be so terrible? Even if we were friends who lived together. Or, maybe someday friends who stood up in front of their other friends, and vowed to be friends forever."
+dialogue,Richard,"Wow. Y'know we’re back where we were. Honey, I would love to do all that, but nothing’s changed."
+dialogue,Monica,"That’s not true, you don’t have a moustache."
+dialogue,Richard,"Okay, okay, one thing’s changed. But we still want different things and we know how this is gonna end."
+dialogue,Monica,"Y'know what, I’ve got to walk out of here right now, ‘cause getting over you is the hardest thing that I have ever had to do. I don’t think I could do it again."
+dialogue,Richard,I know I couldn’t. So....
+action,,(Monica kisses him.)
+dialogue,Monica,How ‘bout one last game of racquetball?
+action,,"(They both kiss, and Richard picks her up and goes over to the bed and starts to lie down.)"
+dialogue,Monica,Watch the thorns!
+dialogue,Richard,(lying down) Ow!!
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's, Joey is entering, and he’s very dejected.]"
+dialogue,Rachel,What?
+dialogue,Joey,"Beth is really, really sick."
+dialogue,Rachel,Awwww.
+dialogue,Joey,"Jo’s there, but I don’t think there’s anything she could do."
+action,,(Rachel hugs him)
+dialogue,Rachel,Joey?
+dialogue,Joey,Yeah.
+dialogue,Rachel,Do you want to put the book in the freezer?
+dialogue,Joey,(nodding his head) Okay.
+dialogue,Rachel,Okay.
+action,,(Joey hands her the book and she puts it in the freezer.)
+action,,End

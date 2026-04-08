@@ -1,0 +1,300 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's apartment. Chandler and Joey are sitting at the bar, in their bathrobes, eating cereal]"
+dialogue,Joey,Man this is weird. You ever realize Captain Crunch's eyebrows are actually on his hat?
+dialogue,Chandler,"That's what's weird? Joey, the man's been captain of a cereal for the last 40 years."
+action,,"(Joey finishes his cereal, licks his spoon, and puts it back in the silverware drawer.)"
+dialogue,Chandler,Waaa-aaah.
+dialogue,Joey,What?
+dialogue,Chandler,The spoon. You licked and-and you put. You licked and you put.
+dialogue,Joey,"Yeah, so."
+dialogue,Chandler,Well don't you see how gross that is? I mean that's like you using my toothbrush. (Joey gets a sheepish look) You used my toothbrush?
+dialogue,Joey,"Well, that was only 'cause I used the red one to unclog the drain."
+dialogue,Chandler,"Mine is the red one! Oh God. Can open, worms everywhere."
+dialogue,Joey,"Hey, why can't we use the same toothbrush, but we can use the same soap?"
+dialogue,Chandler,Because soap is soap. It's self-cleaning.
+dialogue,Joey,"Alright, well next time you take a shower, think about the last thing I wash and the first thing you wash."
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's apartment. Monica and Phoebe are sitting at the table, Joey and Chandler enter.]"
+dialogue,Chandler,Hey.
+dialogue,MONICA and PHOEBE,Hey.
+dialogue,Joey,Hey.
+dialogue,Phoebe,"Ooh, look at you fancy lads. What's the occasion?"
+dialogue,Joey,"Well, you know that guy that's on my show that's in a coma? He's havin' a brunch."
+dialogue,Phoebe,Ahh.
+dialogue,Rachel,"(enters from her room) OK, ready when you are."
+dialogue,Phoebe,Okey-doke.
+dialogue,Monica,I can't believe you guys are actually getting tattoos.
+dialogue,Chandler,"Excuse me, you guys are getting tattoos?"
+dialogue,Rachel,"Yes, but you can not tell Ross 'cause I want to surprise him."
+dialogue,Joey,"Wow, this is wild. What're you gonna get?"
+dialogue,Phoebe,"Um, I'm getting a lily for my Mom. 'Cause her name's Lily."
+dialogue,Chandler,"Wow, that's lucky. What if her name was Big Ugly Splotch?"
+dialogue,Joey,So where you gettin' it?
+dialogue,Phoebe,I think on my shoulder. (Ross enters)
+dialogue,Ross,What? What's on your shoulder?
+dialogue,Phoebe,"Um, a chip. A tattoo, I'm getting a tattoo."
+dialogue,Ross,"A tattoo? Why, why would you want to do that? (to Rachel) Hi."
+dialogue,Rachel,"Hi. Well hey, you don't - you don't think they're kind of cool?"
+dialogue,Ross,"No, sorry I don't. Tell me why would anyone pay someone to scar their body for life? What if it doesn't come out right Phoebe? Then it's like, I don't know, havin' a bad hair cut all the time. Why's everyone staring at me?"
+dialogue,Monica,"Ross, come sign this birthday card for dad. Rich is gonna be here any minute."
+dialogue,Chandler,"Oooh, Rich is goin' to the party too, huh?"
+dialogue,Monica,"Well, he's my parents' best friend, he has to be there."
+dialogue,Joey,"Oh, is today the day you're gonna tell them about you two?"
+dialogue,Monica,"Yeah. It's my dad's birthday, I decided to give him a stroke."
+dialogue,Phoebe,"No, I think you should tell them."
+dialogue,Monica,"No, I don't even know how serious he is about me. Until I do, I'm not telling them anything."
+dialogue,Ross,"I don't know, I don't think mom and dad would mind. Remember when you were 9 and Richard was 30, how dad used to say, 'God I hope they get together.'"
+heading,,"[Scene: The Gellers' house. Monica, Ross, and Richard are arriving to Mr. Gellers birthday party.]"
+dialogue,Ross,"Alright, shall we?"
+dialogue,Monica,"OK, wait, wait, wait, wait. You know what? Ross, let's - let's switch places. You get in the middle. No un-, ya know, unless this looks like we're trying to cover something up."
+dialogue,Ross,"Monica, Monica, you could come in straddling him, they still wouldn't believe it. (opens door) We're here."
+dialogue,Mrs. Geller,Oh hi kids. Hi darling.
+dialogue,Monica,Happy birthday dad.
+dialogue,Mr. Geller,Oh thank you.
+dialogue,Ross,Hi ma.
+dialogue,Richard,Happy birthday.
+dialogue,Mrs. Geller,"Well, you kids thank Dr. Burke for the ride?"
+dialogue,Ross,"Uh, actually mom, I think Monica thanked him for the both of us."
+heading,,"[Scene: The Gellers' kitchen. Monica, Mrs. Geller and one of Mrs. Geller's friends are preparing the cake.]"
+dialogue,Friend,"Well, you kids take the train in?"
+dialogue,Mrs. Geller,"No, Richard Burke gave them a ride."
+dialogue,Friend,"Oh. Speaking of whom, I hear he's got some 20-year-old twinkie in the city. (Monica sprays whipped cream all over the place)"
+dialogue,Monica,"Finger cramp. Oh God, sorry. Here, let me get that mom."
+dialogue,Mrs. Geller,"Sooo, Richard's shopping in the junior section."
+dialogue,Monica,Are we still on that?
+dialogue,Mrs. Geller,We just know she's got the IQ of a napkin.
+dialogue,Friend,"She's probably not even very pretty, just young enough so that everything is still pointing up. (Monica folds her arms over her breasts)"
+heading,,[Scene: Joey's co-star's apartment. Chandler and Joey are at the brunch.]
+dialogue,Joey,Can you believe this place?
+dialogue,Chandler,"I know, this is a great apartment."
+dialogue,Joey,"Ah, I was just in the bathroom, and there's mirrors on both sides of you. So when you're in there it's like you're peein' with the Rockettes."
+dialogue,Chandler,"Wow, there's my fantasy come true. No, seriously."
+dialogue,Joey'S Co-Star,Hey.
+dialogue,Joey,"Hey! We were just sayin', great apartment man."
+dialogue,Joey'S Co-Star,Thanks. You want it?
+dialogue,Joey,Huh?
+dialogue,Joey'S Co-Star,"Yeah, I'm movin' to a bigger place. You should definitely take this one."
+dialogue,Joey,"Yeah, can you see me in a place like this?"
+dialogue,Joey'S Co-Star,Why not? You hate park views and high ceilings? C'mon I'll show you the kitchen.
+dialogue,Chandler,"(being left behind) Oh that's all right fellas, I saw a kitchen this morning - on TV. Stop talking. OK."
+heading,,[Scene: Mr. Geller's party. Mr. Geller and a friend are questioning Richard while Ross observes.]
+dialogue,Mr. Geller,"C'mon, tell us."
+dialogue,Friend,"Yeah, is she really 20."
+dialogue,Richard,I am not telling you guys anything.
+dialogue,Mr. Geller,"C'mon Rich, it's my birthday, let me live vicariously."
+dialogue,Ross,"Dad, you really don't want to do that."
+dialogue,Mr. Geller,"Ahh, what's a little mid-life crisis between friends?"
+dialogue,Richard,"Jack, would you let it go?"
+dialogue,Mr. Geller,"Look, I know what you're going through. When I turned 50 I got the Porsche. You... you got your own little speedster."
+dialogue,Richard,"Guys. Seriously, it is not like that."
+dialogue,Mr. Geller,"Tell you what, maybe one of these weekends you can borrow the car and I cou. . ."
+dialogue,Ross,"Dad, I beg you not to finish that sentence."
+dialogue,Mr. Geller,What? I'm kidding. You know I'd never let him touch the Porsche.
+heading,,[Scene: Tattoo parlor. Phoebe and Rachel are deciding on tattoos.]
+dialogue,Phoebe,"OK Rach, which, which lily? This lily or that lily?"
+dialogue,Rachel,Well I. . .
+dialogue,Phoebe,"I like this lily. It's more open, ya know, and that's like my mom. She had a more open, giving spirit. Ooh, Foghorn Leghorn, ooh."
+dialogue,Tattoo Artist,"Alright, blonde girl, you're in room two, not so blonde girl, you're with me."
+dialogue,Phoebe,Here we go.
+dialogue,Rachel,(reluctantly) Uh-huh.
+dialogue,Phoebe,You're not going?
+dialogue,Rachel,Uh-huh.
+dialogue,Phoebe,What? Is it - is this 'cause of what Ross said?
+dialogue,Rachel,"No. Well, yeah, maybe."
+dialogue,Phoebe,"I don't believe this. Is this how this relationship's gonna work? Ross equals boss. I mean, c'mon what is this, 1922?"
+dialogue,Rachel,What's 1922?
+dialogue,Phoebe,"Just, you know, long time ago. Well, when men used to tell women what to do - a lot. And then there was suffrage, which is a good thing but is sounds horrible. Do you want to get this tattoo?"
+dialogue,Rachel,"Yes I do, it's just that Ross is. . ."
+dialogue,Phoebe,"OK, hey, HEY. Is your boyfriend the boss of you?"
+dialogue,Rachel,No.
+dialogue,Phoebe,"OK, who is the boss of you?!!"
+dialogue,Rachel,You?
+dialogue,Phoebe,No. You are the boss of you. Now you march your heinie in there and get that heart tattooed on your hip. GO !!
+heading,,[Scene: Mr. Geller's birthday party. Monica is in the bathroom and Richard comes in.]
+dialogue,Richard,How ya doin'?
+dialogue,Monica,I'm a twinkie.
+dialogue,Richard,Really? I'm a hero.
+dialogue,Monica,"Oh, this is so hard."
+dialogue,Richard,"Yeah, I know. I hate it too. Look, maybe we should just tell them."
+dialogue,Monica,Maybe we should just tell your parents first.
+dialogue,Richard,My parents are dead.
+dialogue,Monica,"God, you are so lucky. I mean, I mean. . . you know what I mean."
+dialogue,Richard,"I know, I know. Just hang in there, OK. OK, I'll go out first, alright."
+dialogue,Monica,Alright.
+dialogue,Richard,"(walks out of the bathroom and runs into Mrs. Geller who is going to the bathroom) Judy, going to the bathroom , good for you."
+dialogue,Mrs. Geller,"Thank you Richard, I appreciate the support."
+action,,"(Monica jumps in the shower. Right after Mrs. Geller enters the bathroom, Mr. Geller peeks his head in.)"
+dialogue,Mr. Geller,"Honey. Honey, have you seen my Harmon Kilerbrew bat? Bob doesn't believe I have one."
+dialogue,Mrs. Geller,I have no idea. Did you know Richard has a twinkie in the city?
+dialogue,Mr. Geller,I know. He's like a new man. It's like a scene from Cocoon .
+dialogue,Mrs. Geller,I just never would have pictured Richard with a bimbo.
+dialogue,Mr. Geller,"Apparently, he told Johnny Shapiro that she's quite a girl. In fact, he told Johnny that he thinks he's falling in love with her."
+dialogue,Mrs. Geller,Really.
+dialogue,Mr. Geller,"I tell you, I've never seen him this happy."
+dialogue,Mrs. Geller,"So Jack, you ever think about trading me in for a younger model?"
+dialogue,Mr. Geller,Of course not. With you it's like I've got two 25-year-olds.
+dialogue,Mrs. Geller,(they start kissing) Oh Jack stop.
+dialogue,Mr. Geller,"C'mon, it's my birthday."
+heading,,[Scene: Chandler and Joey's apartment. Chandler and Joey are returning from their brunch.]
+dialogue,Joey,Can we drop this? I am not interested in the guy's apartment.
+dialogue,Chandler,"Oh please, I saw the way you were checking out his mouldings. You want it."
+dialogue,Joey,"Why would I want another apartment, huh? I've already got an apartment that I love."
+dialogue,Chandler,Well it wouldn't kill you to say it once in a while.
+dialogue,Joey,"Alright, you want the truth? I'm thinkin' about it."
+dialogue,Chandler,What?
+dialogue,Joey,"I'm sorry. I'm 28 years old, I've never lived alone, and I'm finally at a place where I've got enough money that I don't need a roommate anymore."
+dialogue,Chandler,"Woah, woah, woah. I don't need a roommate either, OK? I can afford to live here by myself. Ya know, I may have to bring in somebody once a week to lick the silverware."
+dialogue,Joey,"What're you gettin' so bent out of shape for, huh? It's not like we agreed to live together forever. We're not Bert and Ernie."
+dialogue,Chandler,"Look, you know what? If this is the way you feel, then maybe you should take it."
+dialogue,Joey,Well that's how I feel.
+dialogue,Chandler,Well then maybe you should take it.
+dialogue,Joey,Well then maybe I will.
+dialogue,Chandler,Fine with me.
+dialogue,Joey,"Great. Then you'll be able to spend more quality time with your real friends, the spoons."
+heading,,[Scene: Mr. Geller's birthday party. Mr. and Mrs. Geller enter looking particularly refreshed. Monica follows looking rather pale.]
+dialogue,Mr. Geller,Who's drink can I freshen?
+dialogue,Mrs. Geller,Almost time for cake.
+dialogue,Ross,"Mon, Mon, are you OK?"
+dialogue,Monica,You remember that video I found of mom and dad?
+dialogue,Ross,Yeah.
+dialogue,Monica,"Well, I just caught the live show."
+dialogue,Ross,Eww.
+heading,,[Scene: Mr. Geller's birthday party. Monica and Richard are alone in the kitchen.]
+dialogue,Monica,Hey there.
+dialogue,Richard,What?
+dialogue,Monica,"Nothing, I just heard something nice about you."
+dialogue,Richard,"Humm, really?"
+action,,(Mrs. Geller and Ross both enter)
+dialogue,Mrs. Geller,Richard. Richard. Your son isn't seeing anyone is he?
+dialogue,Richard,"Uhh, not that I know of."
+dialogue,Mrs. Geller,"Well, I was thinking, why doesn't he give Monica a call?"
+dialogue,Richard,That - that's an idea.
+dialogue,Monica,"Well, actually, I'm already seeing someone."
+dialogue,Mrs. Geller,Oh?
+dialogue,Richard,Oh?
+dialogue,Ross,Ohh.
+dialogue,Mrs. Geller,"She never tells us anything. Ross, did you know Monica's seeing someone?"
+dialogue,Ross,"Mom, there are so many people in my life. Some of them are seeing people and some of them aren't. Is that crystal?"
+dialogue,Mrs. Geller,"So, who's the mystery man?"
+dialogue,Monica,"Well, uh, he's a doctor."
+dialogue,Mrs. Geller,A real doctor?
+dialogue,Monica,"No, a doctor of meat. Of course he's a real doctor. And he's handsome, and he's sweet, and know you'd like him. (she puts her arm around Richard)"
+dialogue,Mrs. Geller,Well that's wonderful. . . I
+dialogue,Monica,"Mom, it's OK."
+dialogue,Richard,It is Judy.
+dialogue,Mrs. Geller,Jack. Could you come in here for a moment? NOW!
+dialogue,Mr. Geller,(enters with his bat) Found it.
+dialogue,Ross,I'll take that dad. (grabs the bat)
+dialogue,Mrs. Geller,It seems your daughter and Richard are something of an item.
+dialogue,Mr. Geller,"That's impossible, he's got a twinkie in the city."
+dialogue,Monica,"Dad, I'm the twinkie."
+dialogue,Mr. Geller,You're the twinkie?
+dialogue,Richard,She's not a twinkie.
+dialogue,Monica,"Al-alright, l-look you guys, this is the best relationship I've been in. . ."
+dialogue,Mrs. Geller,"Oh please, a relationship."
+dialogue,Monica,"Yes, a relationship. For your information I am crazy about this man."
+dialogue,Richard,Really?
+dialogue,Monica,Yes.
+dialogue,Mr. Geller,Am I supposed to stand here and listen to this on my birthday?
+dialogue,Monica,"Dad, dad this is a good thing for me. Ya know, and you even said yourself, you've never seen Richard happier."
+dialogue,Mr. Geller,When did I say that?
+dialogue,Monica,Upstairs in the bathroom right before you felt up mom.
+action,,(Everyone else enters and all start singing Happy Birthday .)
+heading,,[Scene: Tattoo parlor. Rachel is showing Phoebe her tattoo.]
+dialogue,Phoebe,"Oh that looks so good, oh I love it."
+dialogue,Rachel,"I know, so do I. Oh Phoebe, I'm so glad you made me do this. OK, lemme se yours."
+dialogue,Phoebe,"Ahh. OK, let's see yours again."
+dialogue,Rachel,"Phoebe we just saw mine, let me see yours."
+dialogue,Phoebe,"Oh OK. (pulls over her shirt and shows a bare shoulder) Oh no, oh it's gone, that's so weird, I don't know how-where it went."
+dialogue,Rachel,You didn't get it?
+dialogue,Phoebe,No.
+dialogue,Rachel,Why didn't you get it?
+dialogue,Phoebe,"I'm sorry, I'm sorry."
+dialogue,Rachel,"Phoebe, how would you do this to me? This was all your idea."
+dialogue,Phoebe,"I know, I know, and I was gonna get it but then he came in with this needle and uh, di-, did you know they do this with needles?"
+dialogue,Rachel,"Really? You don't say, because mine was licked on by kittens."
+heading,,[Scene: Chandler and Joey's apartment. Chandler is at the bar and Joey enters.]
+dialogue,Joey,Hey.
+dialogue,Chandler,Hey.
+dialogue,Joey,"Hey listen, I'm sorry about what happened. . ."
+dialogue,Chandler,Yeah me too.
+dialogue,Joey,I know. Yeah.
+dialogue,Chandler,Yeah. So do we need to hug here or. . .
+dialogue,Joey,"No, we're alright."
+dialogue,Chandler,So I got ya something. (tosses Joey a bag of plastic spoons)
+dialogue,Joey,Plastic spoons. Great.
+dialogue,Chandler,Lick away my man.
+dialogue,Joey,"These'll go great in my new place. You know, 'till I get real ones."
+dialogue,Chandler,What?
+dialogue,Joey,"Well, I can't use these forever. I mean, let's face it, they're no friend to the environment."
+dialogue,Chandler,"No-no, I mean what, what's this about your new place?"
+dialogue,Joey,I'm movin' out like we talked about.
+dialogue,Chandler,Well I didn't think that was serious. (grabs the spoons back) Ya know I thought that was just a fight.
+dialogue,Joey,"Well, it was a fight. . . based on serious stuff, remember. About how I never lived alone or anything. I just think it would be good for me, ya know, help me to grow or. . . whatever."
+dialogue,Chandler,"Well, there you go."
+dialogue,Joey,"Hey, are you cool with this. I mean, I don't want to leave you high and dry."
+dialogue,Chandler,"Hey, no, I've never been lower or wetter. I'll be fine. I'll just turn your, uh, bedroom into a game room or somethin', you know, put the foosball table in there."
+dialogue,Joey,Woah. Why do you get to keep the table?
+dialogue,Chandler,I did pay for half of it.
+dialogue,Joey,"Yeah. And uh, I paid for the other half."
+dialogue,Chandler,"Alright I'll tell you what, I'll play you for it."
+dialogue,Joey,"Alright, you're on. I can take two minutes out of my day to kick your ass."
+dialogue,Chandler,Your little men are gonna get scored on more times than your sister.
+dialogue,Joey,"Woah, woah, woah, woah. Which sister?"
+heading,,[Scene: Monica and Rachel's apartment. Monica and Richard are setting the table.]
+dialogue,Monica,"So, are you sorry that I told them?"
+dialogue,Richard,"No, it's been a long time since your dad and I went running."
+action,,(Rachel and Phoebe enter)
+dialogue,Rachel,Oh.
+dialogue,Monica,Oh. Well did you get it? Let me see.
+dialogue,Rachel,Is Ross here?
+dialogue,Monica,No he went out to get pizza.
+dialogue,Rachel,"Oh really, OK. (shows Monica her tattoo)"
+dialogue,Monica,That's great.
+dialogue,Richard,Very tasteful.
+dialogue,Phoebe,"Wanna see mine, wanna see mine?"
+dialogue,Monica,Yes.
+dialogue,Rachel,What? You didn't get one.
+dialogue,Phoebe,"OK, well then what is this? (shows her bare shoulder)"
+dialogue,Richard,What're we looking at? That blue freckle?
+dialogue,Phoebe,"OK, that's my tattoo."
+dialogue,Rachel,"That is not a tattoo, that is a nothing. I finally got her back in the chair, bairly touched her with a needle, she jumped up screaming, and that was it."
+dialogue,Phoebe,"OK, hi. For your information this is exactly what I wanted. This is a tattoo of the earth as seen from a great distance. It's the way my mother sees me from heaven."
+dialogue,Rachel,"Oh, what a load of crap. That is a dot. Your mother is up in heaven going, 'Where the hell is my lily, you wuss?' OK, Phoebe, that is not a tattoo, this is a tattoo. (she bends over and bears her tattoo right when Ross returns)"
+dialogue,Ross,You got a tattoo?
+dialogue,Rachel,Maybe. But just a little one. Phoebe got the whole world.
+dialogue,Ross,Lemme see. (looks)
+dialogue,Rachel,Well?
+dialogue,Ross,Well it's really. . . sexy. I wouldn't have thought it would be but. . . wow.
+dialogue,Rachel,Really?
+dialogue,Ross,"Yeah, so uh, is it sore or can you do stuff?"
+dialogue,Rachel,I guess.
+dialogue,Ross,"Hey, save us some pizza. (they go off to Rachel's room)"
+heading,,[Scene: Chandler's apartment. Chandler and Joey are playing foosball for the table.]
+dialogue,Joey,"Get out of the corner. Pass it, pass it."
+dialogue,Chandler,Stop talkin' to your men. (Joey scores)
+dialogue,Joey,Yes! And the table is mine.
+dialogue,Chandler,Congratulations. (Chandler leaves)
+heading,,[Scene: Chandler's apartment. The whole gang is helping Joey pack.]
+dialogue,Joey,"Hey, you guys are still gonna come visit me, right?"
+dialogue,Chandler,"Oh yeah, you got the big TV. We'll be over there all the time. . . (Chandler gives him a look) except when we are here."
+dialogue,Phoebe,I know you're just moving uptown but I'm really gonna miss you.
+dialogue,Monica,"I know, how can you not be accross the hall anymore."
+dialogue,Rachel,"Yeah, who's gonna eat all our food, and tie up our phone lines, and - is that my bra? What the hell you doin' with my bra?"
+dialogue,Joey,"Oh no-no, it's uh, it's not what you think. We uh, we used it to, you know, fling water balloons off the roof. Remember that, those junior high kids couldn't even get theirs accross the street."
+dialogue,Chandler,"(quietly) Yeah, I remember."
+dialogue,Ross,"Hey, let's bring the rest of these down to the truck."
+action,,(Everyone except Joey and Chandler leave.)
+dialogue,Chandler,"So, uhh, em, you want me to uh, give you a hand with the foosball table?"
+dialogue,Joey,"Naa, you keep it, you need the practice."
+dialogue,Chandler,Thanks.
+dialogue,Joey,"So, I guess this is it."
+dialogue,Chandler,"Yeah, right, yeah, I guess so."
+action,,"(Joey walks to the door. He stops, turns around.)"
+dialogue,Joey,"Listen, uh, I don't know when I'm gonna see you again."
+dialogue,Chandler,"Well, I'm guessing uh, tonight at the coffee house."
+dialogue,Joey,"Right, yeah. OK. Um, take care."
+dialogue,Chandler,Yeah.
+action,,(Joey walks out and after a few seconds comes back in and gives Chandler a big hug. He then leaves for good and Chandler is left alone in his apartment.)
+action,,Closing Credits
+action,,End

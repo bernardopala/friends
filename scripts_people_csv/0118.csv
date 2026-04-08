@@ -1,0 +1,330 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, The whole gang is helping Rachel mail out resumes while whistling the theme from The Bridge on the River Kwai.]"
+dialogue,Ross,"Uh, Rach, we're running low on resumes over here."
+dialogue,Monica,Do you really want a job with Popular Mechanics ?
+dialogue,Chandler,"Well, if you're gonna work for mechanics, those are the ones to work for."
+dialogue,Rachel,"Hey, look, you guys, I'm going for anything here, OK? I cannot be a waitress anymore, I mean it. I'm sick of the lousy tips, I'm sick of being called 'Excuse me...'"
+dialogue,Ross,"Rach, did you proofread these?"
+dialogue,Rachel,"Uh... yeah, why?"
+dialogue,Ross,"Uh, nothing, I'm sure they'll be impressed with your excellent compuper skills."
+dialogue,Rachel,"(upset) Oh my Goood! Oh, do you think it's on all of them?"
+dialogue,Joey,"Oh no, I'm sure the Xerox machine caught a few."
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Ross and Chandler are sitting at a table. Rachel is working. Monica and Phoebe enter.]"
+dialogue,Monica,"Hey, guys."
+dialogue,Chandler and Ross,Hey.
+dialogue,Rachel,"Hey... hi, ladies... uh, can I get you anything? (to Monica, quietly): Did you bring the mail?"
+dialogue,Monica,Lots of responses.
+dialogue,Rachel,"(to Monica): Really? (out loud): Sure, we have scones left! (to Monica): OK, read them to me."
+dialogue,Phoebe,"(reading): Dear Ms. Green, thank you for your inquiry, however... oh... (crumples up letter)"
+dialogue,Rachel,(out loud): We have apple cinnamon...
+dialogue,Monica,(reading): OK... Dear Ms. Green... yeah... yeah... yeah... No. (crumpes up letter)
+dialogue,Phoebe,Wow!
+dialogue,Rachel,What?
+dialogue,Phoebe,(reading): Your Visa bill is huge!
+dialogue,Rachel,(grabs the bill) Give me that!
+action,,(Camera cuts to Chandler and Ross at table.)
+dialogue,Chandler,"You know, I can't believe you. Linda is so great! Why won't you go out with her again?"
+dialogue,Ross,I don't know.
+dialogue,Chandler,Is this still about her whole 'The Flintstones could've really happened' thing?
+dialogue,Ross,"No, it's not just that. It's just—I want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh... (begins to stare lovingly at Rachel)"
+dialogue,Chandler,...little playthings with yarn?
+dialogue,Ross,What?
+dialogue,Chandler,Could you want her more?
+dialogue,Ross,Who?
+dialogue,Chandler,"(sarcastically) Dee, the sarcastic sister from Whats Happening ."
+dialogue,Ross,"Look, I am totally, totally over her, OK, I just... (Rachel comes over, Ross lays head on table): Hiiii!"
+dialogue,Rachel,Hi! How are you?
+dialogue,Ross,"We're fine, we're fine."
+dialogue,Rachel,OK. (walks away)
+action,,"(Ross keeps staring at her, head on table. Chandler smacks him with a newspaper. Joey enters, Ross and Chandler laugh at him.)"
+dialogue,Joey,Shut up!
+dialogue,Chandler,We're not—we're not saying anything.
+dialogue,Phoebe,What?
+dialogue,Ross,Uhhhh... Joey cried last night.
+dialogue,Joey,Thank you.
+dialogue,Chandler,"(to the girls) We were playing poker, alright..."
+dialogue,Joey,"There was chocolate on the three. It looked like an eight, alright?"
+dialogue,Ross,"Oh, guys, you should've seen him. 'Read 'em and weep.'"
+dialogue,Chandler,And then he did.
+dialogue,Rachel,"Well, now, how come you guys have never played poker with us?"
+dialogue,Phoebe,"Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it's poker, so only guys can play?"
+dialogue,Ross,"No, women are welcome to play."
+dialogue,Phoebe,"Oh, OK, so then what is it? Some kind of... you know, like, like... some kind of, y'know, like... alright, what is it?"
+dialogue,Chandler,There just don't happen to be any women in our games.
+dialogue,Joey,"Yeah, we just don't happen to know any women that know how to play poker."
+dialogue,Girls,"Oh, yeah, right."
+dialogue,Monica,"Oh, please, that is such a lame excuse!"
+dialogue,Rachel,Really.
+dialogue,Monica,"I mean, that's a typical guy response."
+dialogue,Ross,"Excuse me, do any of you know how to play?"
+dialogue,Girls,No.
+dialogue,Rachel,But you could teach us.
+dialogue,Guys,No.
+heading,,"[Scene: Monica and Rachel's, the guys are teaching the girls how to play poker.]"
+dialogue,Chandler,"(teaching) OK, so now we draw cards."
+dialogue,Monica,"So I wouldn't need any, right? Cause I have a straight."
+dialogue,Rachel,"Oh, good for you!"
+dialogue,Phoebe,Congratulations!
+action,,(Microwave timer goes off. Monica gets up.)
+dialogue,Chandler,"OK Phoebs, how many do you want?"
+dialogue,Phoebe,"OK, I just need two... the, um, ten of spades and the six of clubs."
+dialogue,Ross,"No. No, uh, Phoebs? You can't—you can't do..."
+dialogue,Rachel,"Oh wait, I have the ten of spades! Here! (gives it to Phoebe)"
+action,,Ross:
+dialogue,Rachel,"Oh, no-no-no-no-no-no, that's OK, I don't need them. I'm going for fours."
+dialogue,Ross,"Oh, you're... (gives up)"
+action,,(Monica comes back to the table with plates of food.)
+dialogue,Monica,"Alright, here we go. We've got salmon roulettes and assorted crudites."
+dialogue,Phoebe and Rachel,OOooooo!
+dialogue,Joey,"Whoa, whoa, whoa, Monica, what're you doin'? This is a poker game. You can't serve food with more than one syllable. It's gotta be like chips, or dip, or pretz...(look of realization)"
+dialogue,Chandler,"(changing subject) OK, so at this point, the dealer..."
+dialogue,Monica,"Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks..."
+dialogue,Ross,"Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy..."
+dialogue,Phoebe,"But... I'm ready, so, just deal."
+dialogue,Chandler,"OK, alright, last minute lesson, last minute lesson. (holds up two cards) Joey... three... eight. Eight... three. (Joey is unamused) Alright babe, deal the cards."
+action,,(Time lapse.)
+dialogue,Monica,"(throws down her cards) Dammit, dammit, dammit!"
+dialogue,Phoebe,"(to Joey): Oh I see, so then, you were lying."
+dialogue,Joey,About what?
+dialogue,Phoebe,About how good your cards were.
+dialogue,Joey,Heh... I was bluffing .
+dialogue,Phoebe,A-ha! And... what is bluffing? Is it not another word for... lying?
+dialogue,Rachel,"OK, sorry to break up this party, but I've got resumes to fax before work tomorrow... (gets up to leave)"
+dialogue,Guys,"Whoa, whoa, whoa!"
+dialogue,Chandler,"Rach, Rach, we gotta settle."
+dialogue,Rachel,Settle what?
+dialogue,Chandler,"The... Jamestown colony of Virginia. You see, King George is giving us the land, so..."
+dialogue,Ross,"The game, Rachel, the game. You owe us money for the game."
+dialogue,Rachel,Oh. Right.
+dialogue,Joey,"You know what, you guys? It's their first time, why don't we just forget about the money, alright?"
+dialogue,Monica,"Hell no, we'll pay!"
+dialogue,Phoebe,"OK, Monica? I had another answer all ready."
+dialogue,Monica,And you know what? We want a rematch.
+dialogue,Ross,Well that's fine with me. Could use the money.
+dialogue,Rachel,"(to Ross): So basically, you get your ya-yas by taking money from all of your friends."
+dialogue,Ross,(pause)...Yeah.
+dialogue,Chandler,"Yes, and I get my ya-yas from Ikea . You have to put them together yourself, but they cost a little less."
+dialogue,Ross,"Look, Rachel, this is poker. I play to win, alright? In order for me to win, other people have to lose. So if you're gonna play poker with me, don't expect me to be a 'nice guy,' OK? Cause once those cards are dealt... (claps hands three times)"
+dialogue,Joey,(pause)...Yeah?
+dialogue,Ross,I'm not a nice guy.
+heading,,[Scene: Ross' apartment. Chandler and Joey are there. Ross enters with a pizza.]
+dialogue,Ross,"Alright boys, let's eat."
+dialogue,Chandler,"Oh, did you get that from the 'I Love Rachel' pizzeria?"
+dialogue,Ross,You still on that?
+dialogue,Chandler,"Oh, come on. What was with that whole Black Bart speech? (mimicking): ""When I play poker, I'm not a nice guy!"""
+dialogue,Ross,"You are way off, pal."
+dialogue,Joey,"No, I don't think so, see Ross, because I think you love her."
+dialogue,Ross,"Um.... no. See, I might've had feelings for her at one time—not any more. I just—I..."
+action,,(Marcel makes a screeching noise in background.)
+dialogue,Ross,Marcel! Where are you going with that disc?
+action,,(Marcel puts a CD in the player.)
+dialogue,Ross,"You are not putting that on again! Marcel, OK—if you press that button, you are in very, very big trouble."
+action,,( The Lion Sleeps Tonight starts to play. Marcel starts to dance.)
+heading,,"[Scene: Monica and Rachel's, Rachel, Monica, and Phoebe are there.]"
+dialogue,Rachel,(opening mail) Can you believe what a jerk Ross was being?
+dialogue,Monica,"Yeah, I know. He can get really competitive."
+dialogue,Phoebe,"Ha. Ha, ha."
+dialogue,Monica,What?
+dialogue,Phoebe,"Oh, hello, kettle? This is Monica. You're black."
+dialogue,Monica,Please! I am not as bad as Ross.
+dialogue,Rachel,"Oh, I beg to differ. The Pictionary incident?"
+dialogue,Monica,"That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand."
+dialogue,Rachel,Oooooh. (reads letter) (surprised): Oh! I got an interview! I got an interview!
+dialogue,Monica,You're kidding! Where? Where?
+dialogue,Rachel,(in disbelief): Sak's... Fifth... Avenue.
+dialogue,Monica,"Oh, Rachel!"
+dialogue,Phoebe,"Oh, it's like the mother ship is calling you home."
+dialogue,Monica,"Well, what's the job?"
+dialogue,Rachel,Assistant buyer. Oh! I would be shopping... for a living!
+action,,(Knock on door.)
+dialogue,Monica,"OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. (opens door) Hi!"
+dialogue,Aunt Iris,Is Tony Randall dead?
+dialogue,Rachel,No.
+dialogue,Monica,I don't think so.
+dialogue,Rachel,Why?
+dialogue,Aunt Iris,"Well, he may be now, because I think I hit him with my car."
+dialogue,Monica,What?
+dialogue,Rachel,Oh my God!
+dialogue,Monica,Really?
+dialogue,Aunt Iris,No! That's bluffing. Lesson number one. (walks into kitchen) Let me tell you something... everything you hear at a poker game is pure crap. (to Phoebe): Nice earrings.
+dialogue,Phoebe,Thank y... (thinks about it)
+dialogue,Aunt Iris,"Girls, sit down."
+dialogue,Monica,"Uh, Aunt Iris? This is Phoebe, and that's Rachel..."
+dialogue,Aunt Iris,"Yeah, yeah, yeah, yeah, yeah, listen, I am parked at a meter. Let's do it."
+heading,,"[Scene: Ross's apartment, everyone but Rachel is seated around his table. The Lion Sleep Tonight plays in the background.]"
+dialogue,Phoebe,"Ross, could we please, please, please listen to anything else?"
+dialogue,Ross,Alright.
+action,,(Ross shuts off the CD player. Marcel runs into the bedroom and slams the door.)
+dialogue,Ross,I'm gonna pay for that tonight.
+action,,(Knock on door. Ross opens it. Rachel enters.)
+dialogue,Rachel,Hi!
+dialogue,Ross,Hey.
+dialogue,Rachel,"Guys! Guess what, guess what, guess what, guess what!"
+dialogue,Chandler,"Um, ok... the... the fifth dentist caved and now they're all recommending Trident ?"
+dialogue,Rachel,"Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, and—oh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!"
+dialogue,All,That's great! That's wonderful!
+dialogue,Rachel,"Oh God, oh, and then she told the funniest story..."
+dialogue,Monica,"OK, great. You'll tell us and we'll laugh. Let's play poker."
+dialogue,Joey,"Alright now listen, you guys, we talked about it, and if you don't want to play, we completely understand."
+dialogue,Chandler,"Oh yes, yes, we could play some other game... like, uh, I don't know... Pictionary ?"
+action,,(The guys all duck under the table.)
+dialogue,Monica,"Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?"
+dialogue,Phoebe and Rachel,"Yes, we should. I think we should."
+dialogue,Ross,"Uh, Rach, do you want me to shuffle those?"
+dialogue,Rachel,"No, no, thats OK. Y'know, I think I'm gonna give it a go."
+dialogue,Ross,Alright.
+dialogue,Rachel,"Alright... (shuffles cards expertly, all the guys stare in amazement)"
+action,,Commercial Break
+heading,,"[Scene: Ross's Apartment, continued from earlier.]"
+dialogue,Ross,"So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones."
+dialogue,Joey,"But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game."
+dialogue,Phoebe,"Alright, here's my $7.50. (Hands them the money) But I think you should know that this money is cursed."
+dialogue,Joey,What?
+dialogue,Phoebe,"Oh, I cursed it. So now bad things will happen to he who spends it."
+dialogue,Chandler,"That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie."
+dialogue,Ross,"Well, that just leaves the big Green poker machine, who owes fifteen..."
+dialogue,Rachel,"Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women. (hands over her money)"
+dialogue,Monica,"You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever ."
+dialogue,Rachel,"Hmm. Kinda stepped on my point there, Mon."
+heading,,"[Scene: Monica and Rachel's, everyone is there ready for another poker game.]"
+dialogue,Ross,"So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing."
+dialogue,Rachel,"Ooooh, that's fine. We'll see who has the last laugh there, monkey boy."
+dialogue,Monica,"OK, we done with the chit-chat? Are we ready to play some serious poker?"
+dialogue,Phoebe,"(holding a card and waving it in front of her face) Hey you guys, look, the one-eyed jack follows me wherever I go. (they look at her) Right, OK, serious poker."
+action,,(Ross gets up from the table.)
+dialogue,Monica,"Excuse me, where are you going?"
+dialogue,Ross,Uh... to the bathroom.
+dialogue,Monica,"Do you want to go to the bathroom, or do you wanna play poker?"
+dialogue,Ross,I want to go to the bathroom. (exits)
+dialogue,Joey,"Alright, well, I'm gonna order a pizza. (gets up)"
+dialogue,Rachel,"Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then."
+dialogue,Joey,That's fine. I'll just have a Tic-Tac to hold me over.
+dialogue,Monica,"Alright, Cincinnati, no blinds, everybody ante. (deals cards)"
+dialogue,Phoebe,(looks at her cards) Yes! (everyone looks at her) .... or no.
+action,,(Ross comes back from bathroom.)
+dialogue,Ross,"Alright. (to Rachel): Your money's mine, Green."
+dialogue,Rachel,"Your fly is open, Geller. (he checks it, and zips up)"
+action,,(Time lapse.)
+dialogue,Phoebe,"You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?"
+dialogue,Chandler,"Hey, that's... that's 'joincidence' with a 'C'!"
+dialogue,Joey,Uh... Phoebe? Phoebe?
+dialogue,Phoebe,Yeah. Um... I'm out. (throws in cards)
+dialogue,Rachel,I'm in.
+dialogue,Monica,Me too.
+dialogue,Joey,"Me too. Alright, whattaya got."
+dialogue,Ross,"Well, you better hop outta the shower, cause... I gotta flush. (lays down cards)"
+dialogue,Rachel,"Well, well, well, hop back in bucko, cause I got four sixes! (lays down cards) I won! I actually won! Oh my God! Y'know what? (collects chips) I think I'm gonna make a little Ross pile. (holds up a chip) I think that one was Ross's, and I think—oh—that one was Ross's. Yes! (Starts singing): Well, I have got your money, and you'll never see it ..."
+action,,(Ross stands up.)
+dialogue,Rachel,And your fly's still open...
+action,,(Ross looks down.)
+dialogue,Rachel,"Ha, I made you look...."
+action,,(Time lapse.)
+dialogue,Rachel,I couldn't be inner. Monica?
+dialogue,Phoebe,"Monica, in or out?"
+dialogue,Monica,(slams down cards) I hate this game!
+action,,"(Joey slides a plate away from Monica towards Chandler, who hides it under the table.)"
+dialogue,Phoebe,"OK Joey, your bet."
+dialogue,Joey,"Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. (the girls look at him, confused) Oh, I'm out."
+dialogue,Phoebe,Ross?
+dialogue,Ross,"Oh, I am very in."
+dialogue,Phoebe,Chandler?
+dialogue,Chandler,Couldn't be more out. (throws in cards)
+dialogue,Phoebe,Me too. Rachel.
+dialogue,Rachel,"Uh, I will see you... and I'll raise you. (throws chips in pot) What do you say... want to waste another buck?"
+dialogue,Ross,"No, not this time. (he folds) So... what'd you have?"
+dialogue,Rachel,I'm not telling. (collects chips)
+dialogue,Ross,"Come on, show them to me. (reaches for her cards, Rachel covers them up)"
+dialogue,Rachel,No..!
+dialogue,Ross,Show them to me!
+dialogue,Rachel,Get your hands out of there! No!
+dialogue,Ross,Let me see! Show them!
+dialogue,Chandler,"Y'know, I've had dates like this."
+dialogue,Rachel,"(deals new hand) Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple..."
+dialogue,Phoebe,Plus that shirt doesn't really match those pants.
+action,,(Ross is visibly upset.)
+dialogue,Ross,"First of all, I'm not losing..."
+dialogue,Rachel,"Oh, you are losing. Definitely losing. (phone rings)"
+dialogue,Ross,Let's not talk about losing. Just deal the...
+dialogue,Rachel,"(answering phone) Hel-lo, Rachel Green."
+dialogue,Ross,"(mimicking Rachel) Mee mee, mee-mee mee."
+dialogue,Rachel,(on phone) Excuse me. (covers up phone; to Ross) It's about the job .
+action,,(Rachel walks into kitchen to talk on the phone.)
+dialogue,Rachel,"Barbara! Hi, how are you? (Listens) Uh-huh. (Listens) No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, plea—Hello? Hello? (hangs up phone, very depressed)"
+action,,(Rachel goes back and sits down. The rest don't know what to say.)
+dialogue,Monica,"Sorry, Rach."
+dialogue,Phoebe,"Y'know, there's gonna be lots of other stuff."
+dialogue,Rachel,"Yeah...(sigh)....OK. Where were we? Oh, OK... five card draw, uh... jacks or better... nothing wild, everybody ante."
+dialogue,Joey,"Look, Rachel, we don't have to do this."
+dialogue,Rachel,"Yes, we do. (pause)"
+dialogue,Monica,"Alright, check."
+dialogue,Joey,Check.
+dialogue,Ross,I'm in for fifty cents. (throws it in)
+dialogue,Chandler,Call.
+dialogue,Phoebe,I'm in.
+dialogue,Rachel,I see your fifty cents... and I raise you... five dollars. (throws it in)
+dialogue,Ross,"I thought, uh... it was a fifty cent limit."
+dialogue,Rachel,"Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?"
+action,,"(Everyone says no and folds, except for Ross, who thinks about it.)"
+dialogue,Rachel,(to Ross): Loser?
+action,,"(Chandler, Monica, Joey, and Phoebe back their chairs away from the table.)"
+dialogue,Ross,"No, I fold. (lays cards down, and gets up)"
+dialogue,Rachel,"What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?"
+action,,"(Ross thinks it over, finally sits down and picks up his cards.)"
+dialogue,Ross,I'm in. (throws in chips)
+dialogue,Rachel,How many you want?
+dialogue,Ross,One. (Rachel gives him the card.)
+dialogue,Rachel,Dealer takes two. (she deals herself two cards) What do you bet?
+dialogue,Ross,I bet two dollars. (throws it in)
+dialogue,Rachel,OK... see your two... and I raise you twenty. (throws it in)
+dialogue,Ross,"I see your twenty, raise you twenty-five. (throws it in)"
+action,,(The other four look amazed at the large pot.)
+dialogue,Rachel,"See your twenty-five...and...uh, Monica, get my purse."
+action,,"(Monica gets up, looks in Rachel's purse.)"
+dialogue,Monica,"Rachel, there's nothing in it."
+dialogue,Rachel,"OK, then get me your purse."
+action,,(Monica gets Rachel her purse.)
+dialogue,Monica,"OK, here you go. Good luck."
+dialogue,Rachel,"(to Monica): Thank you. (to Ross): I saw your twenty-five, and I raise you... seven."
+dialogue,Phoebe,...teen! (throws in a ten-dollar bill)
+action,,"(Ross looks in his wallet, pulls out two dollars.)"
+dialogue,Ross,"(to Joey): Joey, I'm a little shy."
+dialogue,Joey,"That's OK, Ross, you can ask me. What?"
+action,,"(Ross looks at Joey, dumbfounded at his stupidity.)"
+dialogue,Chandler,"(to Ross): What do you need, what do you need?"
+dialogue,Ross,Fifteen.
+dialogue,Chandler,"Alright, here's ten. (gives it to him)"
+dialogue,Joey,"Here, I got five, I got five. (Ross takes the money)"
+dialogue,Ross,Thank you.
+dialogue,Chandler,Good luck.
+dialogue,Ross,"(to Rachel): OK, I am calling your seventeen. What do you got?"
+action,,(Long pause as they both look at each other.)
+dialogue,Rachel,(lays down cards) Full house.
+action,,"(Ross stares at her. Thinks about it. Puts cards on table, face down.)"
+dialogue,Ross,You got me.
+action,,"(Monica and Phoebe get up and start celebrating in the kitchen, pouring wine and singing. Rachel, shocked, goes to join them.)"
+dialogue,Joey,"(to Ross): Ahhh, that's alright. Y'know, that's a tough hand to beat."
+dialogue,Chandler,(to Ross): I thought we had them!
+dialogue,Ross,"Oh, well, when you don't have the cards, you don't have the cards, you know. (looks at Rachel) But, uh... look how happy she is. (smiles)"
+action,,"(Chandler and Joey look at her, and then look back at him. They dive for Ross's hand to see what he had, and he tries to stop them from looking.)"
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's, all six are playing Pictionary at Monica's apartment. Monica is drawing a picture, and the three guys are guessing. She draws what looks like an airplane.]"
+dialogue,Chandler,Airplane ! Airport ! Airport '75 ! Airport '77 ! Airport '79 !
+action,,(Timer goes off.)
+dialogue,Rachel,"Oh, time's up."
+dialogue,Monica,"(pointing at the drawing, upset) Bye... bye... BIRDIE ."
+dialogue,Joey,Oh!
+dialogue,Phoebe,That's a bird?
+action,,(Monica glares at Phoebe.)
+dialogue,Phoebe,That's a bird !
+action,,"(Monica sits, Rachel gets up.)"
+dialogue,Rachel,"OK, OK, it's my turn. (reads the answer)"
+dialogue,Chandler,Go.
+action,,(Rachel starts drawing what looks like a bean.)
+dialogue,Ross,Uh.... bean! Bean!
+action,,(Rachel begins tapping the picture of the bean frantically.)
+dialogue,Joey,(triumphantly) The Unbearable Likeness of Being !
+dialogue,Rachel,Yes!
+dialogue,Monica,"That , you get? That , you get?"
+action,,"(Monica picks up a glass to take a drink, everyone ducks as though she was about to throw it.)"
+action,,End

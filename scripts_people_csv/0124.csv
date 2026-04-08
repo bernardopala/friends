@@ -1,0 +1,304 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, the whole gang is there, Ross is showing pictures of his new baby boy, Ben, to the group.]"
+dialogue,Ross,And here's little Ben nodding off...
+dialogue,Monica,"Awww, look at Aunt Monica's little boy!"
+dialogue,Phoebe,"Oh, look, he's got Ross's haircut!"
+dialogue,Rachel,"Oh, let me see! (grabs picture) Oh, God, is he just the sweetest thing? You must just want to kiss him all over!"
+action,,(Ross is practically drooling over Rachel at this point.)
+dialogue,Ross,(quietly) That would be nice.
+action,,"(Chandler, annoyed with Ross's fawning, makes a 'pfft' noise.)"
+dialogue,Rachel,Pardon?
+dialogue,Chandler,"Nothing, just a little extra air in my mouth. Pffft. Pffffffft. (walks over to where Joey is seated)"
+action,,(Joey is looking at his check.)
+dialogue,Joey,"Hey, Chan, can you help me out here? I promise I'll pay you back."
+dialogue,Chandler,"Oh, yeah, right, OK... inlcuding the waffles last week, you now owe me... 17 jillion dollars."
+dialogue,Joey,"I will, really. I'll pay you back this time."
+dialogue,Chandler,(sigh)... And where's this money coming from? (gives money to Joey)
+dialogue,Joey,Well... I'm helping out down at the N.Y.U. Med School with some... research.
+dialogue,Ross,(overhearing) What kind of research?
+dialogue,Joey,"Oh, just, y'know.... science."
+dialogue,Ross,"Science. Yeah, I think I've heard of that. (everyone's interest is piqued, they all look over)"
+dialogue,Joey,(sigh)... It's a fertility study.
+action,,(Rachel laughs.)
+dialogue,Monica,"Oh, Joey, please tell me you're only donating your time ."
+dialogue,Joey,"Alright, come on you guys, it's not that big a deal. Really... I mean, I just go down there every other day and... make my contribution to the project. Hey, hey, but at the end of two weeks, I get seven hundred dollars."
+dialogue,Ross,Hey.
+dialogue,Phoebe,"Wow, ooh, you're gonna be making money hand over fist!"
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, Monica and Phoebe are preparing for a barbecue for Rachel's birthday.]"
+dialogue,Monica,"OK, we got the cole slaw, we got the buns..."
+dialogue,Phoebe,"We've got the ground-up flesh of formerly cute cows and turkeys, ew... (hands meat to Monica)"
+action,,(Chandler and Joey enter with charcoal.)
+dialogue,Chandler,(in a deep voice) Men are here.
+dialogue,Joey,We make fire. Cook meat.
+dialogue,Chandler,"Then put out fire by peeing, no get invited back."
+dialogue,Monica and Phoebe,Ewww!
+dialogue,Monica,"Oh Joey, Melanie called, said she's gonna be late."
+dialogue,Joey,"Oh, OK."
+dialogue,Phoebe,So how are things going with you two? Is she becoming your (provocatively) special someone?
+dialogue,Joey,"I don't know, she's, uh.... she's pretty great."
+dialogue,Monica,Yeah? What does she think of your little science project?
+dialogue,Joey,"What, you think I'm gonna tell a girl I like that I'm also seeing a cup?"
+dialogue,Monica,Man's got a point.
+dialogue,Joey,"Well, the tough thing is, she really wants to have sex with me."
+dialogue,Chandler,Crazy bitch.
+dialogue,Joey,"Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean."
+dialogue,Monica,Joey... we always know what you mean.
+action,,"[Time lapse. Chandler and Joey are making the fire, Monica and Phoebe are inside. Ross enters, carrying luggage.]"
+dialogue,Phoebe,Hey.
+dialogue,Monica,Hey.
+dialogue,Ross,Hey. (Phoebe sees his bags)
+dialogue,Phoebe,How long did you think this barbecue was gonna last?
+dialogue,Ross,I'm going to China.
+dialogue,Phoebe,"Jeez, you say one thing, and..."
+dialogue,Monica,You're going to China?
+dialogue,Ross,"Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the bo—it's—it's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary (hands a sheet of paper to Monica). Um... here's a picture of me... (hands it to Monica)"
+dialogue,Phoebe,"Oh, let me see! (takes the picture)"
+dialogue,Ross,"(to Monica): Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?"
+dialogue,Monica,Yeah.
+action,,(Phoebe puts the picture of Ross up to her face.)
+dialogue,Phoebe,"Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... (puts picture down, sees Ross staring at her) Alright, this barbecue is gonna be very fun."
+dialogue,Ross,"Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left."
+dialogue,Monica,"Oh no, she's out having drinks with Carl."
+dialogue,Ross,"Oh. (pause) Hey, who's Carl?"
+dialogue,Monica,"You know, that guy she met at the coffeehouse."
+dialogue,Ross,No.
+dialogue,Phoebe,"Oh, well, see, there's this guy she met at the..."
+dialogue,Ross,"At the coffeehouse, right."
+dialogue,Phoebe,"So you do know who he is! (laughs, Ross stares at her) Sorry."
+dialogue,Ross,"OK, I'm gonna go say goodbye to the guys."
+dialogue,Phoebe,"Oh, hey, y'know what? Tell them that bone story."
+action,,(Ross goes outisde on the balcony.)
+dialogue,Ross,Hi.
+dialogue,Joey,Hey!
+dialogue,Chandler,Hey!
+dialogue,Ross,(sigh)....I have to go to China.
+dialogue,Joey,The country?
+dialogue,Ross,"No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?"
+dialogue,Chandler,"Uh, let's see... Alvin... Simon... Theodore.... no."
+dialogue,Ross,"Well, Rachel's having drinks with him tonight."
+dialogue,Joey,Oh no! How can she do that when she's never shown any interest in you?!?
+dialogue,Chandler,Forget about her.
+dialogue,Joey,"He's right, man. Please. Move on. Go to China. Eat Chinese food."
+dialogue,Chandler,"Course there, they just call it food."
+dialogue,Ross,"Yeah... I guess. I don't—I don't know. Alright, just... just give her this for me, OK? (gives Chandler a gift for Rachel)"
+dialogue,Joey,"Listen, buddy, we're just looking out for you."
+dialogue,Ross,I know.
+dialogue,Joey,"We want you to be happy. And I may only have a couple beers in me, but... I love you, man. (Joey gives Ross a hug)"
+dialogue,Chandler,I'm still on my first. I just think you're nice.
+action,,"[Time lapse. Melanie, Joey's girlfriend, is there with Joey, Chandler, Monica, Phoebe, and Rachel. Ross is gone.]"
+dialogue,Melanie,"Anyway, that's when me and my friends started this whole fruit basket business. We call ourselves 'The Three Basketeers.'"
+dialogue,Joey,"Like the three musketeers, only with fruit."
+dialogue,Chandler,(sarcastic) Ooooh. (looks dumbfounded at Joey's stupidity)
+dialogue,Monica,"(gets up) OK, how does everybody like their burgers?"
+dialogue,Rachel,"Oh, no, no, no. Presents first. Food later. (walks into living room)"
+action,,(Everyone follows Rachel to the living room. Monica pulls Joey aside.)
+dialogue,Monica,"Hey, hold on there, tiger. How's it going? How you holding up?"
+dialogue,Joey,"Well, not so good. She definitely thinks tonight is the night we're gonna... complete the transaction, if you know what I..."
+action,,(Monica rolls her eyes.)
+dialogue,Joey,"Then you do. Heh, heh."
+dialogue,Monica,"So, uh, have you ever thought about being there for her ?"
+dialogue,Joey,What do you mean?
+dialogue,Monica,"Y'know, just be there for her ."
+action,,(Long pause... Joey looks confused.)
+dialogue,Joey,Not following you.
+dialogue,Monica,Think about it.
+action,,(They both walk over to where Rachel is opening her gifts. Rachel sees her first gift is a fruit basket.)
+dialogue,Rachel,"OK, I'm guessing this is from..."
+action,,(Melanie smiles.)
+dialogue,Rachel,"Well, thank you, Melanie."
+dialogue,Chandler,"(pointing out a gift) OK, this one right here is from me."
+dialogue,Rachel,"(picks it up) OK... ah, it's light... (shakes it)...it rattles... it's... (opens it) Travel Scrabble ! Oooohhh, thank you! (she gives it back to him)"
+action,,(Chandler looks dejected. Rachel picks up another gift.)
+dialogue,Rachel,This one's from Joey... feels like a book. Thinks it's a book... feels like a book. And...(opens it)...it's a book!
+dialogue,Phoebe,"Oh, it's Dr. Seuss!"
+dialogue,Joey,(to Rachel): That book got me through some tough times.
+dialogue,Melanie,There is a little child inside this man!
+dialogue,Chandler,"Yes, the doctors say if they remove it, he'll die."
+action,,(Rachel picks up the next gift.)
+dialogue,Rachel,Who's this from?
+dialogue,Chandler,"Oh, that's Ross's."
+dialogue,Rachel,Oh... (opens it)... (sees it is a pin) Oh my God. He remembered.
+dialogue,Phoebe,Remembered what?
+dialogue,Rachel,"It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!"
+dialogue,Chandler,"Well, sure, but can you play it on a plane? (pats his Travel Scrabble game)"
+dialogue,Phoebe,"Oh, it's so pretty. This must have cost him a fortune."
+dialogue,Monica,I can't believe he did this.
+dialogue,Chandler,"Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?"
+action,,(Everyone looks at him. He realizes he just spilled the beans about Ross's crush on Rachel. You can hear this entire classic scene by clicking here.)
+dialogue,Rachel,What did you just say?
+dialogue,Chandler,(panicked) ahem... um... Crystal duck.
+dialogue,Rachel,"No, no, no.... the, um, the... 'love' part?"
+dialogue,Chandler,(stuttering incoherently) F-hah.... flennin....
+dialogue,Rachel,Oh.... my God.
+dialogue,Chandler,"(rubbing his temples) Oh, no-no-no-no-no...."
+dialogue,Joey,"(pats Chandler on the leg) That's good, just keep rubbing your head. That'll turn back time."
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, continued from earlier.]"
+dialogue,Rachel,"I mean, this is unbelievable."
+dialogue,Phoebe,"I know. This is really, really huge."
+dialogue,Chandler,No it's not. It's small. It's tiny. It's petite. It's wee.
+dialogue,Phoebe,Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.
+dialogue,Chandler,"OK, is there a mute button on this woman?"
+dialogue,Monica,"I think this is so great! I mean, you and Ross! D-did you have any idea?"
+dialogue,Rachel,"No! None! I mean, my first night in the city, he mentioned something about asking me out, but nothing ever happened, so I just... (to Joey): W-well, what else did he say? I mean, does he, like, want to go out with me?"
+dialogue,Joey,"Well, given that he's desperately in love with you, he probably wouldn't mind getting a cup of coffee or something."
+dialogue,Rachel,"Ross? All this time? Well, I've got to talk to him. (gets up to leave)"
+dialogue,Chandler,(quickly) H-He's in China!
+dialogue,Joey,The country.
+dialogue,Monica,"No, no, wait. (checks Ross's itinerary) His flight doesn't leave for another forty-five more minutes."
+dialogue,Chandler,What about the time difference?
+dialogue,Monica,From here to the airport?
+dialogue,Chandler,Yes! (Rachel walks towards door) You're never gonna make it!
+dialogue,Monica,"Rachel, what're you gonna say to him?"
+dialogue,Rachel,I-I-I don't know.
+dialogue,Chandler,Well then maybe you shouldn't go.
+dialogue,Joey,"He's right, cause if you're just gonna, like, break his heart, that's the kind of thing that can wait."
+dialogue,Monica,"Yeah, but if it's good news, you should tell him now."
+dialogue,Rachel,I don't know. Maybe I'll know when I see him.
+dialogue,Phoebe,"Here, look, alright, does this help?"
+action,,"(Phoebe gets up, holds the picture of Ross up to her face.)"
+dialogue,Rachel,"Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later. (opens door)"
+dialogue,Chandler,"Rachel, I love you! Deal with me first! (she leaves)"
+heading,,"[Scene: Airport, Ross has headphones on, and is listening to a 'How To Speak Chinese' tape. Occasionally, he makes an outburst in Chinese in accordance with the tape. He is getting on the jetway. The flight attendant is there.]"
+dialogue,Ross,(something in Chinese)
+dialogue,Flight Attendant,Alright!
+dialogue,Ross,Ni-chou chi-ma! (walks onto jetway)
+action,,"(Rachel runs into the airport, trying to catch Ross, moving people out of the way.)"
+dialogue,Rachel,"Ross! Excuse me, pardon me, excuse me...."
+action,,(Rachel gets up to the jetway.)
+dialogue,Flight Attendant,Hi!
+dialogue,Rachel,Hi.
+dialogue,Flight Attendant,May I see your boarding pass?
+dialogue,Rachel,"Oh, no, no, I don't have one. I just need to talk to my friend."
+dialogue,Flight Attendant,"Oh, oooh. I'm sorry. You are not allowed on the jetway unless you have a boarding pass."
+dialogue,Rachel,"No, I know, but I—he just went on. He's right there, he's got the blue jacket on, I... can I j-just..."
+dialogue,Flight Attendant,No no no! Federal regulations!
+dialogue,Rachel,"OK, alright, OK, um... then could you please, uh... just give him a message for me? Please? This is very important."
+dialogue,Flight Attendant,Alright. What's the message?
+dialogue,Rachel,Uh... I don't know.
+action,,"[Cut to the Jetway, the flight attendant enters, walks past Ross, and approaches an older man with his wife who is also wearing a blue jacket.]"
+dialogue,Flight Attendant,"Sir? Sir? Excuse me, sir? Uh... I have a message for you."
+dialogue,Man,(confused) What?
+dialogue,Flight Attendant,"It's from Rachel. She said that she loved the present, and she will see you when you get back."
+dialogue,Man,"(to wife): Toby... Oh, for God's sake, I don't know what she's talking about! There's no Rachel! Don't give me that deep freeze."
+heading,,"[Scene: Joey's Bedroom, he and Melanie are in bed together.]"
+dialogue,Melanie,"Mmmmmm... Oh, Joey, Joey, Joey... I think I blacked out there for a minute!"
+dialogue,Joey,"Heh, heh. It was nothin'."
+dialogue,Melanie,"Well, now we've gotta find something fun for you! (she starts kissing his chest)"
+dialogue,Joey,"(panicked) Uhhh.. y'know what? Forget about me. Let's, uh... let's give you another turn."
+dialogue,Melanie,(surprised) M-Me again?
+dialogue,Joey,Sure! Why not?
+dialogue,Melanie,"Boy, somebody's gonna get a big fruit basket tomorrow."
+action,,(Joey starts to kiss her.)
+dialogue,Melanie,"Oooh, I gotta tell you... you are nothing like I thought you would be."
+dialogue,Joey,How do you mean?
+dialogue,Melanie,"I don't know, I-I guess I just had you pegged as one of those guys who're always 'me, me, me.' But you... you're a giver. You're like the most generous man I ever met. I mean... you're practically a woman."
+heading,,"[Scene: Monica and Rachel's, Monica, Phoebe, and Rachel are there. Monica is holding the wrapping paper from one of Rachel's gifts.]"
+dialogue,Monica,"Uh, so, uh, Rach, uh... do you wanna save this wrapping paper, I mean, it's only a little bit torn... so are you gonna go for it with Ross or should I just throw it out?"
+dialogue,Rachel,"I don't know. I don't know... I thought about it all the way there, and I thought about it all the way back... and, uh, oh, you guys, y'know, it's Ross . Y'know what I mean? I mean, it's Ross ."
+dialogue,Monica and Phoebe,Sure.
+dialogue,Rachel,"I don't know, I mean, this is just my initial gut feeling... but I'm thinking... oh, I'm thinking it'd be really great."
+dialogue,Monica,"Oh my God, me too! Oh! Oh, we'd be like friends-in-law! Y'know what the best part is? The best part is that you already know everything about him! I mean, it's like starting on the fifteenth date!"
+dialogue,Phoebe,"Yeah, but, y'know, it's... it would be like starting on the fifteenth date."
+dialogue,Monica,Another good point.
+dialogue,Phoebe,"No, I mean, I mean, when you're at the fifteenth date, y'know, you're already in a very relationshippy place. Y'know, it's... you're committed."
+dialogue,Rachel,(confused) Huh?
+dialogue,Phoebe,"Well, I mean, then what happens if it doesn't work out?"
+dialogue,Monica,Why isn't it working out?
+dialogue,Rachel,I don't know... sometimes it doesn't.
+dialogue,Monica,Is he not cute enough for you?
+dialogue,Rachel,No!
+dialogue,Monica,Does he not make enough money?
+dialogue,Rachel,"No, I'm just...."
+dialogue,Phoebe,Maybe there's someone else.
+dialogue,Rachel,Wha...
+dialogue,Monica,Is there? Is there someone else?
+dialogue,Rachel,No! There is.. there is noone else!
+dialogue,Monica,Then why the hell are you dumping my brother?!?
+heading,,"[Scene: Chandler and Joey's, Chandler is eating breakfast, Joey quietly opens his bedroom door.]"
+dialogue,Chandler,"Hey, big..."
+dialogue,Joey,Shhhh!
+dialogue,Chandler,(quietly) ...spender.
+dialogue,Joey,She's still asleep.
+dialogue,Chandler,So how'd it go?
+dialogue,Joey,"Oh, it was amazing. You know how you always think you're great in bed?"
+dialogue,Chandler,The fact that you'd even ask that question shows how little you know me.
+dialogue,Joey,"Well, it's like, last night, I couldn't do the thing that usually makes me great. So I had to do all this other stuff. And the response I got... man, oh man, it was like a ticker tape parade!"
+dialogue,Chandler,"Yes, I know, as it happens my room is very very close to the parade route."
+dialogue,Joey,"It was amazing! And not just for her... uh-uh. For me, too. It's like, all of a sudden, I'm blind. But all my other senses are heightened, y'know? It's like... I was able to appreciate it on another level."
+dialogue,Chandler,I didn't know you had another level.
+dialogue,Joey,I know! Neither did I!
+heading,,"[Scene: Monica and Rachel's, one week later. Monica is seated, Rachel comes out of her bedroom.]"
+dialogue,Monica,"Hey, great skirt! Birthday present?"
+dialogue,Rachel,Yeah.
+dialogue,Monica,"Oh, from who?"
+dialogue,Rachel,From you. I exchanged the blouse you got me.
+dialogue,Monica,"Well, it's the thought. Hey, doesn't Ross's flight get in in a couple hours? At gate 27-B?"
+dialogue,Rachel,"Uh, yeah. Uh, Monica, y'know, honey, I've been thinking about it and I've decided this—this whole Ross thing, it's just not a good idea."
+dialogue,Monica,"Oh, why?"
+dialogue,Rachel,"Because, I feel like I wouldn't just be going out with him. I would be going out with all of you. Oh, and there would just be all this pressure, and I don't wanna..."
+dialogue,Monica,"(gets up) No, no, no, no, no, no pressure, no pressure!"
+dialogue,Rachel,"Monica, nothing has even happened yet, and you're already so..."
+dialogue,Monica,"I am not 'so'! OK, I was a teensy bit weird at first, but... I'll be good. I promise."
+action,,(Door buzzer goes off. Rachel answers it.)
+dialogue,Rachel,Who is it?
+dialogue,Intercom,"It's me, Carl."
+dialogue,Rachel,C'mon up.
+dialogue,Monica,Behind my brother's back? (Rachel glares at her) ... is exactly the kind of crazy thing you won't be hearing from me.
+heading,,"[Scene: Chandler and Joey's, Chandler is seated, and the apartment is filled with baskets of fruit. Joey enters, check in hand.]"
+dialogue,Joey,Seven hundred bucks!
+dialogue,Chandler,"Alright, you did it! Do we have any fruit?"
+dialogue,Joey,"Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something."
+dialogue,Chandler,"Really? So, you're gonna stick with this 'it's all for her' thing?"
+dialogue,Joey,"What, are you crazy? When a blind man gets his sight back, does he walk around like this? (Joey closes his eyes and walks around with arms spread.)"
+heading,,"[Scene: Monica and Rachel's Balcony, Rachel is having drinks with her date, Carl.]"
+dialogue,Carl,"I'm just sayin', if I see one more picture of Ed Begley, Jr. in that stupid electric car, I'm gonna shoot myself! I mean, don't get me wrong... I'm not against environmental issues per se .... it's just that guy!"
+action,,"(Rachel looks bored. At this point, Ross—a figment of Rachel's imagination— shows up on the balcony and starts talking to her.)"
+dialogue,Ross,I can't believe you'd rather go out with him than me.
+dialogue,Rachel,"Would you excuse me, please? I'm trying to have a date here."
+dialogue,Ross,"Fine, just stop thinking about me."
+action,,"(She tries, and Ross disappears momentarily. He reappears, standing closer to her.)"
+dialogue,Ross,"Can't do it, can you?"
+dialogue,Rachel,So I'm thinking about you. So what?
+dialogue,Ross,"I don't get it. What do you see in this guy, anyway?"
+dialogue,Rachel,Well... he happens to be a very nice... guy....
+dialogue,Carl,"I mean, come on, buddy, get a real car !"
+dialogue,Ross,"Rachel, come on. Give us a chance."
+dialogue,Rachel,"Ross, it's too hard."
+dialogue,Ross,"No, no, no... why, because it might get weird for everyone else? Who cares about them. This is about us. Look, I-I've been in love with you since, like, the ninth grade."
+dialogue,Rachel,"Ross, you're like my best friend."
+dialogue,Ross,I know.
+dialogue,Rachel,"If we broke up, and I lost you..."
+dialogue,Ross,"Whoa, whoa, whoa. What makes you think we're gonna break up?"
+dialogue,Rachel,"Well, have you been involved with someone where you haven't broken up?"
+dialogue,Ross,"(pause) No. But... it only has to happen once . Look, you and I both know we are perfect for each other, right? I mean... so, the only question is... are you attracted to me?"
+dialogue,Rachel,"I don't know... I mean, I've never looked at you that way before."
+dialogue,Ross,"Well, start looking."
+action,,"(They kiss. Ross walks away, and then fades out.)"
+dialogue,Rachel,Wow.
+dialogue,Carl,Exactly! And you just know I'm gonna be the guy caught behind this hammerhead in traffic!
+dialogue,Rachel,Right! You're right!
+dialogue,Carl,Heh... y'know?
+dialogue,Rachel,You know what?
+dialogue,Carl,What?
+dialogue,Rachel,"I forgot... I am supposed to pick up a friend at the airport. I am so sorry! I'm so... if you want to stay, and finish your drinks, please do.... (gives him her drink) I mean—I'm sorry. I-I-I gotta go. I'm sorry."
+action,,(Rachel leaves.)
+dialogue,Carl,But...
+heading,,[Scene: Airport. Madonna's Take A Bow plays in the background as Rachel waits at the gate with flowers.]
+dialogue,Rachel,"(sifting through crowd) Excuse me, pardon me, excuse me, excuse me, sorry. Hi."
+action,,"[Cut to the jetway, the old man who the flight attendant delivered Rachel's message to gets off the plane, his wife still upset with him.]"
+dialogue,Man,"For God's sake, will you let it go? There's no Rachel!"
+action,,(A Chinese woman getting off the plane drops one of her bags. Ross gets off next.)
+dialogue,Ross,"Oh, hey, hey, I got that."
+action,,(Ross picks up the bag... then he and the woman kiss.)
+dialogue,Julie,"Oh, thanks, sweetie."
+dialogue,Ross,No problem. I cannot wait for you to meet my friends.
+dialogue,Julie,Really?
+dialogue,Ross,Yeah.
+dialogue,Julie,You don't think they'll judge and ridicule me?
+dialogue,Ross,"No, no, they will. I just... uh..."
+dialogue,Ross and Julie,Can't wait.
+dialogue,Ross,"Come on, they're gonna love you."
+action,,"[Cut to a close-up of Rachel, eagerly awaiting Ross's arrival... not knowing he is getting off the plane with another woman.]"
+action,,End

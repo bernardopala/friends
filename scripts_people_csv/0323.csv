@@ -1,0 +1,284 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's, Chandler and Joey are playing with the duck and the chick.]"
+dialogue,Joey,"Hey, wouldn't be cool if our duck and chick had a little baby? We could call it Chuck."
+dialogue,Chandler,Or... Dick.
+dialogue,Ross,(entering) Hey.
+dialogue,Chandler and Joey,Hey.
+dialogue,Ross,"Listen, I-I need a favor. Umm, I was in the shower, and as I was cleansing myself, I ah, I-I, well I felt something."
+dialogue,Chandler,Was it like a sneeze only better?
+dialogue,Ross,"No, no, I mean, I mean a thing on my body."
+dialogue,Joey,(with a disgusted look) What was it?
+dialogue,Ross,"Well, I don't know, it's-it's kinda in a place that's not... It's not visually accessible to me, and I was hoping maybe you guys could-could help me out. (starts to take off his pants)"
+dialogue,Chandler and Joey,Whoa!!!
+dialogue,Chandler,No!!
+dialogue,Ross,"Come on you guys, it's no big deal! (He turns around and shows him his thing.)"
+dialogue,Chandler,Whoa-heeeiiiiii-iiiii-ah!! (sees it) Huh.
+dialogue,Ross,"Well what is it? Is it a mole? (He moves closer to them, and they jump back.)"
+dialogue,Joey,"No, it's too wrinkly to be a mole."
+dialogue,Ross,"Well, eww. What? Is it a pimple?"
+dialogue,Chandler,"No, it's... fancier than a pimple. Look Ross, why don't you just go see a…"
+dialogue,Rachel,"(entering, interrupting them) Hey guys! What's... (sees what they're doing and stops, the guys are stunned)"
+dialogue,Chandler,"Okay, well, it's definite, two more weeks of winter."
+dialogue,Ross,Ahhh.
+dialogue,Joey,"Yeah, right."
+action,,(Rachel backs out with a confused look on her face.)
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Chandler, Joey, and Rachel are there, as Phoebe enters with her date.]"
+dialogue,Phoebe,"(to her date) Okay, and then this is the coffee house. This is where I play my music. (points to the stage)"
+dialogue,Vince,Good deal.
+dialogue,Phoebe,"Yeah, and these are my friends. People. This is Vince, Vince the people."
+dialogue,Rachel,Hi!
+dialogue,Chandler,Hey!
+dialogue,Vince,Hey!
+dialogue,Phoebe,Vince is a fireman.
+dialogue,Rachel,Wow! Have you ever rescued anyone from a burning building before?
+dialogue,Vince,"98 hot saves, highest in the force."
+dialogue,Chandler,"Well, y'know if Joey and I played with matches we could get you up to an even hundred."
+dialogue,Vince,"(dead serious) Fire safety is not a joke, son."
+dialogue,Chandler,"You're right, I know."
+dialogue,Vince,"(to Phoebe) Look, I gotta go. I'm on call tonight. (kisses her) See you Saturday. (leaves)"
+dialogue,Phoebe,Okay. (watches him leave)
+dialogue,Rachel,"Wow, he's cute, Pheebs! But I thought you just started dating that Kindergarten teacher."
+dialogue,Phoebe,"Oh, Jason? Yeah, uh-huh, we're seeing each other tonight."
+dialogue,Rachel,What-Pheebs?! Two dates in one day? That's so unlike you.
+dialogue,Phoebe,"I know, I know! I'm like playing the field. Y'know? Like, juggling two guys, I'm sowing my wild oats. Y'know? Y'know, this kind've like y'know oat-sowin', field-playin' juggler."
+dialogue,Joey,"So Pheebs, do they know about each other?"
+dialogue,Phoebe,"Does a dog's lips move when he reads? (Joey makes an `I don't know' face, and looks to Chandler and Rachel, who're also stumped) Okay, no they don't."
+dialogue,Ross,(entering) Hey guys!
+dialogue,Joey,Hey.
+dialogue,Rachel,Hi!
+action,,"(He goes over and sits down at the counter, all depressed.)"
+dialogue,Joey,(going over to him) Well?!
+dialogue,Chandler,"(joining them) Okay, how'd it go at the doctor's?"
+dialogue,Ross,"Well, he said there's definitely nothing to worry about, it's totally benign."
+dialogue,Joey,Well what is it?!
+dialogue,Ross,"He couldn't even tell me! He said it was just some sort of skin... abnormality. And the worst thing is he-he-he said, he said, without being able to identify it, he was reluctant to remove it."
+dialogue,Chandler,"Y'know what? You should go to my guy, because when I went in there with my third nipple. He just lopped it right off. Y'know? So I guess I'm lucky. I mean not as lucky as people who were born with two nipples."
+dialogue,Ross,"At least they knew what yours was. Y'know, yours had a name."
+dialogue,Joey,"Oh! Maybe they'll name yours after you! Y'know, they'll call it, The Ross. And then people would be like, ""Awww, he's got a Ross."""
+dialogue,Ross,"(sarcastic) Yeah, that'd be cool!"
+action,,[cut to Phoebe and Rachel as Monica returns from the bathroom]
+dialogue,Monica,Pete's breaking up with me.
+dialogue,All,What?!
+dialogue,Monica,"I just checked my messages, and he said that when he gets back from Atlanta, we need to talk."
+dialogue,Rachel,And?
+dialogue,Monica,Well that's it. People never say `We need to talk' unless it's something bad.
+dialogue,Joey,"Whoa, that doesn't necessarily mean that he's breaking up with you."
+dialogue,Monica,Really?!
+dialogue,Joey,"Yeah, maybe he just cheated on you."
+heading,,"[Scene: A Street, Phoebe is walking with her second date, Jason.]"
+dialogue,Jason,"...and I know I'll never miss doing it, but I gotta tell you, it's pretty cool knowing that you're making a difference in a kid's life."
+dialogue,Phoebe,"That is so great! Oh, I... (sees that a parked car near them has caught on fire) Oh my God!"
+dialogue,Jason,Whoa!
+dialogue,Phoebe,(the fire has worsened) Oh my God!!!
+dialogue,Jason,"Ahh-ahh, we'd better call the fire department!"
+dialogue,Phoebe,(stopping him) No! No!
+dialogue,Jason,"No, no?"
+dialogue,Phoebe,"Well, we don't n-n-n-n-need a fireman, we'd, we'd like a good mechanic. (hears the sound of approaching sirens) Oh my God, here they come! Well, we gotta get out of here!"
+dialogue,Jason,W-w-w-wait! Why?!
+dialogue,Phoebe,"Well look, if I wanted to see a fireman, I would date one. Okay? (she drags him away)"
+heading,,"[Scene: A Doctor's Office, Ross is having his thing looked at by Dr. Rhodes.]"
+dialogue,Ross,"Th-th-that's all it is, a third nipple. Y'know? Just your run-of-the-mill third nipple. Y'know? You can take it off. Just slice that baby right off!"
+dialogue,Dr. Rhodes,"Take your shirt off, and let's see what we're dealing with here. (Ross starts to take off his pants) What are you doing?"
+dialogue,Ross,Just showing you my run-of-the-mill-slice-it-right-off third nipple.
+dialogue,Dr. Rhodes,Well that's not a third nipple.
+dialogue,Ross,No?
+dialogue,Dr. Rhodes,"First of all, it's on your ass."
+dialogue,Ross,"Well then, what is it?!"
+dialogue,Dr. Rhodes,"Wait a minute, hold it. (He goes to the door and opens it.) Johnson! Will you come in here a moment?"
+dialogue,Dr. Johnson,I'm with Hamilton!
+dialogue,Dr. Rhodes,"He's good with rear things, bring him in too."
+heading,,"[Scene: Central Perk, Chandler, Monica, and Joey are there.]"
+dialogue,Monica,"(starting to get up) I gotta go water Pete's plants. (stops) Y'know what, if he's gonna break up with me, maybe I won't water his plants."
+dialogue,Chandler,"Well, if he's gonna break up with you, maybe Joey and I should water his plants. If y'know what I mean."
+dialogue,Joey,"Or ha-ha, we could go over there and pee on them."
+dialogue,Phoebe,"(entering with Rachel) …and I-I can't take it! Y'know? I'm just, always afraid one of them is gonna catch me with the other one. It's making me crazy."
+dialogue,Rachel,"Well honey, then why don't you break up with one of them?"
+dialogue,Phoebe,(disgusted) Uh.
+dialogue,Joey,"Whoa-whoa-whoa. What ah, what happened to playing the field?"
+dialogue,Phoebe,"Well, it just, it doesn't feel like playing anymore, it feels like work. It's like I'm working in the field."
+dialogue,Rachel,"So Pheebs, pick one of them."
+dialogue,Monica,Yeah. Which one do you like more?
+dialogue,Phoebe,"Well, Vince is great, y'know `cause, he's like a guy, guy. Y'know? He's so burly, he's sooo very burly. (giggles)"
+dialogue,Joey,"Okay, good, so there you go. Go with Vince."
+dialogue,Phoebe,"Yeah, but Jason's really sensitive."
+dialogue,Chandler,"Well sensitive is important, pick him."
+dialogue,Phoebe,Yeah.
+dialogue,Joey,"Oh sure, go with the sissy."
+dialogue,Phoebe,Jason is not a sissy!
+dialogue,Joey,"Oh no-no-no-no, I meant Chandler."
+heading,,"[Scene: Dr. Rhodes's Office, a rather large group of doctors has now gathered to take a look at Ross's thing. Ross is none too pleased with the developments, he has a disgusted look on his face.]"
+dialogue,Ross,Y'know I have dinner plans!!
+dialogue,Dr. Rhodes,"Thank you soo much for coming on such a short notice. Ladies and gentlemen, I've-I've-I've been practicing medicine for twenty-three years, and I'm stumped."
+action,,(He removes the blanket covering the thing.)
+dialogue,All,"Whoa. (they all lean in to get a closer look, Ross isn't pleased)"
+heading,,"[Scene: Pete's apartment, Monica is there to water the plants, and is showing the gang around.]"
+dialogue,Monica,"Okay, this is the den. All right, check this out. Lights! (the lights turn on automatically, but are very bright) Whoa! All right. Less lights! Bad lights! Lights go away! (they dim) Oh, see you just need to find the right command."
+dialogue,Ross,"Yes, and the dimmer switch."
+dialogue,Joey,"Whoa! For a rich guy he's got, that's a pretty small TV."
+dialogue,Monica,"No-no-no, that's a video-phone. But hey guys you're not supposed to be here, so please, do not touch anything."
+dialogue,Chandler,(sitting down on the couch) I-kea! This is comfortable.
+dialogue,Rachel,(entering with Phoebe) This place is amazing.
+dialogue,Phoebe,"God, that is the nicest kitchen."
+dialogue,Monica,I know.
+dialogue,Phoebe,"No! But it's the nicest kitchen, the refrigerator told me to have a great day."
+dialogue,Joey,Look at this! A millionaire's checkbook.
+dialogue,Monica,"Joey, put that down! (the phone rings) Oh my God! It's Pete. Okay, get out!! How the hell do you answer a video-phone! (steps in front of it, and automatically answers it)"
+dialogue,Pete,Monica? (the gang ducks and hides)
+dialogue,Monica,I guess that's how.
+dialogue,Pete,"Hey Monica, how's it going."
+dialogue,Monica,"Oh it’s umm, good! It's umm, it’s good, just here watering the plants."
+dialogue,Pete,Well don't forget that fiches over there by Rachel.
+dialogue,Rachel,(standing up) Ahh... Chandler's on the couch!!
+dialogue,Pete,"I see him, you guys are just the worst hiders ever."
+dialogue,All,(standing up) Hey Pete.
+dialogue,Joey,"Hi, how ya doing?"
+dialogue,Monica,"Ahh, Pete, the other day when you said you needed to talk, umm, just so I know, is it good news or bad news."
+dialogue,Pete,"Oh, it's good news. No, it's definitely good news. Hold on a second, I have another call. (clicks his remote) (to his other call) Hey, how's it going?"
+dialogue,Monica,"Oh no-no-no, it's still me."
+dialogue,Pete,"Ah, no it's not. I've got picture-in-picture here. (to other caller) Yeah. (listens) Yeah, okay. I'm gonna have to call you back later. (pause) Monica? You. I'm gonna have to call you back."
+dialogue,Monica,"Oh, oh, okay umm, so I'll see you soon."
+dialogue,Pete,"Okay, I love you."
+dialogue,Monica,I love you.
+dialogue,All,"I love you, love you."
+dialogue,Monica,"Okay. Well, it's good news. It's good news."
+dialogue,Chandler,"So, what do you thing the good news is?"
+dialogue,Joey,"(looking at the checkbook) Wow! Look at this! He wrote a check for 50,000 dollars to Hugo Ligrens Ring Design. (Monica is stunned) Oh, sorry, what do you think the good news is?"
+action,,[pause]
+dialogue,Monica,Oh my.
+dialogue,Rachel,Monica's gonna marry a millionaire!!!
+dialogue,Ross,"Hey, you gotta get Mom on the phone. Call Mom! Call Mom!"
+action,,"(Pete's computer automatically calls Mom, Pete's Mom.)"
+dialogue,Pete's Mom,Hello.
+dialogue,Monica,And that's Pete's Mom.
+action,,(The gang quickly hides again.)
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, the gang is returning from Pete’s.]"
+dialogue,Rachel,"Mon you definitely have to make it a theme wedding, and the theme could be, “Look how much money we’ve got!” Y'know, I mean you could put, you could put money in-in the invitations! You-you could have like little money place settings. And ah, you could start with a money salad! I mean it’ll be dry, but people will like it."
+dialogue,Monica,"Would you stop? We’ve only been going out a couple of weeks, I mean we don’t even know if he’s gonna propose."
+dialogue,Chandler,"Yes, but this is Pete. Okay? He’s not like other people, on your first date he took you to Rome. For most guys that’s like a third or fourth date kinda thing."
+dialogue,Monica,"Well if-if that’s what it is, then it’s-it’s crazy."
+dialogue,Ross,Monica’s right. We’re talking about getting married here. Okay? She-she can’t just rush into this.
+dialogue,Rachel,"Oh please, what do you know! You married a lesbian!"
+action,,"(Joey laughs, Ross glares at him, and Joey stops.)"
+dialogue,Phoebe,All right. I gotta go. I have break up with Vince.
+dialogue,Chandler,"Oh, so you’re going with the teacher, huh?"
+dialogue,Phoebe,"Yeah, I like Vince a lot, y'know? But, it’s just Jason’s so sensitive, y'know? And in the long run, I think sensitive it’s just better than having just like a really, really, really nice (pause) butt. (Her eyes glaze over thinking about the butt.) (pause) Jason! Definitely Jason! Okay, wish me luck!"
+dialogue,All,Good luck!
+action,,(pause)
+dialogue,Rachel,"OH MY GOD!!! (She holds her hands up in triumph and the gang all look at her.) Sorry, I was just imagining what it’d be like to catch the money bouquet."
+heading,,"[Scene: A Fire House, Phoebe has gone to break up with Vince.]"
+dialogue,Phoebe,"Excuse me. Umm, is Vince here?"
+dialogue,Fireman,Oh sure. Vince?!
+dialogue,Vince,Yo!! (slides down that pole that fire station’s have)
+dialogue,Phoebe,Wow! I didn’t know you guys actually used those.
+dialogue,Vince,"So, what’s up?"
+dialogue,Phoebe,"Umm, wow. This-this isn’t gonna be easy. Umm, I don’t think we should see each other anymore."
+dialogue,Vince,Uh-huh. G-good deal.
+dialogue,Phoebe,I’m sorry.
+dialogue,Vince,"No-no it’s okay. It’s just that ah, I thought we had something pretty special here. And y'know I-I felt like you were someone I could finally open up to, and… (starts choking up) That there’s so much in me I have to share with you yet."
+dialogue,Phoebe,"Oh my God, I didn’t…"
+dialogue,Vince,"(starting to cry) I’m sorry, I can’t talk. I’m gonna go write in my journal. (walks away)"
+dialogue,Phoebe,(running after him) Wait-wait-wait! Wait!!
+heading,,"[Scene: Central Perk, Phoebe, Ross, and Monica are there.]"
+dialogue,Phoebe,"(to Ross) I’m telling you, if you want to take care of that thing, you should go to my herbal guy."
+dialogue,Ross,"Thank you, but I want to remove it Pheebs. I don’t want to make it savory."
+dialogue,Monica,"Y'know when girls sleep with guys with weird things on their body, they tell their friends about it."
+dialogue,Ross,Gimme this. (Grabs the herbalist’s card and leaves.)
+dialogue,Rachel,"(entering) Hi! Okay, don’t be mad at me, but I couldn’t resist."
+dialogue,Monica,Brides magazines?
+dialogue,Rachel,"Yes, and I know that you’d say no if he asked you, but I’m sorry; how great would you look walking down the aisle in this Donna Carin. (shows her the picture.)"
+dialogue,Phoebe,"(gasps) Oh, you so would! Oh, you should get that anyway. (They both look at her.) Like for clubbing."
+dialogue,Monica,"It is so weird, I know what I said, but uh, this morning, I was lying in bed I was, I was imagining what it would be like to say yes. (Rachel slams the magazine shut in amazement.) I know it’s a little sudden, and it’s a little rushed, and it’s totally not like me to do something like this, but that doesn’t mean I can’t. Right? I mean I’m-I’m crazy about Pete, and I know that we want the same things, and when I thought about saying yes, it made me really happy."
+dialogue,Rachel,Oh my God. (starting to cry)
+dialogue,Monica,I know. (pause) I need more pie. (goes and gets some)
+dialogue,Phoebe,"Hey Mon umm, if you do get married, can I bring two guests?"
+dialogue,Rachel,You didn’t break up with that fireman?
+dialogue,Phoebe,"No, that was my way of telling you. Well, it turns out he’s incredibly sensitive, he keeps a journal and he paints. He even showed me charcoal drawings that he drew of me."
+dialogue,Rachel,Wow!
+dialogue,Phoebe,"Yeah, well he’d prefer water colors, but y'know, he has easy access to a lot of charcoal."
+dialogue,Monica,"So then, are you going to dump Jason?"
+dialogue,Phoebe,"Well, yeah, because I have to break up with someone, and… Okay so Jason is sensitive, (holds up one finger) but now so’s Vince (holds up one finger on her other hand) Plus, Vince has the body y'know? (holds up two more fingers on the Vince side) So… It’s really just about the math."
+heading,,"[Scene: Jason’s apartment, Phoebe has gone to break up with Jason.]"
+dialogue,Phoebe,(knocks on the door) Jason?
+dialogue,Jason,"Yeah, come on in."
+action,,"(She goes in, and sees Jason without his shirt. It turns out that he has a great body too, and is at a loss for words.)"
+dialogue,Jason,"So Phoebe, you ah, sounded kinda serious on the phone, is ah, is anything wrong?"
+dialogue,Phoebe,Nah-ha!
+heading,,"[Scene: Phoebe’s Herbal Guy’s office, Ross is there about his thing. Ross is looking around the exam room, and he goes over to a large bank of drawers, pulls one out and almost spills it as the herbalist, Guru Saj, enters.]"
+dialogue,Guru Saj,You must be Ross.
+dialogue,Ross,Hi.
+dialogue,Guru Saj,I am Guru Saj. (takes the drawer back and replaces)
+dialogue,Ross,"Listen, I got to tell you I’ve-I’ve never been to a guru before, so..."
+dialogue,Guru Saj,"Well, relax. If it makes you feel better, I’ve attended some of the finest medical schools in Central America. Well then, let’s take a look at this skin abnormality of yours. (motions to the table) Come on, have a seat. (looks at it) Eeh, huh. As I suspected, it’s a koondis!"
+dialogue,Ross,What’s a koondis?
+dialogue,Guru Saj,"I don’t know, what’s a koondis with you? (starts laughing as if that joke was funny, Ross only looks at him, and he stops) Please, lie down! I’ve got a sav that oughta shrink that right up."
+dialogue,Ross,I guess it’s worth a try.
+dialogue,Guru Saj,"Oh sure, we should see results—Whoa!! Clearly not the way to go!! (quickly wipes it off)"
+dialogue,Ross,What?! What?!
+dialogue,Guru Saj,We appear to have angered it.
+dialogue,Ross,We?! We angered it?!
+dialogue,Guru Saj,"Oh, I think I see the problem. And I’m afraid we’re gonna have to use a much stronger tool. (Ross gives him a ‘What?’ look) Love."
+dialogue,Ross,Oh God!
+dialogue,Guru Saj,"(He starts moving his hands around in circles above the thing.) Ross, there is absolutely no way this is going to come off unless you start to…"
+dialogue,Ross,Ow!!
+dialogue,Guru Saj,Oops.
+dialogue,Ross,"What was, what was that?"
+dialogue,Guru Saj,Well it’s gone.
+dialogue,Ross,What?! How’s that?
+dialogue,Guru Saj,It got caught on my watch.
+dialogue,Ross,Hey! (congratulates him)
+heading,,"[Scene: Pete’s apartment, Pete and Monica are coming back from a date.]"
+dialogue,Pete,"Lights. (The lights turn on, once again they’re too bright.) Uh, romantic lights. (The lights dim.)"
+dialogue,Monica,"Ooh, nice."
+dialogue,Pete,"So ah, there was this thing I wanted to talk to you about."
+dialogue,Monica,"Oh, right! I completely forgot about that."
+dialogue,Pete,"Well ah, I’ve been doing a lot of thinking, and I look at my life…"
+dialogue,Monica,Yeah?
+dialogue,Pete,"And I feel like I’ve conquered the business world, and I feel like I’ve conquered the intellectual world, and now I-I have the most beautiful woman in the world."
+dialogue,Monica,Wow.
+dialogue,Pete,There’s one thing missing.
+dialogue,Monica,What’s that?
+dialogue,Pete,It’s time for me to conquer the physical world.
+dialogue,Monica,Okay. (not sure of herself)
+dialogue,Pete,"Monica, I want to become (pause) the Ultimate Fighting Champion."
+dialogue,Monica,You wanna what?!
+dialogue,Pete,"I want to become the Ultimate Fighting Champion! It’s the most intense physical competition in the world, it’s banned in 49 states!"
+dialogue,Monica,What are you talking about?
+dialogue,Pete,"Okay, my trainer, Ho Chi, is teaching me a combination of Gee Koon Doe and Brazilian street fighting, I’ve even had my own octagon training ring designed."
+dialogue,Monica,And I suppose you used a ring designer for that.
+dialogue,Pete,"Yeah. Monica, I want you there in the front row when I win. I want you close enough to smell the blood. What do you think?"
+dialogue,Monica,My parents will be so happy.
+heading,,"[Scene: Central Perk, Phoebe’s singing, Vince is also there.]"
+singing,Phoebe,"(singing) “Crazy underwear, creepin’ up my butt. (Jason enters) Crazy underwear, always in a rut. Crazy under-(sees Jason)-wear…” (In her head) <voiceover>Oh No! What is he doing here? All right, just keep playing, just keep playing. You’ll get through this; you’ll be fine.</voiceover> (She tries to continue the song, but she has lost the ability to pronounce words, and the lyrics come out as gibberish.) (giving up on the song) Okay, thank you. And, as always no one talk to me after the show."
+action,,(They all applaud her.)
+dialogue,Jason,(going up to her) Hey. I was…
+dialogue,Phoebe,Hey!
+dialogue,Jason,"I was passin’ by and I saw that you were playing tonight, it’s kinda cool seeing you up there. (kisses her)"
+dialogue,Vince,(running over) Whoa! Hey-hey! What’s going on here? Who is this guy?
+dialogue,Phoebe,"I don’t know, he just started kissing me. Get him! Get him, Vince!"
+dialogue,Vince,What?!
+dialogue,Jason,What?!
+dialogue,Phoebe,"Yeah, okay, I’ve-I’ve been dating both of you, and it’s been really horrible. ‘Cause y'know it’s been a lot of fun, for me. Umm, but I-I like you both, and I, and I didn’t know how to chose, so... I’m sorry, I’m just, I’m terrible, I’m a terrible person. I’m terrible."
+dialogue,Vince,"Phoebe, Phoebe relax, it’s okay. I mean we never said this was exclusive."
+dialogue,Jason,"Yeah, and neither did we. Give yourself a break."
+dialogue,Phoebe,Really?!
+dialogue,Jason,"Yeah. I mean y'know, we haven’t been going out that long. Come on, we haven’t even slept together yet. Huh."
+dialogue,Vince,You haven’t?
+dialogue,Jason,You have?
+dialogue,Phoebe,"Well, this is none of my business. (starts to walk away)"
+dialogue,Jason,(to Phoebe) I-I can’t believe this! You-you’ve slept with him?!
+dialogue,Phoebe,"Well, I made you a candle light dinner in the park."
+dialogue,Jason,"Y'know Phoebe, I’m gonna make this real easy for you. (walks out)"
+dialogue,Phoebe,"(to Vince) Well, that could’ve been really awkward."
+dialogue,Vince,You made him a candle light dinner in the park?
+dialogue,Phoebe,"Yeah, but I-I-I-I can do that for you, I’m gonna do that for you."
+dialogue,Vince,"Uh yeah, I can’t believe I ever went out with somebody who would actually have an open flame in the middle of a wooden area. (walks out)"
+action,,Closing Credits
+heading,,[Scene: Guru Saj’s office: Joey and Chandler have taken the duck to see the guru.]
+dialogue,Chandler,"(comforting the duck) Everything’s gonna be all right. Okay, Dick?"
+dialogue,Guru Saj,"(entering) Hello, I am Guru Saj-(sees the duck)-Whoa!! (to Joey) That’s supposed to be a duck right? ‘Cause otherwise, this is waaay out of my league."
+dialogue,Joey,"Yeah, yeah. He’s got a, he’s got a really bad cough, and our vet, he can’t do anything about it. Is there something you can do?"
+dialogue,Guru Saj,"Hmm, let me see. Let me see. Do you think you could get him to eat a bat?"
+action,,"(The duck starts to frantically flap his wings, while Joey is holding him, in an attempt to get away.)"
+action,,End

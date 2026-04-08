@@ -1,0 +1,278 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's apartment. Monica, Rachel, Ross, and Phoebe are there. Phoebe is looking out the window.]"
+dialogue,Phoebe,"Ooh, ooh, ooh, ooh, ooh. Ugly Naked Guy is decorating his tree. Oh my God, you should see the size of his Christmas Balls."
+action,,(Chandler and Joey enter.)
+dialogue,Joey,Hey.
+dialogue,Chandler,Hey.
+dialogue,Rachel,Hey.
+dialogue,Joey,"Hey, how much did you guys tip the super this year?"
+dialogue,Chandler,"Yeah, we were gonna give fifty, but if you guys gave more, we don't wanna look bad."
+dialogue,Monica,"Oh, actually this year we just made him homemade cookies."
+dialogue,Chandler,And twenty-five it is.
+dialogue,Joey,You gave him cookies?
+dialogue,Monica,"Money is so impersonal. Cookies says someone really cares. . . Alright, we're broke, but cookies do say that."
+dialogue,Phoebe,I can see that. A plate of brownies once told me a limerick.
+dialogue,Chandler,"Phoebs, let me ask you something, were, were these, uh, funny brownies?"
+dialogue,Phoebe,"Not especially. But you know what, I think they had pot in them."
+dialogue,Ross,"So you guys, who else did you tip with cookies?"
+dialogue,Rachel,"Uhh, the mailman, the super."
+action,,(There's a bang at the door.)
+dialogue,Monica,"Oh, and the newspaper delivery guy."
+action,,(Joey opens the door and picks up the remnants of the newspaper.
+dialogue,Joey,Oh my God.
+dialogue,Rachel,What?
+dialogue,Joey,"Uhhh, I don't think you're gonna like this."
+action,,(Joey shows them the torn-up newspaper.)
+dialogue,Rachel,"Ooh, goooosh, ooh, these are cookies smashed in the sports section."
+dialogue,Monica,"Oh look, and he did my crossword puzzle."
+dialogue,Ross,"Yeah, but not very well, unless 14-across, 'Gershwin musical' actually is bitemebitemebitemebiteme."
+action,,Opening Credits
+heading,,"[Scene: Central Perk . Monica, Chandler, and Joey are seated at couches. Rachel is working behind the counter.]"
+dialogue,Joey,"I can't believe it's Christmas already. Ya know, I mean, one day your eatin' turkey, the next thing ya know, your lords are a-leapin' and you geese are a-layin'."
+dialogue,Chandler,Which is why geese are so relaxed this time of year.
+action,,(Ross enters with several bags from shopping.)
+dialogue,Ross,Hey guys.
+dialogue,Chandler and Monica and Joey,Hey.
+action,,(Ross approaches Rachel at counter.)
+dialogue,Ross,"Hey Rach. I, uh, got you a little present. (Rachel is not impressed). . I'll open it. It's a Slinky! Remember, huh. (sings) Walks down stairs, alone or in pairs, everyone knows it's . . . just a big spring. Alright, you still mad at me becuase of the whole. . ."
+dialogue,Rachel,Horrible and degrading list of reasons not to be with me?
+dialogue,Ross,"How 'bout from now on we just call it the 'unfortunate incident'? (Rachel walks off) Hey Gunther, you got stairs in your place?"
+dialogue,Gunther,Yeah.
+dialogue,Ross,"Here, go nuts. (gives him the Slinky and goes and sits with others at the couches)"
+dialogue,Ross,Hey guys.
+dialogue,Chandler and Monica and Joey,Hey.
+dialogue,Chandler,What's in the bag?
+dialogue,Ross,"Um, just some presents."
+dialogue,Joey,C'mon show us what you bought. . . You know you want to.
+dialogue,Ross,"(childishly) OK. OK, this is a picture frame from Ben to my parents, huh."
+dialogue,Monica,Cute.
+dialogue,Ross,"I got some, uh, hers and hers towels for Susan and Carol. And, uh, I got this blouse for mom."
+action,,"(Ross holds up the blouse. It is extremely tacky, with sewn-on medals hanging off of it.)"
+dialogue,Monica,"Ross, that is gorgeous!"
+dialogue,Ross,Yeah?
+dialogue,Monica,"Look at these authentic fake medals. I tell ya, mom's gonna be voted best dressed at the make-believe military academy."
+action,,(Phoebe enters.)
+dialogue,Phoebe,Hey.
+dialogue,Gang,Hey. Hi Phoebe.
+dialogue,Phoebe,"Happy Christmas Eve Eve. (sees Ross's picture frame) Oh my God, where did you get this?"
+dialogue,Ross,"Uh, Macy's, third floor, home furnishings."
+dialogue,Phoebe,"This is my father, this is a picture of my dad."
+dialogue,Chandler,"Nah, Phoebs, that's the guy that comes in the frame."
+dialogue,Phoebe,"No it isn't, this is my dad, alright, I'll show you."
+dialogue,Rachel,"Phoebe, I thought your dad was in prison."
+dialogue,Phoebe,"No, that's my stepdad. My real dad's the one that ran out on us before I was born."
+dialogue,Rachel,How have you never been on Oprah?
+dialogue,Phoebe,"(showing her pictures) OK, look, see, this is him. My mother gave me this picture before she died, same guy."
+dialogue,Monica,"Honey, uh, this is a picture of the frame guy posing in front of a bright blue screen with a collie."
+dialogue,Phoebe,"It's not a blue screen... it's just, maybe it was just really clear that day. OK, I have to talk to my grandmother. (turns to leave)"
+dialogue,Monica,"Oh, wait a minute honey."
+dialogue,Gang,Phoebs. (Phoebe leaves)
+dialogue,Monica,Wow.
+dialogue,Joey,"So anyway, I'm trying to get my boss's ex-wife to sleep with me. . ."
+dialogue,Gang,Joey!
+dialogue,Joey,"Oh, but when Phoebe has a problem, everyone's all ears!"
+heading,,"[Scene: Phoebe's grandmother's place. Phoebe's grandmother is sitting at the table, reading the obituaries, and crossing out names in the phonebook.]"
+dialogue,Grandmother,Esther Livingston. (scratches out name) Gone.
+action,,(Phoebe enters.)
+dialogue,Grandmother,"Hi, Phoe."
+dialogue,Phoebe,Hi Gram. Whatcha doin'?
+dialogue,Grandmother,"Oh, just updating the phonebook."
+dialogue,Phoebe,"Um, gram, um, can I see the pictures of my dad again?"
+dialogue,Grandmother,"(nervously) Oh. Oh, sure, sure, uh, uh, how come?"
+dialogue,Phoebe,"Just, you know, to see... um."
+dialogue,Grandmother,"Oh, sure, yeah. (gets a box with the pictures) This is the one of you father in a meadow, and, uh, helping a little boy fly a kite, and here he is at a graduation. . . another graduation. . . another graduation."
+dialogue,Phoebe,"OK, is this really my father?"
+dialogue,Grandmother,Is it really your fa--I can't... well of course it is.
+dialogue,Phoebe,"OK, I smell smoke. Maybe that's 'cause someone's pants are on fire."
+dialogue,Grandmother,"Look, I. . ."
+dialogue,Phoebe,"Ya know, in all the years that we have been grandmother and granddaughter, you have never lied to me."
+dialogue,Grandmother,"Alright, that is not your father, that's just a picture of a guy in a frame."
+dialogue,Phoebe,Oh God.
+dialogue,Grandmother,"It was your mother's idea. Ya know, she didn't want you to know your real father because it hurt her so much when he left, and, I didn't want to go along with it, but, well then she died and, and it was harder to argue with her. Not impossible, but harder."
+dialogue,Phoebe,"Alright, so, what, he's not a famous tree surgeon? And then, I guess, OK, he doesn't live in a hut in Burma where there's no phones?"
+dialogue,Grandmother,"Last I heard, he was a pharmacist somewhere upstate."
+dialogue,Phoebe,"OK, that makes no sense. Why would the villagers worship a pharmacist?"
+dialogue,Grandmother,Honey.
+dialogue,Phoebe,(realizes) Oh.
+dialogue,Grandmother,"Anyway, that's all I know. That, and this. (pulls apart a frame and pulls a picture out) This is the real him."
+dialogue,Phoebe,Oh.
+heading,,"[Scene: Monica and Rachel's apartment. Rachel, Chandler, and Joey are decorating the Christmas tree.]"
+dialogue,Chandler,"Ya know I remember my father, all dressed up in the red suit, the big black boots, and the patent leather belt, sneakin around downstairs. He didn't want anybody to see him but he'd be drunk so he'd stumble, crash into something and wake everybody up."
+dialogue,Rachel,"Well, that doesn't sound like a very merry Christmas."
+dialogue,Chandler,Who said anything about Christmas?
+action,,(Monica and Ross enter.)
+dialogue,Monica,Hi.
+dialogue,Ross,"Hey, anyone hear from Phoebe yet?"
+dialogue,Rachel,"No, nothin'."
+dialogue,Monica,I hope she's OK.
+dialogue,Joey,"Yeah, I know exactly what she's goin' through."
+dialogue,Monica,How do you know exactly what she's going through?
+dialogue,Joey,She told us.
+dialogue,Chandler,So whaddya got there Monica?
+dialogue,Monica,Just some stuff for the party.
+dialogue,Ross,"Yeah, what're you guys doin' here, aren't you supposed to be Christmas shopping?"
+dialogue,Monica,"You guys haven't gotten your presents yet? Tomorrow's Christmas Eve, what're ya gonna do?"
+dialogue,Chandler,Don't you have to be Claymation to say stuff like that?
+dialogue,Rachel,"Oh, by the way Mon, I don't think the mailman liked your cookies. Here are the ornaments your mom sent. (hands her a smashed box)"
+dialogue,Monica,"Well, maybe the mailman liked the cookies, we just didn't give him enough."
+dialogue,Joey,"Monica, pigeons learn faster that you."
+action,,"(Ross approaches Rachel, away from everyone else.)"
+dialogue,Ross,"Hey, Rach, you know what? I think, I think I know what'll make you feel better. How 'bout you make a list about me."
+dialogue,Rachel,"Wha... forget it Ross, no, I am not gonna stand here and make a list of. . ."
+dialogue,Ross,C'mon Rachel.
+dialogue,Rachel,"OK, you're whiney, you are, you're obsessive, you are insecure, you're, you're gutless, you know, you don't ever, you don't just sort of seize the day, you know. You like me for what, a year, you didn't do anything about it. And, uh, oh, you wear too much of that gel in your hair."
+dialogue,Ross,"See there, you uhh, alright, ya, you did what I said."
+dialogue,Rachel,"Yeah, and you know what? You're right, I do feel better, thank you Ross. (she walks off and Ross puts his hand to his hair)"
+heading,,[Scene: Back at Phoebe's. She is on the phone]
+dialogue,Phoebe,"Yeah, um, in Albany, can I have the number of Frank Buffay. . . OK, um, in Ithica. . . alright, um, Saratoga. . . Oneonta. Alright, you know what, you shouldn't call youself information. (hangs up)"
+action,,(Phoebe's grandmother enters)
+dialogue,Grandmother,Hey.
+dialogue,Phoebe,"Hello grandma, if that is in fact your real name."
+dialogue,Grandmother,"C'mon now Phoe, don't still be mad at me. How's it going?"
+dialogue,Phoebe,"Well, not so good. Upstate's pretty big, he's pretty small, you do the math."
+dialogue,Grandmother,"Well, I think you're better off without him. Oh honey, I know he's your daddy but, but to me he's still the irresponsible creep who knocked up your mom and stole her Gremlin."
+dialogue,Phoebe,"No I just, just wanted to know who he was, ya know."
+dialogue,Grandmother,"I know. OK, I wasn't completely honest with you when I told you that, uh, I didn't know exactly where he lived."
+dialogue,Phoebe,Whattaya mean?
+dialogue,Grandmother,"He lives at 74 Laurel Drive in Middletown. If you hit the Dairy Queen, you've gone too far. You can take my cab."
+dialogue,Phoebe,Wow. Thank you.
+dialogue,Grandmother,"Now, remember, nobody else drives that cab."
+dialogue,Phoebe,"Uh-huh, got it. Ooh, I'm gonna see my dad. Wish me luck, Grandpa! (blows a kiss to a picture of Einstein)"
+action,,Commercial Break
+heading,,[Scene: Chandler is standing on a street corner waiting for Phoebe in the cab. Joey walks up.]
+dialogue,Joey,Phoebe here with the cab yet?
+dialogue,Chandler,"Yeah, she, she brought the invisible cab. . . hop in."
+dialogue,Joey,"Well she better get here soon, the outlet stores close at 7."
+dialogue,Chandler,"Hey, don't worry. I figure it'll be 2 hours to Phoebe's dad's house, they'll meet, they'll chat, they'll swap life stories, we'll still have plenty of time."
+action,,(Phoebe drives up in the cab)
+dialogue,Joey,"Hey, here she comes."
+dialogue,Chandler,Hey.
+dialogue,Joey,Hey.
+action,,"(Phoebe runs over the curb. Joey gets in the back seat, Chandler in the front)"
+dialogue,Phoebe,Hey.
+dialogue,Joey,Hey.
+dialogue,Phoebe,"Can you believe this. In, like, two hours I'm gonna have a dad. Eeeshk."
+dialogue,Chandler,Eeeshk.
+dialogue,Joey,"Yeah, big stuff."
+dialogue,Phoebe,"OK, let's go."
+dialogue,Chandler,OK.
+dialogue,Phoebe,"Alright, here, you have to hold this. (hands Chandler a piece of paper)"
+dialogue,Chandler,"OK. (reads paper) Brake left, gas right?"
+dialogue,Phoebe,"Uh-huh, yeah, that's my cheat sheet."
+dialogue,Chandler,(grabs for seat belt) Where's my seat belt?
+dialogue,Phoebe,"Oh, no no, that side doesn't have one, the paramedics had to cut through it. (Chandler jumps out of the car)"
+dialogue,Chandler,(Chandler gets in the back seat) Hey!
+dialogue,Joey,"Hey. (Phoebe takes off, Joey and Chandler are thrown back in the seat)"
+heading,,[Scene: Monica and Rachel's apartment. Monica is preparing for the party with Ross questioning her.]
+dialogue,Ross,"C'mon, just tell me, please, please."
+dialogue,Monica,"For the sixteenth time, no... I do not think you're obsessive."
+action,,(Rachel enters from her room)
+dialogue,Rachel,"Oh, gosh, it's hot in here."
+dialogue,Monica,"Rach, get the heat. (Rachel holds up her hand with wet fingernail polish) Ross, could you turn the heat down please?"
+dialogue,Ross,"Sure. By the way, there's a difference between being obsessive and. . ."
+dialogue,Monica,"Ross, the heat!"
+dialogue,Ross,"Fine, OK! Heat, heat, heat, and I'm the obsessive one. (goes to the radiator and starts turning the knob) OK, this way is on, so this is. . . (breaks off the knob) off."
+dialogue,Rachel,Did you just break the radiator?
+dialogue,Ross,"No, no, I was turnin' the knob and, and. . . here it is."
+dialogue,Monica,Well put it back.
+dialogue,Ross,"It uhh, it won't go back."
+dialogue,Rachel,I'll call the super.
+dialogue,Monica,"Here, let me try."
+dialogue,Ross,"Oh, oh that's right, I forgot about your ability to fuse metal."
+dialogue,Monica,"Hey, it's Funny's cousin, Not Funny."
+dialogue,Rachel,"(on phone) Hi, Mr. Treeger. Hi, it's Rachel Green from upstairs. Yes, somebody , uh, broke our knob on the radiator and it's really hot in here. Yes, it's, it's hot enough to bake cookies. Well, do you think we could have a new one by 6? Wha t, no, no, Tuesday, we can't wait until Tuesday, we're having a party tonight."
+dialogue,Ross,"OK, tip the man."
+dialogue,Monica,"No, if he doesn't like our cookies, too bad, I am not gonna be blackmailed. Look if worse comes to worse, it gets a little warm, we'll call it a theme party."
+dialogue,Ross,"Hey, here's a theme: Come on in, live like bacon."
+heading,,[Scene: Outside Phoebe's dad's house. The cab pulls up.]
+dialogue,Phoebe,"Ooh, this is it, 74. (screeches to a halt, Joey and Chandler are thrown into the plexiglass wall in the cab)"
+dialogue,Chandler,"Oh, so that's what this is for."
+dialogue,Phoebe,"Wow, this is it, I'm gonna meet my dad. This is like the biggest thing ever, huh."
+dialogue,Chandler,Yeah.
+dialogue,Joey,Sure is.
+dialogue,Phoebe,"OK, here I go. I'm goin' in."
+dialogue,Chandler,Alright.
+dialogue,Joey,Good luck Phoebs.
+dialogue,Phoebe,"OK, here I go. . . here I go. . . I'm goin'. (she just sits in the cab)"
+heading,,[Scene: Monica and Rachel's apartment. They are having their party. All the guests are stripped down because of the heat.]
+dialogue,Rachel,"(answers door) Hi, welcome to our tropical Christmas party. You can put your coats and sweaters and pants and shirts in the bedroom."
+dialogue,Ross,"(sitting at table talking to a girl) It's hard to tell because I'm sweating, but I use exactly what the gel bottle says, an amount about the size of a pea. How, how can that be too much?"
+dialogue,Monica,"(carrying an ice cube tray) Ice, ice, ice squares anyone? Take a napkin. Alright."
+dialogue,Ross,"Monica, Monica, your guest are turning into jerky, OK."
+dialogue,Monica,"Really? I'm perfectly comfortable. (one of the guest opens the refrigerator) Hey, hey, hey, get in line buddy, I was next. (she opens the refrigerator and leans into it)"
+dialogue,Rachel,(answering the door) Mr. Treeger.
+dialogue,Mr. Treeger,"Uhh, you said there was a party."
+dialogue,Rachel,"Oh, yeah, well hey, welcome to our sauna."
+dialogue,Mr. Treeger,"Ahh, is it hot? My body always stays cool, probably 'cause I have so much skin. Hey, cheese!"
+action,,(Ross is speaking to Monica and Rachel about tipping the super.)
+dialogue,Ross,"Alright, alright, here's the chance. Monica give him cash, Rachel give him your earrings. Something, now, anything."
+dialogue,Monica,"No, I will not cave."
+dialogue,Rachel,"Yeah, I'm with Mon."
+dialogue,Ross,"Alright, alright, you know how you say I never seize the day? Well, alright, even though he's your super, I'm seizing. (approaches Mr. Treeger) Mr. Treeger, here is 50 bucks, merry Christmas."
+action,,(Gives him the cash.)
+dialogue,Mr. Treeger,"Oh wow, I didn't get you anything. Here's five back."
+dialogue,Ross,"No no, no, that, that's your Christmas tip, alright. Oh, hey, do you think there's a chance you could fix that radiator now?"
+dialogue,Mr. Treeger,"No can do, like I told the girl, I can't get a new knob until Thursday."
+dialogue,Monica,Ross.
+dialogue,Ross,Yeah.
+dialogue,Monica,(to Ross) Looks like he's playin' baseball.
+dialogue,Ross,You mean hardball?
+dialogue,Monica,Whatever.
+dialogue,Rachel,What'cha gonna' do?
+dialogue,Ross,"Excuse me, I'm seizing. Mr. Treeger, here's another 50, happy Hanukkah. Will uh, will this help with the knob getting?"
+dialogue,Mr. Treeger,"No, the place is not open 'till Tuesday. Am I not saying it right."
+dialogue,Monica,"So, wait, you really did like my cookies?"
+dialogue,Mr. Treeger,"Oh, yeah, they were so personal, really showed you cared."
+dialogue,Rachel,Nice seizing. . . gel boy.
+dialogue,Mr. Treeger,"(to Rachel who is standing under mistletoe) So, uh, is this, uh, mistletoe?"
+dialogue,Rachel,"Huh-huh, no act--no, uhh, that, that is basil."
+dialogue,Mr. Treeger,"Ahh, if it was mistletoe, I was gonna kiss ya."
+dialogue,Rachel,"Huh-hoo, yeah, no, it's still basil."
+heading,,[Scene: Outside Phoebe's dad's house. Phoebe is running back to the cab.]
+dialogue,Phoebe,OK.
+dialogue,Joey,How far'd ya get?
+dialogue,Phoebe,Mailbox.
+dialogue,Chandler,"Alright, we're gettin' closer."
+dialogue,Phoebe,Uh-huh.
+dialogue,Joey,"Phoebs, what's goin' on?"
+dialogue,Phoebe,"No, it's just like, ya know, it's a whole mess of stuff, ya know. It's like, yesterday, ya know, my dad was this, like, famous Burma tree surgeon guy and, ya know, now he's a, a pharmacist guy and. . ."
+dialogue,Joey,"Well, maybe he's, maybe he's this really cool pharmacist guy."
+dialogue,Phoebe,"Yeah, maybe, yeah. You know, and, and I'll knock on the door and, and he'll hug me and I'll have a dad. Ya know and I'll, I'll go to his pharmacy and everyone will be really nice to me 'cause, you know, I'm Franks daughter."
+dialogue,Chandler,"Well, so why not go knock?"
+dialogue,Phoebe,"Well, 'cause, I mean, what if, what if he's not this great dad guy? I mean, what if, what if he's just still the dirtbag who ran out on my mom and us? You know what? I've already lost a fake dad this week and I don't think I'm ready to lose a real one."
+dialogue,Joey,"Phoebs, that's OK. You took a big step today."
+dialogue,Phoebe,Yeah?
+dialogue,Chandler,"Yeah, and someday when you're ready, you'll make it past the hedges."
+dialogue,Joey,"Yeah, and when you do, he'll be lucky to have you."
+dialogue,Phoebe,You guys. I'm sorry about your shopping.
+dialogue,Chandler,"Oh, that's OK, we'll figure something out."
+dialogue,Joey,"Uh, listen Phoebs, I know you're not goin' in there but do you think it'd be alright if I went in and used his bathroom? Oh, that's fine, never mind. Cool, snow, kinda like a blank canvas."
+heading,,"[Scene: Monica and Rachel's apartment. Ross, Monica, and Rachel are sitting around after the party. Chandler, Joey, and Phoebe enter.]"
+dialogue,Chandler,"Ho, ho, ho, holy crap is it hot in here!"
+dialogue,Joey,"Really, hey, you mind if I turn the heat down?"
+dialogue,Monica,"Hey, we could have used that kind of thinkin' earlier."
+dialogue,Ross,"Hey, Phoebs, how'd it go."
+dialogue,Phoebe,"Oh, I couldn't go in."
+dialogue,Monica,"Honey, I'm sorry."
+dialogue,Ross,Are you OK?
+dialogue,Phoebe,"Yeah, yeah, no it's OK 'cause, I mean, I know he's there, so, that's enough for now."
+dialogue,Chandler,"Hey, guys, it's after midnight, merry Christmas everyone. (Ross and Phoebe hug, Monica and Rachel hug, Chandler is left standing)"
+dialogue,Joey,"Hey, Monica, the knob was broken so I just turned it off from underneath, I hope that's alright."
+action,,Closing Credits
+heading,,[Scene: Monica and Rachel's apartment. Joey and Chandler are giving out their Christmas presents out of a cardboard box from a case of motor oil.]
+dialogue,Joey,"Rach, these are for you."
+dialogue,Rachel,Wiper blades. I don't even have a car.
+dialogue,Joey,"No, but with this new car smell, you'll think you do."
+dialogue,Chandler,"OK, Phoebs, your turn."
+dialogue,Phoebe,"Ahh, toilet seat covers! Is that what you were doing while I was getting gas?"
+dialogue,Joey,Uh-huh.
+dialogue,Phoebe,You guuuyys.
+dialogue,Joey,"And for Ross, Mr. Sweet-tooth."
+dialogue,Ross,You got me a cola drink?
+dialogue,Chandler,"And, a lemon lime."
+dialogue,Ross,"Well this, this is too much, I feel like I should get you another sweater."
+dialogue,Chandler,And last but not least.
+action,,(Chandler and Joey give Monica a pack of condoms.)
+dialogue,Joey,They're ribbed for your pleasure.
+action,,(Ross and Monica trade their gifts.)
+action,,End

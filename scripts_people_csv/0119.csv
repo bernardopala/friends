@@ -1,0 +1,282 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Rachel is talking to a customer.]"
+dialogue,Rachel,"Okay, okay, I checked. We have: Earl Grey, English Breakfast, Cinnamon Stick, Camomile, Mint Medley, Blackberry, and.. oh, wait, there's one more, um.. Lemon Soother. You're not the guy that asked for the tea, are you? (Guy shakes his head) Okay."
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Monica enters with some mail.]"
+dialogue,Monica,"Mail call, Rachel Green, bunk seven."
+dialogue,Rachel,"Thank you. (Examines it) Oh, cool! Free sample of coffee!"
+dialogue,Monica,Oh good! 'Cause where else would we get any?
+dialogue,Rachel,Oh. Right. ...Oh great.
+dialogue,Monica,What is it?
+dialogue,Rachel,"Country club newsletter. My mother sends me the engagement notices for 'inspiration.' Oh my God! Oh my God, it's Barry and Mindy!"
+dialogue,Monica,Barry who you almost...?
+dialogue,Rachel,Barry who I almost.
+dialogue,Monica,"And Mindy, your maid of...?"
+dialogue,Rachel,"Mindy, my maid of. Oh!"
+dialogue,Monica,"(Takes it) That's Mindy? Wow, she is pretty. (Sees Rachel's look) Lucky. To have had a friend like you."
+heading,,"[Scene: Monica and Rachel's, Rachel and Ross are eating Chinese.]"
+dialogue,Ross,"Marcel. Bring me the rice, c'mon. Bring me the rice, c'mon. Good boy. Good boy. C'mere, gimme the rice. (Marcel brings the rice) Thank you, good boy. Well, I see he's finally mastered the difference between 'bring me the' and 'pee in the'. (Rachel ignores him) 'Bring me the' and- Rach?"
+dialogue,Rachel,What?
+dialogue,Ross,Hi.
+dialogue,Rachel,"Oh, I'm sorry. Oh, this is so stupid! I mean, I gave Barry up, right? I should be happy for them! I am, I'm happy for them."
+dialogue,Ross,Really.
+dialogue,Rachel,"No. Oh, oh, I guess it would be different if I were- with somebody."
+dialogue,Ross,"Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?"
+dialogue,Rachel,"Oh, I don't know. I guess it's not about no guys, it's about the right guy, y'know? I mean, with Barry, it was safe and it was easy, but there was no heat. With Paolo, that's all there was, was heat! And it was just this raw, animal, sexual..."
+dialogue,Ross,"Wait-wait. I, I got it. I was there."
+dialogue,Rachel,"Well, I mean, do you think you can ever have both? Y'know? Someone who's like, who's like your best friend, but then also can make your toes curl?"
+dialogue,Ross,"Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who..."
+action,,(Enter the other four)
+dialogue,Monica,Hi.
+dialogue,Ross,...Gets interrupted. Hi!
+dialogue,Rachel,"Hi, how was the movie?"
+dialogue,Monica,Wonderful!
+dialogue,Phoebe,So good!
+dialogue,Joey,Suck-fest.
+dialogue,Chandler,Toootal chick-flick.
+dialogue,Phoebe,"I-I'm sorry it wasn't one of those movies with, like, y'know, guns and bombs and, like, buses going really fast..."
+dialogue,Joey,"Hey, I don't need violence to enjoy a movie. Just so long as there's a little nudity."
+dialogue,Monica,There was nudity!
+dialogue,Joey,I meant female nudity. Alright? I don't need to see Lou Grant frolicking.
+dialogue,Monica and Phoebe,Hugh! Hugh Grant!
+dialogue,Ross,"Alright, I've gotta go. C'mon, Marcel! C'mon! We're gonna go take a bath. Yes we are, aren't we? Yes, we are."
+dialogue,Chandler,"They're still just friends, right?"
+dialogue,Rachel,(To Marcel) And I will see you tomorrow!
+dialogue,Ross,"That's right, you're gonna spend tomorrow at Aunt Rachel's, aren't you."
+dialogue,Monica,"Oh, hang on, hang on. Does Aunt Monica get a say in this?"
+dialogue,Ross,"'Pwease, Aunt Monica, pwease?' Oh, unclench. You're not even gonna be there."
+heading,,"[Scene: Joe-G's Pizza, the guys are there.]"
+dialogue,Chandler,I can't believe we are even having this discussion.
+dialogue,Joey,"I agree. I'm, like, in disbelief."
+dialogue,Chandler,"I mean, don't you think if things were gonna happen with Rachel, they would've happened already?"
+dialogue,Ross,"I'm telling you, she said she's looking for a relationship with someone exactly like me."
+dialogue,Joey,She really said that?
+dialogue,Ross,"Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight."
+dialogue,Joey,'Tonight' tonight?
+dialogue,Ross,"Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey..."
+dialogue,Chandler,I can't remember the last time I got a girl to take care of my monkey.
+dialogue,Ross,"Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her."
+dialogue,Chandler,"Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used."
+heading,,"[Scene: Monica and Rachel's, Rachel is taking care of Marcel and they are watching a soap opera.]"
+dialogue,Rachel,"Now, now the one in the feather boa, that's Dr. Francis. Now, she used to be a man. Okay, now look, see, there's Raven. We hate her. We're glad she's dying. Okay- (Marcel pushes down a cushion to reveal a shoe) Wh- wh- Marcel, are you playing with Monica's shoes? You know you're not supposed to pl- whoah. Marcel, did you poo in the shoe? (Takes the shoe into the kitchen) Marcel, bad monkey! Oh! Oh! (She notices the newsletter and taps the contents of the shoes onto it, then folds it shut) Sorry, Barry. Little engagement gift. I'm sure you didn't register for that. (She leaves the apartment holding the newsletter at arm's length. However, she leaves the door open. Marcel runs out in the opposite direction. There is a shot from the TV and Rachel runs back in) Who died? Who died? Roll him over! Oh, c'mon, roll him over! Oh...! Well, we know it wasn't Dexter, right Marcel? Because- (Looks down and notices he is missing) Marcel? Marc- (Notices the open door)"
+action,,[Time lapse. Now everyone but Ross and Phoebe is back at Monica and Rachel's.]
+dialogue,Joey,How could you lose him?
+dialogue,Rachel,"I don't know. We were watching TV, and then he pooped in Monica's shoe-"
+dialogue,Monica,Wait. He pooped in my shoe? Which one?
+dialogue,Rachel,I don't know. The left one.
+dialogue,Monica,Which ones ?
+dialogue,Rachel,"Oh. Oh, those little clunky Amish things you think go with everything."
+dialogue,Phoebe,(Entering) Hey.
+dialogue,All,Hi.
+dialogue,Phoebe,"Whoah, ooh, why is the air in here so negative?"
+dialogue,Chandler,Rachel lost Marcel.
+dialogue,Phoebe,"Oh no, how?"
+dialogue,Monica,He- he pooped in my shoe.
+dialogue,Phoebe,Which one?
+dialogue,Monica,Those cute little black ones I wear all the time.
+dialogue,Phoebe,"No, which one ? The right or left? 'Cause the left one is lucky..."
+dialogue,Rachel,"C'mon, you guys, what're we gonna do, what're we gonna do?"
+dialogue,Joey,Alright alright. You're a monkey. You're loose in the city. Where do you go?
+dialogue,Chandler,"Okay, it's his first time out, so he's probably gonna wanna do some of the touristy things. I'll go to Cats , you go to the Russian Tea Room ."
+dialogue,Rachel,"Oh, my, God, c'mon, you guys! He's gonna be home any minute! He's gonna kill me!"
+dialogue,Monica,"Okay, we'll start with the building. You guys take the first and second floor, Phoebe and I'll take third and fourth."
+dialogue,Rachel,"Well, what'm I gonna do? What'm I gonna do?"
+dialogue,Monica,"Okay, you stay here, and just wait by the phone. Spray Lysol in my shoe, and wait for Ross to kill you."
+action,,(They all leave)
+dialogue,Rachel,Anybody wanna trade? Oh...
+action,,"[Cut to a hallway in the building, Monica and Phoebe are knocking on a door. Mr. Heckles emerges.]"
+dialogue,Mr. Heckles,Whaddyou want?
+dialogue,Monica,"Mr. Heckles, our friend lost a monkey. Have you seen it?"
+dialogue,Mr. Heckles,"I left a Belgian waffle out here, did you take it?"
+dialogue,Monica,No!
+dialogue,Phoebe,Why would you leave your Belgian waffle in the hall?
+dialogue,Mr. Heckles,I wasn't ready for it.
+dialogue,Monica,A monkey. Have you seen a monkey?
+dialogue,Mr. Heckles,Saw Regis Philbin once...
+dialogue,Phoebe,"Okay, thank you, Mr. Heckles. (They move off)"
+dialogue,Mr. Heckles,You owe me a waffle.
+action,,[Cut to Monica and Rachel's.]
+dialogue,Rachel,"(On the phone) Okay, he's a, he's a black capuchian monkey with a white face... (Enter Ross) ...with, with Russian dressing and, and pickles on the side. Okay. Thanks."
+dialogue,Ross,"Hey. How did, uh, how'd it go today?"
+dialogue,Rachel,"Great! It went great. Really great. Hey, is that wine?"
+dialogue,Ross,"Yeah. You, uh, you want some?"
+dialogue,Rachel,"Oh, I would love some. But y'know what? Y'know what? Let's not drink it here. I'm feeling kinda crazy. You wanna go to Newark?"
+dialogue,Ross,"Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you. Y'know how we were, uh, y'know, talking before about, uh, relationships and stuff? (Uncorks the wine) Well-"
+dialogue,Rachel,"Oh God, Ross, I cannot do this."
+dialogue,Ross,"Okay, quick and painful. (Starts to cork the wine)"
+dialogue,Rachel,"Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me."
+dialogue,Ross,"Oh, what? What-what?"
+dialogue,Rachel,Y'know Marcel?
+dialogue,Ross,...Yeah?
+dialogue,Rachel,"Well, I kind of... I kind of lost him."
+action,,"[Cut to outside the window, with Ross reacting with disbelief. The shot pans back until we see Marcel sitting on the window ledge.]"
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, continued from earlier.]"
+dialogue,Ross,"(Angry) I- I- I ca- I can't believe this. I mean, all I asked you to do was keep him in the apartment."
+dialogue,Rachel,"I know, I know, I'm sorry-"
+dialogue,Ross,"No, y'know what, I guess it's partially my fault. Y'know, I shouldn't've, uh, asked you to start off with a monkey. I should've started you off with like a pen or a pencil."
+dialogue,Rachel,"(Tearfully) Ross, I'm doing everything that I can, I've got everybody looking for him, and I- (Door buzzer goes and she runs to get it) Oh! Who is it?"
+dialogue,Intercom,Animal Control.
+dialogue,Rachel,See? I've even called Animal Control!
+dialogue,Ross,You called Animal Control?
+dialogue,Rachel,Uh-huh... why... do you not like them?
+dialogue,Ross,"Marcel is an illegal exotic animal. I'm not allowed to have him in the city. If they find him, they'll take him away from me."
+dialogue,Rachel,"O-okay, now see, you never ever ever told us that..."
+dialogue,Ross,"That's right, I.. 'cause I didn't expect you were gonna invite them to the apartment!"
+action,,(A knock on the door. Rachel swiftly opens it)
+dialogue,Rachel,"Hi, thanks for coming."
+dialogue,Luisa,(Animal Control) Somebody called about a monkey?
+dialogue,Rachel,"Oh, y'know what? That was a complete misunderstanding! (Ross puts his arms around her and they act all sweetness and light)"
+dialogue,Ross,"Yeah, we thought we had a monkey, but we-we didn't."
+dialogue,Rachel,Turned out it was a hat.
+dialogue,Ross,Cat!
+dialogue,Rachel,Cat! What'm I saying? Cat!
+action,,"(Luisa nods, but then Monica and Phoebe run in)"
+dialogue,Monica,"Hi. We checked the third and fourth floor, no-one's seen Marcel."
+dialogue,Luisa,Marcel?
+dialogue,Ross,My uncle Marcel.
+dialogue,Phoebe,"Oh, is that who the monkey's named after?"
+dialogue,Luisa,"Oookay. Are you aware that possession of an illegal exotic is, uh, punishable by up to two years in prison and confiscation of the animal?"
+dialogue,Phoebe,Oh my God. You'd put that poor little creature in jail?
+dialogue,Monica,"Pheebs, you remember how we talked about saying things quietly to yourself first?"
+dialogue,Phoebe,"Yes, but there isn't always time!"
+dialogue,Monica,"Look. I'm sure there's some friendly way to reconcile this! Um, have a seat. First of all, we haven't been introduced, I'm Monica Geller."
+dialogue,Luisa,"Oh my God, you are! And you're Rachel Green!"
+dialogue,Rachel,Yeah!
+dialogue,Luisa,Luisa Gianetti! Lincoln High? I sat behind you guys in home room!
+dialogue,Rachel,Luisa? Oh my God! Monica! It's Luisa!
+dialogue,Monica,The Luisa from home room!
+dialogue,Rachel,Yes!!
+dialogue,Luisa,"You have no idea who I am, do you."
+dialogue,Monica,"No, none at all."
+dialogue,Rachel,None.
+dialogue,Luisa,"Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?"
+dialogue,Monica,"Oh, I'm- I'm so sorry!"
+dialogue,Luisa,"Ah, it's not so much you, you were fat, you had your own problems. (To Rachel) But you? What a bitch !"
+dialogue,Rachel,What?!
+dialogue,Monica,"Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?"
+dialogue,Luisa,"I could... but I won't. If I find that monkey, he's mine. (Leaves)"
+dialogue,Phoebe,Dun-dun-duuuur! Sorry.
+action,,"[Cut to another part of the building. We see Marcel jump in through a window and run down some stairs, then Chandler and Joey come down from the upper floor without noticing.]"
+dialogue,Chandler,Marcel?
+dialogue,Joey,Marcel?
+dialogue,Chandler,Marcel?
+dialogue,Joey,Marcel?
+action,,(They come to a door and silently agree to try it. A very sweaty woman emerges)
+dialogue,Woman No. 1,"Hi, can I help you?"
+action,,(Chandler and Joey are dumbstruck for a moment)
+dialogue,Chandler,"Um, we're kind of having an emergency and we-we were looking for something..."
+dialogue,Joey,A monkey.
+dialogue,Chandler,Yes have you seen any?
+dialogue,Woman No. 1,"No. No, haven't seen a monkey. Do you know anything about fixing radiators?"
+dialogue,Joey,"Um, sure! Did you, uh, did you try turning the knob back the other way?"
+dialogue,Woman No. 1,Of course.
+dialogue,Joey,"Oh. Then, no."
+action,,(Another sweaty woman comes to the door and speaks to her friend)
+dialogue,Woman No. 2,Did I put too much rum in here?
+action,,(Joey and Chandler shoot each other glances)
+dialogue,Woman No. 1,Just a sec. (To Chandler and Joey) Hope you find your monkey. (She starts to shut the door)
+dialogue,Chandler,"Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu."
+dialogue,Joey,"Uh, aren't we kind of in the middle of something here?"
+dialogue,Chandler,"Yes, but these women are very hot, and they need our help! And they're very hot."
+dialogue,Joey,"We can't, alright? (To the women) We're sorry. You have no idea how sorry, but... We promised we'd find this monkey. If you see him, he's about yea high and answers to the name Marcel, so if we could get some pictures of you, you'd really be helping us out."
+action,,(The women quickly shut the door)
+dialogue,Chandler,"Okay, from now on, you don't get to talk to other people."
+dialogue,Joey,Marcel?
+dialogue,Chandler,Marcel?!
+action,,[Cut to Monica and Phoebe searching the basement.]
+dialogue,Phoebe,Marcel?
+dialogue,Monica,Marcel?
+dialogue,Phoebe,Marcel?
+dialogue,Both,Marcel?
+dialogue,Phoebe,Oh-my-God!
+dialogue,Monica,Whaaat!
+dialogue,Phoebe,Something just brushed up against my right leg!
+dialogue,Monica,What is it?
+dialogue,Phoebe,"Oh, it's okay, it was just my left leg."
+action,,(Marcel makes a monkeyish noise. He is sitting in the corner)
+dialogue,Monica,"Look, Phoebe!"
+dialogue,Phoebe,"Yeah! Oh, c'mere, Marcel! Oh, Marcel, c'mere!"
+action,,(Luisa appears on the stairs)
+dialogue,Luisa,"Step aside, ladies! (She loads a gun)"
+dialogue,Monica,What're you gonna do?
+dialogue,Luisa,Just a small tranquiliser.
+action,,"(In slow motion we see Phoebe look at Marcel, then at Luisa. She jumps toward Marcel just as Luisa fires the gun.)"
+dialogue,Monica,"Run, Marcel, run! Run, Marcel! (Marcel runs off and Luisa runs after him. Monica goes to check up on Phoebe) Are you okay?"
+dialogue,Phoebe,"Yeah, think so. Oh! (She notices the tranquiliser dart has hit her in the butt and removes it) Huh. (Sways back) Whoah."
+dialogue,Monica,Oh gosh.
+action,,[Cut to Marcel walking along a hallway. He notices a banana on the floor and picks it up. The hand of an unseen person grabs him and carries him away. Then cut to Ross and Rachel on the street outside.]
+dialogue,Ross,Marcel?
+dialogue,Rachel,Marcel?
+dialogue,Ross,"Marc- oh, this is ridiculous! We've been all over the neighbourhood. He's gone, he's-he's just gone."
+dialogue,Rachel,"Ross, you don't know that."
+dialogue,Ross,"Oh come on. It's cold, it's dark, he doesn't know the Village. (Kicks a sign in frustration) And now I have a broken foot. I have no monkey, and a broken foot! Thank you very much."
+dialogue,Rachel,"Ross, I said I'm sorry like a million times. What do you want me to do? You want me to break my foot too? Okay, I'm gonna break my foot, right here. (Kicks the sign) Ow!! Oh! Oh my God, oh my God! There, are you happy now?!"
+dialogue,Ross,"Yeah, yeah. Y'know, now that you kicked the sign, hey! I don't miss Marcel any more!"
+dialogue,Rachel,"Y'know, it is not like I did this on purpose."
+dialogue,Ross,"Oh, no no no. Nono, this is just vintage Rachel. I mean, things just sort of happen around you. I mean, you're off in Rachel-land, doing your Rachel-thing, totally oblivious to people's monkeys, or to people's feelings..."
+dialogue,Rachel,Ross.
+dialogue,Ross,"I don't even wanna hear it, you're just..."
+dialogue,Rachel,Ross.
+dialogue,Ross,"Oh, forget it, okay?"
+dialogue,Rachel,Ross!
+dialogue,Ross,What? What?
+action,,(A man carrying a box of bananas walks past them. They stare for a minute and then hobble after him)
+dialogue,Both,"Hey! Hey, Bananaman!"
+heading,,[Scene: Everyone in the hall outside Mr. Heckles' door. Ross is carrying the box of bananas. He bangs on the door]
+dialogue,Phoebe,"Oh, this is so intense. One side of my butt is totally asleep, and the other side has no idea."
+action,,(Mr. Heckles opens the door)
+dialogue,Ross,"Hi, did you order some bananas?"
+dialogue,Mr. Heckles,What about it?
+dialogue,Ross,Gimme back my monkey.
+dialogue,Mr. Heckles,I don't have a monkey.
+dialogue,Rachel,Then what's with all the bananas?
+dialogue,Mr. Heckles,Potassium.
+action,,(There is a monkey-like noise from within and Ross pushes past Mr. Heckles and enters his apartment)
+dialogue,Ross,"Marcel? Marcel? Okay, where is he? Where is he? Marcel? Marcel?"
+action,,(Marcel jumps into view wearing a pink dress. Everybody gasps)
+dialogue,Ross,Marcel! What've you done to him?
+dialogue,Mr. Heckles,"That's my monkey. That's Patti, Patti the monkey."
+dialogue,Ross,"Are you insane? C'mere, Marcel, c'mon. (Marcel starts to go to him)"
+dialogue,Mr. Heckles,"C'mere, Patti. (Marcel turns round)"
+dialogue,Ross,"C'mere, Marcel. (Turns to Ross)"
+dialogue,Mr. Heckles,"C'mere, Patti. (Turns to Mr. Heckles)"
+dialogue,Luisa,"(Out of shot) Here, monkey. Here, monkey! Here, monkey! (Marcel runs to the door and into Luisa's cage, which she slams shut) Gotcha."
+dialogue,Ross,"Okay, gimme my monkey back."
+dialogue,Mr. Heckles,That's my monkey.
+dialogue,Luisa,You're both gonna have to take this up with the judge.
+dialogue,Mr. Heckles,"That's not my monkey. Just the dress is mine, you can send that back whenever."
+dialogue,Ross,"Alright, I want my monkey."
+dialogue,Luisa,No!
+dialogue,Rachel,"Oh, c'mon, Luisa!"
+dialogue,Luisa,"Sorry, prom queen."
+dialogue,Ross,"(To Rachel) You had to be a bitch in high school, you couldn't've been fat."
+dialogue,Rachel,"Alright. In high school I was the prom queen and I was the homecoming queen and the class president and you... were also there! But if you take this monkey, I will lose one of the most important people in my life. You can hate me if you want, but please do not punish him. C'mon, Luisa, you have a chance to be the bigger person here! Take it!"
+dialogue,Luisa,Nope.
+dialogue,Rachel,"Alright. Well then how about I call your supervisor, and I tell her that you shot my friend in the ass with a dart?"
+heading,,[Scene: Monica and Rachel's. Rachel and Ross are there. Ross is trying to get the dress off Marcel.]
+dialogue,Ross,"It'll be nice to get this off finally, won't it? Yes it will. (Marcel resists) Or we can leave it on for now, that's fine."
+dialogue,Rachel,"Y'know, with the right pair of pumps, that would be a great little outfit."
+dialogue,Ross,"Listen, I'm- I'm sorry I was so hard on you before, it's just I..."
+dialogue,Rachel,"Oh, Ross, c'mon. It's my fault, I almost lost your..."
+dialogue,Ross,"Yeah, but you were the one who got him back, y'know? You, you were great. ...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?"
+dialogue,Rachel,That'd be good.
+dialogue,Ross,"Alright. (He goes to get the glasses. Then he hesitates and turns off the main light. Rachel looks round and he acts surprised) The, uh, the neighbours must be vacuuming. (He sits down and starts to pour the wine) Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um..."
+action,,(Barry bursts in)
+dialogue,Barry,Rachel.
+dialogue,Rachel,Barry?!
+dialogue,Barry,"I can't. I can't do it, I can't marry Mindy. I think I'm still in love with you."
+dialogue,Ross and Rachel,Oh!
+dialogue,Ross,We have got to start locking that door!
+action,,Closing Credits
+heading,,"[Scene: Central Perk, Monica, Joey, Phoebe, and Chandler are looking through Monica's high school yearbook]"
+dialogue,Monica,This is me in The Sound of Music . See the von Trapp kids?
+dialogue,Phoebe,Nope.
+dialogue,Monica,That's because I'm in front of them.
+dialogue,Chandler,Eh. I thought that was an alp.
+dialogue,Monica,"Well, high school was not my favourite time."
+dialogue,Joey,"I dunno, I loved high school. Y'know? It was just four years of parties and dating and sex."
+dialogue,Chandler,"Yeah, well I went to boarding school with four hundred boys. Any sex I had would've involved a major lifestyle choice."
+dialogue,Monica,"Gosh, doesn't it seem like a million years ago?"
+dialogue,Phoebe,Oh. Oooh! Ooh! Ooh! (She stands up and starts to dance around) Ooh! My butt cheek is waking up! Oooh! Ooh!
+action,,End

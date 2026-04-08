@@ -1,0 +1,344 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Chandler, Joey, Phoebe, and Monica are there.]"
+dialogue,Monica,There's nothing to tell! He's just some guy I work with!
+dialogue,Joey,"C'mon, you're going out with the guy! There's gotta be something wrong with him!"
+dialogue,Chandler,"All right Joey, be nice. So does he have a hump? A hump and a hairpiece?"
+dialogue,Phoebe,"Wait, does he eat chalk?"
+action,,"(They all stare, bemused.)"
+dialogue,Phoebe,"Just, 'cause, I don't want her to go through what I went through with Carl- oh!"
+dialogue,Monica,"Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex."
+singing,Chandler,Sounds like a date to me.
+singing,,[Time Lapse]
+singing,Chandler,"Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked."
+singing,All,"Oh, yeah. Had that dream."
+dialogue,Chandler,"Then I look down, and I realize there's a phone... there."
+dialogue,Joey,Instead of...?
+dialogue,Chandler,That's right.
+dialogue,Joey,Never had that dream.
+dialogue,Phoebe,No.
+dialogue,Chandler,"All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me."
+dialogue,Monica,And they weren't looking at you before?!
+dialogue,Chandler,"Finally, I figure I'd better answer it, a nd it turns out it's my mother, which is very-very weird, because- she never calls me!"
+action,,"[Time Lapse, Ross has entered.]"
+dialogue,Ross,(mortified) Hi.
+dialogue,Joey,"This guy says hello, I wanna kill myself."
+dialogue,Monica,"Are you okay, sweetie?"
+dialogue,Ross,"I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck..."
+dialogue,Chandler,Cookie?
+dialogue,Monica,(explaining to the others) Carol moved her stuff out today.
+dialogue,Joey,Ohh.
+dialogue,Monica,(to Ross) Let me get you some coffee.
+dialogue,Ross,Thanks.
+dialogue,Phoebe,Ooh! Oh! (She starts to pluck at the air just in front of Ross.)
+dialogue,Ross,"No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?"
+dialogue,Phoebe,Fine! Be murky!
+dialogue,Ross,"I'll be fine, alright? Really, everyone. I hope she'll be very happy."
+dialogue,Monica,No you don't.
+dialogue,Ross,"No I don't, to hell with her, she left me!"
+dialogue,Joey,And you never knew she was a lesbian...
+dialogue,Ross,"No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?"
+dialogue,Chandler,Sometimes I wish I was a lesbian... (They all stare at him.) Did I say that out loud?
+dialogue,Ross,"I told mom and dad last night, they seemed to take it pretty well."
+dialogue,Monica,"Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., ""I'll never have grandchildren, I'll never have grandchildren."" was what? A wrong number?"
+dialogue,Ross,Sorry.
+dialogue,Joey,"Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?"
+action,,(Ross gestures his consent.)
+dialogue,Joey,"Strip joint! C'mon, you're single! Have some hormones!"
+dialogue,Ross,"I don't want to be single, okay? I just... I just- I just wanna be married again!"
+action,,(Rachel enters in a wet wedding dress and starts to search the room.)
+dialogue,Chandler,And I just want a million dollars! (He extends his hand hopefully.)
+dialogue,Monica,Rachel?!
+dialogue,Rachel,"Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!"
+dialogue,Waitress,Can I get you some coffee?
+dialogue,Monica,"(pointing at Rachel) De-caff. (to All) Okay, everybody, this is Rachel, another Lincoln High survivor. (to Rachel) This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?"
+dialogue,Rachel,"Hi, sure!"
+dialogue,Ross,Hi.
+action,,(They go to hug but Ross's umbrella opens. He sits back down defeated again. A moment of silence follows as Rachel sits and the others expect her to explain.)
+dialogue,Monica,"So you wanna tell us now, or are we waiting for four wet bridesmaids?"
+dialogue,Rachel,"Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- (to the waitress that brought her coffee)Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. (to Monica) So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city."
+dialogue,Monica,Who wasn't invited to the wedding.
+dialogue,Rachel,"Ooh, I was kinda hoping that wouldn't be an issue..."
+heading,,"[Scene: Monica's Apartment, everyone is there and watching a Spanish Soap on TV and are trying to figure out what is going on.]"
+dialogue,Monica,"Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it."
+dialogue,Chandler,(imitating the characters) Tuna or egg salad? Decide!
+dialogue,Ross,(in a deep voice) I'll have whatever Christine is having.
+dialogue,Rachel,"(on phone) Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!"
+action,,"(The scene on TV has changed to show two women, one is holding her hair.)"
+dialogue,Phoebe,"If I let go of my hair, my head will fall off."
+dialogue,Chandler,"(re TV) Ooh, she should not be wearing those pants."
+dialogue,Joey,I say push her down the stairs.
+dialogue,"Phoebe, Ross, Chandler, and Joey",Push her down the stairs! Push her down the stairs! Push her down the stairs!
+action,,(She is pushed down the stairs and everyone cheers.)
+dialogue,Rachel,"C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!"
+dialogue,Ross,You can see where he'd have trouble.
+dialogue,Rachel,"Look Daddy, it's my life. Well maybe I'll just stay here with Monica."
+dialogue,Monica,"Well, I guess we've established who's staying here with Monica..."
+dialogue,Rachel,"Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!"
+action,,"[Time Lapse, Rachel is breating into a paper bag.]"
+dialogue,Monica,"Just breathe, breathe.. that's it. Just try to think of nice calm things..."
+dialogue,Phoebe,"(sings) Raindrops on roses and rabbits and kittens, (Rachel and Monica turn to look at her.) bluebells and sleighbells and- something with mittens... La la la la... something and noodles with string. These are a few..."
+dialogue,Rachel,I'm all better now.
+dialogue,Phoebe,(grins and walks to the kitchen and says to Chandler and Joey.) I helped!
+dialogue,Monica,"Okay, look, this is probably for the best, y'know? Independence. Taking control of your life. The whole, 'hat' thing."
+dialogue,Joey,"(comforting her) And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot."
+dialogue,Monica,"Joey, stop hitting on her! It's her wedding day!"
+dialogue,Joey,"What, like there's a rule or something?"
+action,,(The door buzzer sounds and Chandler gets it.)
+dialogue,Chandler,"Please don't do that again, it's a horrible sound."
+dialogue,Paul,"(over the intercom) It's, uh, it's Paul."
+dialogue,Monica,"Oh God, is it 6:30? Buzz him in!"
+dialogue,Joey,Who's Paul?
+dialogue,Ross,"Paul the Wine Guy, Paul?"
+dialogue,Monica,Maybe.
+dialogue,Joey,Wait. Your 'not a real date' tonight is with Paul the Wine Guy?
+dialogue,Ross,He finally asked you out?
+dialogue,Monica,Yes!
+dialogue,Chandler,"Ooh, this is a Dear Diary moment."
+dialogue,Monica,"Rach, wait, I can cancel..."
+dialogue,Rachel,"Please, no, go, that'd be fine!"
+dialogue,Monica,"(to Ross) Are, are you okay? I mean, do you want me to stay?"
+dialogue,Ross,(choked voice) That'd be good...
+dialogue,Monica,(horrified) Really?
+dialogue,Ross,"(normal voice) No, go on! It's Paul the Wine Guy!"
+dialogue,Phoebe,"What does that mean? Does he sell it, drink it, or just complain a lot? (Chandler doesn't know.)"
+action,,(There's a knock on the door and it's Paul.)
+dialogue,Monica,"Hi, come in! Paul, this is.. (They are all lined up next to the door.)... everybody, everybody, this is Paul."
+dialogue,All,Hey! Paul! Hi! The Wine Guy! Hey!
+dialogue,Chandler,"I'm sorry, I didn't catch your name. Paul, was it?"
+dialogue,Monica,"Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah..."
+dialogue,Ross,A wandering?
+dialogue,Monica,"Change! Okay, sit down. (Shows Paul in) Two seconds."
+dialogue,Phoebe,"Ooh, I just pulled out four eyelashes. That can't be good."
+action,,(Monica goes to change.)
+dialogue,Joey,"Hey, Paul!"
+dialogue,Paul,Yeah?
+dialogue,Joey,"Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red."
+dialogue,Monica,"(yelling from the bedroom) Shut up, Joey!"
+dialogue,Ross,"So Rachel, what're you, uh... what're you up to tonight?"
+dialogue,Rachel,"Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!"
+dialogue,Ross,"Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- (thinks) -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture."
+dialogue,Chandler,"(deadpan) Yes, and we're very excited about it."
+dialogue,Rachel,"Well actually thanks, but I think I'm just gonna hang out here tonight. It's been kinda a long day."
+dialogue,Ross,"Okay, sure."
+dialogue,Joey,"Hey Pheebs, you wanna help?"
+dialogue,Phoebe,"Oh, I wish I could, but I don't want to."
+action,,Commercial Break
+heading,,"[Scene: The Subway, Phoebe is singing for change.]"
+singing,Phoebe,"(singing) Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart. La-la-la-la-la- (some guy gives her some change and to that guy) Thank you. (sings) La-la-la-la...ohhh!"
+heading,,"[Scene: Ross's Apartment, the guys are there assembling furniture.]"
+dialogue,Ross,"(squatting and reading the instructions) I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs."
+action,,(Joey and Chandler are finishing assembling the bookcase.)
+dialogue,Joey,I'm thinking we've got a bookcase here.
+dialogue,Chandler,It's a beautiful thing.
+dialogue,Joey,(picking up a leftover part) What's this?
+dialogue,Chandler,I would have to say that is an 'L'-shaped bracket.
+dialogue,Joey,Which goes where?
+dialogue,Chandler,I have no idea.
+action,,(Joey checks that Ross is not looking and dumps it in a plant.)
+dialogue,Joey,Done with the bookcase!
+dialogue,Chandler,All finished!
+dialogue,Ross,"(clutching a beer can and sniffing) This was Carol's favorite beer. She always drank it out of the can, I should have known."
+dialogue,Joey,"Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here."
+dialogue,Chandler,"Yes, please don't spoil all this fun."
+dialogue,Joey,"Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?"
+dialogue,Ross,You guys.
+dialogue,Chandler,"Oh, God."
+dialogue,Joey,You got screwed.
+dialogue,Chandler,Oh my God!
+heading,,"[Scene: A Restaurant, Monica and Paul are eating.]"
+dialogue,Monica,Oh my God!
+dialogue,Paul,"I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?"
+dialogue,Monica,"My brother's going through that right now, he's such a mess. How did you get through it?"
+dialogue,Paul,"Well, you might try accidentally breaking something valuable of hers, say her-"
+dialogue,Monica,-leg?
+dialogue,Paul,"(laughing) That's one way! Me, I- I went for the watch."
+dialogue,Monica,"You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel."
+dialogue,Paul,"Ooh, steer clear of you."
+dialogue,Monica,That's right.
+heading,,"[Scene: Monica's Apartment, Rachel is talking on the phone and pacing.]"
+dialogue,Rachel,"Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju- (She stops talking and dials the phone.) Hi, machine cut me off again... anyway... look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me. And not that I have any idea who me is right now, but you just have to give me a chance too... (The maching cuts her off again and she redials.)"
+heading,,[Scene: Ross's Apartment; Ross is pacing while Joey and Chandler are working on some more furniture.]
+dialogue,Ross,I'm divorced! I'm only 26 and I'm divorced!
+dialogue,Joey,Shut up!
+dialogue,Chandler,You must stop! (Chandler hits what he is working on with a hammer and it collapses.)
+dialogue,Ross,That only took me an hour.
+dialogue,Chandler,"Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You , however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!"
+dialogue,Ross,"You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..."
+dialogue,Joey,"What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!"
+dialogue,Ross,I honestly don't know if I'm hungry or horny.
+dialogue,Chandler,Stay out of my freezer!
+heading,,"[Scene: A Restaurant, Monica and Paul are still eating.]"
+dialogue,Paul,"Ever since she walked out on me, I, uh..."
+dialogue,Monica,"What?..... What, you wanna spell it out with noodles?"
+dialogue,Paul,"No, it's, it's more of a fifth date kinda revelation."
+dialogue,Monica,"Oh, so there is gonna be a fifth date?"
+dialogue,Paul,Isn't there?
+dialogue,Monica,"Yeah... yeah, I think there is. -What were you gonna say?"
+dialogue,Paul,"Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform. (Monica takes a sip of her drink.) ...Sexually."
+dialogue,Monica,"(spitting out her drink in shock) Oh God, oh God, I am sorry... I am so sorry..."
+dialogue,Paul,It's okay...
+dialogue,Monica,I know being spit on is probably not what you need right now. Um... how long?
+dialogue,Paul,Two years.
+dialogue,Monica,Wow! I'm-I'm-I'm glad you smashed her watch!
+dialogue,Paul,"So you still think you, um... might want that fifth date?"
+dialogue,Monica,"(pause)...Yeah. Yeah, I do."
+heading,,"[Scene: Monica's Apartment, Rachel is watching Joanne Loves Chaci .]"
+dialogue,Priest on TV,"We are gathered here today to join Joanne Louise Cunningham and Charles, Chachi-Chachi-Chachi, Arcola in the bound of holy matrimony."
+dialogue,Rachel,Oh...see... but Joanne loved Chachi! That's the difference!
+heading,,"[Scene: Ross's Apartment, they're all sitting around and talking.]"
+dialogue,Ross,"(scornful) Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?"
+dialogue,Joey,"Great story! But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea... Oh man, (looks to Chandler)"
+dialogue,Chandler,"Angela's the screamer, Andrea has cats."
+dialogue,Joey,Right. Thanks. It's June. I'm outta here. (Exits.)
+dialogue,Ross,"Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask? (He gazes out of the window.)"
+action,,[Cut to Rachel staring out of her window.]
+action,,Commercial Break
+heading,,"[Scene: Monica's Apartment, Rachel is making coffee for Joey and Chandler.]"
+dialogue,Rachel,"Isn't this amazing? I mean, I have never made coffee before in my entire life."
+dialogue,Chandler,That is amazing.
+dialogue,Joey,Congratulations.
+dialogue,Rachel,"Y'know, I figure if I can make coffee, there isn't anything I can't do."
+dialogue,Chandler,"If can invade Poland, there isn't anything I can't do."
+dialogue,Joey,"Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... (Joey and Chandler taste the coffee, grimace, and pour it into a plant pot.) Although actually I'm really not that hungry..."
+dialogue,Monica,"(entering, to herself) Oh good, Lenny and Squigy are here."
+dialogue,All,Morning. Good morning.
+dialogue,Paul,(entering from Monica's room) Morning.
+dialogue,Joey,"Morning, Paul."
+dialogue,Rachel,"Hello, Paul."
+dialogue,Chandler,"Hi, Paul, is it?"
+action,,(Monica and Paul walk to the door and talk in a low voice so the others can't hear. The others move Monica's table closer to the door so that they can.)
+dialogue,Paul,Thank you! Thank you so much!
+dialogue,Monica,Stop!
+dialogue,Paul,"No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness ."
+dialogue,Monica,We'll talk later.
+dialogue,Paul,Yeah. (They kiss) Thank you. (Exits)
+dialogue,Joey,That wasn't a real date?! What the hell do you do on a real date?
+dialogue,Monica,"Shut up, and put my table back."
+dialogue,All,Okayyy! (They do so.)
+dialogue,Chandler,"All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference..."
+dialogue,Rachel,"So, like, you guys all have jobs?"
+dialogue,Monica,"Yeah, we all have jobs. See, that's how we buy stuff."
+dialogue,Joey,"Yeah, I'm an actor."
+dialogue,Rachel,Wow! Would I have seen you in anything?
+dialogue,Joey,I doubt it. Mostly regional work.
+dialogue,Monica,"Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio , at the little theater in the park."
+dialogue,Joey,"Look, it was a job all right?"
+dialogue,Chandler,"'Look, Gippetto, I'm a real live boy.'"
+dialogue,Joey,I will not take this abuse. (Walks to the door and opens it to leave.)
+dialogue,Chandler,"You're right, I'm sorry. (Burst into song and dances out of the door.) "" Once I was a wooden boy, a little wooden boy... """
+dialogue,Joey,"You should both know, that he's a dead man. Oh, Chandler? (Starts after Chandler.)"
+dialogue,Monica,So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.
+dialogue,Rachel,I can see that. You look like you slept with a hanger in your mouth.
+dialogue,Monica,"I know, he's just so, so... Do you remember you and Tony DeMarco?"
+dialogue,Rachel,"Oh, yeah."
+dialogue,Monica,"Well, it's like that. With feelings."
+dialogue,Rachel,Oh wow. Are you in trouble.
+dialogue,Monica,Big time!
+dialogue,Rachel,Want a wedding dress? Hardly used.
+dialogue,Monica,"I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work."
+dialogue,Rachel,"Oh, look, wish me luck!"
+dialogue,Monica,What for?
+dialogue,Rachel,I'm gonna go get one of those (Thinks) job things.
+action,,(Monica exits.)
+heading,,"[Scene: Iridium, Monica is working as Frannie enters.]"
+dialogue,Frannie,"Hey, Monica!"
+dialogue,Monica,"Hey Frannie, welcome back! How was Florida?"
+dialogue,Frannie,"You had sex, didn't you?"
+dialogue,Monica,How do you do that?
+dialogue,Frannie,"Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex! So? Who?"
+dialogue,Monica,You know Paul?
+dialogue,Frannie,"Paul the Wine Guy? Oh yeah, I know Paul."
+dialogue,Monica,You mean you know Paul like I know Paul?
+dialogue,Frannie,"Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years."
+heading,,"[Scene: Central Perk, everyone but Rachel is there.]"
+dialogue,Joey,(sitting on the arm of the couch)Of course it was a line!
+dialogue,Monica,"Why?! Why? Why, why would anybody do something like that?"
+dialogue,Ross,I assume we're looking for an answer more sophisticated than 'to get you into bed'.
+dialogue,Monica,I hate men! I hate men!
+dialogue,Phoebe,"Oh no, don't hate, you don't want to put that out into the universe."
+dialogue,Monica,Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
+dialogue,Phoebe,"All right, c'mere, gimme your feet. (She starts massaging them.)"
+dialogue,Monica,"I just thought he was nice, y'know?"
+dialogue,Joey,(bursts out laughing again) I can't believe you didn't know it was a line!
+action,,(Monica pushes him off of the sofa as Rachel enters with a shopping bag.)
+dialogue,Rachel,Guess what?
+dialogue,Ross,You got a job?
+dialogue,Rachel,Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.
+dialogue,Chandler,And yet you're surprisingly upbeat.
+dialogue,Rachel,"You would be too if you found John and David boots on sale, fifty percent off!"
+dialogue,Chandler,"Oh, how well you know me..."
+dialogue,Rachel,"They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!"
+dialogue,Monica,How'd you pay for them?
+dialogue,Rachel,"Uh, credit card."
+dialogue,Monica,And who pays for that?
+dialogue,Rachel,Um... my... father.
+heading,,"[Scene: Monica and Rachel's, everyone is sitting around the kitchen table. Rachel's credit cards are spread out on the table along with a pair of scissors.]"
+dialogue,Rachel,"Oh God, come on you guys, is this really necessary? I mean, I can stop charging anytime I want."
+dialogue,Monica,"C'mon, you can't live off your parents your whole life."
+dialogue,Rachel,I know that. That's why I was getting married.
+dialogue,Phoebe,"Give her a break, it's hard being on your own for the first time."
+dialogue,Rachel,Thank you.
+dialogue,Phoebe,"You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel."
+action,,(Pause)
+dialogue,Ross,The word you're looking for is 'Anyway'...
+dialogue,Monica,"All right, you ready?"
+dialogue,Rachel,"No. No, no, I'm not ready! How can I be ready? ""Hey, Rach! You ready to jump out the airplane without your parachute?"" Come on, I can't do this!"
+dialogue,Monica,"You can, I know you can!"
+dialogue,Rachel,I don't think so.
+dialogue,Ross,"Come on, you made coffee! You can do anything! (Chandler slowly tries to hide the now dead plant from that morning when he and Joey poured their coffee into it.)"
+dialogue,Ross,"C'mon, cut. Cut, cut, cut,..."
+dialogue,All,"Cut, cut, cut, cut, cut, cut, cut... (She cuts one of them and they cheer.)"
+dialogue,Rachel,Y'know what? I think we can just leave it at that. It's kinda like a symbolic gesture...
+dialogue,Monica,Rachel! That was a library card!
+dialogue,All,"Cut, cut, cut, cut, cut, cut, cut.."
+dialogue,Chandler,"(as Rachel is cutting up her cards) Y'know, if you listen closely, you can hear a thousand retailers scream."
+action,,(She finishes cutting them up and they all cheer.)
+dialogue,Monica,Welcome to the real world! It sucks. You're gonna love it!
+action,,"[Time Lapse, Rachel and Ross are watching a TV channel finishes it's broadcast day by playing the national anthem.]"
+dialogue,Monica,"Well, that's it (To Ross) You gonna crash on the couch?"
+dialogue,Ross,"No. No, I gotta go home sometime."
+dialogue,Monica,You be okay?
+dialogue,Ross,Yeah.
+dialogue,Rachel,"Hey Mon, look what I just found on the floor. (Monica smiles.) What?"
+dialogue,Monica,"That's Paul's watch. You just put it back where you found it. Oh boy. Alright. Goodnight, everybody."
+dialogue,Ross and Rachel,Goodnight.
+action,,(Monica stomps on Paul's watch and goes into her room.)
+dialogue,Ross,"Mmm. (They both reach for the last cookie) Oh, no-"
+dialogue,Rachel,Sorry-
+dialogue,Ross,"No no no, go-"
+dialogue,Rachel,"No, you have it, really, I don't want it-"
+dialogue,Ross,Split it?
+dialogue,Rachel,Okay.
+dialogue,Ross,"Okay. (They split it.) You know you probably didn't know this, but back in high school, I had a, um, major crush on you."
+dialogue,Rachel,I knew.
+dialogue,Ross,You did! Oh.... I always figured you just thought I was Monica's geeky older brother.
+dialogue,Rachel,I did.
+dialogue,Ross,"Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?"
+dialogue,Rachel,"Yeah, maybe..."
+dialogue,Ross,"Okay... okay, maybe I will..."
+dialogue,Rachel,Goodnight.
+dialogue,Ross,Goodnight.
+action,,(Rachel goes into her room and Monica enters the living room as Ross is leaving.)
+dialogue,Monica,"See ya.... Waitwait, what's with you?"
+dialogue,Ross,I just grabbed a spoon. (Ross exits and Monica has no idea what that means.)
+action,,Closing Credits
+heading,,"[Scene: Central Perk, everyone is there.]"
+dialogue,Joey,I can't believe what I'm hearing here.
+dialogue,Phoebe,(sings) I can't believe what I'm hearing here...
+dialogue,Monica,What? I-I said you had a-
+dialogue,Phoebe,(sings) What I said you had...
+dialogue,Monica,(to Phoebe) Would you stop?
+dialogue,Phoebe,"Oh, was I doing it again?"
+dialogue,All,Yes!
+dialogue,Monica,"I said that you had a nice butt, it's just not a great butt."
+dialogue,Joey,"Oh, you wouldn't know a great butt if it came up and bit ya."
+dialogue,Ross,There's an image.
+dialogue,Rachel,(walks up with a pot of coffee) Would anybody like more coffee?
+dialogue,Chandler,"Did you make it, or are you just serving it?"
+dialogue,Rachel,I'm just serving it.
+dialogue,All,"Yeah. Yeah, I'll have a cup of coffee."
+dialogue,Chandler,"Kids, new dream... I'm in Las Vegas. (Rachel sits down to hear Chandler's dream.)"
+dialogue,Customer,"(To Rachel) Ahh, miss? More coffee?"
+dialogue,Rachel,"Ugh. (To another customer that's leaving.) Excuse me, could you give this to that guy over there? (Hands him the coffee pot.) Go ahead. (He does so.) Thank you. (To the gang.) Sorry. Okay, Las Vegas."
+dialogue,Chandler,"Okay, so, I'm in Las Vegas... I'm Liza Minelli-"
+action,,End

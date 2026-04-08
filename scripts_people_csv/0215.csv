@@ -1,0 +1,280 @@
+script_element,character,text
+heading,,[Scene: Chandler and Joey's apartment. Joey and Chandler enter with Chandler covering his eyes and Joey leading him.]
+dialogue,Joey,"Alright, no peeking. No peeking, no peeking, no peeking."
+dialogue,Chandler,"Alright, alright, but you better be wearing clothes when I open my eyes."
+dialogue,Joey,Alright open your eyes. (opens his eyes to see two black leather recliners and a big screen TV)
+dialogue,Chandler,Sweet mother of all that is good and pure.
+dialogue,Joey,Huh? Days of our Lives picked up my option.
+dialogue,Chandler,Congratulations!
+dialogue,Joey,I know.
+dialogue,chandler,Now we can finally watch Green Acres the way it was meant to be seen.
+dialogue,Joey,Uh-huh.
+dialogue,Chandler,"So uh, which one is mine?"
+dialogue,Joey,"Whichever one you want, man. Whichever one you want. (Chandler starts to sit in one of the chairs) Not that one."
+dialogue,Chandler,(sits down) Ohh yes.
+dialogue,Joey,"(sits down) Ohh yeah, that's the stuff."
+dialogue,Chandler,(reaches for the footrest lever) Do we dare?
+dialogue,Joey,We dare.
+dialogue,Both,(both extend the footrests) Aaahhhh. (both recline their chairs) AAAAHHHHHH.
+action,,Opening Credits
+heading,,"[Scene: Chandler and Joey's apartment. Chandler and Joey are sitting in their recliners watching TV. Monica, Ross, and Phoebe are there.]"
+dialogue,Phoebe,I can't believe two cows made the ultimate sacrifice so you guys could watch TV with your feet up.
+dialogue,Chandler,Well they were chair-shaped cows. They never would have survived in the wild.
+dialogue,Ross,"This screen is amazing, I mean Dick Van Dyke is practically life-size."
+dialogue,All,Woah!
+dialogue,Monica,"Rose Marie really belongs on a smaller screen, doesn't she?"
+action,,(Rachel enters)
+dialogue,Rachel,Hi you guys.
+dialogue,All,Hey.
+dialogue,Rachel,Hey you.
+dialogue,Ross,Hey you. (they stand together in front of the TV.)
+dialogue,CHANDLER and JOEY,"Woah, hey, yo. (Rachel and Ross move)"
+dialogue,Rachel,"So, uh, how was your day?"
+dialogue,Ross,"Oh you know, pretty much the usual, uh, sun shining, birds chirping."
+dialogue,Rachel,Really? Mine too.
+dialogue,Phoebe,"Hey cool, mine too."
+dialogue,Ross,"(beeper goes off) Yeah, yeah, yeah. I got to get to the museum. So um, I'll see you tonight."
+dialogue,Rachel,OK. (they go to kiss but everyone's watching so Ross just kisses her on the top of her head and leaves)
+dialogue,Ross,Bye guys.
+dialogue,All,Bye.
+dialogue,Monica,(walks up to Rachel in front of the TV) Tonight?
+dialogue,CHANDLER and JOEY,"Hey, yo. (they move from out of in front of the TV)"
+dialogue,Monica,What's tonight?
+dialogue,Rachel,It is our first official date. Our first date.
+dialogue,Monica,"Uh, hello."
+dialogue,Rachel,Hi.
+dialogue,Monica,"Tonight you're supposed to waitress for me, my catering thing, any of those words trigger anything for you?"
+dialogue,Rachel,"God, oh God Monica, I forgot. This is our first date."
+dialogue,Monica,Yes but my mom got me this job.
+dialogue,Phoebe,"OK, I can be a waitress, I can be a waitress."
+dialogue,Rachel,"Oh, thank you, thank you, thank you, thank you. See Phoebe, Phoebe."
+dialogue,Monica,"Really Phoebs? Because, you know, you'd have to be an actual waitress. This can't be like your 'I can be a bear cub' thing."
+dialogue,Phoebe,"I can be a waitress. OK watch this. Um, gimme two number ones, 86 the bacon, one Adam and Eve on a raft and rick'em, la-la-la-la-la, la-la-la-la-la."
+heading,,[Scene: Dr. Burke's apartment. Dr. Burke answers the door for Phoebe and Monica.]
+dialogue,Phoebe,It's James Bond.
+dialogue,Monica,Sorry we're late.
+dialogue,Dr. Burke,"Ah, that's OK, come on in. Um, I'm sorry, is Monica Geller coming? I was told she was."
+dialogue,Monica,"Dr. Burke, it, it's me."
+dialogue,Dr. Burke,"Monica? My God you used to be so. . . I mean you, you, you, you must have lost like. . . You look great."
+dialogue,Monica,Thank you. This is my friend Phoebe. She's gonna be helping me tonight.
+dialogue,Dr. Burke,"Hi Phoebe, nice to meet you. (Phoebe just giggles when they shake) So, how ya been?"
+dialogue,Monica,"I've been great, just great. How have you been? (tilting her head)"
+dialogue,Dr. Burke,"Oh, well obviously you know Barbara and I split up, otherwise you wouldn't have done the head tilt."
+dialogue,Monica,The head tilt?
+dialogue,Dr. Burke,"Yeah, since the divorce, when anybody asks me how I am, it's always with a sympathetic head tilt. (demonstrating) 'How ya doin'? You OK?'"
+dialogue,Monica,I'm sorry.
+dialogue,Dr. Burke,"No no, it, it's fine, believe me. I do it too. I always answer with the 'I'm OK' head bob. (demonstrates) 'I'm OK.' (tilts head) 'You sure?' (bobs head) 'Yeah, I'm fine.' Hey listen, I've got to set up the music. I got a new CD changer, of course the divorce only left me with 4 CD's to change."
+dialogue,Monica,"(her and Phoebe tilt their heads) Oh, that's too bad."
+dialogue,Dr. Burke,(bobbing his head) I'll survive.
+heading,,[Scene: Chandler and Joey's apartment. They're still in their chairs watching TV. Chandler is ordering a pizza.]
+dialogue,Chandler,"Uh, two larges, extra cheese on both. But listen, don't ring the buzzer for 19, ring 20, Geller-Green, they'll let you in, OK. If you buzz our door, there's no tip for you. OK, thanks. Pizza's on the way. I told you we wouldn't have to get up."
+dialogue,Joey,What if we have to pee?
+dialogue,Chandler,I'll cancel the sodas.
+heading,,[Scene: Dr. Burke's apartment. Monica and Dr. Burke are in the kitchen.]
+dialogue,Monica,"You've got to get back out there, it's your party."
+dialogue,Dr. Burke,"But they're so dull, they're all opthamologists."
+dialogue,Monica,You're an opthamologist.
+dialogue,Dr. Burke,"Only because my parents wanted me to be, I wanted to be a sherrif."
+dialogue,Phoebe,"(entering the kitchen from the party) That's funny, no. Cadillac, cataract, I get it, no I get it, you stay out there."
+dialogue,Dr. Burke,See.
+dialogue,Monica,"Alright, I'll tell you what. I'll come get you in 5 minutes with some sort of um, kabob emergency."
+dialogue,Dr. Burke,"OK. You better. Oh God, here we go. Hey wanna see 'em go nuts? Watch this. (grabbing some wine glasses and opening the door to the party) Who needs glasses? (everyone laughs)"
+dialogue,Phoebe,You are so smitten.
+dialogue,Monica,I am not.
+dialogue,Phoebe,"Oh, you are so much the smitten kitten. You should ask him out."
+dialogue,Monica,"Dr. Burke? I don't think so. I mean, like, he's a grown up."
+dialogue,Phoebe,So. You two are totally into each other.
+dialogue,Monica,"Phoebe, he's a friend of my parents. He's like 20 years older than me."
+dialogue,Phoebe,"OK, so what, you're just never gonna see him again?"
+dialogue,Monica,"Not never. I mean, I'm gonna see him tomorrow at my eye appointment."
+dialogue,Phoebe,"Didn't you like, just get your eyes checked?"
+dialogue,Monica,"Well yeah, but, you know, uh, 27 is a dangerous eye age."
+heading,,[Scene: Monica and Rachel's apartment. Ross and Rachel are returning from a movie.]
+dialogue,Rachel,"C'mon, I'm not saying it was a bad movie, I'm just saying, you know, it was a little. . . hard to follow."
+dialogue,Ross,I told you there was going to be sub-titles.
+dialogue,Rachel,"I know, I just didn't want to wear my glasses on my first date."
+action,,(They start kissing.)
+dialogue,Rachel,Monica.
+dialogue,Ross,It would really help when I'm kissing you if you didn't shout out my sister's name.
+dialogue,Rachel,"Honey, I'm just checking."
+dialogue,Ross,Oh.
+dialogue,Rachel,Monica.
+dialogue,Ross,Mon.
+dialogue,Rachel,Monica.
+dialogue,Ross,Mon.
+action,,(Since they're alone they start kissing and Ross's hands work their way down until they're on Rachel's butt. Rachel starts laughing.)
+dialogue,Ross,"What, what."
+dialogue,Rachel,"I'm sorry. Oh God, I'm sorry, it's just that when you moved your hands down to my butt, it was like woah, Ross's hands are on my butt. Sorry."
+dialogue,Ross,"And that's, that's funny why?"
+dialogue,Rachel,"Well it's not, honey I'm sorry, I guess I'm just nervous. I mean, it's you, ya know, it's us. I mean, we're crossing that line, sort of a big thing."
+dialogue,Ross,"I, I know it's big, I just didn't know it was uh, ha-ha big."
+dialogue,Rachel,OK. (start kissing again and Rachel starts lauging again)
+dialogue,Ross,"OK, my hands were no where near your butt."
+dialogue,Rachel,"I know, I know, I know, I know. I was just thinking about when they were there the last time, I'm sorry. I'm sorry, I'm sorry. OK, OK, look, woah, I promise, I'm good, I'm not gonna laugh anymore. OK put your hands back there."
+dialogue,Ross,"No see now, now I can't because uh, I'm feeling too self conscious."
+dialogue,Rachel,Just one cheek.
+dialogue,Ross,"Nuh, uh, the moment's gone."
+dialogue,Rachel,"Alright, just put your hands out and I'll back up into them."
+dialogue,Ross,That's romantic.
+dialogue,Rachel,C'mon touch it.
+dialogue,Ross,No.
+dialogue,Rachel,"Oh, come on squeeze it."
+dialogue,Ross,No.
+dialogue,Rachel,Rub it.
+dialogue,Ross,No.
+dialogue,Rachel,"Oh, come on, would you just grab my ass."
+heading,,[Scene: Chandler and Joey's apartment. They are watching a Miracle Wax info-mercial.]
+dialogue,Joey,"Wow, look at that. The car is on fire, yet somehow it's expensive paint job is protected by the Miracle Wax."
+dialogue,Chandler,You got a Cheeto on your face man.(Joey removes the Cheeto and eats it)
+action,,(Ross enters)
+dialogue,Joey,Hi.
+dialogue,CHANDLER and JOEY,Hey.
+dialogue,Joey,What're you doin' here? Aren't you supposed to be out with Rachel?
+dialogue,Ross,That was 14 hours ago.
+dialogue,Chandler,So how'd it go?
+dialogue,Ross,"Oh. Listen, have you ever been uh, you know, foolin' around with a girl and uh, she started laughin'?"
+dialogue,Chandler,"Yeah, but uh, it was 1982 and my flock of seagulls haircut was tickling her chin."
+dialogue,Joey,She laughed at you?
+dialogue,Ross,"Yeah. I don't know, I've been wanting this since like ninth grade typing, ya know. And I just want it to be perfect and right and. . . why isn't that laser beam cutting through the paint?"
+dialogue,Chandler,It's the Miracle Wax.
+dialogue,Joey,It certainly is a miracle.
+action,,(Rachel enters)
+dialogue,Rachel,Hi you guys.
+dialogue,CHANDLER and JOEY,Hey.
+dialogue,Ross,Hey.
+dialogue,Rachel,"Hi. Listen, I was um, thinkin' about. . ."
+dialogue,Chandler,"Listen can you guys uh, speak up, it's harder for us to hear you when you lower your voice."
+action,,(Rachel and Ross go out in the hall)
+dialogue,Rachel,"OK, listen, I'm sorry about last night and I really want to make it up to you."
+dialogue,Ross,"No, you, ya know there's no need to make it u. . . how?"
+dialogue,Rachel,"Well, I was thinking maybe a um, a romantic dinner with um, candles and wine and then uh, maybe going back to my place for um, dessert."
+dialogue,Ross,"Humm, that sounds, I don't, perfect."
+action,,(there's a loud bang at the door so Ross opens it back up to find a shoe has been thrown at it)
+dialogue,Rachel,What's this.
+dialogue,Chandler,Could you get us a couple of beers?
+heading,,[Scene: Dr. Burke's office. Monica is there for her eye appointment.]
+dialogue,Dr. Burke,I'm going to look into your eyes now.
+dialogue,Monica,Really.
+dialogue,Dr. Burke,"Yeah, that's my job. Alright, look up. . . look down, now open your eyes, now look down. That's right, look into the light. Now look at me. . . OK. Your eyes look good. Those are good eyes."
+dialogue,Monica,"Good, they feel good, in my head."
+dialogue,Dr. Burke,"So, it's great to see ya."
+dialogue,Monica,You too.
+dialogue,Dr. Burke,You too.
+dialogue,Monica,"OK, um. Goodbye."
+dialogue,Dr. Burke,Drops!
+dialogue,Monica,What?
+dialogue,Dr. Burke,"Drops. Here, they're free."
+dialogue,Monica,"Thanks. So, I guess I better be going."
+dialogue,Dr. Burke,"Oh, OK, yeah. I'll see ya later."
+dialogue,Monica,Thanks again.
+action,,"(He kisses her on the cheek, she returns the kiss, then they embrace in a full on kiss)"
+heading,,[Scene: Chandler and Joey's apartment. They're still watching TV. Phoebe stands in front of the TV.]
+dialogue,Phoebe,We have got to get you lazy boys out of these chairs.
+dialogue,CHANDLER and JOEY,"Hey, woah, hey, woah."
+dialogue,Phoebe,You know you should go outside and be with the three-dimensional people.
+dialogue,Joey,"No, inside good, outside bad."
+dialogue,Phoebe,"You guys are so pathetic, I, oh, OH, XANADU! OH."
+dialogue,Chandler,She's one of us now.
+action,,(Rachel and Ross enter)
+dialogue,Rachel,Hi you guys.
+dialogue,Ross,Hey.
+dialogue,"CHANDLER, JOEY, and PHOEBE",Hey.
+dialogue,Ross,"Well we just wanted to stop by and uh, say goodnight."
+dialogue,"CHANDLER, JOEY, and PHOEBE",Goodnight.
+dialogue,Ross,"Look at that, they won't even turn their heads."
+dialogue,Rachel,"Alright you guys, I'm takin' off my shirt."
+dialogue,Joey,"(uses a dentist mirror to see) Naa, she's lyin'."
+action,,(Monica enters carrying food that's been delivered)
+dialogue,Monica,Stop sending food to our apartment.
+dialogue,Ross,"Well, why're you all dressed up?"
+dialogue,Phoebe,You're not the only one who has a date tonight.
+dialogue,Ross,What? You have a date? Who with?
+dialogue,Monica,No one.
+dialogue,Ross,"C'mon, what's his name?"
+dialogue,Monica,Nothing.
+dialogue,Ross,"Come on, tell me."
+dialogue,Monica,"Alright, but I'm very excited about this OK, so you gotta promise you won't get all big-brothery and judgmental."
+dialogue,Ross,"Oh, I promise, what."
+dialogue,Monica,It's Richard Burke.
+dialogue,Ross,"Who's Richard Burke? Doc, Doctor Burke? You have a date with Doctor Burke? Why, why, why should that bother me? I, I love that man, he's like a uh, brother to dad."
+dialogue,Monica,"Well for your information he happens to be one of the brightest, most sophisticated, sexiest men I've ever been with."
+dialogue,Ross,Doctor Burke is sexy?
+dialogue,RACHEL and PHOEBE,"Oh God, absolutely."
+dialogue,Ross,"(his beeper goes off) It's the museum again, can I, oh."
+dialogue,Rachel,"Ya know, Dr. Burke kissed me once."
+dialogue,Monica,When?
+dialogue,Rachel,"When I was um, 7, I crashed my bike right out in front of his house and to stop me from crying he kissed me right here. (points to the tip of her nose)"
+dialogue,Phoebe,Oh you are so lucky.
+dialogue,Rachel,I know.
+dialogue,Ross,"(on the phone) Woah, woah, woah australopithicus isn't supposed to be in that display. No. No. No, n, homo-habilus was erect, australopithicus was never fully erect."
+dialogue,Chandler,Well maybe he was nervous.
+heading,,"[Scene: Museum of Natural History. Ross is fixing a display, Rachel is waiting patiently.]"
+dialogue,Ross,"Oh look, I can't believe this. Look, homo-habilus hasn't even learned how to use tools yet and they've got him here wi, with clay pots. Why don't, why don't they just give him a microwave? I'm sorry, I'm sorry this is taking so long, ya know, I, I, it's just it's longer than I expected, we will have dinner."
+dialogue,Rachel,"It's OK, it's fine."
+dialogue,Ross,KARL!
+action,,(Ross leaves to find Karl. Rachel takes a peek under the loincloth of one of the display models.)
+heading,,[Scene: Monica and Rachel's apartment. Monica and Dr. Burke are sitting on the couch. He's showing her the pictures in his wallet.]
+dialogue,Monica,"Wow, is that Michelle?"
+dialogue,Dr. Burke,Yep.
+dialogue,Monica,"I've not seen her since high school graduation. Oh my God, that night she got so dru. . . motional."
+dialogue,Dr. Burke,"Ya know, she's having another baby."
+dialogue,Monica,I thought she just had one.
+dialogue,Dr. Burke,"No no. Henry's almost two and he's talking and everyting. Here. You know, the other day he told me he liked me better than his other grandpa. Now in all fairness his other grandpa's a drunk but still. . ."
+dialogue,Monica,"Oh, you're a grandpa."
+dialogue,Dr. Burke,Yeah. Are we nuts here?
+dialogue,Monica,"I don't know, maybe. I mean I'm dating a man who's pool I once peed in."
+dialogue,Dr. Burke,"I didn't need to know that. I guess 21 years is a lot. I mean, hell, I'm a whole person who can drink older than you."
+dialogue,Monica,Yeah.
+dialogue,Dr. Burke,So.
+dialogue,Monica,So maybe we should just. . .
+dialogue,Dr. Burke,"Yeah, yeah, maybe."
+dialogue,Monica,"Wow, this really sucks."
+dialogue,Dr. Burke,"Yeah, it sure does. (they hug and it turns into a passionate kiss)"
+dialogue,Monica,"Well, we don't really have to decide anything right now, do we?"
+dialogue,Dr. Burke,"No, no, there's no rush or anything."
+action,,(knock at the door)
+dialogue,Delivery Guy,Pizza delivery.
+dialogue,Monica,"Oh, I'm gonna kill those guys."
+heading,,[Scene: Museum of Natural History. Ross enters the display where Rachel is waiting.]
+dialogue,Ross,Rach.
+dialogue,Rachel,Oh.
+dialogue,Ross,I'm done.
+dialogue,Rachel,"Yeah well, you know what, so is uh, Sorentino's."
+dialogue,Ross,"Wha, OK, I'm sorry, let's uh, why don't we find someplace else."
+dialogue,Rachel,"No, you know what, it's late, everything's gonna be closed. Why don't we just do it another night?"
+dialogue,Ross,"No, no, we won't."
+dialogue,Rachel,We won't?
+dialogue,Ross,(grabs a fur pelt) C'mon.
+dialogue,Rachel,"OK, that's dead right?"
+heading,,[Scene: The museum planetarium. Ross and Rachel enter on stage.]
+dialogue,Rachel,What is this? What are we doing?
+dialogue,Ross,Shh. Do you want cran-apple or cran-grape?
+dialogue,Rachel,Grape.
+dialogue,Ross,"(spreads the pelt on the floor) OK, now, sit. OK. (he starts the music system)"
+dialogue,Rachel,"Oh, God."
+action,,(The stereo system booms out 'Billions of years ago. . .'. Ross gets up and changes it to music.)
+dialogue,Ross,Sorry.
+dialogue,Rachel,"Ah, so what are we looking at?"
+dialogue,Ross,"Well uh, you see that, that little cluster of stars next to the big one? That is Ursa Major."
+dialogue,Rachel,Really?
+dialogue,Ross,"I've no idea, could be. Listen, I'm sorry I had to work tonight."
+dialogue,Rachel,"Oh it's OK. You were worth the wait, and I don't just mean tonight. (they kiss)"
+dialogue,Ross,You're not laughing.
+dialogue,Rachel,This time it's not so funny.
+action,,(They kiss and start undressing. As Rachel tries to pull off Ross's tie she catches it in his mouth. Then they roll across the fur rug.)
+dialogue,Rachel,"Ah, oh God. Oh, honey, oh that's OK."
+dialogue,Ross,"What. Oh no, you just rolled over the juice box."
+dialogue,Rachel,"Oh, thank God."
+heading,,[Scene: Museum of Natural History. The next morning Rachel and Ross are sleeping in the display under a fur.]
+dialogue,Ross,Hi.
+dialogue,Rachel,Hi you. I can't believe I'm waking up next to you.
+dialogue,Ross,I know it is pretty unbelievaaaaah.
+dialogue,Rachel,What?
+dialogue,Ross,We're not alone. (A church youth group is outside the display watching them)
+action,,Closing Credits
+heading,,"[Scene: Chandler and Joey's apartment. They are still in their chairs, watching Beavis and Butthead .]"
+action,,(they're laughing along with the show when an alarm goes off)
+dialogue,Joey,Is that the fire alarm?
+dialogue,Chandler,"Yeah. (feels the floor) Oh it's not warm yet, we still have time."
+dialogue,Joey,Cool.
+action,,End

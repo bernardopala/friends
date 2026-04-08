@@ -1,0 +1,278 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, Ross is entering.]"
+dialogue,Ross,Guys? There's a somebody I'd like you to meet.
+action,,(A monkey jumps on to his shoulder.)
+dialogue,All,Oooh!
+dialogue,Monica,W-wait. What is that?
+dialogue,Ross,'That' would be Marcel. You wanna say hi?
+dialogue,Monica,"No, no, I don't."
+dialogue,Rachel,"Oh, he is precious! Where did you get him?"
+dialogue,Ross,My friend Bethel rescued him from some lab.
+dialogue,Phoebe,That is so cruel! Why? Why would a parent name their child Bethel?
+dialogue,Chandler,"Hey, that monkey's got a Ross on its ass!"
+dialogue,Monica,"Ross, is he gonna live with you, like, in your apartment?"
+dialogue,Ross,"Yeah. I mean, it's been kinda quiet since Carol left, so..."
+dialogue,Monica,Why don't you just get a roommate?
+dialogue,Ross,"Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- (Realises) ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'."
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Phoebe is getting ready to sing. Joey is not there.]"
+dialogue,Phoebe,"So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman."
+dialogue,Chandler,Might wanna open with the snowman.
+action,,(Enter Joey)
+dialogue,All,"Hey, Joey. Hey, buddy."
+dialogue,Monica,"So, how'd it go?"
+dialogue,Joey,"Ahhhhhh, I didn't get the job."
+dialogue,Ross,How could you not get it? You were Santa last year.
+dialogue,Joey,"I dunno. Some fat guy's sleeping with the store manager. He's not even jolly, it's all political."
+dialogue,Monica,So what are you gonna be?
+dialogue,Joey,"Ah, I'm gonna be one of his helpers. It's just such a slap in the face, y'know?"
+dialogue,Rachel,"Hey, do you guys know what you're doing for New Year's? (They all protest and hit her with cushions) Gee, what?! What is wrong with New Year's?"
+dialogue,Chandler,"Nothing for you, you have Paolo. You don't have to face the horrible pressures of this holiday: desperate scramble to find anything with lips just so you can have someone to kiss when the ball drops!! Man, I'm talking loud!"
+dialogue,Rachel,"Well, for your information, Paolo is gonna be in Rome this New Year, so I'll be just as pathetic as the rest of you."
+dialogue,Phoebe,"Yeah, you wish!"
+dialogue,Chandler,"It's just that I'm sick of being a victim of this Dick Clark holiday. I say this year, no dates, we make a pact. Just the six of us- dinner."
+dialogue,All,"Yeah, okay. Alright."
+dialogue,Chandler,"Y'know, I was hoping for a little more enthusiasm."
+dialogue,All,Woooo! Yeah!
+dialogue,Rachel,"Phoebe, you're on."
+dialogue,Phoebe,"Oh, oh, good."
+dialogue,Rachel,"(Into microphone) Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!"
+dialogue,Phoebe,"(Takes mike) Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year. (Shakes bell as an introduction) (Sung:)"
+singing,Phoebe,I made a man with eyes of coal
+singing,Phoebe,"And a smile so bewitchin',"
+singing,Phoebe,How was I supposed to know
+singing,Phoebe,That my mom was dead in the kitchen?
+singing,Phoebe,(shakes bell) La lalala la la la la lalala la la...
+action,,(Cut to later. Everyone is totally depressed by now.)
+action,,(Phoebe sung)
+singing,Phoebe,...My mother's ashes
+singing,Phoebe,Even her eyelashes
+singing,Phoebe,"Are resting in a little yellow jar,"
+singing,Phoebe,And sometimes when it's breezy...
+action,,"(Over the sound of Phoebe singing we hear two scientists, Max and David, having a noisy discussion)"
+action,,(Phoebe sung)
+singing,Phoebe,...I feel a little sneezy
+singing,Phoebe,And now I- (abruptly stops)
+dialogue,Phoebe,"Excuse me, excuse me! Yeah, noisy boys! (They stop talking and look up) Is it something that you would like to share with the entire group?"
+dialogue,Max,"No. No, that's- that's okay."
+dialogue,Phoebe,"Well, c'mon, if it's important enough to discuss while I'm playing, then I assume it's important enough for everyone else to hear!"
+dialogue,Chandler,"(Quietly, to the others) That guy's going home with a note!"
+dialogue,David,Noth- I was- I was just saying to my-
+dialogue,Phoebe,Could you speak up please?
+dialogue,David,"(Stands up and speaks more loudly) Sorry, I wa- I was just saying to my friend that I thought you were the most beautiful woman that I'd ever seen in my- in my life. And then he said that- you said you thought"
+dialogue,Max,Daryl Hannah.
+dialogue,David,"Daryl Hannah was the most beautiful woman that he'd ever seen in his life and I said yeah, I liked her in Splash, a lot, but not so much in- in Wall Street, I thought she had kind of a"
+dialogue,Max,Hard quality.
+dialogue,David,"-hard quality. And uh, while Daryl Hannah is beautiful in a conventional way, you are luminous with a kind of a delicate grace. Then, uh, that-that-that's when you started yelling. (Sits down)"
+dialogue,Phoebe,"Okay, we're gonna take a short break. (Goes over to their table)"
+dialogue,Joey,"Hey, that guy's going home with more than a note!"
+heading,,"[Scene: Monica and Rachel's, everyone except Joey is decorating for Christmas.]"
+dialogue,Ross,"Come here, Marcel. Sit here. (Marcel wanders off)"
+dialogue,Rachel,"Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?"
+dialogue,Ross,Just a smidge.
+dialogue,Phoebe,"David's like, y'know, Scientist Guy. He's very methodical."
+dialogue,Monica,I think it's romantic.
+dialogue,Phoebe,Me too! Oh! Did you ever see An Officer and a Gentleman?
+dialogue,Rachel,Yeah!
+dialogue,Phoebe,"Well, he's kinda like the guy I went to see that with. Except, except he-he's smarter, and gentler, and sweeter... I just- I just wanna be with him all the time. Day and night, and night and day... and special occasions..."
+dialogue,Chandler,"Wait a minute, wait a minute, I see where this is going, you're gonna ask him to New Year's, aren't you. You're gonna break the pact. She's gonna break the pact."
+dialogue,Phoebe,"No, no, no, no, no, no. Yeah, could I just?"
+dialogue,Chandler,"Yeah, 'cause I already asked Janice."
+dialogue,Monica,What?!
+dialogue,Ross,"C'mon, this was a pact! This was your pact!"
+dialogue,Chandler,"I snapped, okay? I couldn't handle the pressure and I snapped."
+dialogue,Monica,"Yeah, but Janice? That-that was like the worst breakup in history!"
+dialogue,Chandler,"I'm not saying it was a good idea, I'm saying I snapped!"
+action,,"[Joey enters, his shoes have bells on, which jingle as he walks. He is wearing a long coat.]"
+dialogue,Joey,"Hi. Hi, sorry I'm late."
+action,,(He removes the coat to reveal an elf costume)
+dialogue,Chandler,Too many jokes... must mock Joey!
+dialogue,Joey,"Nice shoes, huh? (He wiggles his foot and the bells tinkle)"
+dialogue,Chandler,"Aah, y'killing me!"
+action,,(Marcel knocks over some kitchen tools)
+dialogue,Monica,Ross! He's playing with my spatulas again!
+dialogue,Ross,"Okay, look, he's not gonna hurt them, right?"
+dialogue,Monica,Do you always have to bring him here?
+dialogue,Ross,"I didn't wanna leave him alone. Alright? We- we had our first fight this morning. I think it has to do with my working late. I said some things that I didn't mean, and he- he threw some faeces..."
+dialogue,Chandler,"Y'know, if you're gonna work late, I could look in on him for you."
+dialogue,Ross,"Oh, that'd be great! Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me."
+dialogue,Chandler,"Okay, but if he asks, I'm not going to lie."
+heading,,"[Scene: Max and David's lab, David is explaining something to Phoebe with the aid of a whiteboard.]"
+dialogue,David,"...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions."
+dialogue,Phoebe,"Okay, alright, I have a question, then."
+dialogue,David,Yuh.
+dialogue,Phoebe,"Um, were you planning on kissing me ever?"
+dialogue,David,"Uh, that's definitely a, uh, valid question. And, uh, the answer would be (Writes YES on the board) yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you."
+dialogue,Phoebe,Sure.
+dialogue,David,"Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella."
+dialogue,Phoebe,"Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body."
+dialogue,David,Rrrreally.
+dialogue,Phoebe,"Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me."
+dialogue,David,...Now? Now?
+dialogue,Phoebe,"Oh yeah, right now."
+dialogue,David,"Okay, okay, okay. (Gets ready to sweep, and then picks up a laptop computer) Y'know what, this was just really expensive. (Puts it down elsewhere. Then picks up a microscope) And I'll take- this was a gift. (Moves it)"
+dialogue,Phoebe,"Okay, now you're just kinda tidying."
+dialogue,David,"Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?"
+dialogue,Phoebe,I can hop. (She hops onto the table)
+action,,"(They kiss, finally)"
+heading,,"[Scene: Central Perk, everyone is there.]"
+dialogue,Ross,So tell me something. What does the phrase 'no date pact' mean to you?
+dialogue,Monica,"I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby."
+dialogue,Chandler,Fun Bobby? Your ex-boyfriend Fun Bobby?
+dialogue,Monica,Yeah.
+dialogue,Joey,You know more than one Fun Bobby?
+dialogue,Chandler,I happen to know a Fun Bob.
+dialogue,Rachel,"(Brings Joey a mug of coffee) Okay, here we go..."
+dialogue,Joey,"Ooh ooh ooh ooh, there's no room for milk!"
+dialogue,Rachel,(Glances at Joey and then sips his coffee) There. Now there is.
+dialogue,Ross,"Okay, so on our no-date evening, three of you now have dates."
+dialogue,Joey,"Uh, four."
+dialogue,Ross,Four.
+dialogue,Rachel,Five.
+dialogue,Ross,Five. (Buries his head in his hands)
+dialogue,Rachel,Sorry. Paolo's catching an earlier flight.
+dialogue,Joey,"Yeah, and I met this really hot single mom at the store. What's an elf to do?"
+dialogue,Ross,"Okay, so I'm gonna be the only one standing there alone when the ball drops?"
+dialogue,Rachel,"Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who."
+dialogue,Ross,"Hey, y'know, this is so not what I needed right now."
+dialogue,Monica,What's the matter?
+dialogue,Ross,"Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands..."
+dialogue,Chandler,"That's so weird, I had such a blast with him the other night."
+dialogue,Ross,Really.
+dialogue,Chandler,"Yeah, we played, we watched TV.. that juggling thing is amazing."
+dialogue,Ross,"What, uh... what juggling thing?"
+dialogue,Chandler,With the balled-up socks? I figured you taught him that.
+dialogue,Ross,No.
+dialogue,Chandler,"Y'know, it wasn't that big a deal. He just balled up socks... and a melon..."
+action,,(Max runs in)
+dialogue,Max,Phoebe. Hi.
+dialogue,Phoebe,"Oh, hi Max! Hey, do you know everybody?"
+dialogue,Max,No. Have you seen David?
+dialogue,Phoebe,"No, no, he hasn't been around."
+dialogue,Max,"Well, if you see him, tell him to pack his bags. We are going to Minsk."
+dialogue,Phoebe,Minsk?
+dialogue,Max,Minsk. It's in Russia.
+dialogue,Phoebe,I know where Minsk is.
+dialogue,Max,"We got the grant. Three years, all expenses paid."
+dialogue,Phoebe,"So when, when do you leave?"
+dialogue,Max,January first.
+action,,Commercial Break
+heading,,"[Scene: Max and David's lab, they are working. Phoebe knocks on the door]"
+dialogue,Phoebe,Hello?
+dialogue,David,Hey!
+dialogue,Phoebe,Hi.
+dialogue,David,Hi! (Kisses her) What-what're you doing here?
+dialogue,Phoebe,"Um, well, Max told me about Minsk, so (Puts on a fake cheery voice) congratulations! This is so exciting!"
+dialogue,Max,It'd be even more exciting if we were going.
+dialogue,Phoebe,"Oh, you're not going? (Fake disappointed voice) Oh, why?"
+dialogue,Max,"Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!' (Storms out)"
+dialogue,David,"Thank you, Max. Thank you."
+dialogue,Phoebe,So-so you're really not going?
+dialogue,David,I don't know. I don't know what I'm gonna do. I just- you decide.
+dialogue,Phoebe,Oh don't do that.
+dialogue,David,Please.
+dialogue,Phoebe,Oh no no.
+dialogue,David,"No, but I'm asking-"
+dialogue,Phoebe,"Oh, but I can't do that-"
+dialogue,David,"No, but I can't-"
+dialogue,Phoebe,"It's your thing, and-"
+dialogue,David,-make the decision-
+dialogue,Phoebe,"Okay, um, stay."
+dialogue,David,Stay.
+dialogue,Phoebe,Stay.
+action,,(He thinks for a moment and sweeps the stuff off the table)
+dialogue,Phoebe,Getting so good at that! (She hops on)
+dialogue,David,It was Max's stuff. (They kiss)
+heading,,"[Scene: Monica and Rachel's, the party has started.]"
+dialogue,Janice,"I love this artichoke thing! Oh, don't tell me what's in it, the diet starts tomorrow! (Laughs her Janice laugh)"
+dialogue,Chandler,You remember Janice.
+dialogue,Monica,Vividly.
+action,,(Someone knocks on the door; Monica gets it)
+dialogue,Monica,Hi.
+dialogue,Sandy,"Hi, I'm Sandy."
+dialogue,Joey,"Sandy! Hi! C'mon in! (She enters, followed by a young boy and a younger girl)...You brought your kids."
+dialogue,Sandy,"Yeah. That's okay, right?"
+action,,(Joey and Monica look at each other and shrug. Ross enters with Marcel on his shoulder)
+dialogue,Ross,Par-tay!
+dialogue,Monica,That thing is not coming in here.
+dialogue,Ross,"'That thing'? This is how you greet guests at a party? Let me ask you something, if I showed up here with my new girlfriend, she wouldn't be welcome in your home?"
+dialogue,Monica,I'm guessing your new girlfriend wouldn't urinate on my coffee table.
+dialogue,Ross,Okay. He was more embarrassed about that than anyone. Okay? And for him to have the courage to walk back in here like nothing happened...
+dialogue,Monica,Alright. Just keep him away from me.
+dialogue,Ross,"Thank you. (She walks off) C'mon, Marcel, whaddya say you and I do a little mingling? (Marcel runs off) Alright, I'll, uh... catch up with you later."
+action,,"(The door opens. Rachel is standing there. Her coat is muddy and torn, her hair is dishevelled and her face is bruised. Everyone turns to look)"
+dialogue,Monica,"Oh my gosh! Rachel, honey.. are you okay? Where-where's Paolo?"
+dialogue,Rachel,Rome. Jerk missed his flight.
+dialogue,Phoebe,And then... your face is bloated?
+dialogue,Rachel,"No. Okay. I was at the airport, getting into a cab, when this woman- this blonde planet with a pocketbook- starts yelling at me. Something about how it was her cab first. And then the next thing I know she just starts- starts pulling me out by my hair! So I'm blowing my attack whistle thingy and three more cabs show up, and as I'm going to get into a cab she tackles me. And I hit my head on the kerb and cut my lip on my whistle...oh...everybody having fun at the party? (To Monica) Are people eating my dip?"
+action,,"[Time lapse. Monica and Rachel, fixed up somewhat, emerge from a bedroom]"
+dialogue,Sandy,"Y'know, when I saw you at the store last week, it was probably the first time I ever mentally undressed an elf."
+dialogue,Joey,"Wow, that's, uh, dirty."
+dialogue,Sandy,Yeah.
+action,,(They almost kiss and then Joey realises her kids are staring at them)
+dialogue,Joey,"Hey, kids..."
+dialogue,Ross,"(Watching Marcel play with Phoebe. To Chandler) Look at him. I'm not saying he has to spend the whole evening with me, but at least check in."
+dialogue,Janice,"(Startles them) There you are! Haaah, you got away from me!"
+dialogue,Chandler,(Imitating) But you found me!
+dialogue,Janice,"Here, Ross, take our picture. (Hands him a camera and he starts snapping) Smile! You're on Janice Camera!"
+dialogue,Chandler,Kill me. Kill me now.
+action,,(Someone else knocks on the door. Monica looks through the spyhole)
+dialogue,Monica,Hey everybody! It's Fun Bobby!
+action,,(Everyone cheers. Monica opens the door. Bobby is obviously very depressed)
+dialogue,Fun Bobby,"Hey, sorry I'm late. But my, uh, grandfather, he- died about two hours ago. But I-I-I couldn't get a flight out 'til tomorrow, so here I am!"
+dialogue,Joey,(Approaching) Hey Fun Bobby! Whoah! Who died?
+action,,(Monica gestures wildly behind Fun Bobby's back)
+action,,[Time lapse. Bobby is talking about his grandfather. Everyone else is virtually in tears]
+dialogue,Fun Bobby,"It's gonna be an open casket, y'know, so at least I'll- I get to see him again."
+dialogue,Janice,"(Ross is still taking their photo) Oh, I'm gonna blow this one up, and I'm gonna write 'Reunited' in glitter."
+dialogue,Chandler,"Alright, Janice, that's it! Janice... Janice... Hey, Janice, when I invited you to this party I didn't necessarily think that it meant that we-"
+dialogue,Janice,"Oh, no. Oh, no."
+dialogue,Chandler,I'm sorry you misunderstood...
+dialogue,Janice,"Oh my God. You listen to me, Chandler, you listen to me. One of these times is just gonna be your last chance with me. (She runs off)"
+action,,(Ross is still taking photos)
+dialogue,Chandler,"Oh, will you give me the thing. (Snatches the camera)"
+action,,(David is feeding Phoebe popcorn. Max walks up)
+dialogue,Phoebe,"Hi, Max!"
+dialogue,Max,Yoko. (To David) I've decided to go to Minsk without you.
+dialogue,David,Wow.
+dialogue,Max,It won't be the same- but it'll still be Minsk. Happy New Year.(Walks off)
+dialogue,Phoebe,Are you alright?
+dialogue,David,"Yeah, I'm fine, I'm fine."
+action,,(Phoebe leads David into a bedroom)
+dialogue,Phoebe,You're going to Minsk.
+dialogue,David,"No, I'm... not going to Minsk."
+dialogue,Phoebe,"Oh, you are so going to Minsk. You belong in Minsk. You can't stay here just 'cause of me."
+dialogue,David,"Yes I can. Because if I go it means I have to break up with you, and I can't break up with you."
+dialogue,Phoebe,"Oh yes, yes, yes you can. Just say, um, 'Phoebe, my work is my life and that's what I have to do right now'. And I say 'your work?! Your work?! How can you say that?!'. And then you say, um, 'it's tearing me apart, but I have no choice. Can't you understand that?'. And I say (Hits him) 'no! No! I can't understand that!'."
+dialogue,David,"Uh, ow."
+dialogue,Phoebe,"Ooh, sorry. Um, and, and then you put your arms around me. And then you put your arms around me. (He does so) And, um, and then you tell me that you love me and you'll never forget me."
+dialogue,David,I'll never forget you.
+dialogue,Phoebe,And then you say that it's almost midnight and you have to go because you don't wanna start the new year with me if you can't finish it. (They kiss) I'm gonna miss you. You scientist guy.
+dialogue,Dick Clark,"(on TV) Hi, this is Dick Clark, live in Times Square. We're in a virtual snowstorm of confetti here in Times Square..."
+action,,(Joey puts a blanket over Sandy's kids)
+dialogue,Joey,"There y'go, kids."
+dialogue,Chandler,(To a woman who he has clearly just met) And then the peacock bit me. (Laughs) Please kiss me at midnight. (She leaves)
+dialogue,Joey,You seen Sandy?
+dialogue,Chandler,"Ooh. Uh, I don't know how to tell you this, but she's in Monica's bedroom, getting it on with Max, that scientist geek. Ooh, look at that, I did know how to tell you."
+dialogue,Rachel,"Vrrbddy, the bll is drrbing."
+dialogue,All,(in the kitchen) What?
+dialogue,Rachel,The bll is drrbing!
+dialogue,Dick Clark,(on TV) In twenty seconds it'll be midnight...
+dialogue,Chandler,And the moment of joy is upon us.
+dialogue,Joey,Looks like that no date pact thing worked out.
+dialogue,Phoebe,Everybody looks so happy. I hate that.
+dialogue,Monica,Not everybody's happy. Hey Bobby!
+action,,(Bobby waves and then bursts into tears. Midnight comes and everyone at the party except for the gang cheers and kisses)
+dialogue,Chandler,"Y'know, I uh.. just thought I'd throw this out here. I'm no math whiz, but I do believe there are three girls and three guys right here. (Makes kiss noise)"
+dialogue,Phoebe,I dunno. I don't feel like kissing anyone tonight.
+dialogue,Rachel,I can't kiss anyone.
+dialogue,Monica,So I'm kissing everyone?
+dialogue,Joey,"Nonono, you can't kiss Ross, that's your brother."
+dialogue,Ross,Perfect. Perfect. So now everybody's getting kissed but me.
+dialogue,Chandler,"Alright, somebody kiss me. Somebody kiss me, it's midnight! Somebody kiss me!"
+dialogue,Joey,Alrightalrightalright. (Kisses him. Ross takes a photo) There.
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's, time lapse.]"
+dialogue,Ross,"(Watching Marcel and talking to Rachel) I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back."
+dialogue,Rachel,...I think that bitch cracked my tooth.
+action,,End

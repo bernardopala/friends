@@ -1,0 +1,290 @@
+script_element,character,text
+heading,,[Scene: Chandler's bedroom. Chandler is sleeping and Eddie is there watching him.]
+action,,(Chandler wakes up)
+dialogue,Chandler,Hey Eddie. Daahh!! What're you doin' here?
+dialogue,Eddie,"Nothin' roomie, just watchin' you sleep."
+dialogue,Chandler,Why?
+dialogue,Eddie,"Makes me feel um, peaceful, heh-heh, please."
+dialogue,Chandler,I can't sleep now.
+dialogue,Eddie,You want me to sing?
+dialogue,Chandler,"No, look, that's it, it's over, I want you out, I want you out of the apartment now."
+dialogue,Eddie,"Woah, woah, woah, what're, what're you talkin' about man."
+dialogue,Chandler,Hannibal Lecter...better roommate than you.
+dialogue,Eddie,"No. See now I don't think you're being fair. I mean one night you see me and you get scared, I mean, what about all the other nights when you don't see me, huh? What about last night when you went and got a drink of water and I was nice enough to hide behind the door, what's that about, huh?"
+dialogue,Chandler,I didn't realize that.
+dialogue,Eddie,Yeah.
+dialogue,Chandler,GET OUT NOW!!
+dialogue,Eddie,"Ok, you really want me out?"
+dialogue,Chandler,Yes please.
+dialogue,Eddie,"Ok, then I want to hear you say it, I, I want to hear you say you want me out."
+dialogue,Chandler,I want you out.
+dialogue,Eddie,"No no no, I wanna hear it from your lips."
+dialogue,Chandler,Where did you hear it from before?
+dialogue,Eddie,"Oh, right, all right, you know what pallie I understand, consider me gone, you know what, I'll be out by the time you get home from work tomorrow."
+action,,"(Eddie leaves the room and Chandler mouths ""Thank you"" to himself)"
+dialogue,Eddie,I heard that.
+action,,Opening Credits
+heading,,"[Scene: Central Perk. Monica and Rachel are there, Joey enters wearing an old looking hat.]"
+dialogue,Joey,Hey.
+dialogue,Monica,Hey.
+dialogue,Rachel,"Hey. Whe-ell, look at you, finally got that time machine workin' huh?"
+dialogue,Joey,"Seriously, you like it? This guy was sellin' them on 8th avenue and I looked at 'em and I though, you know what I don't have?"
+dialogue,Monica,A mirror?
+dialogue,Joey,"Fine, make fun. I think it's jaunty."
+dialogue,Monica,"Wow, for a guy who's recently lost his job, you're in an awfully good mood."
+dialogue,Joey,"Hey, I'll be alright. I mean it's not like I'm starting from sqare one. I was Dr. Drake Remoray on Days of Our Lives . Heh? I mean that's gotta have some kind of cache."
+dialogue,Monica,Cache? Jaunty?
+dialogue,Joey,Chandler gave me word of the day toilet paper. I'm gonna get some coffee.
+action,,(Phoebe enters)
+dialogue,Phoebe,Hey.
+dialogue,Monica,Hey.
+dialogue,Rachel,Hey.
+dialogue,Phoebe,"Oooh, so so so, did you read the book?"
+dialogue,Monica,"Oh my God, it was incredible."
+dialogue,Phoebe,Didn't it like totally speak to you?
+dialogue,Rachel,"Woah, woah, woah, what book is this?"
+dialogue,Monica,Rachel you have to read this book. It's called Be Your Own Windkeeper . It's about how women need to become more empowered.
+dialogue,Phoebe,"Yeah and oh, and but there's, there's wind and the wind can make us Goddesses. But you know who takes out wind? Men, they just take it."
+dialogue,Rachel,Men just take out wind?
+dialogue,Phoebe,"Ya-huh, all the time, cause they are the lightning bearers."
+dialogue,Rachel,Wow.
+dialogue,Phoebe,Yeah.
+dialogue,Rachel,"Well that sounds kinda cool, kinda like The Hobbit ."
+dialogue,Monica,"It is nothing like the Hobbit. It's like reading about every relationship I've ever had, except for Richard."
+dialogue,Phoebe,"Oh yes, no, Richard would never steal your wind."
+dialogue,Monica,No.
+dialogue,Phoebe,"No, 'cause he's yummy."
+dialogue,Monica,Yes. But all the other ones.
+dialogue,Phoebe,"Oh yes. Oh and, the part about how they're always like drinking from out pool of inner power, but God forbid we should take a sip."
+dialogue,Joey,Anybody want a croan.
+dialogue,Phoebe,"Ok, this is a typical lightning-bearer thing. Right there, it's like, um, 'Hello, who wants one of my fallic shaped man cakes?'"
+heading,,[Scene: Estelle Leonard Talent Agency.Joey is there.]
+dialogue,Estelle,Don't worry about it already. Things happen.
+dialogue,Joey,"So, you're not mad at me for getting fired and everything?"
+dialogue,Estelle,"Joey, look at me, look at me. Do I have lipstick on my teeth?"
+dialogue,Joey,"No, can we get back to me?"
+dialogue,Estelle,"Look honey, people get fired left and right in this business. I already got you an audition for Another World ."
+dialogue,Joey,Alright. Cab driver number two?
+dialogue,Estelle,You're welcome.
+dialogue,Joey,But I was Dr. Drake Remoray. How can I go from bein' a neurosurgeon to drivin' a cab?
+dialogue,Estelle,"Things change, roll with em."
+dialogue,Joey,"But this is a two line part, it's like takin' a step backwards. I'm not gonna do this."
+dialogue,Estelle,"Joey, I'm gonna tell you the same thing I told Al Minser and his pyramid of dogs. Take any job you can get and don't make on the floor."
+dialogue,Joey,I'm sorry. See ya.
+heading,,"[Scene: Central Perk. Monica, Phoebe, and Rachel are there. Rachel has just finished reading the book.]"
+dialogue,Rachel,"Oh, God, oh, God, I mean it's just so."
+dialogue,Monica,Isn't it.
+dialogue,Rachel,"Uhh, I mean this is like reading about my own life. I mean this book could have been called 'Be Your Own Windkeeper Rachel'."
+dialogue,Phoebe,I don't think it would have sold a million copies but it would have made a nice gift for you.
+dialogue,Ross,Hey you guys.
+dialogue,Monica,Hey.
+dialogue,Ross,"Uh, sweetie we've gotta go."
+dialogue,Rachel,NO!
+dialogue,Ross,No?
+dialogue,Rachel,"No, why do we always have to do everything according to your time table?"
+dialogue,Ross,Actually it's the movie theatre that has the time schedule. So you don't miss the beginning.
+dialogue,Rachel,"No, see this isn't about the movie theatre, this is about you stealing my wind."
+dialogue,Monica,You go girl. I can't pull that off can I?
+dialogue,Ross,"Excuse me, your, your, your wind?"
+dialogue,Rachel,"Yes, my wind. How do you expect me to grow if you won't let me blow?"
+dialogue,Ross,"You, you know I, I don't, have a- have a problem with that."
+dialogue,Rachel,"Ok, I just, I just really need to be with myself right now. I'm sorry."
+dialogue,Phoebe,"Um-um, um-um."
+dialogue,Rachel,"You're right, I don't have to apologize. Sorry. Damnit!"
+heading,,[Scene: Joey's apartment. Joey and Ross enter.]
+dialogue,Joey,What is it?
+dialogue,Ross,"I, I don't know, it's got all this stuff about wind and trees and there's some kind of sacred pool in it. I mean, I don't really get it but she's, she's pretty upset about it."
+dialogue,Joey,"See, this is why I don't date women who read. Uh-oh."
+dialogue,Ross,"What, what's that?"
+dialogue,Joey,It's my VISA bill. Envelope one of two. That can't be good.
+dialogue,Ross,"Open it, open in."
+dialogue,Joey,Oh my God.
+dialogue,Ross,Woah.
+dialogue,Joey,"Look at this, how did I spend so much money?"
+dialogue,Ross,"Uh Joey, that's just the minumum amount due, that's your total due."
+dialogue,Joey,Ahh.
+dialogue,Ross,"What, woah, woah, $3500 at porcelain safari?"
+dialogue,Joey,"My animals. Hey the guy said they suited me, he spoke with an accent, I was all confused. I don't know what I'm gonna do."
+dialogue,Ross,Well I guess you can start by drivin a cab on Another World .
+dialogue,Joey,What?
+dialogue,Ross,That audition.
+dialogue,Joey,That's a two line part.
+dialogue,Ross,"Joey, you owe $1100 at I Love Lucite."
+dialogue,Joey,So what.
+dialogue,Ross,"So suck it up man, it's a job, it's money."
+dialogue,Joey,"Hey, look, I don't need you getting all judgemental and condescending and pedantic."
+dialogue,Ross,Toilet paper?
+dialogue,Joey,Yeah.
+dialogue,Ross,"Look, I'm not being any of those things, ok, I'm just being realistic."
+dialogue,Joey,"Well knock it off, you're supposed to be my friend."
+dialogue,Ross,I am your friend.
+dialogue,Joey,"Well then tell me things like, 'Joey you'll be fine,' and, 'Hang in there,' and, and, 'Somethin' big's fonna come along, I know it.'"
+dialogue,Ross,But I don't know it. What I do know is that you owe $2300 at Isn't it Chromantic.
+dialogue,Joey,"Hey Ross, I'm aware of what I owe."
+dialogue,Ross,"Ok, well then get some sense. I mean it took you what, 10 years to get that job, who knows how long it's gonna be till you get another."
+dialogue,Joey,"Look, I don't wanna hear this right now."
+dialogue,Ross,"Huh, I'm just saying..."
+dialogue,Joey,Well don't just say.
+dialogue,Ross,"Ya know, maybe, maybe I should just go."
+dialogue,Joey,Ok.
+dialogue,Ross,"Ok. I'll see ya later. Just think about it, ok."
+dialogue,Joey,"I don't need to think about it. I was Dr. Drake Remoray. That was huge. Big things are gonna happen, you'll see. Ross, you still there?"
+heading,,"[Scene: Chandler's apartment. Chandler peeks in the door. He doesn't see Eddie so he enters, breathing a sigh of relief. Eddie pops up from behind the bar.]"
+dialogue,Eddie,Hey pal.
+dialogue,Chandler,Ahhhh-gaaaahhh. Eddie what're you still doin' here?
+dialogue,Eddie,"Ah, just some basic dehydrating of a few fruits and vegetables. MAN ALIVE this thing's fantastic!"
+dialogue,Chandler,"Look Eddie, aren't you forgetting anything?"
+dialogue,Eddie,"Oh yeah, that's right, look I got us a new goldfish. He's a lot fiestier that the last one."
+dialogue,Chandler,"Maybe 'cause the last one was made by Pepperidge Farm. Look Eddie, isn't there something else you're supposed to be doing right now?"
+dialogue,Eddie,"Well, not unless it's got something to do with dehydrating my man because right now I'm a dehydrating maniac!"
+dialogue,Chandler,Look you have to help me out here. I thought we had a deal. I thought by the time...
+dialogue,Eddie,"Ah-ah-ah, you know what that is?"
+dialogue,Chandler,Your last roommate's kidney?
+dialogue,Eddie,That's a tomato. This one definitely goes in the display.
+heading,,[Scene: Central Perk. Joey goes up to the bar to order.]
+dialogue,Joey,"Hey Gunther, let me get a lemonade to go."
+dialogue,Gunther,Lemonade? You ok man?
+dialogue,Joey,"Ah, it's career stuff. I don't know if you heard but they killed off my character on the show."
+dialogue,Gunther,"Oh, that's too bad. How'd they do it?"
+dialogue,Joey,I fell down an elevator shaft.
+dialogue,Gunther,That sucks. I was buried in an avalanche.
+dialogue,Joey,What?
+dialogue,Gunther,I used to be Bryce on All My Children .
+heading,,[Scene: Monica and Rachel's apartment. Chandler is sleeping on the couch. Monica walks by and starts watching him.]
+action,,(Chandler wakes up)
+dialogue,Chandler,Daaahhhh!
+dialogue,Monica,Aaahhhhhhh! Aaahhhh!
+dialogue,Chandler,"Why must everybody watch me sleep? There'll be no more watching me sleep, no more watching."
+dialogue,Monica,I wa-
+dialogue,Chandler,Uuuh.
+heading,,[Scene: Chandler's apartment. Chandler is returning from Monica and Rachel's with his bedding. Eddie is standing at the bar with his dehydrator and loads of fruit.]
+dialogue,Eddie,"Hey man, check it out, I got some great stuff to dehydrate here. I got some grapes, got some apricots, I thought it would be really cool to see what happens with these water balloons."
+dialogue,Chandler,"Get out. Get out, get out, get out, get out, get out, get out."
+dialogue,Eddie,What?
+dialogue,Chandler,"You, move out. Take your fruit, your stupid small fruit and GET OUT!"
+dialogue,Eddie,"You, you want, you want me to move out?"
+dialogue,Chandler,Uh-huh.
+dialogue,Eddie,"I uh, I gotta tell you man, I mean, that's uh, it's kinda out of the blue, I mean don't you think?"
+dialogue,Chandler,"This is not out of the blue, this is smack dab in the middle of the blue."
+dialogue,Eddie,"Ohhhh. Relax, take it easy buddy. Tell me twice, you want me to go? Alright, alright, guess I'll be back for my stuff. (walks out the door and after a pause comes back in) But if you think for one second I'm leaving you alone with my fish, you're insane Jack!"
+dialogue,Chandler,You want some help.
+dialogue,Eddie,No help required Chico. (reaches into the tank and grabs the fish and puts it in his pocket)
+heading,,[Scene: Joey is at the cab driver interview.]
+dialogue,Joey,"All the way to the airport huh? You know that's over 30 miles, that's gonna cost you about so bucks."
+dialogue,Casting Guy,"Excuse me, that's 50 bucks."
+dialogue,Joey,What?
+dialogue,Casting Guy,Five oh dollars.
+dialogue,Joey,"Ohh, you know what it is? It's smudgy 'cause they're fax pages. Now when I was on Days of Our Lives as Dr. Drake Remoray, they'd send over the whole script on real paper and everything."
+dialogue,Casting Guy,That's great.
+dialogue,Joey,"And, and just so you know, if you wanted to expand this scene like, like have the cab crash or somethin', I could attend to the victims 'cause I have a background in medical acting."
+dialogue,Casting Guy,"Ok, listen, thanks for coming in."
+dialogue,Joey,"No no, uh, don't thank me for comin' in. Uh, at least let me finish. Uh, we could take the expressway but uh, this time of day you're better off taking the budge. You were goin' for the word bridge there weren't ya. I'll have a good day. (gets up and leaves)"
+heading,,"[Scene: Monica and Rachel's apartment. Monica, Rachel, and Phoebe are sitting around the coffee table.]"
+dialogue,Phoebe,"Ok, question number 28, have you ever allowed a lighning bearer to take your wind? I would have to say no."
+dialogue,Monica,And I would have to say pah-huh.
+dialogue,Phoebe,What?
+dialogue,Monica,Do you not remember the puppet guy?
+dialogue,Rachel,Yeah you like totally let him wash his feet in the pool of your inner power.
+dialogue,Monica,And his puppet too.
+dialogue,Phoebe,"Yeah ok, well at least I didn't let some guy into the forest of my righteous truth on the first date."
+dialogue,Monica,Who?
+dialogue,Phoebe,Paul.
+dialogue,Monica,Oh.
+dialogue,Rachel,"Ok, ok, ok, moving on, moving on, next question. Ok number 29, have you ever betrayed another goddess for a lightning bearer? Ok, number 30."
+dialogue,Monica,"Woah, woah, woah, let's go back to 29."
+dialogue,Rachel,"Not uh, not to my recollection."
+dialogue,Monica,"Huuh, alright, Danny Arshak, ninth grade. Oh, c'mon Rach, you know the bottle was totally pointing at me."
+dialogue,Rachel,Only 'cause you took up half the circle.
+dialogue,Phoebe,Listen to you two. It's so sad. Looks like I'm gonna be going to the goddess meetings alone.
+dialogue,Rachel,Well not when they find out you slept with Jason Hurley an hour after he broke up with Monica.
+dialogue,Monica,One hour? You are such a leaf blower.
+action,,"(Monica goes into her room and slams the door. Rachel does the same. Phoebe, without a door to slam, opens a small chest and slams the lid.)"
+heading,,[Scene: Joey's apartment. Joey is watching movers take all his stuff away.]
+dialogue,Joey,"Oh hey uh, be careful with that 3-D last supper, Judas is a little loose."
+dialogue,Ross,"(enters) Oh my God, what's goin' on?"
+dialogue,Joey,They're takin all my stuff back. I guess you were right.
+dialogue,Ross,"No look I wasn''t right, that's what I came here to tell you. I was totally hung up on, on my own stuff. Listen, I'm someone who needs the whole security thing, ya know. To know exactly where my next paycheck is coming from buy you, you don't need that and that's amazing to me. I could never do what you do Joey."
+dialogue,Joey,Thanks Ross.
+dialogue,Ross,Yeah. And you should hold out for something bigger. I can't tell you how much respect I have for you not going to that stupid cab driver audition.
+dialogue,Joey,I went.
+dialogue,Ross,"Great, how did it go?"
+dialogue,Joey,I didn't get it.
+dialogue,Ross,Good for you.
+dialogue,Joey,What?
+dialogue,Ross,You're livin' the dream.
+dialogue,Joey,Huh?
+dialogue,Ross,All right then.
+dialogue,Joey,"(movers removing a glass parrot) Oh, not my parrot."
+dialogue,Ross,What?
+dialogue,Joey,I can't watch this.
+dialogue,Ross,"(approaching the mover holding the parrot) Hey hold on, hold on. How much for the uh, how much to save the bird?"
+dialogue,Mover,1200.
+dialogue,Ross,Dollars? You spent $1200 dollars on a plastic bird?
+dialogue,Joey,"Uhhh, I was an impulse buyer, near the register."
+dialogue,Ross,"Go ahead, go ahead with the bird. Ok, do you have anything for around 200?"
+dialogue,Mover,"Uh, the dog. (points to a big poecelain greyhound)"
+dialogue,Ross,Huh.
+dialogue,Mover,Yeah.
+dialogue,Ross,I'll take it. My gift to you man.
+dialogue,Joey,Thanks Ross. I really like that bird though...I'll take the dog though.
+heading,,[Scene: Central Perk. Monica and Phoebe are sitting ignoring each other. Rachel walks up with two pieces of cake.]
+dialogue,Rachel,Here are your cakes.
+dialogue,Monica,We didn't order cake.
+dialogue,Rachel,"No, I know, they're from me. Look you guys this is not good. I mean we have enough trouble with guys stealing our wind without taking it from each other."
+dialogue,Monica,You're right.
+dialogue,Rachel,You know.
+dialogue,Phoebe,I love you goddesses. I don't ever want to suck your wind again.
+dialogue,Rachel,Thank you. So are we good?
+dialogue,Monica,We're good.
+dialogue,Rachel,We're good?
+dialogue,Phoebe,Yeah.
+dialogue,Rachel,"Ok, let me take these cakes back 'cause they're gonna take that out of my paycheck."
+dialogue,Chandler,"(enters) Ding dong, the psycho's gone."
+dialogue,Monica,Are you sure this time?
+dialogue,Chandler,"Yes, yes I actually saw him leave. I mean that guy is standing in the window holding a human head. He is STANDING IN THE WINDOW HOLDING A HUMAN HEAD!"
+dialogue,Eddie,"(enters) Check it out man, I tore it off some mannaquin in the alley behind Macy's."
+dialogue,Monica,There is no alley behind Macy's.
+dialogue,Eddie,"So I got it in the junior miss department, big diff. Anyway check it out man, it's gonna make a hell of a conversation piece at out next cocktail party, huh pal?"
+dialogue,Chandler,Our next cocktail party?
+dialogue,Eddie,"Yeah, you know, put chips in it, we'll make like a chip chick."
+dialogue,Chandler,"Eddie, do you remember yesterday?"
+dialogue,Eddie,"Uh yes, I think I vaguely recall it."
+dialogue,Chandler,Do you remember talking to me yesterday?
+dialogue,Eddie,"Uh, yes."
+dialogue,Chandler,So what happened?
+dialogue,Eddie,We took a road trip to Las Vegas man.
+dialogue,Chandler,Oh sweet Moses.
+dialogue,Monica,"So on this road trip, did you guys win any money?"
+dialogue,Eddie,"Naah, I crapped out, but Mr. 21 over here he cleans up, 300 bucks, check it out he buys me these new shoes, sweet huh?"
+dialogue,Monica,Nice.
+dialogue,Eddie,Yeah. Well see ya upstairs. See ya pals.
+dialogue,Phoebe,Is anyone else starting to really like him?
+heading,,[Scene: Hallway outside Chandler and Joey's apartment. Eddie walks up.]
+action,,(Eddie tries his key and it won't work. He knocks and Chandler answers the door. He's got the door chained.)
+dialogue,Chandler,May I help you?
+dialogue,Eddie,Why doesn't my key work and what's all my stuff doin' downstairs?
+dialogue,Chandler,"Well, I'm, I'm sorry...(Eddie forces his head in the door) Ahhh. Have we met?"
+dialogue,Eddie,"It's Eddie you freak, your roommate."
+dialogue,Chandler,"I, I'm sorry, I uh (unchains the door and opens it all the way) I already have a roommate. (Joey turns around in the leather recliner)"
+dialogue,Joey,Hello.
+dialogue,Chandler,"Yeah, he's lived here for years, I don't, I don't know what you're talking about man."
+dialogue,Eddie,"No he, he moved out and I moved in."
+dialogue,Chandler,"Well I, I think we'd remember something like that."
+dialogue,Joey,I know I would.
+dialogue,Eddie,"Well that's uh, that's a good point. Um ok, well, uh, I guess I got the wrong apartment then. I, I'm, look, I'm, ya know, I'm sorry, I'm terriably sorry."
+dialogue,Joey,Hey no problem.
+dialogue,Chandler,See ya. (shuts the door) Goodbuy you fruit drying psychopath. So you want me to help you unpack your stuff?
+dialogue,Joey,"Na, na I'm ok. Oh and uh, just so you know, I'm not movin' back in 'cause I have to. Well, I mean, I do have to. It's just that that place wasn't really, I mean, this is..."
+dialogue,Chandler,Welcome home man. (they hug and jump around)
+dialogue,Joey,A little foos?
+dialogue,Chandler,Absolutely.
+dialogue,Joey,What happened to the foosball?
+dialogue,Chandler,Ah that's a cantelope.
+action,,Closing Credits
+heading,,[Scene: Chandler and Joey's apartment. They are hauling out the porcelain dog from Joey's room. Chandler is holding the dog by the rear in a rather interesting position.]
+dialogue,Chandler,"Hey look, are we gonna have to bring this out every time Ross comes over?"
+dialogue,Joey,He paid a lot of money for it.
+dialogue,Chandler,"I'm gonna hold him a different way. Look I don't understand, if you hated it so much, why did you buy it in the first place?"
+dialogue,Joey,"Well, I had a whole ceramic zoo thing goin' over there but now, without the other ones, it just looks tacky."
+dialogue,Chandler,"So is he housetrained or is he gonna leave little bathroom tiles all over the place? Stay. Good, STAY! Good fake dog."
+action,,End

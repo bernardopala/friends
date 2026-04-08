@@ -1,0 +1,354 @@
+script_element,character,text
+dialogue,Joey,<voiceover>Previously on Friends.<\voiceover>
+action,,[A montage of scenes from The One Where Ross and Rachel Take A Break follows.]
+heading,,"[Scene: Monica and Rachel's, Ross is eating the picnic as Rachel comes home from work.]"
+dialogue,Ross,"I mean, I don’t feel like I even have a girlfriend anymore."
+dialogue,Rachel,You want me to just quit my job so that you can feel like you’ve got a girlfriend?
+dialogue,Ross,Is this about Mark?
+dialogue,Rachel,(shocked) Oh my God.
+dialogue,Ross,"Okay, it’s not, it’s not."
+dialogue,Rachel,"Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break."
+dialogue,Ross,"Fine, you’re right. Let’s ah, let’s take a break, (goes to the door) let’s cool off, okay, let’s get some frozen yoghurt, or something.. (opens the door)"
+dialogue,Rachel,No. A break from us.
+action,,"(Ross looks at her, then leaves slamming the door behind him.)"
+heading,,"[Scene: Monica and Rachel's, Mark is there, opening Chinese food boxes.]"
+dialogue,Rachel,"Then, we had this big, stupid fight, and I said I wanted to take a break, I don’t want to take a break."
+dialogue,Ross,"(on the phone) I’ve been thinking, this is crazy, I mean don’t, don’t you think we can work on this?"
+dialogue,Mark,"Hey, what do you want to drink?"
+dialogue,Ross,Who’s that?
+dialogue,Rachel,Nobody.
+dialogue,Ross,Is that Mark?
+dialogue,Rachel,"Umm, honey, look he just came over to...."
+dialogue,Ross,Yeah! Got it! (slams down the phone)
+heading,,[Scene: The Philly.]
+dialogue,Chloe,"Hey, come dance. What? Are you married? ‘Cause that’s okay."
+action,,"[Cut to Chloe and Ross dancing, and their kiss.]"
+action,,The Next Morning
+heading,,"[Scene: Monica and Rachel's, Monica is making a fruit drink in the blender, Rachel has just finished her shower and is coming out of the bathroom.]"
+dialogue,Monica,Hey.
+dialogue,Rachel,Hey.
+dialogue,Monica,How’s the big anniversary dinner?
+dialogue,Rachel,"Well, we never actually got to dinner."
+dialogue,Monica,"Ohhh, nice."
+dialogue,Rachel,"No, we kinda broke up instead."
+dialogue,Monica,What?! (She accidentally starts the blender without the lid on it and fruit flies everywhere.)
+dialogue,Rachel,"(looking up at the ceiling) God, Monica it’s on the ceiling."
+dialogue,Monica,"That’s okay, this is more important than fruit (pause) (angrily) on my ceiling! You broke up?!"
+dialogue,Rachel,"Yeah, but it’s okay, because when Ross left Mark came over."
+dialogue,Monica,Oh no!!
+dialogue,Rachel,No.
+dialogue,Monica,"Rachel, you and Mark?!"
+dialogue,Rachel,"No, no-no, it’s okay, calm down. Mark and I talked, and I realised how much I love your stupid brother, and, yeah, we got our problems, but I really want to make it work."
+heading,,"[Scene: Ross’s Bedroom, Ross is waking up. He straightens himself out on the bed and puts the covers over his head.]"
+dialogue,Chloe,(entering from bathroom) Morning!
+action,,"(Ross sits bolt upright, without moving the covers.)"
+action,,Opening Credits
+heading,,"[Scene: Ross’s Kitchen, Ross is taking some aspirin and checking his messages.]"
+dialogue,Rachel,"(on answering machine) Hi, it’s me. I’ve been trying to reach you all night. I feel awful. Please, Ross, you gotta know there is nothing between me and Mark. This whole break-up thing is just stupid."
+dialogue,Ross,Yeah!!
+dialogue,Rachel,"Eh, I’m just so sorry I put you through it. And, I y'know, I don’t want to get back together over a machine."
+dialogue,Ross,Na-huh.
+dialogue,Rachel,"So, I love you."
+dialogue,Ross,I love you.
+dialogue,Rachel,"And y'know what, I’m gonna, I’m gonna go to bed now, but ah, on my way to work tomorrow morning, I’m gonna stop by around 8:30."
+dialogue,Ross,Okay. (Ross starts frantically looking for a clock.)
+dialogue,Rachel,Bye.
+action,,"(Ross finds a clock, sees it’s almost 8:30, and silently screams.)"
+dialogue,Ross,"Chloe, Chloe how’s it coming?!!"
+dialogue,Chloe,"(entering from bedroom) Hey, what kind of puppy do you think I should get?"
+dialogue,Ross,"Umm, oh, hey, I don’t know. How about a big one?"
+dialogue,Chloe,But my apartment is so...
+dialogue,Ross,"Well then a small one!! Listen, let’s, we kinda have to get going!"
+dialogue,Chloe,Wait! Where’s my shoes?
+dialogue,Ross,"You, you sure you need shoes? (Chloe nods her head) Okay. (reaches down and picks up a shoe)"
+dialogue,Chloe,Do I know why we’re rushing?
+dialogue,Ross,"Yeah, y'know the ah, the girlfriend I told you about last night? (He’s frantically throwing the cushions off of the couch looking for her other shoe) Well it turns out she ah, she wants to get back together with me. Oh, I found it!!"
+dialogue,Chloe,That’s so great for you guys!
+dialogue,Ross,Yeah!
+dialogue,Chloe,You must be so happy!
+dialogue,Ross,"Yes, yes I am, one of the many things I’m feeling. Well.... (picks up her coat)"
+dialogue,Chloe,"Good luck, with your girlfriend."
+dialogue,Ross,"Oh, thank you. (She goes to kiss him, but he holds her coat up between their faces to stop her.) Hey, hey. (opens the door, sees Rachel, and hides Chloe behind the door) Rachel!!!!"
+dialogue,Rachel,"Hi. Ohhh, you got my message."
+dialogue,Ross,"Yeah, oh hey, you are right on time."
+dialogue,Rachel,So what do you say? Can I be your girlfriend again?
+dialogue,Ross,"Yes, you can, very much."
+action,,(Chloe gives Ross the thumbs up while still standing behind the door.)
+dialogue,Ross,(seeing the thumbs up) Ahhhh!! (Hugs Rachel tighter.)
+heading,,"[Scene: Monica and Rachel's, Phoebe is entering carry a large box, Monica is mopping the ceiling.]"
+dialogue,Phoebe,Hey!
+dialogue,Monica,Hey.
+dialogue,Phoebe,"Hey, why are you mopping your ceiling?"
+dialogue,Monica,"Oh, there’s banana on it."
+dialogue,Phoebe,"Wow, I have the spirit of an old Indian women living in mine."
+dialogue,Monica,So then you know? (Phoebe nods her head)
+dialogue,Phoebe,"The mailman was downstairs, so I brought up your mail."
+dialogue,Monica,"Oh, good. Thanks."
+dialogue,Phoebe,Now what is Fabutec?
+dialogue,Monica,"Okay, all right don’t judge me to much. Okay? Um, but I saw this info-mercial, and um, I swear to you I have never-ever bought anything on TV before, except for this mop. But there was this stuff on leg waxing, it just, it looked so amazing...."
+dialogue,Phoebe,Waxine!!
+dialogue,Monica,Yes! Have you seen it?
+dialogue,Phoebe,"Oh, it’s incredible! I so want to be a Waxine girl."
+dialogue,Monica,I know!!
+dialogue,Phoebe,God. Do think it really doesn’t hurt? ‘Cause how can they do that?
+dialogue,Monica,Hello! Organic substances recently discovered in the depths of the rain forest!
+dialogue,Phoebe,They have the best stuff in there.
+heading,,"[Scene: Chandler and Joey's, Ross has told Chandler and Joey his terrible act.]"
+dialogue,Chandler,Oh my God! Oh my God!
+dialogue,Joey,"Yeah. We figured when we couldn’t find you, you’d gone home to make up with Rachel. Which is probably what you shoulda done. Huh?"
+dialogue,Ross,"You think?! God, I, ah, I’m in hell. I mean what, what am I gonna do? Rachel’s all like, ‘I love you and, and let’s work on this.’ And all I can think about is, ‘What is she gonna do? What is she gonna say?’ when I tell her what I did."
+dialogue,Chandler,"Well, before we answer that, I think we should address the more important question. How dumb are you?"
+dialogue,Ross,"What?! Look, we’re trying to rebuild a relationship here, right. How am I supposed to do that here, without being totally honest with each other?"
+dialogue,Joey,"Look, Ross look, I’m on board about this totally honesty thing, I am, just not about stuff that’s gonna get you in trouble."
+dialogue,Chandler,"He’s right. Nobody’s gonna benefit, and you’re just gonna hurt her."
+dialogue,Joey,"Yeah, and there won’t be a relationship left to rebuild."
+dialogue,Ross,"Yeah, but don’t you think...."
+dialogue,Chandler,"All right look, if you absolutely have to tell her, at least wait until the timing’s right. And that’s what deathbeds are for."
+dialogue,Ross,"Yeah, okay. (he plops down into one of the leather chairs, with the footrest extended.)"
+dialogue,Joey,"All right, okay, now, we just have to make sure she doesn’t find out some other way. (spins the chair around so that Ross is facing him) Did you think about the trail?"
+dialogue,Ross,What trail?
+dialogue,Joey,(stomps on the footrest which pops Ross up into a sitting position) The trail from the woman you did it with to the woman you hope never finds out who did it! (slapping his hands with each word) You always have to think about the trail!
+dialogue,Ross,"Oh, I-I don’t think there’s any trail."
+dialogue,Chandler,"Okay, okay-okay, ah, Chloe works with that guy Issac. Issac’s sister is Jasmine. And Jasmine works at that message place with Phoebe. And Phoebe’s friends with Rachel. And that’s the trail, I did it!"
+heading,,"[Scene: Monica's Bedroom, Monica and Phoebe are waxing their legs.]"
+dialogue,Phoebe,"(reading from the instructions) After applying the Waxine and linen strips to leg number one,"
+dialogue,Monica,Did that!
+dialogue,Phoebe,Grasp one of the linen strips by its ‘easy grab tab’ and pull it off in one quick pain free motion.
+dialogue,Monica,Okay. (Does so.) Ow!!!!! Ow-oh-oh!
+dialogue,Phoebe,Was it not pain-free?
+dialogue,Monica,"No. It was painful. Oh my God , they should call it Pain-zine, now with a little wax."
+dialogue,Phoebe,"Huh, well, the girls in the satin nighties on the commercial don’t seem to think it’s that bad."
+dialogue,Monica,"That’s because their nerves are probably deadened from being so stupid. But hey, y'know if you don’t believe me, please, by my guest."
+dialogue,Phoebe,(Removing one of the strips) Ow-ow-ow-ow! Oh my God!!!
+dialogue,Monica,"Now, are you glad we didn’t start with the bikini strips?"
+heading,,"[Scene: The Xerox Place, Ross is trying to break the trail.]"
+dialogue,Ross,(entering) Chloe? Hi..
+dialogue,Chloe,Is this about me taking your watch?
+dialogue,Ross,You took my watch?
+dialogue,Chloe,"I’m sorry, I do that."
+dialogue,Ross,"Just you keep it, listen did you, did you tell anyone about us?"
+dialogue,Chloe,"Oh no. I feel it isn’t really anybody’s business, y'know."
+dialogue,Ross,"Exactly. So you didn’t, didn’t mention anything to Issac right?"
+dialogue,Chloe,"Oh, well I tell Issac everything."
+dialogue,Ross,"You tell, of course you do. Issac. Issac. Hey, Issac. Issac, hi! Y'know we haven’t actually met..."
+dialogue,Issac,You dog!
+dialogue,Ross,"Yes, I suppose I am a dog. But Issac, see I-I happen to have a girlfriend."
+dialogue,Issac,"Oh right, that Rachel chick from the coffee place."
+dialogue,Ross,"Yeah, that’s the one. Listen, I don’t want to hurt her."
+dialogue,Issac,"Oh, hey, man I know, doesn’t matter how much we love ‘em, monogamy is too cruel a rule."
+dialogue,Ross,"Yeah. Listen, can you keep this information to yourself?"
+dialogue,Issac,"Aw, no problem dude. Y'know we got to look out for each other. We’re the same, you and me."
+dialogue,Ross,"Actually, no, we’re not."
+dialogue,Issac,"Yeah, we are."
+dialogue,Ross,"No, we’re not."
+dialogue,Issac,"Yeah, we are."
+dialogue,Ross,"No, we’re not!!"
+dialogue,Issac,"Okay, we’re not."
+dialogue,Ross,Right.
+dialogue,Issac,"But, we are."
+dialogue,Ross,Fine. I just need to know that you’re not gonna tell your sister.
+dialogue,Issac,I can promise not to tell her again.
+heading,,"[Scene: Phoebe’s Work, Ross is now trying to stop Jasmine from telling Phoebe.]"
+dialogue,Ross,(entering out of breath) Jasmine?
+dialogue,Jasmine,Uh-huh.
+dialogue,Ross,"We met at Phoebe’s birthday party, I’m, I’m Ross Geller."
+dialogue,Jasmine,You did a bad thing!
+dialogue,Ross,"Yes, I did."
+dialogue,Jasmine,Very bad!
+dialogue,Ross,Very bad.
+dialogue,Jasmine,"Very, very bad."
+dialogue,Ross,"I’m agreeing with you. Did you, listen, did you happen to tell Phoebe yet?"
+dialogue,Jasmine,No.
+dialogue,Ross,"Okay, Jasmine, please, please don’t. I love my girlfriend very much, and I want more than anything to just work it out with her. Okay?"
+dialogue,Jasmine,All right.
+dialogue,Ross,"Thank you, thank you."
+dialogue,Jasmine,"But you should probably talk to my roommate, because I told him and he knows Phoebe too."
+dialogue,Ross,(angrily) Who’s your roommate?
+heading,,"[Scene: Central Perk, Gunther is wiping down the counter as Ross rushes in.]"
+dialogue,Ross,"Gunther! Gunther. Gunther, please tell me you didn’t say anything to Rachel about me and the girl from the Xerox place."
+dialogue,Gunther,I’m sorry. Was I not supposed to?
+action,,(Ross turns around and sees Rachel sitting by the window. She is just glaring at him.)
+action,,Commercial Break
+heading,,"[Scene: Monica’s Bedroom, Monica and Phoebe are removing the rest of their wax strips.]"
+dialogue,Monica,Ow!
+dialogue,Phoebe,Oh!!
+dialogue,Monica,Ow!! Ow!!
+dialogue,Phoebe,Ow!!!
+dialogue,Monica and Phoebe,Ow!!!!!!! Ow-ow-ow-ow!
+action,,"(Hearing the screaming Chandler and Joey rush in. Joey has a pan, Chandler has a tea kettle.)"
+dialogue,Phoebe,We’re all right.
+dialogue,Monica,"It’s okay, it’s okay."
+dialogue,Phoebe,We’re all right.
+dialogue,Monica,We were just waxing our legs.
+dialogue,Chandler,Off?!!
+dialogue,Phoebe,"For your information, this happens to be a pain like no man will ever experience."
+dialogue,Chandler,"Yeah, well I don’t think you can make that statement, unless you’ve been kicked in an area that God only meant to be treated nicely."
+dialogue,Joey,"Yeah, I-I think that women just have a lower threshold of pain than men, that’s all. I mean, come on, it’s just a little wax."
+dialogue,Phoebe,"Oh yeah, come here. (Puts a little wax on Joey’s arm and puts a strip on it.)"
+dialogue,Chandler,"Oh, that’s mature."
+dialogue,Joey,"Okay, fine, so now what, I just pull it off?"
+dialogue,Phoebe,Uh-huh.
+dialogue,Monica,That’s right.
+action,,"(Joey laughs, pulls it off, then does a high-pitched whine.)"
+action,,"[Cut to Living Room, Rachel is trying to close the door on Ross.]"
+dialogue,Ross,"(forcing the door open) Come on, Rachel, come on! Talk to me! Please!!"
+action,,"[Cut to Monica's bedroom, Chandler slowly closes the door, and we hear Rachel from the living room.]"
+dialogue,Rachel,I can’t talk to you. I can’t even look at you right now!
+dialogue,Monica,What?
+dialogue,Chandler,"Nothing, nothing."
+dialogue,Monica,(going over to listen at the door) Rachel said everything was okay.
+dialogue,Phoebe,"(to Joey) What, what are they talking about?"
+dialogue,Ross,Rachel?
+action,,[Cut to Living Room]
+dialogue,Rachel,Just get away from me!
+dialogue,Ross,"No, it was a mistake! I made a mistake! Okay?"
+dialogue,Rachel,A mistake?! What were you trying to put it in? Her purse?!
+action,,[Cut to Monica's bedroom]
+dialogue,Phoebe,Whe-where did he put it?!
+action,,[Cut to Living Room]
+dialogue,Rachel,"Ross, you had sex with another woman!"
+action,,"[Cut to Monica's bedroom, both Monica and Phoebe gasp.]"
+dialogue,Monica,Oh my God.
+dialogue,Phoebe,"Oh, I knew something had to be wrong, because my fingernails did not grow at all yesterday."
+dialogue,Chandler,"Yeah, well, I guess they had a fight, and he got drunk...."
+dialogue,Monica,Oh!! (hits Chandler and Joey in the head) You guys knew about this and you didn’t tell us?!
+dialogue,Chandler,"(to Joey) He has sex, and we get hit in our heads."
+action,,[Cut to Living Room]
+dialogue,Rachel,"(opening the door) Y'know what, I want you to leave! Get outta here!"
+dialogue,Ross,No!!
+dialogue,Rachel,Just get out! Now!!
+dialogue,Ross,No!! No!! I wanna stay. I wanna talk about this.
+dialogue,Rachel,Okay! All right! How was she?
+action,,[Cut to Monica's bedroom]
+dialogue,Chandler,Uh-oh.
+action,,[Cut to Living Room]
+dialogue,Ross,What?
+dialogue,Rachel,Was she good?
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,Don’t answer that.
+action,,[Cut to Living Room]
+dialogue,Rachel,"Come on Ross! You said you wanted to talk about it, let’s talk about it!! How was she?"
+dialogue,Ross,She was...
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,Awful! Horrible!
+dialogue,Chandler,She was not good. Not good.
+dialogue,Joey,She was nothing compared to you.
+action,,[Cut to Living Room]
+dialogue,Ross,"She, she was different."
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,Ewwwww!
+dialogue,Chandler,Uh-oh.
+action,,[Cut to Living Room]
+dialogue,Rachel,Good different?
+dialogue,Ross,Nobody likes change.
+action,,(Rachel picks up a newspaper and starts beating him with it.)
+dialogue,Ross,"What? Okay, okay, okay, okay."
+action,,[Cut to Monica's bedroom]
+dialogue,Phoebe,Should we do something?
+dialogue,Chandler,"Yeah, never cheat on Rachel."
+action,,[Cut to Living Room]
+dialogue,Ross,"I’m sorry, okay, I’m sorry. I wa-I was disgusted with myself, and this morning I was so, I was so upset and then I got your message and I was so happy, and all I wanted was to get her out of my apartment as fast as possible."
+dialogue,Rachel,"Whoa!! Whoa, whoa, wait a minute. What time did your little friend leave? (Ross can’t answer that) Oh my God. She was there? She was still there? She was in there, when I was in there?!"
+action,,"(Ross hands Rachel back the newspaper, and she starts beating him with it again.)"
+dialogue,Ross,"Listen. Oh hey, hey, the important thing was that she meant, she meant nothing to me!"
+dialogue,Rachel,And yet she was worth jeopardising our relationship!!
+action,,"(She throws the paper at him, misses and hits Monica’s door, they all jump back at the sound.)"
+dialogue,Ross,"Look, I didn’t think there was a relationship to jeopardise. I thought we were broken up."
+dialogue,Rachel,We were on a break!
+dialogue,Ross,"That, for all I knew would, could last forever. That to me is a break-up."
+dialogue,Rachel,You think you’re gonna get out of this on a technicality?
+dialogue,Ross,"Look, I’m not trying to get out of anything, okay. I thought our relationship was dead!"
+dialogue,Rachel,"Well, you sure had a hell of a time at the wake!"
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,"Y'know what, I don’t think we should listen to this anymore. (Goes to open the door)"
+dialogue,Monica,"(stopping him) What, what are you doing? You can’t go out there."
+dialogue,Joey,Why not?! (to Chandler) I’m hungry.
+dialogue,Monica,Because they’ll know we’ve been listening.
+action,,[Cut to Living Room]
+dialogue,Rachel,God! And to have to hear about it from Gunther!!
+dialogue,Ross,"Come on! Like I wanted him to tell you, I ran all over the place trying to make sure that didn’t happen!"
+dialogue,Rachel,"Oh, that is so sweet. I think I’m falling in love with you all over again."
+action,,[Cut to Monica's bedroom]
+dialogue,Chandler,"Y'know what, I think we can go out there. I mean they have more important things to worry about."
+dialogue,Joey,"Yeah, we’ll be fine."
+action,,[Cut to Living Room]
+dialogue,Ross,"Look Rachel, I wanted to tell you, I thought I should, I-I did, and then Chandler and Joey convinced me not to."
+action,,[Cut to Monica's bedroom]
+dialogue,Chandler,"(handing Monica the wax) Wax the door shut, we’re never leaving, ever."
+action,,"[Later, Phoebe is on the phone, they’re all still trapped in Monica’s bedroom.]"
+dialogue,Phoebe,"Hi, it’s Phoebe. Listen someone’s gonna have to take my 9:00 with Mr. Rehack, ‘cause it’s like 9:15 now, and I’m not there."
+action,,[Cut to Living Room]
+dialogue,Ross,Don’t you realise none of this would’ve ever happened if I didn’t think at that same moment you weren’t having sex with Mark?
+dialogue,Rachel,All right. Let’s say I had slept with Mark. Would you have been able to forgive me?
+dialogue,Ross,(pause) Yes I would.
+dialogue,Rachel,"You’d be okay if you knew that Mark had kissed me, and been naked with me, and made love to me?"
+dialogue,Ross,(less sure) Yes.
+dialogue,Rachel,"You knew that our hot, sweaty, writhing bodies were...."
+dialogue,Ross,"(covering his ears and screaming) La-la-la-la-la-la-la-la-la-la! Okay, okay, yeah, I would have been devastated but, I would still want to be with you. Because it’s, I mean it’s you."
+action,,[Cut to Monica's bedroom]
+dialogue,All,Ohhhhh!
+action,,"[Later, Ross and Rachel are sitting in the kitchen.]"
+dialogue,Ross,"What? Come on Rach, tell me what you’re thinking?"
+dialogue,Rachel,"I’m thinking, I’m gonna order a pizza."
+dialogue,Ross,"Order a pizza like, ‘I forgive you?’"
+action,,"(She turns around and glares at him, he turns away.)"
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,"Oh man, pizza? I like pizza. (makes like he is trying to send a telepathic message to Rachel) Put olives on the pizza."
+dialogue,Phoebe,We could eat the wax! It’s organic.
+dialogue,Chandler,"Oh great, food with hair on it."
+dialogue,Phoebe,"No, not the used wax."
+dialogue,Chandler,Because that would be crazy?
+action,,[Cut to Living Room]
+dialogue,Ross,"Hey, can I, can I get in on that? Because I’m kinda hungry myself."
+dialogue,Rachel,"Fine. (on phone) Hi! Yes, I’d like to order a large pizza."
+dialogue,Ross,No anchovies.
+dialogue,Rachel,"With ah, extra anchovies."
+dialogue,Ross,"That’s okay, I’ll just pick ‘em off."
+dialogue,Rachel,"Yeah, and could you please chop some up and just put it right there in the sauce?"
+action,,"[Cut to later, they are finishing up the pizza, there’s one piece left.]"
+dialogue,Ross,"You can have the last piece, if you want."
+dialogue,Rachel,"Well, I should think so. You slept with someone."
+action,,"[Cut to Monica's bedroom, they’re all eating the wax, Chandler and Phoebe, don’t like it. Joey tries some and makes a face like: ‘Hey, that’s not so bad.’]"
+dialogue,Phoebe,"They’re gonna get through this, aren’t they?"
+dialogue,Chandler,"Yeah, come on, it’s Ross and Rachel, they’ve got too."
+dialogue,Monica,What if they don’t?
+action,,(Long pause.)
+dialogue,Joey,You think I need a new walk?
+dialogue,Chandler,What?
+dialogue,Joey,"Well y'know, I’ve been walking the same way since high school. Y'know, y'know how some guys they walk into a room and everybody takes notice. I think I need a ‘take notice’ walk."
+dialogue,Chandler,Are you actually saying these words?
+action,,"[Later, in the living room, Rachel is sitting on the couch, Ross is on the chair.]"
+dialogue,Ross,"What, now you’re not even taking to me? (moves over to the coffee table) Look Rachel, I-I’m sorry, okay, I’m sorry, I was out of my mind. I thought I’d lost you, I didn’t know what to do. Come on! Come on, how insane must I have been to do something like this? Huh? I-I don’t cheat right, I, that’s not me, I’m not Joey!"
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,"Whoa-ho-ho! (He looks at Chandler, who gives him a ‘come on’ look.) Yeah, okay."
+dialogue,Monica,Hey. It’s three in the morning. They don’t know that I’ve come home yet. You notice how neither one of them are wondering where I am.
+dialogue,Phoebe,"Yeah, y'know, people can be so self-involved."
+action,,[Cut to Living Room]
+dialogue,Ross,"Y'know what, y'know what, I’m-I’m not the one that wanted that, that break, okay. You’re the one that bailed on us. You’re the one that, that ran when things got just a little rough!"
+dialogue,Rachel,That’s....
+dialogue,Ross,That’s what?!
+dialogue,Rachel,That is neither here nor there.
+dialogue,Ross,"Okay, well here we are. Now we’re in a tough spot again, Rach. What do you want to do? How do you want to handle it? Huh? Do you wanna fight for us? Or, do you wanna bail? (sits down next to her) Look, I, (on the verge of tears) I did a terrible, stupid, stupid thing. Okay? And I’m sorry, I wish I could take it back, but I can’t. (We see Monica and Phoebe are almost in tears.) I just can’t see us throwing away something we know is so damn good. Rachel, I love you so much."
+action,,"(He kisses her on her shoulder, then her neck, then the side of her face, then just before he kisses her on the lips....)"
+dialogue,Rachel,"No Ross!! (stands up and moves away from him) Don’t! You can’t just kiss me and think you’re gonna make it all go away, okay? It doesn’t work that way. It doesn’t just make it better. Okay?"
+dialogue,Ross,"Okay, okay, okay."
+dialogue,Rachel,(softly) I think you should go.
+dialogue,Ross,What?
+dialogue,Rachel,(softly) I really think you need to go now.
+dialogue,Ross,"(moving over to stand in front of her) Okay, okay. This morning you said there was nothing so big that we couldn’t work past it together..."
+dialogue,Rachel,"Yeah, what the hell did I know!"
+dialogue,Ross,"Look, look, there’s got to be a way we can work past this. Okay, (takes a hold of one of her arms.) I can’t imagine, I can’t imagine my life without you. (Both of them are starting to cry.) Without, without these arms, and your face, and this heart. Your good heart Rach, (drops to his knees and hugs her around her waist) and, and...."
+dialogue,Rachel,"(crying) No. I can’t, you’re a totally different person to me now. I used to think of you as somebody that would never, ever hurt me, ever. God, and now I just can’t stop picturing with her, I can’t, (Ross stands up and backs away) it doesn’t matter what you say, or what you do, Ross. It’s just changed, everything. Forever."
+action,,[We see the rest of them are now crying.]
+dialogue,Ross,"(crying) Yeah, but this can’t be it, I mean."
+action,,(Pause)
+dialogue,Rachel,Then how come it is?
+action,,Closing Credits
+heading,,[Scene: Monica’s bedroom.]
+dialogue,Phoebe,They’ve been quiet for a long time.
+dialogue,Joey,Maybe she killed him?
+dialogue,Chandler,Let’s go.
+action,,"[Cut to Living Room, Rachel is sleeping on the couch, Ross is gone, the rest of them can finally emerge from their cell. They all wave good bye, and start to walk quietly out, as Monica goes and puts a blanket on Rachel. Joey starts walking all hunched over and bobbing his shoulders as he goes.]"
+dialogue,Chandler,(to Joey) Is that your new walk?
+dialogue,Joey,"(whispering) No, I really have to pee."
+action,,End

@@ -1,0 +1,318 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, Phoebe is on the phone, Chandler and Monica are sitting in the living room, and Ross is in the kitchen as Rachel enters from her bedroom.]"
+dialogue,Rachel,"Oh, Phoebe, are you still on hold? I was supposed to call my Dad back like two hours ago."
+dialogue,Phoebe,"Oh, yeah, he clipped on, he said call him as soon as you get a chance, he’s at Flimby’s."
+dialogue,Rachel,What’s Flimby’s?
+dialogue,Phoebe,"Oh, yeah, that’s the word I use when I can’t remember the real thing."
+dialogue,Rachel,Okay. Hang up! That’s it! Come on!
+dialogue,Phoebe,"No! Rachel, that’s what they want me to do. My warranty expires tomorrow, if I don’t get through, they’re not gonna fix my crappy, broken phone for free! We cannot let them win! It’s us versus them!"
+dialogue,Chandler,Ye-e-es!!
+dialogue,Joey,(entering) Hey.
+dialogue,All,Hey.
+dialogue,Joey,"Uh, listen I gotta double check for tickets tonight. Who-who got what?"
+dialogue,"Chandler, Phoebe, and Rachel",I had one.
+dialogue,Monica,I need two. I’m bringing Pete. My boyfriend. I have a boyfriend now!
+dialogue,Joey,"Two it is. Ross, how about you?"
+dialogue,Ross,"Uh, yeah, I ah, I also need two."
+dialogue,Monica,Really? Who’s number two?
+dialogue,Chandler,Who’s number two? One of the more difficult games sewer workers play.
+dialogue,Ross,"Uh, no, it’s-it’s just this person."
+dialogue,Phoebe,Like a date type (looks at Rachel) person?
+dialogue,Ross,"Yeah, kinda. It’s this woman from work. I hope that won’t be too weird. Will it, Rach?"
+dialogue,Rachel,"No. No, not at all, not at all. I actually was gonna bring someone myself, so…"
+dialogue,Joey,But you said one.
+dialogue,Rachel,"I meant, me plus one!"
+dialogue,Joey,"Okay. (to Phoebe and Chandler) Did ah, you guys mean you plus one?"
+dialogue,Ross,"All right, I’ll see you tonight."
+dialogue,Joey,Okay.
+dialogue,Rachel,"Okay, bye-bye!"
+dialogue,Chandler,Bye!
+dialogue,Monica,Bye-bye!
+action,,(Ross exits)
+dialogue,Rachel,"Okay, I need a date! (runs to her bedroom)"
+dialogue,Joey,"Oh, hey, you guys are finally gonna get to meet Kate!"
+dialogue,All,Oh!
+dialogue,Joey,"(to Chandler) And I ah, borrowed some of your cologne. I hope she likes it."
+dialogue,Monica,"Joey, what are you doing?! It’s never gonna happen, she’s seeing somebody."
+dialogue,Chandler,"Yeah, and I don’t have any cologne."
+dialogue,Joey,The green bottle next to the shaving cream.
+dialogue,Chandler,Oh! Worm medicine for the duck.
+action,,"(In horror, Joey wipes his neck and smells it.)"
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, Monica is getting ready to go to Joey’s premiere and Phoebe is still on hold.]"
+dialogue,Monica,(to Phoebe) Here you go. You can wear this. (hands her a sweater)
+dialogue,Phoebe,Thanks!
+dialogue,Monica,Uh-huh.
+dialogue,Phoebe,"Okay. (on phone) Ooh, I’m setting the phone down. (does so) But I’m still here! Just don’t go anywhere I’m still here. (starts to put on the sweater) Don’t-don’t switch or anything, ‘cause I’m, I’m right here. (She has pulled the sweater over her head, but her head is stuck in a sleeve.) Just one sec. One sec! One second!! (She is now frantically trying to get the sweater on, as Monica returns from the bathroom.) Wait! One second! Just…"
+dialogue,Monica,Phoebe?
+dialogue,Phoebe,"What?! Monica, I’m scared!!"
+dialogue,Monica,"All right. Honey, that’s-that’s a sleeve. Okay?"
+dialogue,Phoebe,Yeah.
+dialogue,Monica,And! We also have speaker phone. (She turns on the speaker phone.)
+dialogue,Hold Voice,"Please, stay on the line. Your call is important to us."
+dialogue,Monica,"Okay, wait, you gotta hang up ‘cause we’re gonna be late."
+action,,"(Phoebe starts to hang up the phone, but…)"
+dialogue,Hold Voice,"Thank you for your patience, you’re the next caller."
+dialogue,Phoebe,Yes!! Yes!! I’m the next caller! You were gonna have me hang up.
+dialogue,Chandler,"(entering, carrying the chick and duck) Hey! Can you take a duck and a chick to the theatre?"
+dialogue,Monica,Of course not.
+dialogue,Phoebe,No.
+dialogue,Chandler,Okay. I just wanted them to hear it from somebody else.
+heading,,"[Scene: Joey’s Premiere, Rachel is already there with her date, Tommy who's played by Ben Stiller who will be in There's Something About Mary and Meet The Parents , as Ross and his date, Cailin, arrive.]"
+dialogue,Ross,"Hey, hey Rach!"
+dialogue,Rachel,"Oh, hi!"
+dialogue,Ross,Hi!
+dialogue,Rachel,"How are you? (She goes to kiss him on the cheek, but stops because of the dates and pats him on the shoulder.)"
+dialogue,Ross,Good.
+dialogue,Rachel,Hey.
+dialogue,Ross,So it’s looks like we’re the first ones here.
+dialogue,Rachel,"Yeah, looks that way. First ones here! Wooo!!"
+dialogue,Ross,Yay!!
+action,,(An awkward silence follows.)
+dialogue,Rachel,"Oh! Tommy, this is Ross. Ross, Tommy."
+dialogue,Tommy,Hey.
+dialogue,Ross,"Hey. Oh, I’m sorry, this is Cailin."
+action,,"(They all try and shake hands at once. They end up criss-crossing they’re arms to shake each other’s hand, and Ross says…)"
+dialogue,Ross,And! Break!!
+action,,(Awkward laughter follows.)
+dialogue,Rachel,"Okay, uhh, I think I’m going to run to the ladies room."
+dialogue,Tommy,Okay.
+dialogue,Cailin,I’ll join you.
+dialogue,Tommy,I’ll get our seats.
+dialogue,Ross,"Okay. (The girls leave.) (to Tommy) So uh, well, this-this is uh, this is awkward."
+dialogue,Tommy,Yeah?
+dialogue,Ross,Well y'know ‘cause Rachel and I used to go out.
+dialogue,Tommy,"Oh, I didn’t, I didn’t know that."
+dialogue,Ross,Oh! Well then this is awkward. So what do you uh…
+dialogue,Tommy,I think we’re here.
+dialogue,Ross,Oh! Yeah.
+dialogue,Tommy,Yeah.
+dialogue,Ross,"Okay. (sees two people sitting in their seats.) Uh, huh. Excuse me, I’m sorry, I-I think you may be in our seats."
+dialogue,Man,"Umm, no, I don’t think so."
+dialogue,Tommy,Can-can we take a look at your ticket?
+dialogue,Man,Sure. (Hands him the ticket.)
+dialogue,Ross,"(looking at ticket) Yep! Yeah, see this says D-13, and uh…"
+dialogue,Man,"Oh, well I thought that ah…"
+dialogue,Tommy,"Oh, you thought, huh? Yeah, well that didn’t really work out too well for you did it you idiot !! What are you?! A moron!! Huh?! It says D-13! Okay?! Look you’re surrounded by even numbers!! Did that give you some clue?!"
+dialogue,Man,"Uh, the usher told us to come…"
+dialogue,Tommy,"Oh! Oh! The usher must be right! What, with all that training they go through! Get out!! (They start to leave.) Here! (He throws him back his ticket.) (to Ross, calmly) Hey man, you want the aisle?"
+dialogue,Ross,"No, I’m good. (He sits down, stunned.)"
+heading,,"[Scene: The Theatre, at the post premiere party. The gang is already there, except Phoebe. Joey runs in.]"
+dialogue,Chandler,(seeing Joey) There he is!
+dialogue,Monica,There’s our star!
+dialogue,Joey,"So, so, what’d ya think?"
+dialogue,Chandler,Almost as good as that play with the two naked girls on the see-saw.
+dialogue,Joey,I-I wasn’t in that.
+dialogue,Chandler,I know.
+dialogue,Joey,"(sees Kate) Oh-oh, hey-hey, Kate! Listen I want you to meet everybody. Everybody, this is Kate."
+dialogue,Monica,Hi!
+dialogue,The Director,(stepping in) Excuse me. Excuse me. (to Kate) Sweetheart! (Kisses her.) Come! (They leave.)
+dialogue,Chandler,So that’s the girl you like.
+dialogue,Joey,Yeah.
+dialogue,Ross,"(drags Chandler over to buffet table) I’m telling you, this guy Rachel is with is crazy! Okay? He viscously screamed at total strangers! I think he’s baaad news!"
+dialogue,Chandler,"Wait a minute, wait a minute, you don’t like the guy Rachel’s dating? Well, that’s odd."
+action,,"[cut to Joey, Rachel, and Tommy.]"
+dialogue,Joey,"Oh, hey, Lauren. Uh, you guys this is, this is Kate’s understudy, Lauren."
+dialogue,Rachel,"Oh, hi!"
+dialogue,Lauren,Hey.
+dialogue,Rachel,"Hey. Gosh, you look soo familiar."
+dialogue,Lauren,"Oh, yeah! I-I ran into you in the hallway in your building. It was right after I slept with Joey. He dumped me the next day."
+action,,"[cut to Monica, Pete, and Cailin]"
+dialogue,Cailin,So. How’d you guys meet?
+dialogue,Pete,"Well ah, the short version is, I ah pursued her for a couple of months, then I gave her a check for 20,000 dollars, and she was mine."
+dialogue,Monica,"Yeah, and in the long version, I dump him for telling people the short version."
+action,,"[cut to Joey as Estelle, Joey’s agent, approaches]"
+dialogue,Estelle,"Joey, sweetheart, you were fabulous!"
+dialogue,Joey,"Hey you guys, this is my agent, Estelle."
+dialogue,Estelle,"How do you do. (to Rachel and Monica) Ooh, you two girls were outstanding! (to Joey) Did they have representation?"
+dialogue,Joey,"No, they-they weren’t in the play."
+dialogue,Rachel,We’re not actors.
+dialogue,Estelle,"Ooh, what a shame! Because with her face (points to Monica) and her chest (points to Rachel) I could really put something together."
+dialogue,Chandler,Could I borrow it?
+action,,[cut to later]
+dialogue,Cailin,(to Ross) Hi! Remember me?
+dialogue,Ross,"Hi! Yeah! Tommy’s in line for the bathroom and someone just cut in front of him, I think he’s gonna snap. (He’s watching very intently)"
+dialogue,Cailin,"Ross, I’m gonna go."
+dialogue,Ross,Go? Why?
+dialogue,Cailin,I don’t know. Could be because I don’t feel like standing around all night waiting for some guy who may or may not scream.
+dialogue,Ross,"But-but Cailin, he definitely will scream."
+dialogue,Cailin,Good bye Ross.
+dialogue,Ross,"Uh, oh-ho bye."
+dialogue,The Director,"(entering carrying a newspaper) Here we go people! (starts reading the review) Boxing Day! The Lucille Lortel Theatre, blah-la-la-la… Ah-ha! Joey Tribianni, gives an uneven performance, but Mr. Tribianni is not the worst thing in this production."
+dialogue,Joey,Yes!!! Ha-ha-ha!
+dialogue,The Director,"Kate Miller’s awkward and mannered portrayal is laughable. (Kate walks away depressed.) Badda-badda-badda. Ah-ha! Here it is! The direction by Marshal Talmant is… (stops, reads it again, and throws down the paper in disgust) Thank you, boys and girls, you’ve ruined my life. Please, stuff your talentless faces with my Mother’s crab cakes! (starts to leave) Excuse me!!"
+action,,"(Joey steps in a picks up the paper, the gang all look at him.)"
+dialogue,Joey,Anyone mind if I save this?
+heading,,"[Scene: Monica and Rachel's, Monica and Rachel are returning. Phoebe is still on hold.]"
+dialogue,Monica,Hey!
+dialogue,Rachel,Hey!
+dialogue,Phoebe,"Oh, is the play over?"
+dialogue,Monica,Yeah. Where were you?
+dialogue,Hold Voice,"Thank you for your patience, you’re the next caller."
+dialogue,Monica,You were the next caller five hours ago. You must be going crazy.
+dialogue,Phoebe,Nah. I kept myself busy.
+action,,"(Both Rachel and Monica walk into their bedrooms, stop, and come back into the living room with confused looks on their faces.)"
+dialogue,Phoebe,"Oh, okay, yeah. (to Monica) I put your stuff in her room, and her stuff in your room."
+action,,"(They both look at each other, nod their heads ‘All right’ and follow their stuff into their new rooms.)"
+heading,,"[Scene: The Theatre, after the party. Joey is trying to comfort Kate.]"
+dialogue,Joey,Hey! Are you okay?
+dialogue,Kate,Fabulous.
+dialogue,Joey,"Listen, drama critics they’re nothing but, but people who couldn’t make it as actors. You know what you should do?"
+dialogue,Kate,Become a drama critic!
+dialogue,The Director,"(entering, drunk) I am hurt! (to Joey and Kate) A plague on both your houses! (walks away)"
+dialogue,Kate,"By the way, he dumped me tonight after he read my review."
+dialogue,Joey,"Oh, classy."
+dialogue,Kate,"Yep! I sure know how to pick ‘em, huh? Y'know I gave up a part on a soap for this!"
+dialogue,Joey,"Wow! Yeah I ah, I gave up a job too."
+dialogue,Kate,Really. What?
+dialogue,Joey,"Uh, de-clawing cats. Hey, tell ya what. Let me walk you home. We’ll stop by every news stand and burn every copy of their Times and the Post."
+dialogue,Kate,Why the Post?
+dialogue,Joey,"Oh, you didn’t see the Post?"
+dialogue,Kate,No. You?
+dialogue,Joey,No. Why?
+heading,,"[Scene: Kate’s Apartment, Joey and Kate are returning from a night out on the town.]"
+dialogue,Kate,(drunk) So you really think those newspapers are just jealous of me?
+dialogue,Joey,"Oh, absolutely! You’re talented and you’re good looking."
+dialogue,Kate,"Oh, you’re sweet and cute."
+dialogue,Joey,I know! That’s why they trashed me!
+action,,(They kiss.)
+dialogue,Joey,"Whoa. Wait a minute, wait a minute."
+dialogue,Kate,What?
+dialogue,Joey,"I, I don’t get you. I mean first, you hate me. Then you sleep with me. Then you want nothing to do with me, now you want me again."
+dialogue,Kate,What? So you never went out with an actress before?
+dialogue,Joey,"Kate, do you even like me?"
+dialogue,Kate,Of course I do.
+dialogue,Joey,"Well so, how come you blew me off? Y'know? How come you were with him?"
+dialogue,Kate,"I don’t know! I just, just do this! I-I always have to pick the like the smartest guy, or-or the most talented guy… Why can’t I just pick someone like you?"
+dialogue,Joey,Thanks.
+dialogue,Kate,"You know what I mean. I mean like the sweetest guy. Joey, you’re just so, you’re so, so… (She passes out and slumps against his shoulder.)"
+dialogue,Joey,"(Checks to see if she’s drooling on his shirt.) Okay. Okay, okay, hey. (Lays her down and covers her with a blanket.) There we go, let’s get your feet up there. (Looks at her) Good night, Kate. Sweet dreams. (Picks up a garbage can) I’m gonna put this can right here in case you have to hurl."
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, the next morning, Phoebe is STILL on hold.]"
+dialogue,Hold Voice,Please stay on the line. You’re call is very important to us.
+dialogue,Monica,"(entering from her bedroom) Pheebs, you’ve been up for 24 hours! Go to sleep, honey. Th-this isn’t healthy."
+dialogue,Phoebe,"No, no, I’m fine, and y’know why? ‘Cause of all the riboflavin."
+dialogue,Joey,"(entering, happily) Hey!"
+dialogue,Monica,Hey! Didn’t you have that outfit on last night?
+dialogue,Joey,"Yeah! I stayed at Kate’s, but ah, nothing happened. Hey, Pheebs, where were ya?"
+dialogue,Phoebe,"I’m so, so, so sorry, Joey. I definitely am gonna see you’re play. I swear you’re play is very important to us, thank you for your patience. You’re play is the next play is the next play I’m gonna see."
+dialogue,Monica,"Anyway, how did it go with Kate?"
+dialogue,Joey,"Oh, it was great! Yeah, I-I walked her home, and it was amazing how much we connected, y'know? Then ah, then she passed out, but then she woke up. Yeah? And we stayed up all night talking, and now we’re like totally crazy about each other!"
+dialogue,Monica,"Joey, you had the night!"
+dialogue,Joey,What?
+dialogue,Monica,"When two people finally realise their feelings for each other, and-and they talk for hours, and they-they learn all about the other person!"
+dialogue,Joey,You-you think?
+dialogue,Monica,Did you like learn about her family?
+dialogue,Joey,"Two brothers, one died!"
+dialogue,Monica,Yes!!
+dialogue,Joey,Yeah?!
+dialogue,Monica,"Oh! (They hug, triumphantly.)"
+heading,,"[Scene: Central Perk, Chandler and Monica are sitting on the couch, Rachel is on the chair.]"
+dialogue,Gunther,(bringing Chandler a cup) This is from the woman at the bar.
+dialogue,Chandler,Oh-ho-ho-ho.
+action,,(He turns and looks at her. The woman whispers something to Gunther; who comes back and takes the mug away from Chandler.)
+dialogue,Gunther,Sorry. She thought you were somebody else.
+dialogue,Rachel,What time is it?
+dialogue,Monica,One.
+dialogue,Ross,One.
+dialogue,Chandler,7:15. (Monica looks at him) Watch doesn’t work.
+dialogue,Rachel,"Tommy’s supposed to be here soon, we’re going to lunch."
+dialogue,Ross,"Look. Look, I wasn’t going to say anything to you, but... All right, I don’t think you should be seeing Tommy anymore."
+dialogue,Rachel,You don’t?!
+dialogue,Ross,No! The guy is mean. I mean really mean. I think you should stay away from him.
+dialogue,Rachel,"Umm, or , maybe, I should stay away from all men."
+dialogue,Ross,"No, it’s not just ‘cause I’m jealous. (Both Monica and Chandler give him a ‘Come on’ look) I mean I’m not, I’m not, I’m not jealous, okay? It’s… Look, the guy, he screamed, he actually screamed at this couple sitting in our seats."
+dialogue,Chandler,"Yeah, and at the end of the play, he, he got up y'know, and he just started like, (claps his hands) banging his hands together!"
+dialogue,Ross,"Okay, fine, fine. You don’t want to believe me? No, that’s fine. (starts to leave)"
+dialogue,Monica,We’re kidding!
+dialogue,Chandler,"Ross, don’t. Ross!"
+action,,Monica; Ross!
+action,,[cut to outside of Central Perk]
+dialogue,Ross,"You don’t want to believe me, I’m Mr. Funny to you. Mr. Funny… (turns around and almost spills his coffee on Tommy)"
+dialogue,Tommy,Whoa!!
+dialogue,Ross,"Whoa, sorry Tommy."
+dialogue,Tommy,"What’s in the cup, Ross?"
+dialogue,Ross,Umm…
+dialogue,Tommy,What is in the cup?!
+dialogue,Ross,"Okay, it’s coffee."
+dialogue,Tommy,Ice coffee? Tell me it’s ice coffee!
+dialogue,Ross,It’s-it’s hot…
+dialogue,Tommy,"Hot coffee!!! You idiot!! You were gonna spill hot coffee all over me, huh?!! What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?! Huh?!"
+action,,"[cut to inside Central Perk, we see Ross quietly tapping on the window, desperately trying to get the gang’s attention, while Tommy is still screaming at him]"
+dialogue,Rachel,(not seeing Ross) What’s your favourite thing about summertime?
+dialogue,Monica,"Umm, going to the beach. When it stays light real late."
+dialogue,Rachel,Yeah…
+dialogue,Tommy,"(entering, finished with yelling at Ross, who follows him in shell shocked) (happily) Hey!"
+dialogue,Rachel,"Tommyyyy! Say, what’s your favourite thing about summer?"
+dialogue,Tommy,"Ooh, I don’t know. Probably the smell of freshly cut grass."
+dialogue,Chandler,"Ohh, that’s a good one."
+action,,"(Ross is having a fit, about how calm Tommy is now)"
+heading,,"[Scene: Backstage at Joey’s play, Joey is arriving, late.]"
+dialogue,Joey,"Sorry! Sorry, I’m late; sorry, I’m late! My duck and my chick and a fight, it-it was ugly."
+dialogue,Stage Manager,"Look, we held the curtain for you buddy. Come on, let’s go! Let’s go!"
+action,,"[cut to onstage with Lauren standing in for Kate, the doorbell rings.]"
+dialogue,Lauren,"(answering the door) Vic! Where have you been, baby?!"
+dialogue,Joey,(surprised it’s Lauren) (hugs her) (whispering) Where’s Kate?
+dialogue,Lauren,(whispering) She got a job in L.A.
+dialogue,Joey,(stunned) What?!
+dialogue,Lauren,I’ve been waiting up all night for ya. Where have you been? (Joey doesn’t answer) Where have you been? Vic?!
+dialogue,Joey,"Oh, ahh, go to the window. I’m wanna run down to the truck and show you something."
+dialogue,Lauren,"(at the window, she’s looking down out of the window) What do you got down there, Vic? What do you got under that tarp?"
+dialogue,Joey,(grabs the window from the outside and sticks his head in) (whispering) When is she leaving?
+dialogue,Lauren,(whispering) Tonight. What are you doing?
+dialogue,Joey,(making like he is yelling up to the second floor) I’m coming up!
+heading,,"[Scene: Monica and Rachel's, Chandler and Ross are in the kitchen, Rachel and Monica are sitting in the living room, and Phoebe is, you guessed it, still on hold.]"
+dialogue,Tommy,"Hey, mind if I use the phone?"
+dialogue,Phoebe,"Oh, I… (starts jabbering incoherently)"
+dialogue,Chandler,"Why don’t you use ours across the hall, ‘cause she…has…problems."
+dialogue,Ross,"(coming out of the kitchen with a cup of coffee, almost running into Tommy) Oh-ho, whoa! Sorry, Tommy. I almost spilled this hot coffee on you."
+dialogue,Tommy,"Yeah, but you didn’t."
+dialogue,Ross,"No, but it’s-it’s-it’s hot!"
+action,,(We see Tommy go into Joey and Chandler’s apartment)
+dialogue,Rachel,"Ross, would you just stop it! It’s getting really old."
+dialogue,Ross,I can’t believe no one believes me!
+dialogue,Phoebe,"I do, I believe you."
+dialogue,Ross,You do Pheebs?
+dialogue,Phoebe,Yeah. But I also believed her (points to the phone) when she said I was next.
+action,,"[cut to Chandler and Joey’s apartment, Tommy is using the phone]"
+dialogue,Tommy,"(noticing the chick) Ooh, hey! Hey, there little fella. (picks up the chick) Mr. Fuzzy-Man, how are you doing? (starts to pet him) Aww. (The chick poops on his hand.) Eww! Oh! Eww! Gross! Idiot!! Stupid little, fuzzy, yellow creature!! Oh look at me, I’m so cute, I’m a little chick who’s disgusting! God, you’re so stupid, how are you not yet extinct!! (the duck wattles behind him and quacks) (to the duck) Quack-quack, quack-quack!! What are you quacking about?! Dumb Donald Doo-Doo!!"
+action,,(We see the gang staring at him through the doorways.)
+dialogue,Chandler,Step away from the duck.
+dialogue,Tommy,"Ooh, sorry little Mr. Chic-A-Dee, sorry you went doody in my hand! (starts to walk out and stops) (to Rachel) Well, I guess we’re not going out anymore. Whaa!!!"
+action,,(He leaves the gang in stunned silence.)
+heading,,"[Scene: Backstage at Joey’s play, Joey is changing for the next scene as Kate arrives, carrying her bags.]"
+dialogue,Kate,Joey!
+dialogue,Joey,Hey!
+dialogue,Kate,"I’m soo glad I caught you, I couldn’t find you before."
+dialogue,Joey,Wh-wh-what’s going on? Wh-what’s this about L.A.?
+dialogue,Kate,They still want me for General Hospital .
+dialogue,Joey,"But, but wh-what about us?"
+dialogue,Kate,Last night was wonderful. But I-I can’t stay here just for you.
+dialogue,Joey,"Well, so, stay for the museums!"
+dialogue,Kate,I’m sorry.
+dialogue,Stage Manager,"Joey, onstage!"
+dialogue,Joey,"Well can you at least stay to the end of the play? I mean, I’ll go to the airport with ya, I-I wanna say good bye."
+dialogue,Lauren,(yelling from onstage) Where are you Vic?
+dialogue,Kate,Flight’s in an hour. I-I gotta go.
+dialogue,Lauren,Vic! Vic! Vic !!!
+dialogue,Joey,(to Lauren) In a minute!!
+action,,[cut to the end of the play]
+dialogue,Lauren,So this is it? Victor?
+dialogue,Joey,"Yeah, I guess it is. (sees Kate is watching, he turns Lauren so that he can talk directly to Kate, but still look like he is talking to Lauren) Listen, I ah, I gotta say good bye, and-and I gotta say it quick ‘cause this is killing me. One thing you gotta know, is that I will never forget you. But, you’ve got things you have to do now, and so do I. And so… I’m gonna get on this spaceship, (smoke starts pouring in from the ceiling, and a ladder comes down, with flashing, colored lights on the side of it) and I’m gonna go to Blargon 7 in search of alternative fuels. But when I return, 200 years from now, you’ll be long gone. But I won’t have aged at all. (gets on the ladder) So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I’m gonna want to meet her."
+action,,"(The ladder retracts, taking Joey up into the spaceship for his voyage to Blargon 7, and Kate waves good bye.)"
+dialogue,Lauren,"So long, Vic! (waving good bye as the ladder retracts)"
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's, the gang, except Joey, is there. Phoebe is, well you y'know.]"
+dialogue,Monica,"Phoebe, it’s been two days."
+dialogue,Phoebe,"Yeah, I know. Oh, good thing it’s one of those 801 numbers. Right?"
+dialogue,Ross,"Phoebe, 800 is toll free, 801 is-is Utah."
+dialogue,Phoebe,"No, no, no, oh no-no-no, it’s has to be 800. (picks up the instruction manual to check the phone number) ‘Cause all those big companies have 800 numbers, every one. (Finds the number) Yeah, every big Utah-based company has one."
+dialogue,Rachel,Phoe-be!!
+dialogue,Phoebe,"Sorry, I’m so sorry, I will pay you back."
+dialogue,Chandler,"And yet, she’s still not hanging up the phone."
+dialogue,All,Hang it up! Hang up the phone!!
+dialogue,Phoebe,"Fine! Fine! (slams the phone down, breaking it) Oh-oh!"
+dialogue,Monica,What?
+dialogue,Phoebe,"Well, I think I broke it. But that’s all right, here’s the number you can call."
+dialogue,Monica,(sarcastic) Oh.
+action,,End

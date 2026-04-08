@@ -1,0 +1,303 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey’s, there is lumber all over the apartment]"
+dialogue,Chandler,(entering) Hey!
+dialogue,Joey,Hey!
+dialogue,Chandler,Hey-hey-hey. So what happened? A forest tick you off?
+dialogue,Joey,No. Y'know how we’re always saying we need a place for the mail.
+dialogue,Chandler,Yeah!
+dialogue,Joey,"Well, I started building one. But then I decided to take it to the next step."
+dialogue,Chandler,You’re building a post office?
+dialogue,Joey,"No, an entertainment unit, with a mail cubby built right in. It’s a one day job, max."
+dialogue,Chandler,Okay. (notices that Joey is wearing some really tight jeans) My word! Those are snug.
+dialogue,Joey,"Oh yeah. These are my old work pants, Sergio Valente’s."
+action,,"(Chandler goes to his bedroom and opens the door. However, only the top half opens, and he trips into his bedroom over the bottom half.)"
+dialogue,Joey,Power saw kinda got away from me there.
+action,,Opening Credits
+heading,,"[Scene: Outside Central Perk, Phoebe is pacing back and forth waiting for someone.]"
+dialogue,Rachel,(joining Phoebe outside) Hey Pheebs.
+dialogue,Phoebe,Hey!
+dialogue,Rachel,Any sign of your brother?
+dialogue,Phoebe,"No, but he’s always late."
+dialogue,Rachel,I thought you only met him once?
+dialogue,Phoebe,"Yeah, I did. I think it sounds y'know big sistery, y'know, ‘Frank’s always late.’"
+dialogue,Rachel,"Well relax, he’ll be here."
+dialogue,Phoebe,"No, I know, I’m just nervous. Y'know it’s just y'know Mom’s dead, don’t talk to my sister, Grandma’s been sleeping a lot lately. It’s like the last desperate chance to have a family, y'know, kinda thing. You’re so sweet to wait with me."
+dialogue,Rachel,"Well, actually Gunther sent me. You’re not allowed to have cups out here, it’s a thing. (takes her cup and goes back inside)"
+heading,,[Scene: inside Central Perk]
+dialogue,Chandler,Does anyone else think David Copperfield is cute?
+dialogue,Monica,"No, but he told me, he thinks your a fox."
+dialogue,Chandler,"All right, Janice, likes him. In fact she likes him so much she put him on her freebie list."
+dialogue,Joey,Her what?
+dialogue,Chandler,"Well, we have a deal, where we each get to pick five celebrities that we can sleep with, and the other one can’t get mad."
+dialogue,Ross,"Ah, the heart of every healthy relationship. Honesty, respect, and sex with celebrities."
+dialogue,Monica,"So, Chandler, who’s on your list?"
+dialogue,Chandler,"Ah, Kim Basinger, Cindy Crawford, Halle Berry, Yasmine Bleeth, and ah, Jessica Rabbit."
+dialogue,Rachel,"Now, you do realize that she’s a cartoon, and way out of your league?"
+dialogue,Chandler,"I know, I know, I just always wondered if I could get her eyes to pop out of her head."
+dialogue,Joey,"Hey, Monica, who would yours be?"
+dialogue,Monica,"First, I need a boyfriend, then I can have a list."
+dialogue,Joey,"It’s just a game Mon. (makes a ‘Can-you-believe-her’ face to the rest of the gang.) Rach, how about you?"
+dialogue,Rachel,"Oh, I don’t know, I guess, Chris O’Donnel, John F. Kennedy, Jr., Daniel Day Lewis, Sting, and Parker Stevenson."
+dialogue,Ross,Spiderman?
+dialogue,Rachel,Hardy Boy.
+dialogue,Chandler,Peter Parker.
+dialogue,Ross,Thank you.
+dialogue,Rachel,"What about you honey, who would be on your list?"
+dialogue,Ross,"Well I-I-I, that kind of thing requires some serious thought. First, I’ll divide my perspective canidates into catergories...."
+dialogue,Chandler,(coughing) What a geek!
+dialogue,Phoebe,(entering) Everbody this is Frank! This is my half-brother Frank.
+dialogue,All,"Oh, hi."
+dialogue,Phoebe,This is everybody. This is Ross.
+dialogue,Frank,How are you?
+dialogue,Ross,Hey.
+dialogue,Phoebe,Chandler.
+dialogue,Chandler,Hi.
+dialogue,Frank,Hi.
+dialogue,Phoebe,Joey.
+dialogue,Joey,Hey-hey!
+dialogue,Frank,Hey.
+dialogue,Phoebe,This is Monica.
+dialogue,Frank,Whoa!
+dialogue,Phoebe,And this is Rachel.
+dialogue,Rachel,Hi!
+dialogue,Frank,Whoa!!
+dialogue,Phoebe,I’m gonna get coffee.
+dialogue,Frank,"Hey, how do you guys get anything done?"
+dialogue,Chandler,"We don’t, really."
+dialogue,Rachel,"Well, so, now, do you guys have a lot of big plans?"
+dialogue,Phoebe,"Oh yeah! Yeah, no, we’re gonna connect, y'know bond, and everything."
+dialogue,Frank,"Yeah, I was thinking that maybe we could go down to Time Square and pick up some ninja stars. And, oh, um, my friend Larry, he wants me to take a picture of a hooker."
+dialogue,Chandler,"You know, we don’t really take advantage of living in the city."
+dialogue,Joey,I know.
+heading,,"[Scene: Chandler and Joey’s, Joey is drilling a hole in the wall and the drill comes out the other side really close to Chandler’s head. Chandler then rushes out to talk to Joey.]"
+dialogue,Joey,"Oh, I’m sorry. Did I get ‘ya?"
+dialogue,Chandler,"No, you didn’t get me!! It’s an electric drill, you get me, you kill me!!"
+dialogue,Joey,"Calm down, do you want this unit or not?"
+dialogue,Chandler,I do NOT want this unit!!
+dialogue,Joey,"Well, you should’ve told me that before, I’m not a mind reader. Hey, we’re out of beer. I’m going to Monica’s."
+dialogue,Chandler,"Fine! (goes into his room and slams the door, then he slams the bottom half of the door.)"
+heading,,"[Scene: Monica and Rachel’s, Joey is entering]"
+dialogue,Monica,Hey! Where ‘ya headin’ in those pants? 1982?
+dialogue,Joey,"Oh Monica, listen, I ah, I saw down at the hardware store, they got those designer tiles on sale. If you ever want to redo the bathroom floor."
+dialogue,Monica,"Why, what’s wrong with my bathroom floor?"
+dialogue,Joey,"Nothing. It’s just old and dingy, that’s all."
+dialogue,Monica,I highly doubt that. (they both go to the bathroom)
+dialogue,Joey,"Oh yeah. If you ah, move your hamper, you see what color the tile used to be. (Monica gasps) Yeah."
+dialogue,Monica,I can’t live like this! What are we gonna do? What are we gonna do?
+dialogue,Joey,"Relax. Here hold this (hands her his beer). This old stuff just comes right off. (he bends down to try and lift some tile right in the middle of the floor, in his tight pants.)"
+dialogue,Monica,That’s a little more than I wanted to see.
+dialogue,Joey,"(manages to pry off only a small piece) Aw! Look at that, every inch of this stuff is glued down. It’d take forever to pry this up. You should ah, you should just leave it. (starts to walk away, but Monica grabs him)"
+dialogue,Monica,I can’t leave it! You gouged a hole in my dingy floor.
+action,,"(Joey places the toliet brush and holder over the hole, which is in the middle of the floor.)"
+dialogue,Joey,Eh! There you go.
+dialogue,Monica,"You know that’s nice, y'know we could put it back there after the surgeons remove it from your colon!"
+heading,,"[Scene: Phoebe’s, Frank and her, are sitting on the counh, watching TV]"
+dialogue,Phoebe,"(sits up) Oh, ew!"
+dialogue,Frank,What?
+dialogue,Phoebe,"Yeah I know what I wanted to ask you. Um, can you roll your tongue? Because I can, and my Mom couldn’t, and I thought y'know, I figured that was something I got from our Dad."
+dialogue,Frank,"What, wait, you mean like this? (does it)"
+dialogue,Phoebe,"Yeah, yeah. You can do it to. (tries to do it, but can’t)"
+dialogue,Frank,Your not doing it.
+dialogue,Phoebe,"Oh right, yeah okay, my Mom could, and I can’t. We don’t have that...."
+dialogue,Frank,When’s your birthday?
+dialogue,Phoebe,Feburary 16th.
+dialogue,Frank,I know a guy who’s the 18th.
+dialogue,Phoebe,"Wow, that’s close. When’s yours?"
+dialogue,Frank,October 25th.
+dialogue,Phoebe,"That’s the same month as Halloween. So, um, what kinda things do you like to do at home?"
+dialogue,Frank,Melt stuff.
+heading,,"[Scene: Central Perk, Ross is working on his list]"
+dialogue,Ross,"Okay, I’ve got three of my five."
+dialogue,Rachel,"Three of your five, what?"
+dialogue,Ross,Celebrities I’m allowed to sleep with.
+dialogue,Rachel,Oh my God! You are giving this a lot of thought.
+dialogue,Ross,"Yeah, it’s hard okay, I only have two spots left."
+dialogue,Chandler,"All right, so who do you got it narrowed down to?"
+dialogue,Ross,"Okay, Elizabeth Hurely...."
+dialogue,Chandler,"Oooh-hoo, very attractive, forgiving."
+dialogue,Ross,Susan Sarandon.
+dialogue,Chandler,"Eh, y'know what, she’s to political, she probably wouldn’t let you do it, unless you donated four cans of food first."
+dialogue,Ross,And!! Isabella Rosselini.
+dialogue,Chandler,"Ooh-hoo. Very hot, very sexy. But ah, y'know she’s too international, y'know she’s never gonna be around."
+dialogue,Rachel,So?
+dialogue,Chandler,"So, you gotta play the odds, pick somebody who’s gonna be in the country like all the time."
+dialogue,Rachel,"Yeah, ‘cause that’s why you won’t get Isabella Rosselini, geography."
+heading,,"[Scene: Phoebe’s, Frank is melting a plastic spoon.]"
+dialogue,Phoebe,"Okay so, by melting, you meant melting."
+dialogue,Frank,Yeah.
+dialogue,Phoebe,So is it like art?
+dialogue,Frank,"Yeah, you can melt art. Hey, can I use your phone?"
+dialogue,Phoebe,"Um, yeah sure. Why you wanna call your Mom?"
+dialogue,Frank,"No, I wanna melt it."
+dialogue,Phoebe,"Oh, well um, not right now. Y'know I’m just gonna go to bed, I think the fumes are giving me a headache."
+dialogue,Frank,(starts laughing) Yeah!
+dialogue,Phoebe,"G’night, bro."
+dialogue,Frank,G’night.
+dialogue,Phoebe,"Here. (gives him a fire extinguisher) Y'know, just in case."
+dialogue,Frank,"Oh, excellent. (starts to melt the fire extinguisher’s hose.)"
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel’s, Phoebe is eating breakfast with Monica while Frank is playing with num-chucks on the balcony]"
+dialogue,Monica,What kind of karate is that?
+dialogue,Phoebe,No kind. He just makes it up.
+dialogue,Monica,So how’s it going with you guys?
+dialogue,Phoebe,"So far, it kinda blows. I don’t know, I just thought y'know that he’d feel more like a brother y'know, like you and Ross, just like close and connected and...."
+dialogue,Monica,"Oh honey, we’re close now but you-you wouldn’t believe the years of-of nugies, and wedgies, and flying wedgies, and atomic wedgies, and....(Phoebe shakes her head like she doesn’t understand) That’s where the waistband actually goes over your head."
+dialogue,Phoebe,Ah!!
+dialogue,Monica,"Oh, we used to drive each other crazy playing the shadow game."
+dialogue,Phoebe,"Oh, how do you play the shadow game?"
+dialogue,Monica,"Oh, how do you play the shadow game?"
+dialogue,Phoebe,I just asked you.
+dialogue,Monica,I just asked you.
+dialogue,Phoebe,I don’t have time for this.
+dialogue,Monica,"No, that is what the game is."
+dialogue,Phoebe,Which you just gave up really quickly.
+dialogue,Chandler,(entering) Have you seen Joey?
+dialogue,Monica,What’s the matter?
+dialogue,Chandler,"Oh, just this! (turns around and has a paint lid stuck to the back of his pants.) Y’know what it’s my fault really, because the couch is usually where we keep the varnish."
+dialogue,Joey,"(yelling from bathroom) Hey, does somebody wanna hand me one of those tiles."
+dialogue,Chandler,What’s going on?
+dialogue,Monica,He’s retiling my floor. (they both run to the bathroom)
+dialogue,Chandler,Yo!! Spackel boy! Get up!
+dialogue,Monica,"Ah-ah-ah, now you started this, you will finish it."
+dialogue,Chandler,He started mine first!
+dialogue,Phoebe,"Build the unit Cinderelly, lay the tile Cinderelly."
+heading,,"[Scene: Phoebe’s, Phoebe and Frank are watching TV.]"
+dialogue,Frank,Whoa! Big octopus.
+dialogue,Phoebe,"Yeah. (phone rings and Phoebe answers it) ‘Hello. (listens) Oh my God, I totally forgot! (listens) Well can’t someone else do it. (listens) But, I have company. (listens) Yeah, no look, that’s all right I’ll come in.’ (hangs up phone) Um, Frank, I’m really sorry but I have to go to work. It’s-it’s one of my regulars and he’s insisting that I do ‘um."
+dialogue,Frank,"Hey, what kind of work do you do?"
+dialogue,Phoebe,Oh! I’m a masseuse. I give people massages and stuff.
+dialogue,Frank,You-you work at one of those massage parlors?
+dialogue,Phoebe,"Well, y'know we don’t call it that, but yeah!"
+dialogue,Frank,"(starts laughing) Wow! That’s wild! No, I had no idea."
+dialogue,Phoebe,All righty. I’ll be back in-in a little bit. Unless you wanna come with me?
+dialogue,Frank,You mean like watch?
+dialogue,Phoebe,"No, no, you can get one yourself. It’ll be on the house! Y'know what are big sisters for?"
+dialogue,Frank,"Well, I don’t think this, y'know."
+dialogue,Phoebe,"No, no, no, I wouldn’t do you myself, I mean that would be weird. Yeah, no, I’ll get one of the other girls to do it. Oh, this will be so much fun! Hey! Are you excited?"
+dialogue,Frank,"Yeah! Hey, do Monica and Rachel work there?"
+heading,,"[Scene: Monica and Rachel’s bathroom, Joey and Monica are admiring the new floor.]"
+dialogue,Monica,It’s beautiful! It’s like the first bathroom floor there ever was. (Chandler tries to go to the bathroom) Whoa! Are you going in there for?
+dialogue,Chandler,"What, like a number?"
+dialogue,Ross,(entering) Hey!
+dialogue,Chandler,Hi! Bye! (runs to the bathroom)
+dialogue,Ross,"Okay, I’m done with my choices, these are final. (holds up a little card)"
+dialogue,Rachel,"Well, it’s about time."
+dialogue,Joey,"Ooh, very official."
+dialogue,Ross,"Oh, yeah, well y'know Chandler printed it up on his computer."
+dialogue,Monica,And who laminated it?
+dialogue,Ross,That would be me.
+dialogue,Rachel,"All right let me see. (grabs the card) Uma Thurman, Winona Ryder, Elizabeth Hurely, Michelle Pfieffer, and Dorothy Hammel?"
+dialogue,Ross,"Hey, it’s my list."
+dialogue,Rachel,"Okay honey, you do realize she only spins like that on ice."
+heading,,"[Scene: Healing Hands Inc. (Phoebe’s work), Frank is being ushered in, by the arm, to the room Phoebe is in by another girl.]"
+dialogue,Frank,"Ow!-Ow!-Ow! Ow! Ow! Ow! Ow! Ow! Ow! Y'know, ow!"
+dialogue,Phoebe,Hey!-Hey! What’s going on?
+dialogue,Frank,She broke my arm.
+dialogue,Girl,He touched my fanny.
+dialogue,Frank,"No, she touched mine first!"
+dialogue,Girl,That’s my job!
+dialogue,Frank,"So wait, what’s the deal here, I can have sex with you, but I can’t touch you?"
+dialogue,Phoebe and Girl,Ewww!!!
+dialogue,Phoebe,You can’t have sex with her!
+dialogue,Girl,"What’d you think I was, a hooker?"
+dialogue,Frank,"No, your a masseuse, it’s cool, I’m not a cop."
+dialogue,Phoebe,"Okay, Jasmine, can you, can you ask Mr. Whiffler if he can wait for like five minutes."
+dialogue,Jasmine,"Fine. (starts to leave, and points at Frank) I don’t like you!! (leaves)"
+dialogue,Phoebe,(turns around and hits Frank) So that’s what you thought I did!! God! That’s not what I do!
+dialogue,Frank,"Wait that’s-that’s, what that’s not what you do?"
+dialogue,Phoebe,Nooo! Why would you think that?
+dialogue,Frank,"I don’t know, I mean, y'know, this is the city y'know, I just, I mean, I don’t know."
+dialogue,Phoebe,"Whatever, it’s the perfect end to the perfect weekend anyways."
+dialogue,Frank,"Oh, wait, no your right, no it was perfect and I can’t believe that I screwed it up so bad."
+dialogue,Phoebe,You really thought it was perfect?
+dialogue,Frank,"Well, no, maybe-maybe it wasn’t perfect, but y'know it was pretty cool, y'know, ‘cause we had all those great talks y'know."
+dialogue,Phoebe,"Yeah, um, which ones in particular were great for you?"
+dialogue,Frank,"Well y'know about the tongue thing, y'know, and how I told you about my likes and my dislikes..."
+dialogue,Phoebe,I don’t....
+dialogue,Frank,"How-how I like to melt stuff, and how I dislike stuff that doesn’t melt."
+dialogue,Phoebe,"Right, okay, um-mm."
+dialogue,Frank,"Yeah, y'know I feel like I can really talk to you ‘cause y'know you’re my sister, y'know."
+dialogue,Phoebe,"Yeah, I guess I do, yeah."
+dialogue,Frank,Then I go feel your friend up and make you mad at me.
+dialogue,Phoebe,"Well, I-I wasn’t hopping mad, y'know."
+dialogue,Frank,"You hopped a little bit. Yeah, I really sorry."
+dialogue,Phoebe,"Okay. All right, this is my favourite part of the weekend, right now, this."
+dialogue,Frank,This?
+dialogue,Phoebe,Uh-huh.
+dialogue,Frank,"Oh come on we went, we went to Time Square, we found ninja stars, I almost got arm broken by a hooker..."
+dialogue,Phoebe,She wasn’t a hooker.
+dialogue,Frank,"Well, when I tell my friends about her she will be."
+heading,,"[Scene: Chandler and Joey’s, everyone is there, helping to lift the entertainment center into place]"
+dialogue,Chandler,"Okay, on three. One....Two...."
+dialogue,Joey,Why don’t we just go on two.
+dialogue,Chandler,Why two?
+dialogue,Joey,Because it’s faster.
+dialogue,Chandler,"Yeah, I coulda counted to three like four times without all this ‘two’ talk."
+dialogue,Rachel,Oh!
+dialogue,Joey,"All right, but in the future..."
+dialogue,Ross,Okay!! Okay!!
+dialogue,Rachel,Come on!
+dialogue,Ross,"Heavy thing, not getting lighter!"
+dialogue,Chandler,"Okay, one...two..."
+dialogue,Joey,So we are going on two?
+dialogue,All,"All right!! (they lift it into place, however there is one small problem, the unit is so long that it blocks some of both of their bedroom doors.)"
+dialogue,Chandler,"Oh, good job Joe."
+dialogue,Joey,"Wow, it’s big!"
+dialogue,Chandler,"Yeah-yeah, so big that it actually makes our doors look smaller!"
+dialogue,Joey,"Maybe, my ruler’s wrong."
+dialogue,Phoebe,Maybe all the rulers are wrong.
+dialogue,Joey,"Look it’s not that bad. So what, it blocks a little of your door, a little of my door."
+dialogue,Chandler,"Yeah, y'know what I got a better idea. How-how ‘bout it blocks none of mine door and a lot of yours? (throws his shoulder into the center to try and move it, but it doesn’t move.)"
+dialogue,Joey,"Yeah, listen, before I forget that side is still wet."
+heading,,"[Scene: Central Perk, Rachel is serving some guy coffee.]"
+dialogue,Rachel,"Okay sir, um-mm, let see if I got this right. Ah, so this is a half-caf, double tall, easy hazel nut, non-fat, no foam, with whip, extra hot latte, right? (the guy nods) Okay, great. (she starts to walk away and under her breath) You freak."
+action,,(Isabella Rosselini enters)
+dialogue,Ross,(to Gunther) Thank you.
+dialogue,Isabella,"(to Gunther) Um, coffee to go, please."
+action,,"(Ross recognises her and goes over to the couch, mouthing ‘Oh my God’"
+dialogue,Ross,Isabella Rosselini. (points to her)
+dialogue,Monica,Are you serious? (they all look) Oh my God.
+dialogue,Ross,Damn! I can’t believe I took her off my list.
+dialogue,Monica,Why? ‘Cause otherwise you’d go for it?
+dialogue,Ross,"Yeah, maybe."
+dialogue,Rachel,"Oh-oh, you lie."
+dialogue,Ross,What you don’t think I’d go up to her?
+dialogue,Rachel,"Ross, it took you ten years to finally admit you liked me."
+dialogue,Ross,"Yeah, well missy, you better be glad that list is laminated."
+dialogue,Rachel,"You know what honey, you go ahead, we’ll call her an alternate."
+dialogue,Ross,"Okay, hold my crawler."
+dialogue,Rachel,Okay.
+dialogue,Monica,"Rach, are you really gonna let him do this?"
+dialogue,Rachel,"Honey, he’s about to go hit on Isabella Rosselini. I’m just sorry we don’t got popcorn."
+dialogue,Ross,"(to Isabella) Hi! Hi, I’m Ross, you don’t know me, but I’m a big, big fan of yours. I mean, Blue Velvet , woo-oo hoo! Um, I was wondering if I could um, maybe buy you a cup of coffee? (Gunther hands her change) Or maybe reimburse you for that one?"
+dialogue,Isabella,"Aren’t you with that girl over there? (points at Rachel, who waves back)"
+dialogue,Ross,"Well, yeah, kinda. Um, but that’s okay, see we have an understanding, um, see we each have this list of five famous people, (gets his out) so I’m allowed to sleep with you. No, no, no, it’s flattery."
+dialogue,Isabella,I’m sorry. (starts to leave)
+dialogue,Ross,"Oh no, no, no, wait, wait, Isabella. Don’t, don’t just dismiss this so fast. I mean this is a once in a lifetime opportunity..."
+dialogue,Isabella,"Yeah, for you. Is that the list?"
+dialogue,Ross,"Um, yeah."
+dialogue,Isabella,May I see it?
+dialogue,Ross,"Um, no."
+dialogue,Isabella,Come on! (grabs the list)
+dialogue,Ross,"But, okay."
+dialogue,Isabella,(reading it) I’m not on the list!
+dialogue,Ross,"Um, see, but that’s not the final draft."
+dialogue,Isabella,It’s laminated!
+dialogue,Ross,"Yeah, um, okay see, you were, you were on the list but my friend, Chandler (Chandler waves) brought up the very good point that you are international, so I bumped you for Wynona Rider, local."
+dialogue,Isabella,Y'know it’s ironic...
+dialogue,Ross,What?
+dialogue,Isabella,...because I have a list of five goofy coffee house guys and yesterday I bumped you for that guy over there. (points at a guy and leaves)
+dialogue,Ross,(to the rest of the gang) We’re just gonna be friends.
+action,,Closing Credits
+heading,,"[Scene: Chandler and Joey’s, they are admiring the entertainment center]"
+dialogue,Joey,Y'know what?
+dialogue,Chandler,Umm?
+dialogue,Joey,I bet ‘ya ya I could fit in there. (points to a hole in the center)
+dialogue,Chandler,I’ve got five bucks says you can’t.
+dialogue,Joey,"Get out your checkbook, mister."
+dialogue,Chandler,"Oh, I think I have the cash."
+action,,"(Joey successfully enters the entertainment center, and Chandler closes the door on Joey.)"
+dialogue,Joey,You are dogged man! I totally fit!
+dialogue,Chandler,"Yeah, you got me. (picks up a 2x4 and puts it through the handles so that the doors won’t open) I’m out five big ones! (puts the money in the crack between the door and frame) Here you go."
+dialogue,Joey,"Thank you. Cha-ching! (Chandler starts to leave) Oh, well hello Mr. Lincoln. Better luck next time buddy. (Chandler leaves and closes the door) And the drinks are on me!"
+action,,End

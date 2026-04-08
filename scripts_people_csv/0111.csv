@@ -1,0 +1,334 @@
+script_element,character,text
+heading,,[Scene: A Street: Monica and Phoebe are walking to a newsstand.]
+dialogue,Phoebe,Do you think they have yesterday's daily news?
+dialogue,Monica,Why?
+dialogue,Phoebe,"Just wanna check my horoscope, see if it was right."
+dialogue,Monica,"Oh my God. (Grabs Phoebe and turns her away) Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression."
+dialogue,Phoebe,"Where? (Turns to face him) Ooh, come to Momma."
+dialogue,Monica,"He's coming. Be cool, be cool, be cool."
+action,,(The guy walks past them)
+dialogue,Guy,Nice hat.
+dialogue,Monica and Phoebe,(in unison) Thanks.
+action,,(The guy walks on)
+dialogue,Phoebe,We should do something. Whistle.
+dialogue,Monica,We are not going to whistle.
+dialogue,Phoebe,"Come on, do it."
+dialogue,Monica,No!
+dialogue,Phoebe,Do it!
+dialogue,Monica,No!
+dialogue,Phoebe,Do it do it do it!
+dialogue,Monica,(Shouts to the guy) Woo-woo!
+action,,"(The guy turns round, startled. Monica points to Phoebe. The guy gets hit by a truck)"
+dialogue,Phoebe,I can't believe you did that!
+action,,Opening Credits
+heading,,"[Scene: Hospital, the guy is in a coma and Mon and Pheebs are visiting.]"
+dialogue,Monica,"Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?"
+dialogue,Phoebe,"I just wish there was something we could do. (Bends down and talks to him) Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!"
+dialogue,Monica,"Phoebe, what are you doing?"
+dialogue,Phoebe,Maybe nobody's tried this.
+dialogue,Monica,"I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer."
+dialogue,Phoebe,"Yeah, but did you see the dents in his knuckles? That means he's artistic."
+dialogue,Monica,"Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!"
+dialogue,Phoebe,"Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked."
+dialogue,Monica,I wish all guys could be like him.
+dialogue,Phoebe,I know.
+heading,,"[Scene: Monica and Rachel's, Monica and Phoebe are telling everyone about their coma guy.]"
+dialogue,Chandler,Are there no conscious men in the city for you two?
+dialogue,Monica,He doesn't have anyone.
+dialogue,Phoebe,"Yeah, we-we feel kinda responsible."
+dialogue,Joey,I can't believe you said woowoo. I don't even say woowoo.
+dialogue,Rachel,"Oh, she's coming up! She's coming up! (Turns on the TV)"
+dialogue,Jay Leno,"(on TV) Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing. You might wanna put the kids to bed for this one."
+action,,"(Everyone has settled down to watch, except Chandler)"
+dialogue,Chandler,"Y'know, we don't have to watch this. Weekend At Bernie's is on Showtime , HBO , and Cinemax ."
+dialogue,Rachel,"No way, forget it."
+dialogue,Joey,"C'mon, she's your mom!"
+dialogue,Chandler,"Exactly. Weekend At Bernie's ! Dead guy getting hit in the groin twenty, thirty times! No?"
+dialogue,Rachel,"Chandler, I gotta tell you, I love your mom's books! I love her books! I cannot get on a plane without one! I mean, this is so cool!"
+dialogue,Chandler,"Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'"
+dialogue,Ross,"C'mon, Chandler, I love your mom. I think she's a blast."
+dialogue,Chandler,You can say that because she's not your mom.
+dialogue,Ross,"Oh, please..."
+action,,(Rachel opens the door to Paolo)
+dialogue,Paolo,Bona sera.
+dialogue,Rachel,"Oh, hi sweetie. (They kiss)"
+dialogue,Ross,When did Rigatoni get back from Rome?
+dialogue,Monica,Last night.
+dialogue,Ross,"Ah, so then his plane didn't explode in a big ball of fire?... Just a dream I had- but, phew."
+dialogue,Phoebe,Hey hey hey! She's on!
+dialogue,Paolo,Ah! Nora Bing!
+dialogue,Jay Leno,(on TV) ...Now what is this about you-you being arrested i-in London? What is that all about?
+dialogue,Phoebe,Your mom was arrested?
+dialogue,Chandler,"Shhh, busy beaming with pride."
+dialogue,Mrs. Bing,"(on TV) ...This is kind of embarrassing, but occasionally after I've been intimate with a man..."
+dialogue,Chandler,Now why would she say that's embarrassing?
+dialogue,All,Shhh.
+dialogue,Mrs. Bing,(on TV) ...I just get this craving for Kung Pow Chicken.
+dialogue,Chandler,THAT'S TOO MUCH INFORMATION!!
+dialogue,Jay Leno,"(on TV) Alright, so now you're doing this whole book tour thing, how is that going?"
+dialogue,Mrs. Bing,"(on TV) Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love..."
+dialogue,All,Awww!
+dialogue,Chandler,This is the way that I find out. Most moms use the phone.
+dialogue,Jay Leno,"(on TV) Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad..."
+dialogue,Mrs. Bing,"(on TV) Oh no, I am a fabulous mom! I bought my son his first condoms."
+action,,(The gang turn to look at Chandler)
+dialogue,Chandler,...And then he burst into flames.
+heading,,"[Scene: The Hospital, it's a montage of Monica and Phoebe's visit to the hospital with My Guy playing in the background. It starts with Monica reading a newspaper to him.]"
+dialogue,Monica,"Let's see. Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports."
+action,,"[Next is a shot of them dragging an enormous plant into the room, then Monica knitting a sweater, then Phoebe singing, then Phoebe shaving him and chatting to Monica]"
+dialogue,Phoebe,What about Glen? He could be a Glen.
+dialogue,Monica,Nah... not-not special enough.
+dialogue,Phoebe,Ooh! How about Agamemnon?
+dialogue,Monica,Waaay too special.
+heading,,"[Scene: A Mexican Restaurant, Monica, Phoebe, Joey, Chandler and his mom are there.]"
+dialogue,Mrs. Bing,I am famished. What do I want... (Looks at Chandler's menu)
+dialogue,Chandler,Please God don't let it be Kung Pow Chicken.
+dialogue,Mrs. Bing,"Oh, you watched the show! What'd you think?"
+dialogue,Chandler,"Well, I think you need to come out of your shell just a little."
+dialogue,Ross,(Entering) What is this dive? Only you could've picked this place.
+dialogue,Mrs. Bing,"Oooh, c'mon, shut up, it's fun. Gimme a hug. (They both sit down) Well, I think we're ready for some tequila."
+dialogue,Chandler,I know I am.
+dialogue,Mrs. Bing,Who's doing shots?
+dialogue,Monica,Yeah.
+dialogue,Phoebe,I'm in.
+dialogue,Mrs. Bing,There y'go. Ross?
+dialogue,Ross,"Uh, I'm not really a shot drinking kinda guy."
+action,,(Enter Rachel and Paolo. They are both somewhat flustered)
+dialogue,Rachel,"Hi! Sorry- sorry we're late, we, uh, kinda just, y'know, lost track of time."
+dialogue,Ross,...But a man can change. (Downs a shot)
+action,,[Time lapse. Ross is now clearly drunk. He is holding up a shot glass to his eye like a jeweller's eye.]
+dialogue,Ross,Anyone want me to appraise anything?
+action,,(Rachel feeds something to Paolo. He eats it and licks her hand)
+dialogue,Rachel,"Mrs. Bing, I have to tell you, I've read everything you've ever written. No, I mean it! I mean, when I read Euphoria at Midnight, all I wanted to do was become a writer."
+dialogue,Mrs. Bing,"Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book."
+dialogue,Chandler,"Myyy mother, ladies and gentlemen."
+action,,[Cut to Mrs. Bing on the telephone.]
+dialogue,Mrs. Bing,"Yeah, any messages for room 226?"
+action,,(Ross emerges from a toilet marked 'Chicas')
+dialogue,Mrs. Bing,"You okay there, slugger?"
+dialogue,Ross,"Yeah, I'm fine, I'm fine. (A woman emerges from the toilet behind him and he tries to pretend he was in the other one)"
+dialogue,Mrs. Bing,What is with you tonight?
+dialogue,Ross,Nothing. Nothing nothing nothing.
+dialogue,Mrs. Bing,"(To phone) Okay, thank you. (To Ross) It's the Italian Hand-Licker, isn't it."
+dialogue,Ross,No. It's the one he's licking.
+dialogue,Mrs. Bing,She's supposed to be with you.
+dialogue,Ross,You're good.
+dialogue,Mrs. Bing,"Oh, Ross, listen to me. I have sold a hundred million copies of my books, and y'know why?"
+dialogue,Ross,The girl on the cover with her nipples showing?
+dialogue,Mrs. Bing,"No. Because I know how to write men that women fall in love with. Believe me, I cannot sell a Paolo. People will not turn three hundred twenty-five pages for a Paolo. C'mon, the guy's a secondary character, a, y'know, complication you eventually kill off."
+dialogue,Ross,When?
+dialogue,Mrs. Bing,He's not a hero. ...You know who our hero is.
+dialogue,Ross,The guy on the cover with his nipples showing?
+dialogue,Mrs. Bing,"No, it's you!"
+dialogue,Ross,Please.
+dialogue,Mrs. Bing,"No, really, c'mon. You're smart, you're sexy..."
+dialogue,Ross,Right.
+dialogue,Mrs. Bing,"You are gonna be fine, believe me."
+action,,(She kisses him on the cheek)
+dialogue,Ross,Uh-oh...
+action,,(...Then full on the mouth)
+action,,(Enter Joey)
+dialogue,Joey,Uhhhh.... I'll just pee in the street.
+action,,Commercial Break
+heading,,"[Scene: Chandler and Joey's, the next morning. Joey is getting the door in his dressing gown—it's Ross.]"
+dialogue,Ross,"Hey, is Chandler here?"
+dialogue,Joey,Yeah.
+action,,(Ross drags Joey into the hall and slams the door)
+dialogue,Ross,"Okay, uh, about last night, um, Chandler.. you didn't tell... (Joey shakes his head) Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?"
+dialogue,Joey,Right. No big deal.
+dialogue,Ross,Okay.
+dialogue,Joey,In Bizarro World!! You broke the code!
+dialogue,Ross,What code?
+dialogue,Joey,"You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!"
+action,,(Chandler opens the door and startles them. He picks up the paper)
+dialogue,Chandler,What are you guys doing out here?
+dialogue,Ross,"Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept."
+dialogue,Joey,"Yeah, well, you don't have your racket."
+dialogue,Ross,"No, no I don't, because it's being restrung, somebody was supposed to bring me one."
+dialogue,Joey,"Yeah, well you didn't call and leave your grip size."
+dialogue,Chandler,"Okay, you guys spend waaaay too much time together. (Goes back inside and shuts the door)"
+dialogue,Ross,"Okay, I'm scum, I'm scum."
+dialogue,Joey,"Ross, how could you let this happen?"
+dialogue,Ross,"I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's..."
+dialogue,Joey,You don't think my mom's sexy?
+dialogue,Ross,Well... not in the same way...
+dialogue,Joey,"I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?"
+dialogue,Ross,"Okay, I think we're getting into a weird area here..."
+action,,(Monica and Rachel's door opens and Rachel and Paolo emerge)
+dialogue,Rachel,Hey.
+dialogue,Ross,Hey.
+dialogue,Rachel,What're you guys doing out here?
+dialogue,Ross,"Well, not playing raquetball!"
+dialogue,Joey,He forgot to leave his grip size!
+dialogue,Ross,He didn't get the goggles!
+dialogue,Rachel,"Well,sounds like you two have issues."
+action,,(She and Paolo walk a little way down the hall)
+dialogue,Rachel,"Goodbye, baby."
+dialogue,Paolo,"Ciao, bela."
+action,,(They kiss. Ross is watching them)
+dialogue,Ross,Do they wait for me to do this?
+action,,(Joey and Ross go into Monica and Rachel's apartment)
+dialogue,Joey,So are you gonna tell him?
+dialogue,Ross,Why would I tell him?
+dialogue,Joey,"How about 'cause if you don't, his mother might."
+dialogue,Ross,Oh...
+dialogue,Monica,(Entering) What are you guys doing here?
+dialogue,Joey,Uhhhh.... he's not even wearing a jockstrap!
+dialogue,Monica,...What did I ask?
+heading,,"[Scene: Hospital. Phoebe is there stroking Coma Guy's hair, when Monica enters with a bunch of balloons.]"
+dialogue,Monica,Hi.
+dialogue,Phoebe,Hi.
+dialogue,Monica,What are you doing here?
+dialogue,Phoebe,"Nothing, I just thought I'd stop by.. y'know, after the uh... that I.. y'know, so what are you doing here?"
+dialogue,Monica,I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?
+dialogue,Phoebe,"No. (Monica brushes Coma Guy's hair in the other direction) No! No! ...So, um, do you think he's doing any better than he was this morning?"
+dialogue,Monica,How would I know? I-I wasn't here.
+dialogue,Phoebe,"Really? Not even to, um, change his PAJAMAS?! (Whips back the sheet to reveal him wearing new pajamas.)"
+heading,,"[Scene: Chandler and Joey's, Ross is talking to Chandler. Joey is making a snack at the bar.]"
+dialogue,Chandler,Oh my God.
+dialogue,Ross,You're my friend. I-I had to tell you.
+dialogue,Chandler,I can't believe it. Paolo kissed my mom?
+dialogue,Ross,"Yeah, um, I don't know if you noticed, but he had a lot to drink, and you know how he gets when he's drun..uh... (He has caught sight of Joey scowling at him) I can't do this, I did it, it was me, I'm sorry, I kissed your mom."
+dialogue,Chandler,What?
+dialogue,Ross,"I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-"
+dialogue,Chandler,(To Joey) You knew about this?
+dialogue,Joey,"Uh... y'know, knowledge is a tricky thing."
+dialogue,Chandler,"I spent the entire day with you, why didn't you tell me?!"
+dialogue,Joey,"Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened."
+dialogue,Ross,"Thanks, man, big help."
+dialogue,Chandler,(To Ross) I can't believe this! What the hell were you thinking?
+dialogue,Ross,"I wasn't- I mean, I-"
+dialogue,Chandler,"Y'know, of all my friends, no-one knows the crap I go through with my mom more than you."
+dialogue,Ross,I know-
+dialogue,Chandler,I can't believe you did this. (Walks toward the door)
+dialogue,Ross,Chandler-
+dialogue,Joey,"Me neither, y'know what-"
+dialogue,Chandler,I'm still mad at you for not telling me.
+dialogue,Joey,What are you mad at me for?!
+dialogue,Ross,Chandler-
+dialogue,Chandler,You gotta let me slam the door! (Leaves; slams the door)
+dialogue,Joey,"(Shouting after him) Chandler, I didn't kiss her, he did! (To Ross) See what happens when you break the code?"
+dialogue,Ross,Joey-
+dialogue,Joey,Ah! (Points to door) Huh? (Leaves and slams the door)
+heading,,"[Scene: Central Perk, everyone is there except for Chandler. Rachel is writing something and Monica walks up.]"
+dialogue,Monica,Hey.
+dialogue,Rachel,Hey.
+dialogue,Monica,"(Reading) 'A Woman Undone, by Rachel Karen Green'."
+dialogue,Rachel,"Yeah. Thought I'd give it a shot. I'm still on the first chapter. Now, do you think his 'love stick can be liberated from its denim prison'?"
+dialogue,Monica,"(Reads) Yeah, I'd say so. And there's no 'j' in 'engorged'."
+dialogue,Phoebe,(Walks up with her guitar) Hey Rach.
+dialogue,Rachel,Hey.
+dialogue,Phoebe,Hello.
+dialogue,Monica,Hello.
+dialogue,Phoebe,Going to the hospital tonight?
+dialogue,Monica,"No, you?"
+dialogue,Phoebe,"No, you?"
+dialogue,Monica,You just asked me.
+dialogue,Phoebe,"Okay, maybe it was a trick question. (Plays a few chords) Um, Rachel can we do this now?"
+dialogue,Rachel,Okay. (Writes a little more) I am so hot!
+dialogue,Joey,"(To Ross, on the couch) Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout."
+dialogue,Ross,I cannot believe we're having this conversation.
+dialogue,Joey,"C'mon! Just try to picture her not pregnant, that's all."
+dialogue,Rachel,(Into microphone) Central Perk is proud to present Miss Phoebe Buffay.
+dialogue,Phoebe,"Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. (Monica gives her a look) 'Kay. (Sung:)"
+singing,,"You don't have to be awake to be my man,"
+singing,,As long as you have brainwaves I'll be there to hold your hand.
+singing,,"Though we just met the other day,"
+singing,,There's something I have got to say...
+action,,"(She sees Monica sneaking out) Okay, thank you very much, I'm gonna take a short break! (Runs out, knocking over the mike stand)"
+dialogue,Rachel,"(Into mike) Okay, that was Phoebe Buffay, everybody. Woo!"
+action,,(Enter Chandler)
+dialogue,Chandler,What was that?
+dialogue,Ross,"Oh, uh, Phoebe just started a..."
+dialogue,Chandler,"Yeah, I believe I was talking to Joey, alright there, Mother-Kisser? (Goes to the counter)"
+dialogue,Joey,(Laughing) Mother-Kisser... (Sees Ross's look) I'll shut up.
+dialogue,Ross,"Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips."
+dialogue,Chandler,"Yes, well, I expect this from her. Okay? She's always been a Freudian nightmare."
+dialogue,Ross,"Okay, well, if she always behaves like this, why don't you say something?"
+dialogue,Chandler,"Because it's complicated, it's complex- Hey, you kissed my mom!"
+action,,(People turn to look)
+dialogue,Ross,(To the rest of Central Perk) We're rehearsing a Greek play.
+dialogue,Chandler,That's very funny. We done now?
+dialogue,Ross,"No! Okay, you mean, you're not gonna talk to her, you're not gonna tell her how you feel?"
+dialogue,Chandler,"That would be no. Look, just because you played tonsil tennis with my mom doesn't mean you know her. Alright? Trust me, you can't talk to her."
+dialogue,Ross,"Okay, 'you' can't, or (Points to Chandler) you can't? (Chandler grabs his finger) Okay, that's my finger. (Chandler twists it and Ross goes down on one knee) That's, that's my knee. (To Central Perk) Still doing the play. Aaah!"
+heading,,"[Scene: The Coma Guy's Room, Monica bursts in, closely followed by Phoebe. There is no sign of Coma Guy. His bed is empty.]"
+dialogue,Phoebe,"Alright, whadyou do with him?"
+action,,(There is the sound of a flushing toilet and Coma Guy emerges from the bathroom)
+dialogue,Monica,Oh! You're awake!
+dialogue,Phoebe,"Look at you! How, how do you feel?"
+dialogue,Coma Guy,"Uh, a little woozy, but basically okay."
+dialogue,Monica,You look good!
+dialogue,Coma Guy,I feel good! ...Who are you?
+dialogue,Monica,"Oh, sorry."
+dialogue,Phoebe,I'm Phoebe Buffay.
+dialogue,Monica,I'm Monica Geller. I've been taking care of you.
+dialogue,Phoebe,"Well, we both have."
+dialogue,Coma Guy,"So, the Etch-a-Sketch is from you guys?"
+dialogue,Phoebe,"Well, actually it's just from me."
+dialogue,Monica,I got you the foot massager.
+dialogue,Phoebe,You know who shaved you? That was me.
+dialogue,Monica,I read to you.
+dialogue,Phoebe,I sang. (To Monica) Hah!
+dialogue,Coma Guy,"Well,... thanks."
+dialogue,Monica,"Oh, my pleasure."
+dialogue,Phoebe,You're welcome.
+dialogue,Coma Guy,So. I guess I'll see you around.
+dialogue,Phoebe,"What, that's it?"
+dialogue,Monica,"""See you around?"""
+dialogue,Coma Guy,"Well, what do you want me to say?"
+dialogue,Monica,"Oh, I don't know. Maybe, um, ""That was nice?"" Admit something to me? ""I'll call you?"""
+dialogue,Coma Guy,"Alright, I'll call you."
+dialogue,Phoebe,I don't think you mean that.
+dialogue,Monica,"This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and ""See you around!"" Let's go, Phoebe."
+dialogue,Phoebe,Y'know what? We thought you were different. But I guess it was just the coma.
+heading,,[Scene: Chandler and Joey's Chandler is talking with his mom.]
+dialogue,Mrs. Bing,"Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?"
+dialogue,Chandler,"No, just knowing you're gonna be there is enough."
+dialogue,Mrs. Bing,"Alright, well, be good, I love you. (Kisses him and goes to leave)"
+dialogue,Chandler,You kissed my best Ross! ...Or something to that effect.
+dialogue,Mrs. Bing,"(Reentering) O-kay. Look, it, it was stupid."
+dialogue,Chandler,Really stupid.
+dialogue,Mrs. Bing,"Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?"
+dialogue,Chandler,Yeah. No. No...
+action,,"[Cut to the hallway, Joey is listening to Chandler and his mom's conversation through the door as Ross walks up.]"
+dialogue,Ross,"Ah, the forbidden love of a man and his door."
+dialogue,Joey,"Shh. He did it. He told her off, and not just about the kiss, about everything."
+dialogue,Ross,You're kidding.
+dialogue,Joey,"No, no. He said ""When are you gonna grow up and start being a mom?"""
+dialogue,Ross,Wow!
+dialogue,Joey,"Then she came back with ""The question is, when are you gonna grow up and realise I have a bomb?"""
+dialogue,Ross,"'Kay, wait a minute, are you sure she didn't say ""When are you gonna grow up and realise I am your mom?"""
+dialogue,Joey,That makes more sense.
+dialogue,Ross,"So, what's going on now?"
+dialogue,Joey,"I dunno, I've been standing here spelling it out for you! (Goes back to the door) I don't hear anything. Oh, wait, wait, wait. (Looks through the spyhole)"
+dialogue,Ross,Whaddya see?
+dialogue,Joey,"Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!"
+action,,"(Joey runs off down the hall. Ross tries Monica and Rachel's apartment, but it is locked so he has to stand in the hall and pretend he wasn't listening. Chandler and his mom come out)"
+dialogue,Mrs. Bing,"You okay, kiddo?"
+dialogue,Chandler,"Yeah, okay."
+dialogue,Mrs. Bing,Alright. (Kisses him)
+dialogue,Chandler,Nice save.
+action,,(She walks down the hall)
+dialogue,Ross,(Very politely) Mrs. Bing.
+dialogue,Mrs. Bing,Mr. Geller.
+action,,(She leaves)
+action,,(Ross knocks on Monica and Rachel's door)
+dialogue,Chandler,Hey.
+dialogue,Ross,You mean that?
+dialogue,Chandler,"Yeah, why not. (They shake hands) So I told her."
+dialogue,Ross,Yeah? How'd it go?
+dialogue,Chandler,Awful. Awful. Couldn'ta gone worse.
+dialogue,Ross,"Well, howdya feel?"
+dialogue,Chandler,Pretty good! I told her.
+dialogue,Ross,"Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? (Wags his finger at Chandler, then puts it down) But.. we don't have to go down that road."
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's, Rachel is handing out copies of her book to the gang.]"
+dialogue,Rachel,"Okay. Now this is just the first chapter, and I want your absolute honest opinion. Oh, oh, and on page two, he's not 'reaching for her heaving beasts'."
+dialogue,Monica,What's a 'niffle'?
+dialogue,Joey,You usually find them on the 'heaving beasts'.
+dialogue,Rachel,"Alright, alright, so I'm not a great typist..."
+dialogue,Ross,"Wait, did you get to the part about his 'huge throbbing pens'? Tell ya, you don't wanna be around when he starts writing with those!"
+dialogue,Rachel,"Alright, that's it! Give it back! That's it!"
+dialogue,All,Nooo!
+action,,End

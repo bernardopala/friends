@@ -1,0 +1,267 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Rachel is confronting her boss, Terry.]"
+dialogue,Rachel,"Terry, I, I, I know that I haven't worked here very long, but I was wondering, do you think it would be possible if I got a $100 advance in my salary?"
+dialogue,Terry,An advance?
+dialogue,Rachel,"It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job."
+dialogue,Terry,"Rachel, Rachel, sweetheart. You're a terrible, terrible waitress. Really, really awful."
+dialogue,Rachel,"Ok, I, I hear what you're sayin'. I'm with you. Um, but I, but I'm trying really hard. And I think I'm doing better. I really do. Does anybody need coffee? (everyone in the place raises their hand) Oh, look at that."
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Rachel is approaching a customer.]"
+dialogue,Rachel,"Excuse me, sir. Hi, you come in here all time. I was just wondering, do you think there's a possibility that you could give me an advance on my tips?"
+dialogue,Guy,Huh?
+dialogue,Rachel,"Ok, ok, that's fine. Fine. Hey, I'm sorry about that spill before. (picks up the tip he leaves) Only $98.50 to go."
+action,,(Monica enters.)
+dialogue,Monica,"Hey. Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?"
+dialogue,Ross,"No, they're not."
+dialogue,Monica,"Yes, they are. The Blymens invited them."
+dialogue,Ross,You're wrong.
+dialogue,Monica,I am not wrong.
+dialogue,Ross,You're wrong.
+dialogue,Monica,"No, I just talked to them."
+dialogue,Ross,"(getting up, upset) I'm calling Mom."
+action,,(Joey enters. His face looks abnormally colorful.)
+dialogue,Joey,"Hey, hey."
+dialogue,Chandler,Hey.
+dialogue,Phoebe,Hey.
+dialogue,Chandler,And this from the cry-for-help department. Are you wearing makeup?
+dialogue,Joey,"Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model."
+dialogue,Chandler,"That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman."
+dialogue,Phoebe,What were you modeling for?
+dialogue,Joey,You know those posters for the city free clinic?
+dialogue,Monica,"Oh, wow, so you're gonna be one of those ""healthy, healthy, healthy guys""?"
+dialogue,Phoebe,"You know, the asthma guy was really cute."
+dialogue,Chandler,Do you know which one you're gonna be?
+dialogue,Joey,"No, but I hear lyme disease is open, so... (crosses fingers)"
+dialogue,Chandler,"Good luck, man. I hope you get it."
+dialogue,Joey,Thanks.
+action,,(Ross comes back to the couch.)
+dialogue,Ross,"(to Monica) Well, you were right. How can they do this to us, huh? It's Thanksgiving."
+dialogue,Monica,"Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's."
+dialogue,Ross,Will you make the mashed potatoes with the lumps?
+dialogue,Monica,"You know, they're not actually supposed to have... (Ross looks at her sheepishly) I'll work on the lumps. Joey, you're going home, right?"
+dialogue,Joey,Yeah.
+dialogue,Monica,"And I assume, Chandler, you are still boycotting all the pilgrim holidays."
+dialogue,Chandler,"Yes, every single one of them."
+dialogue,Monica,"Phoebe, you're gonna be with your grandma?"
+dialogue,Phoebe,"Yes, and her boyfriend. But we're celebrating Thanksgiving in December 'cause he is lunar."
+dialogue,Monica,"So you're free Thursday, then."
+dialogue,Phoebe,"Yeah. Oh, can I come?"
+dialogue,Monica,"Yeah. Rach, are you thinking you're gonna make it to Vail?"
+dialogue,Rachel,"Absolutely. Shoop, shoop, shoop. Only a hundred and two dollars to go."
+dialogue,Chandler,I thought it was $98.50.
+dialogue,Rachel,"Yeah, well it was. I, I broke a cup."
+dialogue,Ross,"Well, I'm off to Carol's."
+dialogue,Phoebe,"Ooh, ooh! Why don't we invite her?"
+dialogue,Ross,"(mimicking) Ooh, ooh. Because she's my ex-wife, and will probably want to bring her, ooh, ooh, lesbian life partner."
+heading,,"[Scene: Carol and Susan's apartment, Susan is there. Ross enters.]"
+dialogue,Ross,"Hi, is uh, is Carol here?"
+dialogue,Susan,"No, she's at a faculty meeting."
+dialogue,Ross,"Oh, I uh, just came by to pick up my skull. Well, not mine, but... Susan: Come in."
+dialogue,Ross,"Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum."
+dialogue,Susan,What's it look like?
+dialogue,Ross,Kinda like a big face without skin.
+dialogue,Susan,"Yes, I'm familiar with the concept. We can just look for it."
+dialogue,Ross,"Ok. (browsing the apartment) Wow, you guys sure have a lot of books about bein' a lesbian."
+dialogue,Susan,"Well, you know, you have to take a course. Otherwise, they don't let you do it."
+dialogue,Ross,"(picking up a book) Hey, hey, Yertle the Turtle. A classic."
+dialogue,Susan,"Actually, I'm reading it to the baby."
+dialogue,Ross,"The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?"
+dialogue,Susan,"What, you don't think they can hear sounds in there?"
+dialogue,Ross,"You're not serious, I mean, you really... you really talk to it?"
+dialogue,Susan,"Yeah, all the time. I want the baby to know my voice."
+dialogue,Ross,"Do you uh, do you talk about me?"
+dialogue,Susan,"Yeah, yeah, all the time."
+dialogue,Ross,Really?
+dialogue,Susan,"But um, we just refer to you as Bobo the Sperm Guy."
+heading,,"[Scene: Monica and Rachel's, everyone is there but Rachel.]"
+dialogue,Ross,"Look, if she's talking to it, I just think that I should get some belly time too. Not that I believe any of this."
+dialogue,Phoebe,"Oh, I believe it. I think the baby can totally hear everything. I can show you. Look, this will seem a little weird, but you put your head inside this turkey, and then we'll all talk, and you'll hear everything we say."
+dialogue,Chandler,"I'd just like to say that I'm totally behind this experiment. In fact, I'd very much like to butter your head."
+action,,(Rachel enters.)
+dialogue,Monica,"Hey, Rach, did you make your money?"
+dialogue,Rachel,"No, not even close. Forget Vail, forget seeing my family, forget shoop, shoop, shoop."
+dialogue,Monica,"Rach, here's your mail."
+dialogue,Rachel,"Thanks, you can just put it on the table."
+dialogue,Monica,"(insistently) No, here's your mail."
+dialogue,Rachel,"Thanks, you can just put it on the table."
+dialogue,Monica,(gives her an envelope) Would you just open it?
+action,,(Rachel opens it. Inside is the money she needed.)
+dialogue,Rachel,"Oh my god, oh, you guys are great."
+dialogue,Monica,We all chipped in.
+dialogue,Joey,(to Monica) We did?
+dialogue,Monica,(to Joey) You owe me 20 bucks.
+dialogue,Rachel,Thank you. Thank you so much!
+dialogue,Monica,"(hands Chandler a bag) Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns."
+dialogue,Rachel,"Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?"
+dialogue,Chandler,"All right, I'm nine years old."
+dialogue,Ross,"Oh, I hate this story."
+dialogue,Chandler,"We just finished this magnificent Thanksgiving dinner. I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced."
+dialogue,Rachel,Oh my god.
+dialogue,Chandler,Yes. It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.
+heading,,"[Scene: The subway, Joey spots a gorgeous woman waiting. He goes up to her.]"
+dialogue,Joey,"Uh, hi. We uh, we used to work together."
+dialogue,Girl,We did?
+dialogue,Joey,"Yeah, at Macy's. You were the Obsession girl, right? I was the Aramis guy. (pretends to spray cologne) Aramis? Aramis?"
+dialogue,Girl,"Yeah, right."
+dialogue,Joey,I gotta tell you. You're the best in the business.
+dialogue,Girl,Get out.
+dialogue,Joey,"I'm serious. You're amazing. You know when to spritz, when to lay back."
+dialogue,Girl,Really? You don't know what that means to me.
+dialogue,Joey,"Ooh, you smell great tonight. What're you wearing?"
+dialogue,Girl,(provocatively) Nothing.
+dialogue,Joey,"Listen, uh, you wanna go get a drink or something?"
+dialogue,Girl,"Yeah. (she gets up, notices something behind Joey) Oh."
+dialogue,Joey,What's wrong?
+dialogue,Girl,"I just remembered, I have to do something."
+dialogue,Joey,Oh. What?
+dialogue,Girl,"Um, leave."
+dialogue,Joey,"Wait, wait, wait!"
+dialogue,(Joey turns around and sees his face on a poster in the subway. The poster says,"What Mario isn't telling you...V.D., you never know who might have it. A variety of scenes are shown with the poster displayed all over New York City.)"
+heading,,"[Scene: Central Perk, Joey enters, amongst snickers from the gang.]"
+dialogue,Joey,So I guess you all saw it.
+dialogue,Rachel,Saw what?
+dialogue,Phoebe,"No, we were just laughing. You know, how laughter can be infectious."
+heading,,"[Scene: Monica and Rachel's, Joey enters, upset.]"
+dialogue,Joey,Set another place for Thanksgiving. My entire family thinks I have VD.
+dialogue,Chandler,"Tonight, on a very special Blossom."
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, Monica is cooking Thanksgiving dinner. Chandler is standing in the doorway, not wanting to participate in the festivities.]"
+dialogue,Monica,"Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. (notices Ross is depressed) What?"
+dialogue,Ross,I don't know. It's just not the same without Mom in the kitchen.
+dialogue,Monica,"All right, that's it. You know what? Just get out of my way and stop moping."
+dialogue,Ross,That's closer.
+action,,"(Rachel enters, excited.)"
+dialogue,Rachel,"I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop."
+dialogue,Chandler,"Oh, you must stop shooping."
+dialogue,Rachel,"Ok, I'm gonna get my stuff."
+dialogue,Joey,"Chandler, will you just come in already?"
+dialogue,Chandler,"No, I prefer to keep a safe distance from all this merriment."
+action,,(Phoebe takes a slice of pumpkin pie and waves it in front of Chandler's face.)
+dialogue,Phoebe,"Look out, incoming pumpkin pie!"
+dialogue,Chandler,"Ok, we all laughed when you did it with the stuffing, but that's not funny anymore."
+action,,(Chandler leaves.)
+dialogue,Joey,"Hey, Monica, I got a question. I don't see any tater tots."
+dialogue,Monica,That's not a question.
+dialogue,Joey,"But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease."
+dialogue,Monica,"All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots."
+dialogue,Ross,"Ok, I'm off to talk to my unborn child."
+action,,"(Ross grabs for some food, Monica slaps his hand away.)"
+dialogue,Monica,Ah!
+dialogue,Ross,"Ok, Mom never hit."
+action,,(Ross exits.)
+dialogue,Phoebe,"(stirring pot) Ok, all done."
+dialogue,Monica,"What, Phoebe, did you whip the potatoes? Ross needs lumps!"
+dialogue,Phoebe,"Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions."
+dialogue,Monica,Why would we do that?
+dialogue,Phoebe,"Well, 'cause then they'd be like my mom used to make them, you know, before she died."
+dialogue,Monica,"Ok, three kinds of potatoes coming up."
+dialogue,Rachel,"Ok, good-bye you guys. Thanks for everything. (she starts to leave, and hits everyone with her skis) Oh, sorry! Oh, sorry!"
+action,,"(Chandler enters, running.)"
+dialogue,Chandler,The most unbelievable thing has happened. Underdog has just gotten away.
+dialogue,Joey,The balloon?
+dialogue,Chandler,"No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's , he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?"
+dialogue,Rachel,"I can't, I gotta go."
+dialogue,Chandler,Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?
+dialogue,Phoebe,Almost never.
+dialogue,Monica,Got the keys? or Got the keys!
+dialogue,Rachel,Ok.
+action,,(Everyone leaves the apartment.)
+heading,,"[Scene: Carol and Susan's, Ross is preparing to talk to her belly.]"
+dialogue,Carol,Anytime you're ready.
+dialogue,Ross,"Ok, ok, here we go. (he crouches down near her stomach) Ok, where am I talking to, here? I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but..."
+dialogue,Carol,Just aim for the bump.
+dialogue,Ross,"Ok, ok, ok, ok, here goes. You know, I, you know, can't do this. Uh, this is too weird. I feel stupid."
+dialogue,Carol,"So don't do it, it's fine. You don't have to do it just because Susan does it."
+dialogue,Ross,"(quickly talking) Hello, baby. Hello, hello."
+heading,,"[Scene: Monica and Rachel's, the group is coming back from the roof.]"
+dialogue,Rachel,I loved the moment when you first saw the giant dog shadow all over the park.
+dialogue,Phoebe,"Yeah, but did they have to shoot him down? I mean, that was just mean."
+dialogue,Monica,"Ok, right about now the turkey should be crispy on the outside, juicy on the inside. Why are we standing here?"
+dialogue,Rachel,We're waiting for you to open the door. You got the keys.
+dialogue,Monica,No I don't.
+dialogue,Rachel,"Yes, you do. When we left, you said, ""got the keys."""
+dialogue,Monica,"No I didn't. I asked, ""got the ke-eys?"""
+dialogue,Rachel,"No, no, no, you said, ""got the keys""."
+dialogue,Chandler,Do either of you have the keys?
+dialogue,Monica,(panicked) The oven is on.
+dialogue,Rachel,"Oh, I gotta get my ticket!"
+dialogue,Joey,"Wait, wait, we have a copy of your key."
+dialogue,Monica,"Well then get it, get it!"
+dialogue,Joey,That tone will not make me go any faster.
+dialogue,Monica,(angry) Joey!
+dialogue,Joey,That one will.
+action,,(Joey leaves to get the copy of the key.)
+heading,,"[Scene: Carol and Susan's, Carol is reading, Ross is talking to her stomach.]"
+dialogue,Ross,"And everyone's telling me, you gotta pick a major, you gotta pick a major. So, on a dare, I picked paleontology. And you have no idea what I'm saying, because, let's face it, you're a fetus. You're just happy you don't have gills anymore."
+dialogue,Carol,"Look, you don't have to talk to it. You can sing to it if you want."
+dialogue,Ross,"Oh, please. I am not singing to your stomach, ok?"
+action,,(Susan enters.)
+dialogue,Susan,"Hi, how's it goin?"
+dialogue,Ross,"Shh! (singing) Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey ! (to Carol) Hey, uh, did you just feel that?"
+dialogue,Carol,I did.
+dialogue,Ross,"Does it always, uh--?"
+dialogue,Carol,"No, no that was the first."
+dialogue,Susan,Keep singing! Keep singing!
+dialogue,Ross,"(singing) Hey, hey, you're my baby, and I can't wait to meet you. When you come out I'll buy you a bagel, and then we'll go to the zoo ."
+dialogue,Susan,I felt it!
+dialogue,Ross,"(singin) Hey, hey, I'm your daddy. I'm the one without any breasts ."
+heading,,"[Scene: The Hallway, Joey has a tray full of keys, and is trying each one in the lock.]"
+dialogue,Joey,"Nope, not that one."
+dialogue,Monica,Can you go any faster with that?
+dialogue,Joey,"Hey, I got one keyhole and about a zillion keys. You do the math."
+dialogue,Monica,Why do you guys have so many keys in there anyway?
+dialogue,Chandler,(sarcastic) For an emergency just like this.
+dialogue,Rachel,"(grabs Chandler by the shirt) All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this (makes a gesture like a stewardess pointing out exits) right now. But I'm not."
+dialogue,Monica,I swear you said you had the keys.
+dialogue,Rachel,"No, I didn't. I wouldn't say I had the keys unless I had the keys, and I obviously didn't have the keys."
+dialogue,Phoebe,"Ooh, ok, that's it. Enough with the keys. No one say keys."
+action,,(Short pause.)
+dialogue,Monica,Why would I have the keys?
+dialogue,Rachel,Aside from the fact that you said you had them?
+dialogue,Monica,But I didn't.
+dialogue,Rachel,"Well, you should have."
+dialogue,Monica,Why?
+dialogue,Rachel,Because!
+dialogue,Monica,Why?
+dialogue,Rachel,Because!
+dialogue,Monica,"Why? Because everything is my responsibility? Isn't it enough that I'm making Thanksgiving dinner for everyone? You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes. Does anybody care what kind of potatoes I want? Nooooo, no, no! (starting to cry) Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I..."
+dialogue,Chandler,"Ok, Monica, only dogs can hear you now, so, look, the door's open. Here we go."
+action,,(They walk in. Smoke fills the apartment.)
+dialogue,Monica,"Well, the turkey's burnt. (checking pots) Potatoes are ruined, potatoes are ruined, potatoes are ruined."
+action,,"(Ross enters, singing.)"
+dialogue,Ross,"Here we come, walkin' down the—this doesn't smell like Mom's."
+dialogue,Monica,"No, it doesn't, does it? But you wanted lumps, Ross? (picks up the pan of badly burnt potatoes) Well, here you go, buddy, ya got one."
+dialogue,Rachel,"Oh, god, this is great! The plane is gone, so it looks like I'm stuck here with you guys."
+dialogue,Joey,"Hey, we all had better plans. This was nobody's first choice."
+dialogue,Monica,"Oh, really? So why was I busting my ass to make this delicious Thanksgiving dinner?"
+dialogue,Joey,You call that delicious?
+action,,(all shouting)
+dialogue,Monica,"Stop it, stop it, stop it!"
+dialogue,Chandler,Now this feels like Thanksgiving.
+action,,[Time lapse. Everyone is upset with each other. Phoebe is at the window.]
+dialogue,Phoebe,Ooh.
+dialogue,Rachel,What?
+dialogue,Phoebe,Ugly Naked Guy's taking his turkey out of the oven. Oh my god. He's not alone. Ugly Naked Guy's having Thanksgiving dinner with Ugly Naked Gal.
+action,,(They all run to the window.)
+dialogue,Joey,I've gotta see this. All right Ugly Naked Guy!
+dialogue,Monica,"Ooh, Ugly Naked Dancing!"
+dialogue,Phoebe,It's nice that he has someone.
+action,,"[Time lapse. The gang is around the table, eating grilled cheese sandwiches.]"
+dialogue,Chandler,Shall I carve?
+dialogue,Rachel,By all means.
+dialogue,Chandler,"Ok, who wants light cheese, and who wants dark cheese?"
+dialogue,Ross,I don't even wanna know about the dark cheese.
+dialogue,Monica,(holding sandwich) Does anybody wanna split this with me?
+dialogue,Joey,"Oh, I will."
+dialogue,Phoebe,"Ooh, you guys have to make a wish."
+dialogue,Monica,Make a wish?
+dialogue,Phoebe,"Come on, you know, Thanksgiving. Ooh, you got the bigger half. What'd you wish for?"
+dialogue,Joey,The bigger half.
+dialogue,Chandler,"I'd like to propose a toast. Little toast here, ding ding. I know this isn't the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked."
+dialogue,All,That's so sweet.
+dialogue,Ross,"And hey, here's to a lousy Christmas."
+dialogue,Rachel,And a crappy New Year.
+dialogue,Chandler,"Here, here!"
+action,,Closing Credits
+heading,,"[Scene: The Subway, Joey sees his poster and he peels off the caption on his poster, revealing more posters underneath. The captions read, as follows: Bladder Control Problem, Stop Wife Beating, Hemorrhoids?, Winner of 3 Tony Awards... He's finally happy with that and walks away.]"
+action,,End

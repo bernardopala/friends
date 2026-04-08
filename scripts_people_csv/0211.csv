@@ -1,0 +1,253 @@
+script_element,character,text
+heading,,[Scene: at Ross's. Carol and Susan are picking Ben up]
+dialogue,Ross,"Ok. Here's his diaper bag, and his uh, Mr. Winky, and uh...oh, him. Hi!"
+dialogue,Carol,So how did everything go?
+dialogue,Ross,"Oh, great. Great. There was a projectile, uh, throwing up incident, but he started it."
+dialogue,Carol,"Well, we've gotta go."
+dialogue,Ross,Ok.
+dialogue,Susan,(clears her throat)
+dialogue,Carol,"Oh, right. Um, I've got some news. It's about us."
+dialogue,Ross,"Oh, you and me?"
+dialogue,Carol,"Uh, no, Susan and me."
+dialogue,Susan,The other us.
+dialogue,Ross,Ok.
+dialogue,Carol,"We're uh, we're getting married."
+dialogue,Ross,"As in, ""I now pronounce you wife and wife"" married?"
+dialogue,Carol,"Anyway, we'd like you to come, but we totally understand if you don't want to."
+dialogue,Ross,Why wouldn't I want to come? I had fun at the first wedding.
+dialogue,Carol,Look I just thought that...
+dialogue,Ross,"No no no, I mean, hey, why shouldn't I be happy for you? What would it say about me if I couldn't revel in your joy? I'm revelling baby, believe me!"
+dialogue,Susan,Is your finger caught in that chair?
+dialogue,Ross,Mmm hmmm.
+dialogue,Carol,Want us to go?
+dialogue,Ross,Uh-huh.
+heading,,[Scene: at Rachel and Monica's]
+dialogue,Ross,This is so cool. You're actually gonna be on television.
+dialogue,Joey,"It really hit me last night. I'm gonna be on Days of our Lives. And then I started thinkin' about all of u, and how these are the days of our lives.."
+dialogue,Monica,"Yes! Carol and Susan's caterer had a mountain bike accident this weekend, and she's in a full body cast."
+dialogue,"Ross, Chandler & Joey",Yes!
+dialogue,Monica,"They want me to do it, which is really cool, seeing as I've never catered before, and I really need the money, and this isn't a problem for you, is it?"
+dialogue,Ross,Would it matter?
+dialogue,Monica,"Oh, you are so great! (kisses him) Thank you!"
+dialogue,Joey,Are you really not going?
+dialogue,Ross,"I am really not going. I don't get it. They already live together, why do they need to get married?"
+dialogue,Monica,"They love each other, and they wanna celebrate that love with the people that are close with them."
+dialogue,Ross,If you wanna call that a reason.
+dialogue,Chandler,"(singing to the tune of Mister Rogers' Neighborhood) Who's the bitterest man in the living room, the bitterest man in the living room? Hi, neighbor."
+dialogue,Monica,"Ross, I thought you were over this."
+dialogue,Ross,"Look, that has nothing to do with this, ok? She's my ex-wife. If she were marrying a guy, none of you'd expect me to be there."
+dialogue,Joey,"Hey, if she were marrying a guy, she'd be like the worst lesbian ever."
+dialogue,Rachel,(entering hurriedly) Did I miss it? Did I miss it?
+dialogue,Joey,"No, I'm on right after this guy shoots himself."
+dialogue,Chandler,"Whoa, she's pretty."
+dialogue,Joey,"Yeah, and she's really nice too. She taught me all about how to work the cameras, and smell-the-fart acting."
+dialogue,Rachel,"I'm sorry, what?"
+dialogue,Monica,What?
+dialogue,Joey,"It's like, you got so many lines to learn so fast, that sometimes you need a minute to remember your next one. So while you're thinkin' of it, you take this big pause where you look all intense, you know, like this."
+dialogue,Chandler,"Oh, ok."
+dialogue,Joey,"There's my scene, there's my scene. (Joey on tv) ""Mrs. Wallace, I'm Dr. Drake Ramoray, your sister's neurosurgeon."
+dialogue,Mrs. Wallace,Is she gonna be all right?
+dialogue,Joey,I'm afraid the situation is much worse than we expected. Your sister is suffering from a..subcranial hematoma. Perhaps we can discuss this over coffee.
+dialogue,Chandler,Nice!
+dialogue,Rachel,That's great!
+dialogue,Ross,Excellent!
+dialogue,Chandler,For a minute there I thought you were actually tryin' to smell something.
+heading,,[Scene: at Monica and Rachel's]
+dialogue,Ross,That is so good! Do it again!
+dialogue,Joey,"All right, all right. ""Damnit Braverman, it's right there on the chart!"""
+dialogue,Chandler,"That's great. All right, I gotta get to work, I got a big dinosaur bone to inspect."
+dialogue,Ross,"No no, that's me."
+dialogue,Chandler,"Oh, yeah."
+dialogue,Ross,"Oh, hello."
+dialogue,Phoebe,"Oh, thanks. I couldn't uh..."
+dialogue,Ross,Is everything ok?
+dialogue,Phoebe,"Um, no, huh-uh. One of my clients died on the massage table today."
+dialogue,Ross,Oh my god.
+dialogue,Chandler,That's a little more relaxed than you want them to get.
+dialogue,Phoebe,"Yeah, um, she was 82 years old. Her name was um, Mrs. Adelman."
+dialogue,Monica,"Oh, honey."
+dialogue,Phoebe,"Yeah, it's just so strange. I mean, she probably woke up today and thought, ""ok, I'll have some breakfast, and then I'll take a little walk, and then I'll have my massage."" Little did she know God was thinking, ""Ok, but that's it."" Oh, but the weirdest thing was, ok, I was cleansing her aura when she died, and when the spirit left her body, I don't think it went very far."
+dialogue,Rachel,What do you mean?
+dialogue,Phoebe,I think it went into me.
+action,,(Everyone takes a step back from Phoebe)
+heading,,[Scene: at Central Perk]
+dialogue,Monica,"God, this is so hard. I can't decide between lamb or duck."
+dialogue,Chandler,"Well, of course, lambs are scarier. Otherwise the movie would've been called Silence of the Ducks."
+dialogue,Rachel,"Ok, who ordered what?"
+dialogue,Ross,"Oh, I believe I had the half-drunk cappuccino with the lipstick on the rim."
+dialogue,Chandler,"Yes, and this with the cigarette butt in it, is that decaf?"
+dialogue,Rachel,Oh god.
+dialogue,Joey,I can't believe you're so uptight about your mom comin'.
+dialogue,Rachel,"I know, but it's just it's the first time, and I just don't want her to think that because I didn't marry Barry, that my life is total crap, you know?"
+dialogue,Phoebe,(Mrs. Adelman's voice) Talk about crap. Try listening to Stella Niedman tell the story of her and Rod Steiger for the hundredth time.
+dialogue,Joey,"Uh, Pheebs, how long do you think this lady'll be with us?"
+dialogue,Phoebe,"I don't know. I mean, she obviously has some kind of unfinished business. (Mrs. Adelman's voice) Sit up!"
+dialogue,Mrs. Green,(entering) There she is.
+dialogue,Rachel,Mom!
+dialogue,Mrs Green,"Sweetie! So this is where you work? Oh, it's wonderful! Is it a living room? Is it a restaurant? Who can tell? But I guess that's the fun."
+dialogue,Rachel,Pretty much.
+dialogue,Mrs Green,"Monica! You look gorgeous! Last time I saw you, it was eat or be eaten."
+dialogue,Rachel,"This is Joey, and Phoebe, and this is Chandler, and you remember Ross."
+dialogue,Mrs Green,"Oh hello, Ross."
+dialogue,Ross,"Hi, Mrs. Green. (He gets up to shake her hand, but she ignores him.)"
+dialogue,Mrs Green,"So, what do you think of my daughter in the apron with the big job?"
+dialogue,Rachel,Oh Mom!
+dialogue,Mrs Green,"If you didn't pour the coffee, no one would have anything to drink."
+dialogue,Chandler,"Believe me, sometimes that happens."
+dialogue,Mrs Green,"This is just so exciting. You know, I never worked. I went straight from my father's house to the sorority house to my husband's house. I am just so proud of you."
+dialogue,Rachel,Really?
+dialogue,Mrs Green,Yes.
+dialogue,Phoebe,"I know who it is you remind me of. Evelyn Dermer. 'Course, that's before she got the lousy face lift. Now she looks like Soupy Sales."
+dialogue,Joey,"Pheebs, who's Evelyn Dermer?"
+dialogue,Phoebe,I don't know. Who's Soupy Sales?
+heading,,[Scene: at Rachel and Monica's]
+dialogue,Mrs Green,"Oh my god, there's an unattractive nude man playing the cello."
+dialogue,Rachel,"Yeah, well just be glad he's not playing a smaller instrument."
+dialogue,Mrs Green,"(laughing) You have some life here, sweetie."
+dialogue,Rachel,"I know. And Mom, I realize you and Daddy were upset when I didn't marry Barry and get the big house in the suburbs with all the security and everything, but this is just so much better for me, you know?"
+dialogue,Mrs Green,"I do. You didn't love Barry. And I've never seen you this happy. I look at you and I think, oh, this is what I want."
+dialogue,Rachel,For...me.
+dialogue,Mrs Green,"Well, not just for you."
+dialogue,Rachel,"Well, what do you mean?"
+dialogue,Mrs Green,"I'm uh, considering leaving your father."
+dialogue,Monica,"(entering) All right. Tell me if this is too cute. Lesbian wedding, chicken breasts."
+dialogue,Rachel,Oh god. I think I'm gonna be sick.
+dialogue,Monica,Why? It's not like I'm putting little nipples on them.
+dialogue,Ross,And you had no idea they weren't getting along?
+dialogue,Rachel,None.
+dialogue,Joey,They didn't fight a lot?
+dialogue,Rachel,"No! They didn't even talk to each other. God, how was I supposed to know they were having problems?"
+dialogue,Phoebe,"(Mrs. Adelman's voice) In my day, divorce was not an option."
+dialogue,Joey,"Hey, look who's up."
+dialogue,Rachel,"I just can't believe this is happening. I mean, when I was little, everybody's parents were getting divorced. I just figured as a grownup I wouldn't have to worry about this."
+dialogue,Monica,"Is there any chance that you can look at this as flattering? I mean, she's doing it because she wants to be more like you."
+dialogue,Rachel,"Well, then, you know, couldn't she have just copied my haircut?"
+dialogue,Chandler,"You know, it's funny when my parents got divorced, they sent me to this shrink, and she told me that all kids have a tendency to blame themselves. But in your case it's actually kinda true."
+dialogue,Phoebe,That's him.
+dialogue,Chandler,Damn. My mail order grandfather hasn't come yet.
+dialogue,Mr a,Phoebe?
+dialogue,Phoebe,"Yes, hi, Mr. Adelman. Thanks for meeting me."
+dialogue,Mr a,"Oh, that's all right, although you did cut into my busy day of sitting."
+dialogue,Phoebe,"Um, do you wanna sit?"
+dialogue,Mr a,"Oh, no, please, I spent most of mid-morning trying to stand up. Now uh, what can I do for you, my dear?"
+dialogue,Phoebe,"I don't know how to say this, but I think when your wife's spirit left her body, it um, kind of stuck around in me."
+dialogue,Mr a,"You're saying, my wife is in you?"
+dialogue,Phoebe,"Yeah. Ok, you don't have to believe me but um, can you think of any unfinished business she might have had, like any reason she'd be hanging around?"
+dialogue,Mr a,"Well, I don't know what to tell you dear. The only thing I can think of is that she always used to say that before she died, she wanted to see everything."
+dialogue,Phoebe,Everything?
+dialogue,Mr a,Everything.
+dialogue,Phoebe,"Whoa, that's a lot of stuff."
+dialogue,Mr a,"Oh, wait, I remember, she also said she wanted to sleep with me one last time."
+dialogue,Phoebe,"I'm sorry, there's laughing in my head."
+dialogue,Mr a,"(to Joey) Worth a shot, huh?"
+action,,(Joey nods and shrugs.)
+dialogue,Mrs Green,Look at this.
+dialogue,Rachel,These are from Halloween three years ago.
+dialogue,Mrs Green,"Oh, look, here's Barry. Did he have to come straight from the office?"
+dialogue,Rachel,"No, that was his costume. See, he's actually an orthodontist, but he came as a regular dentist."
+dialogue,Monica,"Um, you guys, you know when I said before, ""thank you, but I don't really need your help""?"
+dialogue,Rachel,"Actually, what I think you said was, ""don't touch that, and get the hell out of my kitchen."""
+dialogue,Monica,"Really? Weird. Anyway, see, I planned everything really well. I planned and I planned and I planned. It just turns out, I don't think I planned enough time to actually do it."
+dialogue,Rachel,"Hey, Mon, you want some help?"
+dialogue,Monica,If you want.
+dialogue,Phoebe,"(enters) Hey. What a day. I took her everywhere. The Museum of Modern Art, Rockefeller Center, Statue of Liberty."
+dialogue,Rachel,She's still with you?
+dialogue,Phoebe,"Yeah. I guess she hasn't seen everything yet. I'll be right back, she has to go to the bathroom again. (Takes Mrs. Green's chin in her hand and says, in Mrs. Adelman's voice) Oh, such a pretty face."
+dialogue,Mrs Green,"This is so much fun, just the girls. You know what we should do? Does anybody have any marijuana?"
+dialogue,Rachel,God!
+dialogue,Monica,"All right, look, nobody's smoking pot around all this food."
+dialogue,Mrs Green,"That's fine. I never did it. I just thought I might. So, what's new in sex?"
+dialogue,Rachel,Oh! What's new in sex?
+dialogue,Mrs Green,The only man I've ever been with is your father.
+dialogue,Monica,"I'm dicing, I'm dicing, I don't hear anything."
+dialogue,Mrs Green,"I mean, this is no offense to your dad, sweetie, but I was thinking there might be more."
+dialogue,Rachel,"Oh, I'm sorry. You know what? I cannot have this conversation with you. I mean, god, you just come in here, and drop this bomb on me, before you even tell Daddy. What? What do you want? Do you want my blessing?"
+dialogue,Mrs Green,No.
+dialogue,Rachel,You want me to talk you out of it?
+dialogue,Mrs Green,No.
+dialogue,Rachel,Then what? What do you want?
+dialogue,Mrs Green,I guess I just figured of all people you would understand this.
+dialogue,Rachel,Why on earth would I understand this?
+dialogue,Mrs Green,You didn't marry your Barry. I did.
+dialogue,Rachel,Oh.
+dialogue,Monica,"All right people, we're in trouble here. We've only got 12 hours and 36 minutes left. Move, move, move!"
+dialogue,Chandler,"Monica, I feel like you should have German subtitles."
+dialogue,Monica,"Joey, speed it up!"
+dialogue,Joey,"I'm sorry, it's the pigs. they're reluctant to get in the blankets!"
+dialogue,Phoebe,"Monica, how did this happen? I thought you had this all planned out."
+dialogue,Monica,Do you want me to cry? Is that what you want? Do you wanna see me cry?
+dialogue,Phoebe,Sir! No sir!
+dialogue,Monica,"(to Ross) All right, you!"
+dialogue,Ross,"No. Look, I told you I am not a part of this thing."
+dialogue,Monica,"All right, look, Ross. I realize that you have issues with Carol and Susan, and I feel for you, I do. But if you don't help me cook, I'm gonna take a bunch of those little hot dogs, and I'm gonna create a new appetizer called ""pigs in Ross"". All right, ball the melon."
+dialogue,Chandler,"Hey! How come I'm stuck dicing, when he gets to ball the melon."
+action,,(knock at the door)
+dialogue,Monica,Hi.
+dialogue,Carol,How's it going?
+dialogue,Monica,It's goin' great. Right on schedule. Got my little happy helpers. (everyone groans)
+dialogue,Carol,"Fine, whatever."
+dialogue,Ross,What's the matter?
+dialogue,Carol,"Nothing. Ok, everything. I think we're calling off the wedding."
+dialogue,Ross,What?
+dialogue,Monica,"You're still gonna pay me, right? Or something a little less selfish."
+dialogue,Ross,"Carol, what's the matter? What happened?"
+dialogue,Carol,My parents called this afternoon to say they weren't coming.
+dialogue,Ross,Oh my god.
+dialogue,Carol,"I mean, I knew they were having trouble with this whole thing, but they're my parents. They're supposed to give me away and everything."
+dialogue,Ross,It's ok. I'm sorry.
+dialogue,Carol,"And then Susan and I got in this big fight because I said maybe we should call off the wedding, and she said we weren't doing it for them, we were doing it for us, and if I couldn't see that, then maybe we should call off the wedding. I don't know what to do."
+dialogue,Ross,"I uh can't believe I'm gonna say this, but I think Susan's right."
+dialogue,Carol,You do?
+dialogue,Ross,"Look, do you love her? And you don't have to be too emphatic about this."
+dialogue,Carol,Of course I do.
+dialogue,Ross,"Well then that's it. And if George and Adelaide can't accept that, then the hell with them. Look, if my parents didn't want me to marry you, no way that would have stopped me. Look, this is your wedding. Do it."
+dialogue,Carol,You're right. Of course you're right.
+dialogue,Monica,So we're back on?
+dialogue,Carol,We're back on.
+dialogue,Monica,"You heard the woman. Peel, chop, devil! I can't believe I lost 2 minutes."
+heading,,[Scene: at the wedding]
+dialogue,Joey,"It just seems so futile, you know ? All these women, and nothing. I feel like Superman without my powers, you know? I have the cape, and yet I cannot fly."
+dialogue,Chandler,"Well now you understand how I feel every single day, ok? The world is my lesbian wedding."
+action,,"(Wedding music starts, Phoebe noisily unwraps a piece of candy.)"
+dialogue,Phoebe,"(Mrs. Adelman's voice) Butterscotch? No one? All right, you'll be sorry later."
+action,,(Monica pushes Ben down the aisle in a stroller. Susan is escorted by both her parents. Carol is escorted by Ross.)
+dialogue,Carol,Thank you.
+dialogue,Ross,Any time. (He doesn't want to let her go)
+dialogue,Carol,Ross. (He lets her go)
+dialogue,Minister,"You know, nothing makes God happier than when two people, any two people, come together in love. Friends, family, we're gathered here today to join Carol and Susan in holy matrimony."
+dialogue,Phoebe,"(Mrs. Adelman's voice) Oh my god. Now I've seen everything! (Phoebe's voice) Whoa, she's gone. She's gone. She's gone! Go ahead, get married. Go, go."
+heading,,"[Scene: at the reception, Monica and Ross watch Carol and Susan getting their picture taken.]"
+dialogue,Monica,Would you look at them?
+dialogue,Ross,"Yeah, can't help but."
+dialogue,Joey,(to a wedding guest) How's that pig-in-the-blanket workin' out for you? (the guy nods) I wrapped those bad boys.
+dialogue,Phoebe,I miss Rose.
+dialogue,Chandler,"Oh, yeah?"
+dialogue,Phoebe,"I know it's kind of weird, but I mean, she was a big part of my life there, you know, and now I just feel kind of alone."
+dialogue,Woman,"You know, I uh, I couldn't help but overhear what you just said, and I think it's time for you to forget about Rose, move on with your life...how 'bout we go get you a drink?"
+dialogue,Phoebe,"Ok, that's so nice."
+action,,"(Chandler tries to warn Phoebe that the woman is coming on to her, but Phoebe doesn't see him.)"
+dialogue,Chandler,"(to an attractive woman) I shouldn't even bother coming up with a line, right? (The woman walks away)"
+dialogue,Rachel,"Hey, Mom? Having fun?"
+dialogue,Mrs Green,"Oh, am I! I just danced with a wonderfully large woman. And three other girls made eyes at me over the buffet. Oh, I'm not saying it's something I wanna pursue, but it's nice to know I have options."
+dialogue,Rachel,"There's more alcohol, right?"
+action,,"(Susan approaches Ross, who's looking lonely)"
+dialogue,Susan,How you doin'?
+dialogue,Ross,Ok.
+dialogue,Susan,You did a good thing today.
+dialogue,Ross,Yeah.
+dialogue,Susan,You wanna dance?
+dialogue,Ross,"No, that's fine."
+dialogue,Susan,Come on. I'll let you lead.
+dialogue,Ross,Ok.
+action,,(They dance; Carol looks on lovingly.)
+dialogue,Chandler,(to the woman who just rejected him) All right look. Penis schmenis. We're all people. (She walks away again.)
+heading,,[Scene: at Monica and Rachel's]
+dialogue,Monica,"Ok, which one of us do you think is gonna be the first one to get married?"
+dialogue,Ross,"Well, Mon, I was married."
+dialogue,Phoebe,"Yeah, me, too, technically."
+dialogue,Rachel,I had a wedding.
+dialogue,Monica,"All right, just trying to start an interesting discussion."
+dialogue,Joey,I got one. Which one of us do you think will be the last to get married? (They all look at Chandler)
+dialogue,Chandler,Isn't Ben in this?
+dialogue,All,"Oh, yeah!"
+action,,End
