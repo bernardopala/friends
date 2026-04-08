@@ -390,6 +390,174 @@ def apply_episode_specific_fixes(
                 _element, character, text = fixed_rows[row_index]
                 fixed_rows[row_index] = ("singing", character, text)
 
+    if episode_code == "0401":
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue":
+                continue
+            if "(voice-over)" not in dialogue.lower():
+                continue
+            content = re.sub(r"\(voice-over\)\s*", "", dialogue, flags=re.IGNORECASE)
+            fixed_rows[idx] = (element, character, f"<voiceover>{content}<\\voiceover>")
+
+        csv_line_number = 201
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            _element, character, dialogue = fixed_rows[row_index]
+            fixed_rows[row_index] = ("singing", character, dialogue)
+
+    if episode_code == "0423":
+        blocked_characters = {
+            "part i written by",
+            "part ii teleplay by",
+            "part ii story by",
+            "part i transcribed by",
+            "part ii transcribed by",
+        }
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and row[1].lower() in blocked_characters
+            )
+        ]
+
+    if episode_code == "0422":
+        for idx, (element, _character, dialogue) in enumerate(fixed_rows):
+            if element != "action" or normalize_spaces(dialogue) not in {"All:", "The Guys:"}:
+                continue
+
+            next_text = ""
+            if idx + 1 < len(fixed_rows):
+                next_text = normalize_spaces(fixed_rows[idx + 1][2])
+
+            if next_text.startswith("[Scene: Chandler and Joey's"):
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "All",
+                    "I don’t have anything. (All of the rest of the women there hide their gifts behind their backs.)",
+                )
+            elif normalize_spaces(dialogue) == "The Guys:" and next_text.startswith("We know you took"):
+                fixed_rows[idx] = ("dialogue", "The Guys", "Yeah!")
+
+    if episode_code == "0421":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and row[1].lower() in {"with help from", "episodes orginally transcribed by"}
+            )
+        ]
+
+    if episode_code == "0419":
+        for csv_line_number in {3, 5, 301, 305, 306}:
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", character, dialogue)
+
+        # W 0419 uszkodzony HTML rozbija "Both:" na osobny action bez tresci.
+        for idx, (element, _character, dialogue) in enumerate(fixed_rows):
+            if element != "action" or normalize_spaces(dialogue) != "Both:":
+                continue
+
+            next_text = ""
+            if idx + 1 < len(fixed_rows):
+                next_text = normalize_spaces(fixed_rows[idx + 1][2])
+
+            if next_text.startswith("Hey! You’re back!"):
+                fixed_rows[idx] = ("singing", "Joey and The Singing Man", "Sunshine is here! The sky is clear, the morning’s here!")
+            elif next_text.startswith("I’ll see you tomorrow morning!"):
+                fixed_rows[idx] = ("singing", "Joey and The Singing Man", "The dark of night has disappeared!!")
+
+    if episode_code == "0417":
+        # W 0417 uszkodzony HTML rozbija "Joey and Chandler:" na osobny action bez tresci.
+        # Naprawiamy dwie kwestie z tej sceny.
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "action" or normalize_spaces(dialogue) != "Joey and Chandler:":
+                continue
+
+            next_text = ""
+            if idx + 1 < len(fixed_rows):
+                next_text = normalize_spaces(fixed_rows[idx + 1][2])
+
+            if next_text == "We don’t know what could make this go away.":
+                fixed_rows[idx] = ("dialogue", "Joey and Chandler", "(stopping her) Oh no-no-no-no!")
+            elif next_text == "We still have porn.":
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Joey and Chandler",
+                    "Oh no-no-no! (Monica mutes the TV and they tentatively look behind them)",
+                )
+
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "action" or normalize_spaces(dialogue) != "Ticket Agent:":
+                continue
+
+            next_text = ""
+            if idx + 1 < len(fixed_rows):
+                next_text = normalize_spaces(fixed_rows[idx + 1][2])
+
+            if next_text.startswith("Emily! (Runs up.)"):
+                fixed_rows[idx] = ("dialogue", "Ticket Agent", "(On the P.A.) This is the boarding call for Flight 009.")
+            elif next_text.startswith("Well, that’ me."):
+                fixed_rows[idx] = ("dialogue", "Ticket Agent", "This is the final boarding call for Flight 009.")
+
+    if episode_code == "0412":
+        for csv_line_number in range(285, 288):
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
+
+    if episode_code == "0410":
+        for csv_line_number in range(246, 255):
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
+
+        csv_line_number = 255
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            _element, _character, dialogue = fixed_rows[row_index]
+            fixed_rows[row_index] = ("dialogue", "Phoebe", dialogue)
+
+    if episode_code == "0407":
+        csv_line_number = 29
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            _element, character, dialogue = fixed_rows[row_index]
+            fixed_rows[row_index] = ("singing", character, dialogue)
+
+    if episode_code == "0405":
+        csv_line_number = 43
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            _element, character, dialogue = fixed_rows[row_index]
+            fixed_rows[row_index] = ("singing", character, dialogue)
+
+    if episode_code == "0404":
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue" or character != "Mr. Treeger":
+                continue
+            cleaned = re.sub(r'^\s*"\s*:\s*', '', dialogue)
+            cleaned = re.sub(r'^\s*:\s*', '', cleaned)
+            if cleaned != dialogue:
+                fixed_rows[idx] = (element, character, cleaned)
+
+    if episode_code == "0403":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and row[1].lower() == "with help from"
+                and row[2].lower() == "darcy partridge"
+            )
+        ]
+
     if episode_code == "0324":
         fixed_rows = [
             (element, "Robin Williams" if character == "Robin" else character, dialogue)
@@ -1061,7 +1229,7 @@ def main() -> int:
         should_use_raw = False
         bs4_dialogue_count = sum(1 for script_element, _, _ in rows_bs4 if script_element == "dialogue")
         raw_dialogue_count = sum(1 for script_element, _, _ in rows_raw if script_element == "dialogue")
-        if "0116" in episode_codes:
+        if "0116" in episode_codes or "0423" in episode_codes:
             should_use_raw = True
         elif rows_raw and len(rows_raw) >= 20 and len(rows_bs4) <= max(5, len(rows_raw) // 4):
             should_use_raw = True

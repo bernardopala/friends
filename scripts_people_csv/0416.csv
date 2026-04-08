@@ -1,0 +1,298 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's erm, Chandler and Joey's, Chandler, Monica, and Phoebe are there. Phoebe is stressing out about something.]"
+dialogue,Monica,What is it hon?
+dialogue,Phoebe,"I-I can’t find anything that I want to eat! Everything I eat makes me nauseous! I’m telling you, being pregnant is no piece of cake—ooh! Cake! (Chandler shrugs, and Phoebe grimaces.) No."
+dialogue,Monica,"Aww, honey I’m sorry."
+dialogue,Phoebe,God! Ooh! What is that smell? It’s coming from the bathroom. Ooh! (She goes to the bathroom.)
+dialogue,Chandler,Wow! Pregnancy does give you some weird cravings.
+action,,"[Cut to the bathroom, Joey is taking a shower and Phoebe knocks on the door.]"
+dialogue,Joey,Yeah?
+dialogue,Phoebe,"It’s me. It’s Phoebe. Listen there’s something in here I want to eat, what-what smells so good?"
+action,,(Joey sticks his head out of the shower curtain.)
+dialogue,Joey,Is it the shampoo? It’s guava.
+dialogue,Phoebe,(she smells his head) No!
+dialogue,Joey,Oh! Wait-wait! (Reaches inside the shower.) Is it my bologna sandwich?
+dialogue,Phoebe,Yes. Yes. Yes. I can’t believe it! The baby wants bologna! Maybe he wants me to eat meat? I can’t eat meat!
+dialogue,Joey,"Oh, wait-wait! (Reaches into the shower again.) Maybe it’s a pickle?!"
+action,,(Phoebe grimaces at the smell.)
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Chandler, Monica, Joey and Rachel are there. Rachel is writing something on a pad, and then crumples it up and throws it on the floor.]"
+dialogue,Chandler,What are you writing?
+dialogue,Rachel,"Well, Joshua’s coming in tomorrow and since I don’t have the guts to ask him out, I’m going to sell him a coat and put this note in the pocket."
+dialogue,Chandler,"Oh yeah? (He grabs the pad and starts reading it.) Joshua, give me a call sometime, guys like you (Pause) never go out of style—what did you throw away?"
+action,,(Ross and Emily enter.)
+dialogue,Chandler,Hi guys!
+dialogue,All,Hey!
+dialogue,Joey,"Hey, what have you guys been up too?"
+dialogue,Ross,"Oh, we went to see a collection of Victorian doorknobs and the Cupert-Hewitt museum."
+dialogue,Chandler,Without me?!
+dialogue,Emily,"My uncle dragged us there. But, it actually it turned out to be really interesting."
+dialogue,Ross,Yeah.
+dialogue,Emily,"They were so ornate and beautiful, I mean look at that! (Shows them a doorknob she has.)"
+dialogue,Monica,"I don’t know how museums work in England but, here, you’re not supposed to take stuff."
+dialogue,Emily,"I uh, I got it from the gift shop. They have really lax security there. (Chandler is shocked.) It’s a joke. (They all laugh.)"
+dialogue,Ross,Bye. (They kiss.)
+dialogue,Emily,"Right, I’ve got to be off, I’ll see ya. Buh-bye then. (She leaves.)"
+dialogue,Joey,Wow! You guys seem to be having a good time.
+dialogue,Ross,"Oh yeah, she’s-she’s amazing. And-and she’s so much fun. And! Y’know what? When I’m with her, I’m fun! I even signed up for helicopter classes. (Chandler is shocked.) She’s leaving in two days, I don’t have to do it."
+dialogue,Monica,"Oh no, two days, you must be bummed."
+dialogue,Ross,"Yeah, she’s got to go back to London. But you know what? I’ve been prepared for this from the start. We both knew we had two weeks together, and that’s it. Y’know."
+dialogue,Joey,Hey that’s what all my relationships are like.
+dialogue,Chandler,"Yes, but in Ross’s case, they both know in two weeks that’s it."
+action,,(Phoebe enters.)
+dialogue,Ross,Pheebs!
+dialogue,All,Hey!
+dialogue,Ross,(starts rubbing her belly) Hello! Hello!
+dialogue,Phoebe,"(angered by the rubbing) Yes! I know! I know! Yeah! So the baby is totally craving meat. This afternoon I tried tricking it, I made it a soy-burger to make it think it was getting meat, y’know? And I got nauseous."
+dialogue,Chandler,Maybe that’s because soy-burgers suck!
+dialogue,Phoebe,Being pregnant is tough on your tummy.
+dialogue,Joey,"Hey, but at least you got that cool, pregnant lady glow."
+dialogue,Phoebe,"That’s sweat. You throw up all morning, you’ll have that glow too."
+heading,,"[Scene: Bloomingdale’s , Rachel is preparing to slip Joshua the note.]"
+dialogue,Joshua,(coming in from a changing room) Okay!
+dialogue,Rachel,"Oh, here’s that trench-coat that you wanted."
+dialogue,Joshua,"Oh great! (He tries on the coat.) Wow! Yeah, it’s comfortable."
+dialogue,Rachel,Yeah?
+dialogue,Joshua,"Man, I could really flash somebody in this thing. (He goes to put his hands in his pockets.)"
+dialogue,Rachel,"(stopping him) Oh no-no, no-no, they don’t want you to put your hands in the pockets until you are out of the store."
+dialogue,Joshua,Why not?!
+dialogue,Rachel,"Well, that’s because of a lot of…(She imitates someone picking their nose and placing the treasure found in the pockets.)"
+dialogue,Joshua,"Y’know, they ruin it for everybody."
+dialogue,Rachel,I know!
+dialogue,Joshua,"Y’know, I wore that cashmere sweater on a date last night."
+dialogue,Rachel,Oh?
+dialogue,Joshua,"Yeah, it was my first date since the uh, since the divorce."
+dialogue,Rachel,"Well, congratulations, so do you love her?"
+dialogue,Joshua,"No, no, no, she’s nice but, y’know, it just it made me realize that I’m just not, I’m just not ready to be dating, y’know?"
+dialogue,Rachel,"Huh. Well, uh, that’s uh, that’s interesting. (She goes over and retrieves her note.)"
+dialogue,Joshua,"(noticing her) Hey-whoa-hey-hey, what was that?"
+dialogue,Rachel,"Oh, it’s just an anti-theft device."
+dialogue,Joshua,"Then uh, what’s-what’s this? (Shows her the real anti-theft device.)"
+dialogue,Rachel,"You need that, you need that too ‘cause obviously, a thief could just tear this up. (Rips up the note.)"
+heading,,"[Scene: Monica and Rachel's erm, Chandler and Joey's, Ross is writing on the Magna-Doodle as Rachel enters.]"
+dialogue,Rachel,"Oops, sorry. Listen, we-we have to have a party tonight! Actually, we have to have one in five minutes, so everybody cancel your plans."
+dialogue,Chandler,What are you talking about?
+dialogue,Joey,"Yeah, what’ going on?"
+dialogue,Rachel,"We have to have a surprise Bon Voyage party for Emily. But it’s actually for Joshua. (Starts handing out party hats.) Look, he said he’s not ready to date, so I had to invite him to a party if I wanted to see him outside of work, and now I have the perfect opportunity to seduce him! (Hands Ross a party hat.)"
+dialogue,Ross,"Well, as much as I’d like to meet Josh and warn him, Emily and I aren’t going to be here. All right? I mean, she’s going to come by first to say good-bye, and then I’ve got a whole special evening planned. So I’m sorry, no party."
+dialogue,Joey,Awwww!
+dialogue,Emily,(entering) Hello?
+dialogue,Rachel,Surprise!!!
+action,,Chandler and Joey:
+dialogue,Emily,No one’s ever thrown me a surprise party before!
+dialogue,Rachel,"Well, it was all Ross’s idea."
+dialogue,Emily,You’re so sweet! And I’m so surprised!
+dialogue,Ross,You really didn’t know?
+action,,"[Cut to later, the party is in full swing. Rachel is in the kitchen and Chandler goes over to talk to her.]"
+dialogue,Chandler,Why are you in here if Joshua is all the way over there? (Points to the living room.)
+dialogue,Rachel,"Uhh, because I’m trying to play hard to get. Oh, quick he’s looking over here, say something funny."
+dialogue,Chandler,Like what?
+action,,(Rachel laughs hysterically.)
+dialogue,Joey,What-what-what is so funny?
+dialogue,Chandler,"I said, ""Like what?"""
+dialogue,Joey,Now that’s a thinker.
+dialogue,Rachel,"Okay, y’know what, y’know what? This playing hard to get thing is not working. Umm, hand-hand me those cherries. (Chandler does so.) Okay. Okay. (She does a little sexy walk over to where Joshua is standing.) Hi!"
+dialogue,Joshua,Hi!
+dialogue,Rachel,Care for a cherry?
+dialogue,Joshua,"Oh, no thanks."
+dialogue,Rachel,"No? Y’know, I can tie one of these into a knot using just my tongue."
+action,,"(She tries to demonstrate this unique ability, but only succeeds in choking on it.)"
+dialogue,Joshua,"You okay? (Rachel swallowed it whole and is not hacking like a heavy smoker in the morning.) You all right? (Rachel walks away, coughing.)"
+dialogue,Ross,(interrupting Monica and Emily) So we should probably get going soon.
+dialogue,Emily,"Oh, but the party’s only just getting started!"
+dialogue,Ross,"Yeah, but we-we have to be at the Four Seasons for drinks in 15 minutes and then y’know, then The Plaza for dinner."
+dialogue,Emily,So why did you plan a party at the same time?
+dialogue,Ross,"No-no-no, no, umm, actually American surprise parties are-are-are very short. It’s usually, ""Surprise!"" And then, ""Oh my God, I’m so surprised—good-bye!"""
+dialogue,Emily,"But Ross, I’m such having a great time! Your sister has just been telling me that you used to dress up like little, old ladies and hold make-believe tea parties."
+dialogue,Ross,Monica said that did she? (He squeezes Monica’s knee really hardly and Monica winces in pain.)
+action,,[Cut to Joey and Phoebe in the kitchen. Phoebe is watching Joey make a sandwich.]
+dialogue,Phoebe,"Ooh, yeah. Then what are you going to put on top of that?"
+dialogue,Joey,A little salami.
+dialogue,Phoebe,"Ooh yeah! Then umm, what goes on top of the salami?"
+dialogue,Joey,Pastrami.
+dialogue,Phoebe,"Oooh, yeah. You’re a genius."
+action,,"(Rachel enters, she has changed clothes.)"
+dialogue,Rachel,"Oh, could somebody give me a hand with this zipper?"
+dialogue,Joey,Yeah. (He goes over to her.)
+dialogue,Rachel,Up!
+dialogue,Monica,You changed?
+dialogue,Rachel,"Yeah, I did. I needed my lucky dress."
+dialogue,Monica,"And lucky means, more cleavage?"
+dialogue,Chandler,Does for me.
+action,,"(Joey starts wiping lint off of her back, but goes at little too far and Rachel just glares at him. He stops, gives her the ‘okay’ symbol and walks away.)"
+dialogue,Rachel,"Ohh, God! Look at him, he’s so cute. I wanna go over there, grab him, and kiss him! How can I kiss him and not letting him know that I like him?"
+dialogue,Joey,"Oh! I know how you can get him, take off your bra."
+dialogue,Rachel,What?
+dialogue,Joey,There was a seen in Footloose ...
+dialogue,Chandler,Flashdance .
+dialogue,Joey,"Yeah-yeah, yeah, with that-that uh, plumber girl…"
+dialogue,Chandler,She was a welder.
+dialogue,Joey,"What? Were you like in the movie, or… Anyway, she takes off her bra under her shirt and pulls it out the sleeve. Very sexy, and classy."
+dialogue,Monica,"Or if you want to kiss him, umm, you could use mistletoe."
+dialogue,Rachel,It’s not Christmas!
+dialogue,Monica,Or Spin the Bottle?
+dialogue,Rachel,He’s not 11!
+dialogue,Emily,"(with her coat on, she’s leaving with Ross) Thank you so much for this. It was really so thoughtful of you."
+dialogue,Rachel,What? You’re leaving?!
+dialogue,Ross,"Yes, we have something we have to get to."
+dialogue,Joshua,"Uhh, yeah, I think I’m going to take-off too."
+dialogue,Rachel,"No! You guys can’t leave yet! You have to stay, we-we got the whole big thing planned!"
+dialogue,Ross,What big thing?
+action,,"[Cut to later, the whole group is seated on the floor and Rachel is explaining the rules of Spin the Bottle.]"
+dialogue,Rachel,"(spinning the bottle) So, Spin the Bottle works like this: I spin the bottle, it lands on Gunther, so I would have to kiss Gunther. (She crawls over to where Gunther is sitting and sees the look of anticipation on Gunther’s face and decides not to kiss him.) All right. Who wants to go first?"
+dialogue,Emily,I’ll go.
+dialogue,All,Yay!
+action,,(Emily spins the bottle and it lands on Joey.)
+dialogue,Joey,Welcome to America. (They both kiss.)
+action,,(Joey spins the bottle and it lands on Emily.)
+dialogue,Monica,Two in a row! You’ve got to use your tongues now! (They kiss again.)
+dialogue,Rachel,Yay! Emily!
+action,,"(Emily spins the bottle and once again, it lands on Joey.)"
+dialogue,Chandler,What are the odds? What are the odds?
+action,,(They both move to kiss again.)
+dialogue,Ross,"(stopping them) Okay, that-that’s enough! Y’know, let’s, let’s let someone else play."
+dialogue,Joey,"If you didn’t want to play, why did you come to the party?"
+dialogue,Rachel,"Okay, my turn!!"
+action,,"(Rachel spins the bottle and it lands on….wait for it….Joshua. (You thought I was going to say Ross, didn’t you?) Rachel squeals in delight and starts a slow sexy crawl over to Joshua, making sure he and everyone else watching gets a good look at her cleavage.)"
+dialogue,Phoebe,Oh my God!! The baby just kicked!
+dialogue,All,Ohh!
+dialogue,Rachel,"It’s okay! It’s okay! It kicked once, it’ll kick again!"
+dialogue,All,Oh my God!
+action,,"(They all stand up and go over to Phoebe to feel the baby, preventing Rachel from kissing Joshua.)"
+dialogue,Rachel,"All right, well, everybody just remember where they were sitting."
+action,,"(She crawls over to Joshua and kisses the back of his knee. He feels it and looks down, Rachel pretends she’s knocking a bug off his leg.)"
+dialogue,Rachel,Just a bug.
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's erm, Chandler and Joey's, it is later in the party. The Spin the Bottle game is over and Chandler is making a sandwich as Phoebe watches.]"
+dialogue,Phoebe,"Y’know it doesn’t matter how much I’m craving it. Y’know why I’m never gonna eat meat? Because it’s murder, cold blooded murder."
+dialogue,Chandler,Okay.
+action,,"(He takes a bite out of the sandwich and as he does so, Phoebe attacks the other end and starts devouring the sandwich.)"
+dialogue,Chandler,"There’s a Phoebe on my sandwich! (He walks away, giving the sandwich to Phoebe.)"
+dialogue,Joey,"Phoebe, what-what are you doing?!"
+dialogue,Phoebe,I can’t help it. I need the meat. The baby needs the meat.
+dialogue,Joey,"All right look, y’know how-y’know how when you’re dating someone and you don’t want to cheat on them, unless it’s with someone really hot?"
+dialogue,Phoebe,"Yeah, totally!"
+dialogue,Joey,"All right. Okay. Well this is the same kind of deal. If you’re going to do something wrong, (He grabs two steaks from the freezer) do it right!"
+action,,"[Cut to later, Phoebe is finishing off her steak.]"
+dialogue,Joey,Feel better now?
+dialogue,Phoebe,"Yeah, but at what cost? Six more months, three meals a day, I’m gonna eat like, y’know millions of cows."
+dialogue,Joey,"Hey, what if I said, I could even things out for ya, meatwise."
+dialogue,Phoebe,What?
+dialogue,Joey,"Well, I eat a lot of meat right?"
+dialogue,Phoebe,Yeah.
+dialogue,Joey,"Well, suppose until the baby’s born I laid off it. No extra animals would die, you-you’d just be eating my animals."
+dialogue,Phoebe,"Joey, I can’t believe you would do that for me."
+dialogue,Joey,"Absolutely! I could be a vegetarian. There’s no meat in beer, right?"
+action,,[Cut to Ross and Emily standing by the foosball table.]
+dialogue,Ross,"Okay, we could still make dinner if we skipped the appetisers and asked for our check right away."
+action,,"(Rachel enters, she has changed once again. This time into her high school cheerleading uniform.)"
+dialogue,Emily,"But, we can’t go now. It looks like Rachel’s gonna put on a skit."
+dialogue,Monica,Oh my God! Have you lost your mind?
+dialogue,Rachel,"No-n-n-n-no! I am finally thinking clearly. My lucky dress wasn’t working out to well for me, but for four years, this baby never missed."
+dialogue,Monica,"Rachel-Rachel-Rachel I-I cannot, I can’t let—(pause), actually I kinda want to see what happens."
+dialogue,Joshua,Hey!
+dialogue,Rachel,Hi!
+dialogue,Joshua,"Nice uh, costume."
+dialogue,Rachel,"Ohh, yeah, well I wanted to give Emily a big American good -bye cheer. So okay! (Runs into the living room) Ready! Okay! Gimme an ‘E!’"
+dialogue,All,E!
+dialogue,Rachel,Gimme an ‘M!’
+dialogue,All,M!
+dialogue,Rachel,Gimme an ‘I!’
+dialogue,All,I!
+dialogue,Rachel,Gimme an ‘L!’
+dialogue,All,L!
+dialogue,Rachel,Gimme a ‘Y!’
+dialogue,All,Y!
+dialogue,Rachel,What do you get? (She throws her pom-poms to Joey and Phoebe and performs a cartwheel.) Emily!! (Tries to do another one.) Emil—Whoa!! (She falls in Chandler’s room.) Okay! So that’s me as a cheerleader! Ta-dum! (Gunther’s the only one that claps.)
+action,,(Joey and Monica rush over to her.)
+action,,Joey and Monica:
+dialogue,Rachel,"I’m fine! I’m fine! I’m just losing a tooth, it’s no big deal. I have a dentist! Y’know. I’m gonna go put some ice on it. Excuse me. (She goes over to the ice and Joey and Monica follow her.) What do I do now? What do I do now?"
+dialogue,Monica,I think you’re done.
+dialogue,Joey,"Okay, time to take off the bra. (She glares at him.)"
+dialogue,Joshua,"Umm, that was really great, but I-I gotta take-off actually."
+dialogue,Joey,(trying not to be obvious) Take the bra off.
+dialogue,Rachel,"All right, come on, let’s go get your coat."
+dialogue,Joshua,Okay.
+action,,(They both go to Chandler’s bedroom to get his coat.)
+action,,[Cut to Gunther and Emily.]
+dialogue,Gunther,Rachel is my girlfriend.
+action,,[Cut to Chandler’s bedroom.]
+dialogue,Joshua,"So, this was uh, really fun."
+dialogue,Rachel,"Oh, yeah! Real fun. (She makes a decision.) Y’know, this bra… Really, bothers me. (She starts taking off her bra.) Y’know, this used to be my bedroom. Yeah. A lot of memories in here, a lot of memories. If these walls could talk, y’know what they’d say? Wanna hear some memories? (She is now violently pulling on her bra in order to remove it, but it isn’t co-operating.)"
+dialogue,Joshua,"Need uh, need a little hand there."
+dialogue,Rachel,"Oh no-no-no! No, I got this all under control."
+dialogue,Joshua,You really don’t seem like you do. That’s…
+action,,"(She is still yanking on the bra, but it is stuck in her sleeve. Finally, she gives up.)"
+dialogue,Rachel,"Ughhhh!! Forget it! (Sits down heavily on the bed.) This is, this is not how this is supposed to happen."
+dialogue,Joshua,"Well, what was supposed to happen?"
+dialogue,Rachel,"Can you not look at me when I say this? (He turns around) I thought that if I could get you here, I could seduce you."
+dialogue,Joshua,"Huh. Oh, boy! (Sits down next to her.) Uhh, I-I don’t wear suits to work, and I bought six of them from you."
+dialogue,Rachel,"Well, I’m sorry, I thought you needed them!"
+dialogue,Joshua,"No, no-no, no-no, my point is that I kept coming back because, I wanted to see you."
+dialogue,Rachel,Why?!
+dialogue,Joshua,Because I-I like you.
+dialogue,Rachel,You like me?
+dialogue,Joshua,Yeah! I mean you’re-you’re beautiful and smart and sophisticated—a lot of this isn’t based on tonight.
+dialogue,Rachel,"Yeah but-but-but you liked me! Oh my God, I can’t believe this, all this time, I liked you and you liked me!"
+dialogue,Joshua,But…
+dialogue,Rachel,"Oh no-no-no don’t say but! No-no, but’s never good! Let’s just leave it at, you like me and I like you."
+dialogue,Joshua,"Okay uh, however…"
+dialogue,Rachel,"Oh, now see that’s a fancy but."
+dialogue,Joshua,"My marriage like just ended, and I’m really not ready to get into anything yet."
+dialogue,Rachel,But….
+dialogue,Joshua,"I’m sorry, I, I just need a little time."
+dialogue,Rachel,Okay.
+heading,,"[Scene: The hallway, Ross is sitting on the step drinking a beer as Rachel comes out of the guys apartment.]"
+dialogue,Rachel,"Ohh, here you are. I was looking for you before. Joshua’s gone so you and Emily are free to go."
+dialogue,Ross,"That’s okay. She’s still in there enjoying her fake party and uh, it’s too late to do any of the things I had planned, so…"
+dialogue,Rachel,"Oh, Ross, I’m sorry. I completely ruined your evening."
+dialogue,Ross,Yeah.
+dialogue,Rachel,"Well, if it makes you feel any better, I made a fool out of myself."
+dialogue,Ross,Helps a little.
+dialogue,Rachel,Is there room on that step for a pathetic loser?
+dialogue,Ross,"Yeah, have a seat."
+dialogue,Rachel,I’m so sorry.
+dialogue,Ross,"That’s okay, I mean it was just two-week thing anyway, I just didn’t want it to end this way, y’know?"
+dialogue,Rachel,"Well, maybe you didn’t want it to end?"
+dialogue,Ross,What do you mean?
+dialogue,Rachel,You seem to really like her.
+dialogue,Ross,"Yeah, I really do. Yeah, but what am I gonna do, I mean we-we both agreed that it was gonna be a two-week thing, y’know no commitment."
+dialogue,Rachel,"Ross, that girl just spent the entire evening talking to your friends, asking to hear stories about you, looking through Monica’s photo albums, I mean you don’t do that if you’re just in it for two weeks."
+dialogue,Ross,You think?
+dialogue,Rachel,"Yeah, you got like 14 hours until she has to be at the airport, and you’re sitting here in the hallway with a 28-year-old cheerleader with a fat lip."
+dialogue,Ross,"Hey, you’re right."
+dialogue,Rachel,Yeah.
+dialogue,Ross,Thanks. (He starts to go inside and stops.) What photo album was it?
+dialogue,Rachel,"I don’t know, it was you and a bunch of albino kids."
+dialogue,Ross,"Oh my God! Those weren’t albino kids, that was computer camp! Rach! (He hurries inside and Chandler is taking out the garbage.)"
+dialogue,Rachel,Hey.
+dialogue,Chandler,Hey.
+dialogue,Rachel,"You’re a pathetic loser, right?"
+dialogue,Chandler,"Oh-ho, yeah!"
+dialogue,Rachel,Sit!
+action,,"(He does so, and immediately starts looking pathetic.)"
+dialogue,Joshua,Hi. (He has just returned.)
+dialogue,Rachel,"Oh my gosh, Joshua!"
+dialogue,Joshua,All those things I said about not being ready…
+dialogue,Rachel,They’re not true?
+dialogue,Joshua,"No, they’re-they’re all true."
+dialogue,Rachel,Oh.
+dialogue,Joshua,But…
+dialogue,Rachel,"Oh! Oh, I love that but."
+action,,"(They move to kiss, but realise that Chandler is staring at them. Chandler urges them on.)"
+dialogue,Rachel,You wanna go inside and have some coffee?
+dialogue,Joshua,Yeah.
+dialogue,Rachel,Okay. (Joshua goes inside and to Chandler.) Every time.
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's erm, Chandler and Joey's, the next day. Phoebe is busy making a sandwich.]"
+dialogue,Joey,"Oooh, what you got there?"
+dialogue,Phoebe,Pastrami.
+dialogue,Joey,"Oh-ho-ho, yeah! Hey! Y’know what goes good with that?"
+dialogue,Phoebe,"Hm-mm, corn beef."
+dialogue,Joey,"Ooh, I was gonna say bologna, but that’s much better. How about a little of that smoked turkey?"
+dialogue,Phoebe,Okay.
+dialogue,Joey,(He starts looking longingly at the sandwich.) Oh mama! Uh when-when is the baby due?
+dialogue,Phoebe,Six months.
+dialogue,Joey,"Ugh. Now if a cow should die of natural causes, I can have one of those right?"
+dialogue,Phoebe,Not if I get there first.
+action,,End

@@ -1,0 +1,270 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, the gang's all there. Ross has a slip of paper that he throws on the ground tying to get Rachel's attention.]"
+dialogue,Ross,"(picking up the slip of paper) Hello! What's this? Oh right its that girl's phone number. (Rachel ignores him) Yeah-yeah, there it is, just a phone number a really hot girl gave me. (He holds it so that Rachel can see it, she continues to ignore him) It's no big deal, I mean it is her home phone number, but...(Rachel still ignores him) Whoa! (Throws it in her lap) Whoa-whoops, I almost lost this baby! Yeah, the lovely Amanda gives me her number and I-I go and drop it. (He waves it in front of Rachel's face. Then suddenly Phoebe has to sneeze and Rachel quickly grabs the slip of paper and gives it to Phoebe for her to sneeze into.)"
+dialogue,Phoebe,Thank you.
+action,,Opening Credits
+heading,,"[Scene: Central Perk, the next morning. Chandler, Monica, Ross, and Rachel are there.]"
+dialogue,Gunther,Rachel?
+dialogue,Rachel,Yeah?
+dialogue,Gunther,When's your birthday?
+dialogue,Rachel,"May fifth, why?"
+dialogue,Gunther,"Oh, I-I'm just making a list of people's birthdays."
+dialogue,Ross,"Oh, mine's December..."
+dialogue,Gunther,"Yeah, whatever. (Walks away)"
+action,,(Chandler is talking to Monica and notices a beautiful woman.)
+dialogue,Chandler,"Ohh, she's pretty. Pretty ahh, pretty girl, the pretty--she's pretty."
+dialogue,Monica,"Just go up to her and ask her out. (Chandler laughs) Oh, what's the worst thing that could happen?"
+dialogue,Chandler,I could die.
+dialogue,Ross,"Yeah, it's-it's tough being single. That's why I'm so glad I found Amanda."
+dialogue,Rachel,"Ross, you guys went out once. You took your kids to Chucky Cheese , and you didn't even kiss her."
+action,,(Ross glares at Chandler.)
+dialogue,Chandler,I tell people secrets. It makes them like me.
+dialogue,Phoebe,(entering) Oh.
+dialogue,Chandler,Hey! (Phoebe sneezes)
+dialogue,Monica,"Phoebe! You're sick, you shouldn't play. You should just go home, get in bed, and stay there."
+dialogue,Phoebe,"(in a nasally voice, from her cold) But I'm unemployed, my music is all I really have now. Well music, and making my own shoes. (She puts her shoe on the table, and it's horribly decorated) Pretty, huh? (Sneezes)"
+dialogue,Chandler,"All right, I'm gonna do it! I'm gonna get shot down. Any advice?"
+dialogue,Monica,"Just be yourself. But, not too much."
+dialogue,Chandler,(gets up) (softly) Wish me luck.
+dialogue,Ross,(loudly) Good luck!
+dialogue,Chandler,"Wish it! (To the woman, Kathy, he likes) Hi. Hi, I-I was just sitting over there, and uhh, Chandler. My name is Chandler. Did I say that?"
+dialogue,Kathy,"No, you didn't. Hi, I'm Kathy."
+dialogue,Chandler,"Uh Kathy, with K or a C?"
+dialogue,Kathy,With a K.
+dialogue,Chandler,Oh-oh-hey!
+dialogue,Kathy,Wow! You are really good at this.
+dialogue,Chandler,"Hey, come on, give me a break, I'm out on a limb here."
+dialogue,Kathy,"I'm sorry, you're right, I apologize, but I should tell you that I'm waiting for a date. (Joey enters) Oh, and there he is now."
+dialogue,Joey,Hey!
+dialogue,Chandler,"Hey! Hey, hey-hey, hey. (Joey kisses Kathy.)"
+dialogue,Joey,"Hey, I see you guys already met, huh?"
+dialogue,Chandler,"Yes-yes, I was just trying to figure out a way to uh, demonstrate how I could get my exceptionally large feet into my even bigger mouth."
+dialogue,Joey,Didn't I tell ya? Always showin' off.
+singing,Phoebe,"Before I start, I just wanna say that umm, I have a cold, so if I sneeze in the middle of song, it's not on purpose. Oh, except the last verse of Pepper People. (Starts to sing) Smelly cat, smelly cat. What are they feeding you? (Stops singing) This chick sounds good. (Singing) Smelly cat, smelly --(stops singing) Hey Gunther, be a good little boy and bring me a whiskey."
+heading,,"[Scene: Chandler and Joey's, Chandler is walking into the living room having just gotten up in the middle of the night.]"
+dialogue,Chandler,(sees Kathy is up watching TV) Hi!
+dialogue,Kathy,Hi.
+dialogue,Chandler,"Jeez, at 2:30 in the morning, I didn't expect to have to fight over the remote."
+dialogue,Kathy,"I'm sorry, it's just this Ernie Cofax thing on in a few minutes I wanted to watch."
+dialogue,Chandler,Oh my God! That's why I got up too!
+dialogue,Kathy,"You're kidding! Oh, I love him."
+dialogue,Chandler,"Hey, listen, I'm sorry about this afternoon, y'know, if I would've known you guys were... I never would've..."
+dialogue,Kathy,Oh please!
+dialogue,Chandler,"So ah, Joey tells me you two met in acting class."
+dialogue,Kathy,"Yeah, they teamed us up as partners. Joey picked three scenes for us to do; all of them had us making out."
+dialogue,Chandler,"That's a good thing actually, because ah, he used to have me rehearse with him."
+dialogue,Kathy,(laughs) Oh-oh-oh-oh!
+dialogue,Chandler,Is it on?
+dialogue,Kathy,"No, but this wonder broom is amazing!"
+dialogue,Chandler,Hey! (Runs over and gets his wonder broom)
+dialogue,Kathy,Oh my God!
+dialogue,Chandler,Oh! It's on! It's on!
+action,,(Chandler jumps into the canoe and sits down. The chick starts chirping and Chandler reaches down to pick him up.)
+dialogue,Chandler,There we go little fella.
+dialogue,Kathy,(laughs) What about the duck?
+dialogue,Chandler,Well the duck can swim.
+dialogue,Kathy,"Oh, jeez. (Hits him)"
+heading,,"[Scene: Central Perk, the next night, Phoebe is finishing up her set.]"
+dialogue,Phoebe,"(singing, drunk) My sticky shoes, my sticky-sticky shoes, why do you stick on me, ba-a-by! Thanks for the lights honey."
+dialogue,All,"Way to go, Phoebe!"
+dialogue,Monica,That cold makes you sound so great.
+dialogue,Phoebe,"It's fun, God I love how sexy I am. (Coughs really loudly.)"
+dialogue,Joey,"Oh, Kath, we should get going. We're going to by hamsters."
+dialogue,All,"Ooh, that's great, I love those little guys."
+dialogue,Kathy,"No, no, it's not like that. I, I work for a medical researcher."
+dialogue,Rachel,"Well, have fun!"
+dialogue,Kathy,Okay.
+dialogue,Phoebe,"Well, I think it's great that the medical community is finally trying to help sick hamsters."
+dialogue,Monica,"Y'know what, I like Kathy."
+dialogue,Chandler,"Oh yeah, me too, she's so cool and pretty."
+dialogue,Rachel,"Yeah, she's..."
+dialogue,Chandler,"She's smart and funny, y'know? We were up all last night talking, she said the funniest thing about--what?"
+dialogue,Rachel,You love her.
+dialogue,Chandler,"No, I don't."
+dialogue,Phoebe,"Yes, you do. Chandler loves Kathy."
+dialogue,Ross,"Come on, Pheebs lay off him."
+dialogue,Chandler,"Thank you, Ross."
+dialogue,Ross,"Yeah, he's a little sensitive right now, `cause he's so in love."
+dialogue,Chandler,All right.
+dialogue,All,Ohh!
+dialogue,Chandler,All right.
+dialogue,Monica,"(turning around and doing that, ""I'm making out with someone,"" thing with her hands) Ooh, umm, oh Kathy! Kathy, I love you! Oh! (She turns around and sees Gunther staring at her and stops suddenly.)"
+heading,,"[Scene: Monica and Rachel's, Phoebe and Monica are there.]"
+dialogue,Phoebe,"So, I need to write some depressing stuff to go along with my new floozy voice, but nothing that sad has ever really happened to me."
+dialogue,Monica,"Oh umm, how about your mom dying, or having to live on the streets when you were 14?"
+dialogue,Phoebe,"Uh-huh. Oh, yeah, I could write about the time my hair did that ""Woo-hoo"" thing."
+dialogue,Ross,(entering) Hey!
+dialogue,Monica,Hey!
+dialogue,Phoebe,Hey.
+dialogue,Ross,(loudly) So I'm going over to Amanda's tonight!
+dialogue,Monica,Rachel's not here.
+dialogue,Ross,Oh.
+dialogue,Monica,How's it going with her?
+dialogue,Ross,"Great, actually. I'm thinking tonight, maybe the night. Yeah, I mean ah, the kids are gonna play together and then when they're asleep, I'm thinking Amanda and I break open a bottle of wine, and do a little ""playing"" ourselves."
+dialogue,Rachel,"(entering, with a guy) Hi guys! This is Josh. Josh, these are my friends, and that's Ross."
+dialogue,Monica,"Hi, Josh."
+dialogue,Phoebe,Hi.
+dialogue,Josh,Dudes.
+dialogue,Monica,"So, did you play in college? (She points to his NYU Soccer (football for the rest of the world) sweatshirt he's wearing.)"
+dialogue,Josh,"Oh, I still do. Next year, I hope to make varsity though."
+dialogue,Rachel,"Ross, didn't you ah, play soccer in High School? Oh no wait, that's right. You just organized their game schedules on your Commodore 64."
+dialogue,Josh,"Well, it's getting late, I've got to get to the game, so I'm gonna... head."
+dialogue,Rachel,"Okay. (He starts to leave, and Rachel grabs him and gives him a passionate kiss.) I'll miss you."
+dialogue,Josh,Dope! (exits)
+dialogue,Phoebe,"Wow, cute one!"
+dialogue,Monica,Very!
+dialogue,Rachel,"I know, isn't he great? It's so nice to finally be in a fun relationship, y'know? There's nothing boring about him, and ah, I bet he's never set foot in a museum."
+dialogue,Ross,"Well maybe he'll get to go soon, like on a class trip or something."
+dialogue,Rachel,"Y'know what else is really great about him, oh, what is the word for the adult that doesn't have dinosaur toys in their bedroom?"
+dialogue,Ross,Oh! (He bangs his fists together.)
+dialogue,Rachel,What was that?
+dialogue,Ross,Monica knows.
+dialogue,Monica,"It's this dumb thing that Ross made up `cause he was trying to fool our parents. It's a way of giving the finger, without actually having to give it. I remember I cried the night you made it up, `cause it was the first time that I realized that I was actually cooler than my older brother."
+dialogue,Ross,"Well, I'm gonna go get ready, (Gives Monica the fist thing.) for my date tonight, so ah, I'll just_ head."
+dialogue,Phoebe,"Yeah, I should go to, `cause I'm playing in one hour. Hey, (clears her voice and in her normal voice) you guys should come hear me, ooh hear me. Ooh, (tries to sing) My sticky shoes --eww! Eww! I lost my sexy phlegm!"
+heading,,"[Scene: Amanda's apartment, Ross is arriving with Ben.]"
+dialogue,Amanda,(opening the door) Hi!
+dialogue,Ross,Hi!
+dialogue,Amanda,Hi Ben!
+dialogue,Ross,Wow! You-you look great!
+dialogue,Amanda,Thanks!
+dialogue,Ross,(she lets him in) Okay! (to her son) Hey Tommy.
+dialogue,Amanda,I am so glad that you could come over tonight.
+dialogue,Ross,"Oh no-no-no, it's my pleasure."
+dialogue,Amanda,"Okay, well, my cell phone number is right here on the counter, please help yourself to anything in the fridge."
+dialogue,Ross,What?
+dialogue,Amanda,"I appreciate this soo much, I've been trying to go out with this guy for like a month."
+dialogue,Ross,I-I-I...
+dialogue,Amanda,"(noticing the bottle of wine he has) Oh, I don't mean to be a square, but I'd really appreciate it if you wait and drink your wine after the kids are asleep? Oh uh, thanks for this, I hope I can do the same for you sometime. (She leaves)"
+dialogue,Ross,Who wants to make some long distance calls?
+heading,,"[Scene: A street, Chandler is buying a newspaper and notices Kathy running by.]"
+dialogue,Chandler,"Kathy! Kathy! Hi!! Kathy! Kathy! (She doesn't hear him and keeps running, Chandler starts chasing her as the theme to The Mod Squad starts to play. First, a car almost hits him and then gets mustard splashed on him as he runs by a hot dog vendor.) Kathy! (He keeps running and gets tangled up in the leashes of five dogs, in desperation he throws his paper.) Fetch! Fetch it! (He frees himself and resumes the chase) Kathy! Kathy! Kathy! (He now trips and falls into a pile of garbage, he tries to get up and scream her name again but he has a piece of spinach in his mouth. He gets out of the garbage and starts crossing the street by running over the hoods of a couple of cabs.) Kathy! (He jumps in front of her and out of breath he says) Kathy."
+dialogue,Kathy,"Hey, Chandler! What are you doing here?"
+dialogue,Chandler,"Oh, I just wanted to say, ""Hey!"""
+dialogue,Kathy,Hey!
+dialogue,Chandler,Okay. (He walks away disgusted with himself.)
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, Ross is telling Monica about his new baby sitting job.]"
+dialogue,Monica,Oh come on! You're making it sound worse than it actually was.
+dialogue,Ross,Her date tipped me ten dollars. (Monica laughs)
+action,,"(Phoebe runs into the kitchen with wet hair, opens the window, and sticks her head outside.)"
+dialogue,Ross,"Pheebs, what are you doing?"
+dialogue,Phoebe,"Okay, I wanna be sexy again so I'm trying to catch a cold. It should be easy, supposedly they're pretty common."
+dialogue,Monica,"Phoebe, you'll catch pneumonia."
+dialogue,Chandler,(entering) Okay. You were right. I'm in love with Joey's girlfriend.
+dialogue,Phoebe,What?!
+dialogue,Ross,Are you serious?
+dialogue,Phoebe,"Well, how-how-how is that possible? You barely know her!"
+dialogue,Chandler,"I don't know. I can't--I just, I can't get her out of my head. Y'know? I mean, I'm a very bad person. I'm a very, very bad person. I'm a horrible person. (he waits for a reaction, when he doesn't get one) No you're not Chandler! We still love you Chandler!"
+dialogue,Monica,"(sneezes) Oh gosh, Phoebe, I think I caught your cold."
+dialogue,Phoebe,You mean you stole it! (Monica sneezes again) Don't cover your mouth when you do that!
+action,,"(Joey and Kathy enter, laughing)"
+dialogue,Joey,Hey.
+dialogue,Kathy,(to Chandler) We were just talking about you.
+dialogue,Chandler,Really?!
+dialogue,Joey,"Yeah-yeah, I told her about the time you got drunk and fell asleep with your head in the toilet."
+dialogue,Chandler,(laughs) Right in there!
+heading,,"[Scene: Chandler and Joey's, Chandler is playing Hide-and-Go-Seek with the chick and the duck.]"
+dialogue,Chandler,"99...100! Ready or not, here I come! (He opens his eyes and sees that the chick and the duck are still sitting in front of him) All right, let's go over the concept one more time."
+dialogue,Joey,(entering) Hey!
+dialogue,Chandler,Hey!
+dialogue,Joey,"Hey guys. (to Chandler) Listen uh, you wanna get some dinner with me and Kathy tonight?"
+dialogue,Chandler,"Ohh, umm, y'know what, I already ate."
+dialogue,Joey,It's 4:30.
+dialogue,Chandler,"Y'know I had a big meal on Monday, y'know. So that's just gonna get me straight through the week."
+dialogue,Joey,"Okay, I see what's going on here."
+dialogue,Chandler,You-you do?
+dialogue,Joey,Yeah! You don't like Kathy.
+dialogue,Chandler,You got me.
+dialogue,Joey,"Yeah, you've been avoiding her ever since we started going out. Look, I made an effort to like Janice, now I think it's your turn to make an effort to like Kathy by going out to dinner with us. Right?"
+dialogue,Chandler,Yeah. Right.
+dialogue,Joey,"Good, and hey! My treat. (He turns to go into his bedroom then stops.) But that's only because you're not eating anything, right?"
+dialogue,Chandler,Okay.
+heading,,"[Scene: Monica and Rachel's, Rachel is returning from a date with Josh, and when they get the door open, Rachel turns and passionately kisses Josh.]"
+dialogue,Monica,(lying on the couch suffering from her cold) Ross isn't here.
+dialogue,Rachel,"Oh. (She tries to walk away from Josh, by he keeps holding her) Stop it!"
+dialogue,Josh,"So I'll see you at the party? Beer's beer man, 24, 7!!"
+dialogue,Rachel,Yeah! (Monica gives a sarcastic thumbs up) (Josh leaves) I am soo gonna marry that guy. (looking in her wallet) Ohhh!
+dialogue,Monica,What?
+dialogue,Rachel,I think he's stealing from me.
+dialogue,Monica,Why?
+dialogue,Rachel,Because he's stealing from me!
+dialogue,Phoebe,"(entering) Hi! It's me. And soup. (to Rachel) Hey, I just saw Josh, he looks so yummy in your leather jacket."
+dialogue,Rachel,Ughh! (Storms out after him)
+dialogue,Phoebe,"(to Monica) Here, now I don't eat chicken, so it's just noodle soup. And there's no chicken in the broth either, so it's really just... noodle water."
+dialogue,Monica,Thank you so much Phoebe.
+dialogue,Phoebe,(picking up Monica's used Kleenex and putting some in her pocket.) Sure.
+dialogue,Monica,What are you doing with those?!
+dialogue,Phoebe,"But, I need your germs! I want my cold back! I miss my sexy voice."
+dialogue,Monica,"Sorry, Phoebe."
+dialogue,Phoebe,It's okay. How's the soup?
+dialogue,Monica,"Umm. (nodding her head, ""Good."")"
+action,,(Monica sets the soup down and Phoebe picks it up and licks the rim.)
+dialogue,Monica,Ohhhh!! Gross!!
+heading,,"[Scene: A nightclub, Chandler is having dinner with Kathy and Joey.]"
+dialogue,Kathy,"Ohh, God, guys, check it out, you can see that girl's underwear!"
+dialogue,Joey,Is she great or what?
+dialogue,Kathy,(to Chandler) So? Huh? What do you think?
+dialogue,Chandler,"Ohh, she's-she's not really my type."
+dialogue,Kathy,Not your type?! She's gorgeous!
+dialogue,Chandler,Y'know what I think it is? It's the fishnet stockings. Y'know? Whenever I see a girl in fishnet stockings it reminds me of my father in fishnet stockings.
+dialogue,Kathy,"Okay. Understanding a little more why you're single. Ohh! Y'know, I have a friend you would like, she's really pretty. And then we could double date!"
+dialogue,Chandler,"Uhh, no-no thanks."
+dialogue,Kathy,"Okay, I've got some ugly friends, and they're all available too."
+dialogue,Chandler,"Listen, I-I'm gonna grab a beer. (Leaves)"
+dialogue,Joey,(to Kathy) I'll be right back. (to Chandler) What was that?
+dialogue,Chandler,What?
+dialogue,Joey,Kathy was being really nice and you just walked away. I thought we had a deal.
+dialogue,Chandler,"Hey, look, what do you want from me?"
+dialogue,Joey,"I want you to like her! But if that's too damned difficult for you, then the least you can do is pretend."
+dialogue,Chandler,I am pretending.
+dialogue,Joey,"Well then, do it better!"
+dialogue,Chandler,"Okay, what do you saw I go over there and say how much I like her? (Joey gives him a thumbs up) No-no it'll be good, I can tell her much I've been thinking about her. That I haven't stopped thinking about her since the moment I met her. That I'm so fantastically, over-the-top, wanna-slit-my-own-throat in love with her, that for every minute of every hour of every day I can't believe my own damn bad luck that you met her first!!"
+dialogue,Joey,"Well, that's pretty good. But you might wanna tone it down a little."
+heading,,"[Scene: Monica and Rachel's, Monica and Rachel are there.]"
+dialogue,Ross,"(entering) Hey! So, uhh, Amanda just-just dropped me off. Yeah, that's one of the things I love about her, she's...uh, she's old enough to drive. (to Monica) So uhh, I guess you're not going to mom and dad's tonight?"
+dialogue,Monica,"No, sorry."
+dialogue,Rachel,Well where's Amanda?
+dialogue,Monica,"Hey Rach, could you get me some cough drops?"
+dialogue,Rachel,"I mean y'know, I'm thinking. You could bring her, and you guys could go up to your old room, and not make out."
+dialogue,Monica,"Ross, cough drops, please?"
+dialogue,Ross,At least I know she's not going out with me to get into R rated movies.
+dialogue,Rachel,"Why don't you just marry her? Oh no, wait a minute you can't, I'm sorry I forgot, she's not a lesbian."
+dialogue,Ross,You see Amanda and I have a very special...
+dialogue,Monica,(interrupting) You have nothing! You're not even going out! You're her baby sitter! You have a 12-year-old girl's job!
+dialogue,Rachel,"(laughing) Ohh, that is soo sad."
+dialogue,Monica,"And what are you laughing at, Miss `My-keg-sucking-boyfriend-is-stealing-from-me!'"
+action,,(Ross starts laughing)
+dialogue,Rachel,"Hey, so he stole a couple bucks from me! At least he bought me something with it! (Shows her, her ring)"
+dialogue,Monica,"That's mine!! Now, would you both please start acting like adults? And get me my cough drops!"
+dialogue,Ross,Fine.
+dialogue,Rachel,Sorry.
+dialogue,Ross,"Here. (Hands her, her cough drops) (to Rachel) At least I made ten bucks in my relationship."
+dialogue,Rachel,Y'know...
+action,,(She does Ross's little gesture. In response Ross puts his hands behind his neck with his arms sticking straight out and starts flapping them together.)
+heading,,"[Scene: Central Perk, Phoebe is there with her guitar.]"
+dialogue,Phoebe,"(singing) Platting goats are platting. Platting down the street. Platting goats are platting, leaving little treats . (to Gunther) Does it even work without my sexy voice?"
+dialogue,Gunther,I like it. (sneezes)
+dialogue,Phoebe,"Gunther, kiss me."
+dialogue,Gunther,What?
+action,,(Phoebe grabs Gunther and kisses him. He then falls to the couch in shock.)
+heading,,"[Scene: Chandler and Joey's, Chandler is watching TV as Joey and Kathy are laughing in Joey's bedroom. They get to be pretty loud so Chandler turns the TV way up.]"
+dialogue,Joey,"(opening the door wearing nothing but a sock, and holding a dart board over the `Little General.') Hey! (Chandler turns down the TV) Now, we're not actually gonna be sleeping in her, but do you mind?"
+heading,,"[Scene: Monica and Rachel's, Monica, with a blanket draped over her shoulders, opens the door to a similarly clad Chandler.]"
+dialogue,Chandler,Can I sleep on your couch?
+action,,(Monica nods `Yes.' And they both walk to the couch looking all depressed.)
+action,,Closing Credits
+heading,,"[Scene: Central Perk, Phoebe is singing, with everyone else present.]"
+dialogue,Phoebe,(singing) And I'm still waiting for my paper mache man . Thank you my babies.
+action,,(applause)
+dialogue,Gunther,Rachel?
+dialogue,Rachel,Yeah.
+dialogue,Gunther,I don't know if you heard about what happened between me and Phoebe the other day_
+dialogue,Rachel,No!
+dialogue,Gunther,"Well, we kissed. I-I-I didn't initiate the kiss, but-but I also didn't stop it, and I've been feeling guilty."
+dialogue,Rachel,(confused) Okay.
+dialogue,Gunther,"So umm, are we cool?"
+dialogue,Rachel,(really confused) Okay.
+dialogue,Gunther,I knew you'd understand.
+action,,"(Gunther walks away, leaving Rachel with a `What just happened?' look on her face.)"
+action,,End

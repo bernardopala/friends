@@ -1,0 +1,351 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Joey and Chandler are sitting and talking.]"
+dialogue,Chandler,Y’know what? It seems like all of the sudden; so much has happened.
+dialogue,Joey,I know. Ross is getting married.
+dialogue,Chandler,"Phoebe is, making people."
+dialogue,Joey,Everybody’s doing stuff!
+dialogue,Chandler,"And we just sit here. I mean if I die the only way people would even know I was here, would be by the ass print on this chair! Look, we have to do something. Okay? Something huge!"
+dialogue,Joey,(snaps his fingers) We could climb Mt. Everest!
+dialogue,Chandler,"No-no, not something stupid, something huge."
+dialogue,Joey,"No-no-no-no-no, I saw an ad for this video, people climb that thing everyday! We could totally do that!"
+dialogue,Chandler,"Why not?! I mean it’s just, it’s just climbing! It’s just, it’s just steep!"
+dialogue,Joey,Yeah!
+dialogue,Chandler,"We’re going to Everest! Okay, it would be nice to leave an ass print on Everest!"
+dialogue,Phoebe,(entering) Hey!
+dialogue,Joey,Hey!
+dialogue,Phoebe,What-what’s up?
+dialogue,Joey,We’re gonna climb Mt. Everest!
+dialogue,Chandler,Yeah baby!
+dialogue,Phoebe,"Really?! I looked into that. Yeah, but, I mean it costs like $60,000 and y’know you can die. And, you would die!"
+dialogue,Chandler,"(dejected) Yeah, well…"
+dialogue,Joey,We could get that Everest video though.
+dialogue,Chandler,"Yeah, we could do that without y’know risking our lives at all!"
+dialogue,Joey,"And while we’re down at the video store, you know what else we could rent? Die Hard ! (Chandler’s excited.) Oh, y’know what? I just remembered, that Everest thing is only available through mail order."
+dialogue,Chandler,"(dejected) Oh, well…"
+dialogue,Phoebe,So you guys’ll stay here and hang out with me?
+dialogue,Chandler,Yeeeeahhhh.
+dialogue,Joey,Yeah. Yeah.
+dialogue,Chandler,But I’ll tell you something. One of these days we’re get off of our buts and rent Die Hard again!
+dialogue,Joey,Yeah we are!
+action,,Opening Credits
+heading,,"[Scene: Ross’s apartment, he and Emily are addressing their invitations.]"
+dialogue,Emily,So what did he decide? Does your Uncle Nathan get an invite or not?
+dialogue,Ross,"Ohh, God, nobody likes him, and he’s so cheap, he’d never fly to London in a million years. Yeah, invite him? Hey, did I do these neat enough? (Hands her some envelopes.)"
+dialogue,Emily,"Yeah, they’re fine."
+dialogue,Ross,Yeah?
+dialogue,Emily,"If anyone asks, we’ll just say Ben addressed them. (Looking through the envelopes.) Oh! So you invited Rachel then?"
+dialogue,Ross,Sure. Why not?
+dialogue,Emily,Really?
+dialogue,Ross,Yeah?
+dialogue,Emily,I don’t think I’d be comfortable with any of my old lovers there.
+dialogue,Ross,"Wait-wait-wait, do you, do you think, maybe we shouldn’t invite her?"
+dialogue,Emily,"Oh, no-no, y’know I absolutely adore Rachel it’s just that, well it might be a awkward for you. But it’s absolutely your decision. (Gets up.) More tea?"
+dialogue,Ross,Yeah sure.
+dialogue,Emily,Earl Grey?
+dialogue,Ross,"Huh? Yeah, fine, invite whoever you want."
+action,,"[And with that we start off on a series of clips from the entire history of Ross and Rachel, from Ross’s point of view. The first clip is from The Pilot.]"
+heading,,"[Scene: Central Perk, Ross is complaining about Carol.]"
+dialogue,Ross,"I don't want to be single, okay? I just... I just- I just wanna be married again!"
+action,,(A woman enters wearing a wet wedding dress and frantically starts to look around.)
+dialogue,Chandler,And I just want a million dollars! (He extends his hand hopefully.)
+dialogue,Monica,Rachel?!
+dialogue,Rachel,"Oh God Monica hi! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!"
+action,,[cut to later]
+dialogue,Monica,"Okay, everybody, this is Rachel, another Lincoln High survivor. (To Rachel) This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?"
+dialogue,Rachel,"Hi, sure!"
+dialogue,Ross,Hi.
+action,,"(They go to hug but Ross' umbrella opens. He sits, defeated again.)"
+action,,[cut to later]
+heading,,"[Scene: Monica and Rachel's, Ross and Rachel are finishing up some cookies.]"
+dialogue,Ross,"You know you probably didn't know this, but back in high school, I had a, um, major crush on you."
+dialogue,Rachel,I knew.
+dialogue,Ross,You did! Oh.... I always figured you just thought I was Monica's geeky older brother.
+dialogue,Rachel,I did.
+dialogue,Ross,"Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here—but do you think it would be okay if I asked you out? Sometime? Maybe?"
+dialogue,Rachel,"Yeah, maybe..."
+dialogue,Ross,"Okay... okay, maybe I will..."
+action,,[The next clip is from The One With The Blackout.]
+heading,,"[Scene: Monica and Rachel's, Ross and Rachel are talking about passion.]"
+dialogue,Ross,"See, I see.... big passion in your future."
+dialogue,Rachel,Really?
+dialogue,Ross,I do.
+dialogue,Rachel,"Oh Ross, you're so great. [she playfully rubs his head and gets up]"
+action,,"[Ross gets up, pleased with himself and starts to walk past Joey.]"
+dialogue,Joey,It's never gonna happen.
+action,,[cut to later]
+heading,,"[Scene: Monica and Rachel's balcony, Ross is about to be attacked by Paulo's cat.]"
+dialogue,Ross,"Hey, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment."
+dialogue,Rachel,Okay.
+dialogue,Ross,"Okay. Umm, for a while now, I've been wanting to, um...."
+dialogue,Rachel,Ohhh!!!! [looking at something behind Ross]
+dialogue,Ross,"Yes, yes, that's right..."
+dialogue,Rachel,"Oh, look at the little cat! [a small kitten is on the roof behind Ross] Look at it!"
+dialogue,Ross,What? [the cat jumps on his shoulders] Ow!
+action,,"[Cut to inside, Monica, Joey and Phoebe are singing while outside, Ross and Rachel are trying to get the cat off of Ross' shoulder.]"
+dialogue,"Monica, Joey, and Phoebe","[singing] I'm on top of the world, looking down on creation and the only explanation I can find..."
+action,,[The next clip is from The One With The East German Laundry Detergent.]
+heading,,"[Scene: The Laundromat, Rachel is fighting with that old, annoying woman for a cart.]"
+dialogue,Rachel,"All right, listen, missy. If you want this cart, you're gonna have to take me with it!"
+action,,"(She thinks it over, and then walks away.)"
+dialogue,Rachel,(to Ross) Yes! Did you see that?
+dialogue,Ross,"You were incredible! Brand new woman, ladies and gentlemen."
+dialogue,Rachel,I could not have done this without you.
+action,,(Rachel stands up and kisses Ross. He is stunned. A moment of silence follows.)
+dialogue,Ross,"Ok, um, uh, more clothes in the dryer? (Ross turns and bangs his head on an open dryer door.) I'm fine, I'm fine."
+action,,[The next clip is from The One Where Ross Finds Out]
+heading,,"[Scene: Central Perk, I'm sure you've guessed, it's the famous fight scene between Ross and Rachel.]"
+dialogue,Ross,You had no right to tell me you ever had feelings for me.
+dialogue,Rachel,(hurt) What?
+dialogue,Ross,I was doing great with Julie before I found out about you.
+dialogue,Rachel,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?"
+action,,[cut to later]
+dialogue,Ross,"The point is I... I don't need this right now, OK. It, it's too late, I'm with somebody else, I'm happy. This ship has sailed."
+action,,[cut to later]
+dialogue,Rachel,"Alright, fine, you go ahead and you do that, alright Ross."
+dialogue,Ross,Fine.
+dialogue,Rachel,'Cause I don't need your stupid ship.
+dialogue,Ross,Good.
+dialogue,Rachel,Good. (Ross leaves)
+action,,[cut to later]
+action,,"(Rachel slams the door and locks it. She sits down, visibly upset. She puts her head in her hands and begins to cry. Ross comes back and is standing outside the window. When Rachel regroups and gets back up to finish closing, she sees him.)"
+action,,[cut to later]
+action,,(She opens the door and they kiss.)
+action,,[The next clip is the second famous fight in The One Where Ross and Rachel Take A Break.]
+heading,,"[Scene: Monica and Rachel's, Ross and Rachel are arguing.]"
+dialogue,Rachel,Ross do you realise this is the first time in my life I’m doing something I actually care about. This is the first time in my life I’m doing something that I’m actually good at. I mean. if you don’t get that...
+dialogue,Ross,"No, hey, I get that, okay, I get that big time. And I’m happy for ya, but I’m tired of having a relationship with your answering machine! Okay, I don’t know what to do anymore."
+dialogue,Rachel,Well neither do I!
+dialogue,Ross,Is this about Mark?
+dialogue,Rachel,(shocked) Oh my God.
+dialogue,Ross,"Okay, it’s not, it’s not."
+dialogue,Rachel,"Oh my God. I cannot keep having this same fight over and over again, Ross, no, you’re, you’re, you’re making this too hard."
+dialogue,Ross,"Oh I’m, I’m making this too hard. Okay, what do you want me to do."
+dialogue,Rachel,"I don’t know, I don’t know. Urrrgh! Look, maybe we should take a break."
+dialogue,Ross,"Okay, okay, fine, you’re right. Let’s ah, let’s take a break, (goes to the door) let’s cool off, okay, let’s get some frozen yogart, or something.. (opens the door)"
+dialogue,Rachel,No. (Ross is standing in the doorway.) A break from us.
+action,,"(Ross looks at her, then leaves slamming the door behind him.)"
+action,,[The next clip is from The One The Morning After]
+heading,,"[Scene: Ross's apartment, Ross is hurrying Chloe out the door.]"
+dialogue,Chloe,Do I know why we’re rushing?
+dialogue,Ross,"Yeah, y'know the ah, the girlfriend I told you about last night? (He’s frantically throwing the cushions off of the couch looking for her other shoe) Well it turns out she ah, she wants to get back together with me. Oh, I found it!!"
+dialogue,Chloe,That’s so great for you guys!
+dialogue,Ross,Yeah!
+action,,[cut to later]
+dialogue,Chloe,"Good luck, with your girlfriend."
+dialogue,Ross,"Oh, thank you. (She goes to kiss him, but he holds her coat up between their faces to stop her.) Hey, hey. (opens the door, sees Rachel, and hides Chloe behind the door) Rachel!!!!"
+dialogue,Rachel,"Hi. Ohhh, you got my message."
+dialogue,Ross,"Yeah, oh hey, you are right on time."
+dialogue,Rachel,So what do you say? Can I be your girlfriend again?
+dialogue,Ross,"Yes, you can, very much."
+action,,(Chloe gives Ross the thumbs up while still standing behind the door.)
+dialogue,Ross,(seeing the thumbs up) Ahhhh!! (Hugs Rachel tighter.)
+action,,[cut to later]
+heading,,"[Scene: Monica and Rachel's, Rachel has just found out about Chloe and is screaming at Ross. The rest of the gang is trapped in Monica's bedroom.]"
+dialogue,Rachel,"(opening the door) Y'know what, I want you to leave! Get outta here!"
+dialogue,Ross,No!!
+dialogue,Rachel,Just get out! Now!!
+dialogue,Ross,No!! No!! I wanna stay. I wanna talk about this.
+dialogue,Rachel,Okay! All right! How was she?
+action,,[Cut to Monica's bedroom]
+dialogue,Chandler,Uh-oh.
+action,,[Cut to Living Room]
+dialogue,Ross,What?
+dialogue,Rachel,Was she good?
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,Don’t answer that.
+action,,[Cut to Living Room]
+dialogue,Rachel,"Come on Ross! You said you wanted to talk about it, let’s talk about it!! How was she?"
+dialogue,Ross,She was...
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,Awful! Horrible!
+dialogue,Chandler,She was not good. Not good.
+dialogue,Joey,She was nothing compared to you.
+action,,[Cut to Living Room]
+dialogue,Ross,"She, she was different."
+action,,[Cut to Monica's bedroom]
+dialogue,Joey,Ewwwww!
+dialogue,Chandler,Uh-oh.
+action,,[Cut to Living Room]
+dialogue,Rachel,Good different?
+dialogue,Ross,Nobody likes change.
+action,,(Rachel picks up a newspaper and starts beating him with it.)
+dialogue,Ross,"What? Okay, okay, okay, okay."
+action,,[The next clip is from The One With The Jellyfish.]
+heading,,"[Scene: Rachel's bedroom, Rachel, entering selfish mode, is thanking Ross for wrongly taking the entire blame of the breakup; as if she had absolutely nothing to do with it.]"
+dialogue,Rachel,"...the way you owned up to everything, it just showed me how much you’ve grown. Y'know? I mean my Mom never thought this would work out. It was all, “Once a cheater, always a cheater.” Ooh, I just wish we hadn’t lost those four months, but if time was what you needed just to gain a little perspective..."
+dialogue,Ross,WE WERE ON A BREAK!!!!!!!
+action,,[Cut back to the present.]
+heading,,"[Scene: A mailbox, Ross is mailing the invitations. He throws a bunch into the mailbox, but pauses with Rachel's. And it starts another round of clips.]"
+action,,[The One With The Fake Party]
+heading,,"[Scene: The hallway, Rachel is convincing Ross that Emily is good for him.]"
+dialogue,Rachel,You seem to really like her.
+dialogue,Ross,"Yeah, I really do. Yeah, but what am I gonna do, I mean we-we both agreed that it was gonna be a two-week thing, y’know no commitment."
+dialogue,Rachel,"Ross, that girl just spent the entire evening talking to your friends, asking to hear stories about you, looking through Monica’s photo albums, I mean you don’t do that if you’re just in it for two weeks."
+dialogue,Ross,You think?
+dialogue,Rachel,"Yeah, you got like 14 hours until she has to be at the airport, and you’re sitting here in the hallway with a 28-year-old cheerleader with a fat lip."
+dialogue,Ross,"Hey, you’re right."
+dialogue,Rachel,Yeah.
+action,,"[Cut back to the present, Ross is still looking at Rachel's invitation. Finally, he makes up his mind and mails it.]"
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, Joey, Monica, and Phoebe are opening their invitations.]"
+dialogue,Monica,"Ohh, this is soo amazing! I can’t believe my brother’s getting married! And in London! It’s so romantic!"
+dialogue,Joey,"(taking apart the invitation) Hey, pretty smart! Tissue paper! You’re at the wedding, you have to cry, ""Handkerchief?"" ""No-no, I got my invitation."""
+dialogue,Phoebe,"Oooh look! Isn’t this adorable, Ross let Ben address mine!"
+dialogue,Chandler,(entering) Hello!
+dialogue,Joey,Hey!
+dialogue,Monica,Hey!
+dialogue,Phoebe,"Hey! Hey, did you get your invitation to Ross’s wedding?"
+dialogue,Chandler,(sarcastic) Noo.
+dialogue,Joey,"Don’t worry man, I get to bring a guest. We’ll show him."
+dialogue,Phoebe,I’m so jealous you’re all going! I can’t believe I never knew that you can’t fly in your third trimester!
+dialogue,Chandler,I didn’t know that.
+dialogue,Monica,I never knew that either.
+dialogue,Joey,"I knew that! (They all look at him) I sooo didn’t know that, but you should see your faces."
+dialogue,Rachel,(entering) Hey guys! What’s up?
+dialogue,Joey,Heyyy. (They all try and hide their invitations.)
+dialogue,Monica,We’re hanging out.
+action,,"(Rachel starts going through her mail, and come across her invitation.)"
+dialogue,Rachel,What’s this? Is this Ross’s wedding invitation?
+dialogue,Chandler,"See, maybe that’s the one we should’ve actually hidden."
+dialogue,Rachel,"Oh, no! No you guys! Come on, you don’t have to do that! I’m happy for him! I am! I really—I’m-I’m happ—I’ll work on it."
+dialogue,Monica,I’m sorry honey.
+dialogue,Rachel,Yeah.
+dialogue,Monica,"Rach, you’re gonna come though aren’t you?"
+dialogue,Rachel,"Oh, honey, I don’t know. I…"
+dialogue,Chandler,"This isn’t one of those uh, y’know ""If she doesn’t come, we-we don’t, we don’t come?"" Right? Because I already bought my ticket…"
+dialogue,Monica,"You know what would be real weird? Is if you weren’t there. Just say you’ll think about it, okay?"
+dialogue,Rachel,"No, I’ll think about it. Yeah."
+action,,"[And with that, we go into another set of clips, this time from Rachel’s point of view.]"
+action,,[The first clip is from The One Where Rachel Finds Out.]
+heading,,"[Scene: Monica and Rachel's, it's Rachel birthday party and Chandler is about to spill the beans.]"
+dialogue,Rachel,Who's this from?
+dialogue,Chandler,"Oh, that's Ross's."
+dialogue,Rachel,Oh... (opens it and sees it is a pin) Oh my God. He remembered.
+dialogue,Phoebe,Remembered what?
+dialogue,Rachel,"It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him that it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!"
+dialogue,Phoebe,"Oh, it's so pretty. This must have cost him a fortune."
+dialogue,Monica,I can't believe he did this.
+dialogue,Chandler,"Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?"
+action,,(Everyone looks at him. He realizes he just spilled the beans about Ross's crush on Rachel.)
+dialogue,Rachel,What did you just say?
+dialogue,Chandler,(stuttering incoherently) F-hah.... flennin....
+dialogue,Rachel,Oh.... my God.
+action,,[The next clip is from The One With Ross's New Girlfriend.]
+heading,,"[Scene: The airport, Ross is about to walk off of the plane with Julie.]"
+dialogue,Rachel,(seeing Ross come off the plane with another woman.) Oh my God.
+action,,[cut to later]
+heading,,"[Scene: Monica and Rachel's, Ross is introducing Julie to the gang.]"
+dialogue,Julie,"Well, Ross and I were in grad school together."
+dialogue,Ross,"But we haven't seen each other since then. Well I land in China, guess who's in charge of the dig."
+dialogue,Rachel,"Julie! Julie, isn't that great? I mean, isn't that just kick- you-in-the-crotch, spit-on-your-neck fantastic?"
+action,,[cut to later]
+heading,,"[Scene: Monica and Rachel's, Ross is trying to hang up on Julie.]"
+dialogue,Ross,"Oh, that is so sweet.(listens) No, no, ok, you hang up. Ok, ok, one, two, three.(He doesn't hang up and motions for Rachel to be quiet.) Well you didn't hang up either."
+dialogue,Rachel,She didn't hang up either...
+dialogue,Ross,"Ok, no, no, you hang up. You, you, y—(Rachel grabs the phone and hangs it up for him.)"
+action,,[The next clip is from The One Where Ross Finds Out.]
+heading,,"[Scene, A Restaurant, Rachel is on her date, drunk, and is leaving that answering machine message.]"
+dialogue,Rachel,"(on phone) Ross, hi, it's Rachel. I'm just calling to say that um, everything's fine and I'm really happy for you and your cat ...(cut)...I am over you. I am over you and that, my friend, is what they call closure. (She hangs up and tosses phone in the ice bucket.)"
+action,,[cut to later]
+heading,,"[Scene, Monica and Rachel's, the next morning, Ross is checking his messages.]"
+dialogue,Ross,"Rach, I got a message from you."
+action,,"(Rachel comes out of her room, suddenly she remembers leaving the message.)"
+dialogue,Rachel,"Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . . (She jumps the couch and lands on Ross's back, finally getting the phone from him. Ross has a confused expression on his face.)"
+dialogue,Ross,You're over me?
+dialogue,Rachel,Ohhhhhhhh God. (climbs off his back)
+dialogue,Ross,"Wha... you're uh, you're, you're over me?"
+dialogue,Rachel,"Ohh, ohh."
+dialogue,Ross,"When, when were you... under me?"
+dialogue,Rachel,"Well, basically, lately, I've uh, I've uh, sort of had feelings for you."
+action,,[cut to later in the same scene]
+dialogue,Ross,"OK, I need to lie down."
+action,,[The next clip is from The One With The List.]
+heading,,"[Scene: Chandler and Joey's, Ross has just broken up with Julie and is about to get with Rachel.]"
+dialogue,Joey,"He broke up with Julie. Well, go hug her, for god's sakes."
+dialogue,Rachel,Really?
+dialogue,Ross,"Really. It's always been you, Rach."
+dialogue,Rachel,"Oh, god."
+action,,(Ross and Rachel hug.)
+dialogue,Chandler and Joey,Ohhh.
+action,,[The next clip is from The One Where Ross and Rachel.... You Know.]
+heading,,"[Scene: The Auditorium, Ross and Rachel are about to... you know.]"
+dialogue,Ross,"I've no idea, could be. Listen, I'm sorry I had to work tonight."
+dialogue,Rachel,"Oh it's OK. You were worth the wait, and I don't just mean tonight."
+action,,(They kiss and start undressing. As Rachel tries to pull off Ross's tie she catches it in his mouth. Then they roll across the fur rug.)
+dialogue,Rachel,"Ah, oh God. Oh, honey, oh that's OK."
+dialogue,Ross,"What. Oh no, you just rolled over the juice box."
+action,,[The next clip is from The One The Morning After.]
+heading,,"[Scene: Central Perk, Ross is trying to prevent Gunther from spilling the beans.]"
+dialogue,Ross,"Gunther! Gunther. Gunther, please tell me you didn’t say anything to Rachel about me and the girl from the Xerox place."
+dialogue,Gunther,I’m sorry. Was I not supposed to?
+action,,(Ross turns around and sees Rachel sitting by the window. She is just glaring at him.)
+action,,[The next clip is from The One At The Beach.]
+heading,,"[Scene: The beachhouse, Ross and Rachel are argueing about the breakup.]"
+dialogue,Ross,"Y'know, hey! You’re the one who ended it, remember?"
+dialogue,Rachel,"Yeah, because I was mad at you, not because I stopped loving you!"
+dialogue,Ross,You still love me?
+dialogue,Rachel,Noo.
+action,,[cut to later]
+dialogue,Ross,"What does this mean? What do you, I mean do you wanna, get back together?"
+dialogue,Rachel,"Noo! Maybe! I, I don’t know."
+dialogue,Ross,What?!
+dialogue,Rachel,"I just, I feel, I-I just..."
+action,,"(Ross leans in and kisses her. They both look at each other for a moment, and then embrace in a more passionate kiss.)"
+action,,[The next clip is from The One With The Jellyfish.]
+heading,,"[Scene: Monica and Rachel's, Rachel and Ross are finally breaking up for good, or is it?]"
+dialogue,Rachel,Y'know I can’t believe I even thought about getting back together again! We are so over!!
+dialogue,Ross,(starts to cry) FINE BY ME!! (he opens the door and traps Chandler behind it)
+action,,[cut to later]
+dialogue,Rachel,"And hey! Just so you know, it’s not that common! It doesn’t happen to every guy! And it is a big deal!!"
+dialogue,Chandler,I KNEW IT!!!!
+action,,[cut back to the present.]
+heading,,"[Scene: Central Perk, Rachel is deciding on whether or not to go to the wedding.]"
+action,,"[cut to another clip, this one is from The One With The Prom Video]"
+heading,,"[Scene: Monica and Rachel's, the gang is watching the Prom Video and Rachel is about to make her entrance on the video. The italics are portions of the prom video.]"
+dialogue,Mrs. Geller,Rachel's coming up the path. Doesn't she look pretty. Jack... (Rachel enters with a huge nose)
+dialogue,Rachel,Oh my God.
+dialogue,Monica,"You know what this is, this is us getting ready for the prom."
+dialogue,Rachel,Oh.
+dialogue,Ross,"You know what, you guys, we don't have to watch this."
+dialogue,All,Oh yeah we do. C'mon.
+dialogue,Mrs. Geller,Get a shot of Monica. Where's Monica.
+dialogue,Mr. Geller,"Wait, how do you zoom out? (zooms out and we see an extremely overweight Monica eating a big sandwich) There she is."
+dialogue,Monica,"Shut up, the camera adds ten pounds."
+dialogue,Chandler,"Ahh, so how many cameras are actually on you?"
+action,,[cut to later]
+dialogue,Monica,"Oh, dad, turn it off."
+dialogue,Mr. Geller,It is off. Right Ross? (pans over to see Ross with an afro and moustache)
+dialogue,Joey,Lookin' good Mr. Cotter.
+action,,[cut to later]
+dialogue,Rachel,"I can't go to my own prom without a date, I can't, it's too late."
+dialogue,Monica,If you're not going then I don't want to go either.
+dialogue,Mrs. Geller,(to Ross on the stairs) I have a wonderful idea. You should take Rachel to the prom.
+action,,[cut to later]
+dialogue,Ross,"Y'know what? I think we've seen enough, let's turn it off."
+dialogue,All,"No, no, no."
+dialogue,Ross,"OK, fine, well I'm not gonna watch, alright."
+dialogue,Mr. Geller,"C'mon kid, let's go."
+dialogue,Mrs. Geller,"Ahh, are you hadsome."
+dialogue,Mr. Geller,Let's show 'em.
+dialogue,Ross,(walks down the stairs and grabs the flowers out of the vase on the endtable) Okay dad.
+dialogue,Mr. Geller,"(going downstairs) Rachel, ready or not, here comes your knight in shining—Oh no. (Chip has shown up and the four are leaving.)"
+dialogue,"Rachel, Monica, Roy, and Chip",Bye.
+dialogue,Mrs. Geller,"Oh, dear. Jack, how do I turn this off?"
+dialogue,Monica,(to Ross) I can't believe you did that.
+dialogue,Ross,"Yeah, well."
+action,,"[Rachel, seeing what he did for her, gets up, walks across the room, and kisses Ross]"
+dialogue,Phoebe,"See, he's her lobster."
+action,,"[Cut back to the present, Rachel has made her decision.]"
+dialogue,Monica,(seeing the decision) Nooooo. You’re really not going?
+dialogue,Rachel,"Yeah. It’s just gonna be too hard. Y’know? I mean, it’s Ross. How can I watch him get married? Y’know it’s just, it’s for the best, y’know it is, it’s… Y’know, plus, somebody’s got to stay here with Phoebe! Y’know she’s gonna be pretty big by then, and she needs someone to help her tie her shoes; drive her to the hospital in case she goes into labour."
+dialogue,Monica,You don’t have a car. And your license expired.
+dialogue,Rachel,"I know. (Starts to cry) Yeah, see, there’s so much to do and I have so little time to do it in."
+action,,Closing Credits
+heading,,"[Scene: Central Perk, Chandler, Joey, and Phoebe are reading a book about things to do whilst in London.]"
+dialogue,Chandler,"All right, check it out. Check this out. It says here that there’s a place you can go to rent videos of all the museums! (Reading from the book.) ""It’s almost as good as being there."""
+dialogue,Joey,It’s better! You can’t go to a museum in your underwear!
+dialogue,Chandler,"Well, You could, but... probably just the one time."
+dialogue,Joey,"I bet we could get videos of all the sites, get a VCR in our hotel room... we'd never even have to go outside!"
+dialogue,Chandler,"If we do that, we gotta get Die Hard."
+dialogue,Joey,Oh-ho! I bet the British version is gooooood!
+action,,End

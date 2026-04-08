@@ -1,0 +1,331 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, it’s 0-Dark:30, in other words it’s really, really early. Everyone’s asleep, and all through the apartments not a creature was stirring, not even a mouse. That is except for the chick, who turns out to be a rooster and is crowing in the sun. Needless to say, this awakens Monica and Rachel who rush into their living room, searching for the cause of the sound.]"
+dialogue,Rachel,"What the hell is that?!! (to Monica) What the hell is that? Is that you? (Monica nods her head no, and Rachel realizes what is making that sound.) Ohhhhhhh! (storms over to Chandler and Joey’s with Monica in trail.)"
+dialogue,Monica,"Boy, you are really not a morning person."
+dialogue,Rachel,"(angrily) BACK OFF!!! (She starts banging on their door.) Get up! Get up! Get up! God damn it! Get up, get up, get up, get up, get up!!"
+action,,"(Chandler opens the door, finally.)"
+dialogue,Rachel,What is that noise?
+dialogue,Chandler,You!
+dialogue,Joey,It’s the chick! She’s…going through some changes.
+dialogue,Monica,What kind of changes?
+dialogue,Chandler,Well the vet seems to think that’s she’s becoming a rooster. (The rooster crows.) We’re getting a second opinion.
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, it’s later that morning, everybody has gotten up and Ross and Phoebe has joined them for breakfast. Rachel is returning from shopping.]"
+dialogue,Phoebe,Hey!
+dialogue,Ross,"Hey, what are you doing shopping at eight in the morning?"
+dialogue,Rachel,"Well, I’ve been up since six. Thanks to somebody’s dumb-ass rooster."
+dialogue,Phoebe,You guys you really should get rid of those animals. They shouldn’t be living in an apartment.
+dialogue,Rachel,Yeah! Especially not with all of these knives and cookbooks around…
+dialogue,Phoebe,"All right. I’m gonna go to the fertility doctor and um, see if I’m ready to have Frank and Alice’s embryo transferred into my uterus."
+dialogue,Ross,"Now, how will they know if you’re ready?"
+dialogue,Phoebe,"Oh, they’re just gonna umm, look to see if my endometria layer is thick."
+dialogue,Chandler,"Oh, I can uh, check that for ya."
+dialogue,Phoebe,"Okay everyone, think thick."
+dialogue,All,Good-bye! Good luck! (She opens the door to reveal Monica and Joey.)
+dialogue,Phoebe,Hi! Wish me luck!
+dialogue,Monica,"Oh, good luck."
+dialogue,Joey,Good luck. (to Monica) And I’m still right!
+dialogue,Monica,That is sooo not true!
+dialogue,Rachel,What?
+dialogue,Joey,She’s mad because I know today’s her laundry day and that means she’s wearing her old lady underpants.
+dialogue,Chandler,I can check that for ya.
+dialogue,Monica,I just—I can’t believe that you think that you and Chandler know me and Rachel better than we know you.
+dialogue,Chandler,Well… we-we do. You can only eat Tic Tacks in even numbers.
+dialogue,Joey,"Yeah, what’s that about?"
+dialogue,Chandler,"(to Rachel) And you… Ross, I believe, if you check Rachel’s bag you will find a half-eaten box of cookies in there."
+dialogue,Ross,"(He does so, and finds a half-eaten box of cookies.) You’re good. (Tries a cookie.) These are not."
+dialogue,Rachel,I’m so not impressed. Everybody snacks when they shop.
+dialogue,Monica,Yeah.
+dialogue,Joey,"Oh yeah? Ross, how many items left in that bag?"
+dialogue,Ross,Five.
+dialogue,Chandler,"Okay, ten bucks says that we can name every item in that bag."
+dialogue,Rachel,How many guesses do you get?
+dialogue,Joey,Six.
+dialogue,Ross,Challenge extended.
+dialogue,Monica,Deal!
+dialogue,Ross,Challenge excepted.
+dialogue,Joey,"All right, we’ll start with…apples."
+dialogue,Ross,We’ll be starting with apples.
+dialogue,Chandler,(to Ross) Stop that now!
+action,,(Ross reveals a bag of apples.)
+dialogue,Chandler,Yes!
+dialogue,Joey,"Okay. Uhh, tortilla chips, yogurt."
+dialogue,Chandler,Diet soda.
+dialogue,Ross,Yes. Yes. Yes. (They’re perfect so far.)
+dialogue,Chandler,Orange juice.
+dialogue,Rachel,No! There’s no orange juice in there! We win!!
+dialogue,Monica,Ha-ha!
+dialogue,Ross,They have another guess.
+dialogue,Rachel,"Okay, well, we won that one."
+dialogue,Joey,"Okay, the last thing…"
+dialogue,Chandler,"Oh-oh, oh, oh-oh! (Whispers something in Joey’s ear.)"
+dialogue,Joey,"No-no, not for like another two weeks."
+dialogue,Chandler,I got it! Scotch… tape. (They’re right.)
+dialogue,Ross,How did you know she would buy scotch tape?
+dialogue,Chandler,"Well, we used there’s up last night making scary faces."
+dialogue,Monica,"Aww, man!"
+dialogue,Chandler,All right! Ten buck! Fork it over! Cough it up! Pay the piper! Gimme it.
+dialogue,Monica,"That does not mean you know us better, I-I want a rematch."
+dialogue,Rachel,"Yeah, and none of these stupid grocery questions, real personal questions."
+dialogue,Monica,Yeah! And the winner gets a hundred bucks.
+dialogue,Joey,Serious?
+dialogue,Monica,Are you scared?
+dialogue,Joey,"No! All right, who-who makes up the questions?"
+dialogue,Monica,Ross will do it.
+dialogue,Ross,"Oh sure, ""Ross will do it!"" It’s not like he has a job, or a child, or a life of his own."
+dialogue,Rachel,Fine! We’ll ask Phoebe.
+dialogue,Ross,"No-no-no, I-I wanna play."
+heading,,"[Scene: The Doctor’s office, Dr. Zane is examining Phoebe as Frank and Alice watch.]"
+dialogue,Dr. Zane,It looks like your uterus is ready for implantation.
+dialogue,Phoebe,Oh! I knew it! I knew it! I felt really thick this morning.
+dialogue,Frank,"Well, okay, so what’s now—go get, go get the eggs, put ‘em in there."
+dialogue,Dr. Zane,"Okay, it’ll take just a little while to prepare the embryos."
+dialogue,Phoebe,"Embryossss? As in, ""More than one?"""
+dialogue,Dr. Zane,"Um-hmm, five actually."
+dialogue,Phoebe,"Five? Okay, where am I giving birth, a hospital or a big box under the stairs?"
+dialogue,Dr. Zane,We do five because that gives you a 25% chance that at least one will attach.
+dialogue,Phoebe,That’s it! 25 percent? That means that’s it’s like 75 percent chance of no baby at all!
+dialogue,Frank,"Hey, y’know I was thinking, what are the odds like if-if, if you stuff like 200 of them in there?"
+dialogue,Alice,"Sweety, now, she’s a woman, not a gumball machine."
+dialogue,Phoebe,"Okay, well y’know what, don’t worry you guys, ‘cause I’m-I’m gonna do this as many times as it takes to get it right."
+dialogue,Frank,"Well, you see, the-the thing is, we-we only got, we kinda have one shot to make it right."
+dialogue,Alice,"Umm, it costs $16,000 each time you do this. So, umm, we’re kinda using all the money we have to do it just this one time."
+dialogue,Phoebe,"Whoa!! That—okay, that’s a lot of pressure on me and my uterus. (to Dr. Zane) So, well okay, so is there—is maybe is there something that I can do y’know just to like help make sure I get pregnant?"
+dialogue,Dr. Zane,"No, I’m sorry."
+dialogue,Phoebe,Wow! You guys really don’t know anything!
+dialogue,Frank,I know! Why don’t you get drunk! That worked for a lot of girls in my high school.
+heading,,"[Scene: Monica and Rachel's, the game is about to begin.]"
+dialogue,Monica,"You guys! Do you realize that any minute now, Phoebe can be pregnant?"
+dialogue,Joey,Huh.
+dialogue,Rachel,"I know! I know, it’s such a huge, life-altering thing."
+dialogue,Joey,I know.
+action,,(They all pause and think about it.)
+dialogue,Ross,The test is ready.
+dialogue,All,"Yeah! Yes! (They all right into the living room, all excited.)"
+dialogue,Ross,"Okay, each team will answer ten questions. The first team that answers the most questions wins. Okay, the categories are, Fears and Pet Peeves, Ancient History, Literature, and It’s All Relative. Now, the coin toss to see who goes first. (He flips the coin and they all watch it hit the table and stop. Then they all look up at him, to see who goes first.) Okay, somebody call it this time."
+dialogue,All,Oh yeah!
+action,,(Ross flips the coin again.)
+dialogue,Rachel,Tails!
+dialogue,Ross,"It’s heads. (The guys celebrate.) Gentlemen, pick your category."
+dialogue,Chandler,Fears and Pet Peeves.
+dialogue,Ross,What is Monica’s biggest pet peeve?
+dialogue,Joey,Animals dressed as humans.
+dialogue,Ross,That’s correct. Ladies?
+dialogue,Monica,Same category?
+dialogue,Ross,"According to Chandler, what phenomenon scares the bejeezus out of him?"
+dialogue,Monica,"Michael Flatley, Lord of the Dance!"
+dialogue,Ross,That is correct.
+dialogue,Joey,(to Chandler) The Irish gig guy?!
+dialogue,Chandler,His legs flail about as if independent of his body!
+dialogue,Ross,"Gentlemen, you’re pick."
+dialogue,Joey,It’s All Relative.
+dialogue,Ross,"Monica and I have a grandmother who died, you both went to her funeral, name that grandmother!"
+dialogue,Joey,(to Chandler) Nana?
+dialogue,Chandler,She has a real name.
+dialogue,Joey,(answering the question) Althea!
+dialogue,Chandler,Althea?! What are you doing?!
+dialogue,Joey,I took a shot.
+dialogue,Chandler,You're shooting with Althea?!
+dialogue,Ross,Althea is correct.
+dialogue,Chandler,Nice shooting!
+action,,(Ross motions for the girls to pick.)
+dialogue,Rachel,We’ll take Literature!!
+dialogue,Ross,"Every week, the TV Guide comes to Chandler and Joey’s apartment. What name appears on the address label?"
+dialogue,Rachel,Chandler gets it! It’s Chandler Bing!
+dialogue,Monica,No!!
+dialogue,Ross,I’m afraid the TV Guide comes to Chinandolor Bong.
+dialogue,Monica,I knew that! Rachel! Use you’re head!
+dialogue,Chandler,"Actually, it’s Miss Chinandolor Bong."
+heading,,"[Scene: The Doctor’s office, Phoebe is giving a pep talk to the petrie dish containing the embryos.]"
+dialogue,Phoebe,"Hello, tiny embryos. Well, I’m-I’m Phoebe Buffay, hi! I’m-I’m-I’m hoping to be your uterus for the next nine months. You should know, that we’re doing this for Frank and Alice, who you know, you’ve been there! Umm, y’know they want you so much, so when you guys get in there, really grab on. Okay, and-and I promise that I’ll keep you safe and warm until you’re ready to have them take you home, so… Oh! And also, umm next time you see me, I’m screaming, don’t worry, that’s what’s supposed to happen."
+dialogue,Dr. Zane,Ready?
+dialogue,Phoebe,Uh-huh. (To the embryos) Good luck.
+heading,,"[Scene: Monica and Rachel's, the game is coming to a close.]"
+dialogue,Ross,"All right, the score is nine to eight in favor of the guys. Ladies if you miss this the game is theirs, pick your category."
+dialogue,Rachel,(shouting) It’s All Relative!!
+dialogue,Ross,You don’t have to shout everything.
+dialogue,Rachel,(shouting) I’m sorry!
+dialogue,Ross,Ooh. What is the name of Chandler’s father’s Las Vegas all-male burlesque?
+dialogue,Monica,Viva Las Gaygas!
+dialogue,Chandler,Unfortunately that is correct.
+dialogue,The Girls,Yes!!
+dialogue,Ross,"All right, we have a tie. Luckily, I have prepared for such an event. (He opens up an envelope and holds up some note cards.) The Lightning Round!"
+dialogue,All,Ohhhh.
+dialogue,Ross,"Thirty seconds, all the questions you can answer."
+dialogue,Monica,"You guys are dead, I am so good at lighting rounds."
+dialogue,Chandler,"I majored in lightning rounds. All right, we’re gonna destroy you."
+dialogue,Monica,"Huh, wanna bet?"
+dialogue,Chandler,"Well, I’m so confused as to what we’ve been doing so far…"
+dialogue,Monica,"How about we play for more money, say 150?"
+dialogue,Ross,150 dollars.
+dialogue,Chandler,Say 200?
+dialogue,Ross,200 dollars.
+dialogue,Monica,You’re doing it again.
+dialogue,Ross,Excuse me.
+dialogue,Rachel,"Monica, I don’t want to lose 200 dollars."
+dialogue,Monica,We won’t. (to Chandler) 300?
+dialogue,Rachel,Monica?!
+dialogue,Monica,I’m just trying to spice it up!
+dialogue,Rachel,"Okay, so let’s play for some pepper! Stop spending my money!"
+dialogue,Monica,"I got it! How about, if we win, they have to get rid of the rooster?"
+dialogue,Rachel,Oooohh that’s interesting.
+dialogue,Joey,"Hey, no way, that rooster’s family!"
+dialogue,Rachel,Throw in the duck too!
+dialogue,Joey,What do you have against the duck?! He doesn’t make any noise!
+dialogue,Rachel,"Well, he gets the other one all riled up."
+dialogue,Joey,"Look, we are not gonna…"
+dialogue,Chandler,"(interrupting) All right, hold on! If you win, we give up the birds."
+dialogue,Joey,(shocked) Dah!! (Chandler motions for him to calm down.)
+dialogue,Chandler,"But if we win, we get your apartment."
+dialogue,Joey,Oooooh!
+dialogue,Monica,Deal!
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, continued from earlier, only slightly later.]"
+dialogue,Rachel,"Monica, betting the apartment, I don’t know about this."
+dialogue,Monica,"Rachel, I have not missed one question the whole game. I own this game! Look at my hand. (Holds up her hand.)"
+dialogue,Rachel,Why? Do you have the answers written on there?
+dialogue,Monica,"No! Steady as a rock! Now, are you with me."
+dialogue,Rachel,"All right, let’s do it."
+dialogue,Monica,Come on!
+dialogue,Rachel,Okay. (They go into the living room.)
+dialogue,Ross,"All right, gentlemen, you’re up first."
+dialogue,Joey,Okay.
+dialogue,Chandler,Okay. (Starts jumping around.)
+dialogue,Ross,You have 30 seconds. And the lightning round begins—stop it (Chandler stops jumping)—now. What was Monica’s nickname when she was a field hockey goalie?
+dialogue,Joey,Big fat goalie.
+dialogue,Ross,Correct. Rachel claims this is her favorite movie…
+dialogue,Chandler,Dangerous Liaisons .
+dialogue,Ross,Correct. Her actual favorite movie is...
+dialogue,Joey,Weekend at Bernie’s .
+dialogue,Ross,Correct. In what part of her body did Monica get a pencil stuck at age 14?
+dialogue,Chandler,Oh! (Whispers something in Joey’s ear and then in Ross’s ear.)
+dialogue,Ross,"Eww! No!! Her ear! All right, Monica categorizes her towels. How many categories are there?"
+action,,(They both confer.)
+dialogue,Joey,Everyday use.
+dialogue,Chandler,Fancy.
+dialogue,Joey,Guest.
+dialogue,Chandler,Fancy guest.
+dialogue,Ross,Two seconds…
+dialogue,Joey,"Uhh, 11!"
+dialogue,Ross,"11, unbelievable 11 is correct. (The guys celebrate.) All right, that’s 4 for the guys. Ladies, you’re up."
+dialogue,Rachel,All right!
+dialogue,Monica,Come on!
+action,,"(As they change places, they give each other the now patented Ross maneuver. If you don’t know what that means, click here to find out The One With Joey's New Girlfriend.)"
+dialogue,Ross,30 seconds on the clock. 5 questions wins the game. The lightning round begins…now! What is Joey’s favorite food?
+dialogue,Monica,Sandwiches!
+dialogue,Ross,Correct. Chandler was how old when he first touched a girl’s breast?
+dialogue,Rachel,14?
+dialogue,Ross,"No, 19."
+dialogue,Chandler,Thanks man.
+dialogue,Ross,"Joey, had an imaginary childhood friend. His name was?"
+dialogue,Monica,Maurice.
+dialogue,Ross,"Correct, his profession was?"
+dialogue,Rachel,Space cowboy!
+dialogue,Ross,Correct! What is Chandler Bing’s job?
+action,,(The girls are stumped)
+dialogue,Rachel,"Oh gosh, it has something to do with numbers."
+dialogue,Monica,And processing.
+dialogue,Rachel,He carries a briefcase.
+dialogue,Ross,"10 seconds, you need this or you lose the game."
+dialogue,Monica,"It’s umm, it has something to do with transponding."
+dialogue,Rachel,"Oh-oh-oh, he’s a transponce—transpondster!"
+dialogue,Monica,That’s not even a word! I can get this! I can get this!
+action,,"(Ross stops the clock, signifying the end of the lightning round.)"
+dialogue,Monica,NOOOOOOOOO!!!!!
+dialogue,Rachel,Oh my God.
+dialogue,Chandler and Joey,YEAH!!! YES!!!
+heading,,"[Scene: Monica and Rachel's, erm, Chandler and Joey's, Chandler and Joey are carrying in the foosball table.]"
+dialogue,Joey,I call Monica’s room!
+dialogue,Chandler,You can’t just call Monica’s room.
+dialogue,Joey,"Sure I can, standard shotgun rules, I’m sight of the room and I called it."
+action,,"(Chandler grunts and turns around, sees that he’s in sight of the room, and mouths damn!)"
+dialogue,Monica,"Man, I feel like I’m coming down with something."
+dialogue,Joey,What?
+dialogue,Monica,Yeah. (to Chandler) I bet you can’t guess what color my tonsils are? I’ll bet the apartment!
+dialogue,Chandler,"Oh, I would never bet this apartment. It’s too nice."
+dialogue,Phoebe,(entering) Hey!
+dialogue,Chandler,Hey!
+dialogue,Joey,"Hey—ooh Pheebs, are they in there?"
+dialogue,Phoebe,"Umm, yeah, uh-huh, they’re implanted."
+dialogue,Monica,How do you feel?
+dialogue,Phoebe,"Well, freaked. ‘Cause it turns out that the odds are really sucky. And! This is Frank and Alice’s like only shot. Like, they are literally putting all of their eggs in my basket."
+dialogue,Chandler,"Yeah, but I bet it works."
+dialogue,Monica,Really?! How much?!
+dialogue,Phoebe,"All right, I’m gonna go take a pregnancy test, right now."
+dialogue,Joey,Oh wow! You can tell this soon.
+dialogue,Phoebe,"Well the doctor says it takes a couple days, but my body’s always been a little faster than Western medicine."
+dialogue,Rachel,"(entering from Chandler’s bedroom, I guess, and sees the foosball table.) Oh my God! I can’t believe you guys are actually think you’re moving in here!"
+dialogue,Chandler,Well believe it baby!
+dialogue,Rachel,Well I-I-I’m not moving.
+dialogue,Joey,What?!
+dialogue,Rachel,"No, it was a stupid bet! We were just playing a game!"
+dialogue,Joey,"You can’t just ignore the bet! It’s a bet! You bet and you bet and if you lose, you lose the bet!"
+dialogue,Monica,"Look Rach, we have to move. I mean if they had lost, we would’ve made them get rid of the birds. Right?"
+dialogue,Rachel,Noooo.
+dialogue,Monica,"All right, look, I hate this as much as you, but if it makes you feel better, it’s all your fault."
+dialogue,Rachel,What?!
+dialogue,Monica,"Chinadolor Bong, come on, we steal that TV Guide every week!"
+dialogue,Chandler,I knew it!
+dialogue,Rachel,"I don’t care, I’m not going anywhere."
+dialogue,Chandler,"Cool, girl roommate."
+action,,(Phoebe comes in from the bathroom as Rachel sits down in disgust.)
+dialogue,Monica,Well?
+dialogue,Phoebe,"Nope, not knocked up yet."
+dialogue,Monica,"It’s only been a couple of hours, so just give it some time."
+dialogue,Phoebe,"Yeah, all right. Meanwhile, I’m gonna do whatever I can to help this so, I’m just gonna y’know, lie it your chair, (She climbs into the chair and drapes her feet over the back of the chair.) Y'know? Yeah, good, I’m let gravity y’know, do its jobs."
+action,,"[Cut too later, the moving process is progressing steadily. Monica is trying to lift a heavy box, as Rachel comes in from Chandler’s bedroom.]"
+dialogue,Monica,"Hey, Rach, can you give me a hand with this box?"
+dialogue,Rachel,"No! Put that box down! We are not going anywhere! This is my apartment and I like it! This is a girl’s apartment! That is a boy’s apartment, it’s dirty and it smells. This is pretty. It’s-it’s so pretty! And look, and it’s-it’s purple! And I’m telling you, you with the steady hand, I am not moving, and now I have got the steady hand. (She holds out her hand, which is shaking uncontrollably.)"
+dialogue,Monica,I’ll take care of it.
+dialogue,Rachel,That’s right! You do what the hand says!
+action,,"[Cut to later, Phoebe is still in the chair and Rachel is laying down as Monica enters.]"
+dialogue,Rachel,How did it go?
+dialogue,Monica,I lost our mattresses.
+action,,"[Cut to still later, Rachel has now resigned herself to move and is now helping Monica. Phoebe is still on the chair.]"
+singing,Phoebe,"(singing) "" Are you in there little fetus ?"
+singing,Phoebe,In nine will you come great us ?
+singing,Phoebe,"I will buy you some Adidas ."""
+action,,(There’s a knock on the door and Monica answers it.)
+dialogue,Monica,Hey!
+dialogue,Frank and Alice,(entering) Hi!
+dialogue,Alice,"Hi, Phoebe! We were just at the drugstore and we got you a little present."
+dialogue,Phoebe,Oh. Oh.
+dialogue,Frank,"Umm, it’s a lollipop and a uh, a home pregnancy test."
+dialogue,Monica,"Hey, don’t mix those up, you could really ruin that lollipop."
+dialogue,Alice,"So umm, you feel like taking a test? There’s only one question."
+dialogue,Phoebe,"All right, I will. No, I will. But umm, y’know just remember that it’s still really early, okay so, if it says that I’m not pregnant, that doesn’t mean that I’m not gonna get pregnant, okay and, and just please, just so I don’t go completely nuts, just try not put all your hopes on this."
+dialogue,Alice,Okay.
+dialogue,Frank,Okay. (They both squeal in expectation.)
+dialogue,Phoebe,Great. (Goes to take the test.)
+action,,"(The door opens and Joey and Chandler ride in on the big, fake dog in triumph)"
+dialogue,Rachel,"Y’know what, you are mean boys, who are just being mean!"
+dialogue,Joey,"Hey, don’t get mad at us! No one forced you to raise the stakes!"
+dialogue,Rachel,That is not true. She did! She forced me!
+dialogue,Monica,"Hey, we would still be living here if hadn’t gotten the question wrong!"
+dialogue,Rachel,"Well it stupid, unfair question!"
+dialogue,Ross,Don’t blame the questions!
+dialogue,Chandler,Would you all stop yelling in our apartment! You are ruining moving day for us!
+dialogue,Rachel,Will you stop calling it your apartment!
+dialogue,Joey,But it is our apartment!
+dialogue,Rachel,No it’s not!
+action,,(They all decay into massive bickering as Phoebe returns from the bathroom.)
+dialogue,Phoebe,You guys! You guys! You’re gonna have a baby! They’re gonna have a baby!
+dialogue,Frank,MY SISTER’S GONNA HAVE MY BABY!!!!!!!
+action,,(They all go over and hug Phoebe.)
+dialogue,Phoebe,"Okay, but this can’t be good for the baby."
+dialogue,All,Oh! (They stop hugging her to let her out and resume the hug without her.)
+action,,Closing Credits
+heading,,"[Scene: Chandler and Joey's, erm, Monica and Rachel's, Monica and Rachel are busy unpacking.]"
+dialogue,Monica,I can’t find garbage bags!
+dialogue,Rachel,"Oh, I think I saw some in here."
+action,,(She opens a door and they both scream at horror at what’s inside of it.)
+dialogue,Monica,What is it?!
+dialogue,Rachel,"I don’t know! But maybe if we keep that drawer shut, it’ll die."
+dialogue,Monica,I can’t believe we’re living here!
+heading,,"[Scene: Monica and Rachel's, erm, Chandler and Joey's, they’re both unpacked. The big ceramic dog has found a new home in front of the window. Joey screams and runs into the living room.]"
+dialogue,Chandler,What?! What-what is it?!
+dialogue,Joey,Did you see the size of the closets?!
+dialogue,Chandler,I can’t believe we live here!
+action,,(They both sit down on the chairs and put up the foot rest.)
+dialogue,Chandler and Joey,Awwwww!! (They lean back all the way.) Awwwwwww!!!
+action,,End

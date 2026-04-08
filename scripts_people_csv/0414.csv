@@ -1,0 +1,320 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, erm, Chandler and Joey's, Joey is getting ready for a fishing trip and Phoebe is asking him about the fishing lures. Ross is playing with the rod, and Monica is pretty much just watching the on goings.]"
+dialogue,Phoebe,"(holding a lure) So now, what is this now?"
+dialogue,Joey,Guggly worm.
+dialogue,Phoebe,(laughs and picks up another lure) And this?
+dialogue,Joey,Glow-pop giggly jammer.
+dialogue,Phoebe,(laughs harder) You make it so funny.
+dialogue,Monica,"(not wanting to be left out, picks up something) Hey umm, what’s this?"
+dialogue,Joey,"(examining it) Ohh, a hunk of sandwich from last year. (Monica drops the sandwich)"
+dialogue,Ross,"(pretend fishing in the living room) Ohh, Geller’s got one hooked! Ohh! Looks like a big one! Yeah, ohh! Ohh! (Swinging the rod back and forth) It’s the classic struggle between man and—(swings the rod and knocks over a lamp.) Someone knocked over a lamp."
+dialogue,Joey,"(going over and picking up the rod) That’s all right. Hey you guys, you know what’s going to be great about the fishing trip this year? When my dad gets me out in the middle of the lake and gives me that, ""Joey, what are you doing with your life?"" stuff. I can say, ""Well, I’m doing a movie with Charlton Heston dad. What are you doing with your life?"""
+dialogue,All,Great!
+action,,"(Chandler enters from his bedroom, all depressed and wearing sweat pants, with the chick and duck in tow.)"
+dialogue,Chandler,"You don’t have to stop having fun just because I’m here. Kathy didn’t cheat on all of you. (To Joey) Well, except you. (They hug and Chandler goes into the bathroom with the chick and duck following him.)"
+dialogue,Monica,"Hey, Joey, I don’t think that you should leave Chandler alone. I mean it’s only been two days since he broke up with Kathy. Maybe you can go fishing next week?"
+dialogue,Joey,"Look, there’s nothing I can do for him right now, he’s still in his sweat pants, that’s still Phase One. Y'know? I’ll be back for Phase Two, I would never miss Phase Two."
+dialogue,Monica,What’s Phase Two?
+dialogue,Joey,Gettin’ drunk and going to a strip club.
+dialogue,Rachel,How does going to a strip club help him better?
+dialogue,Ross,Because there are naked ladies there.
+dialogue,Joey,"Which helps him get to Phase Three, picturing yourself with other women."
+dialogue,Ross,There are naked ladies there too.
+dialogue,Joey,Yeah.
+dialogue,Chandler,(opening the bathroom door and kicking out the chick and duck) Would you give me one minute!! Please.
+action,,Opening Credits
+heading,,"[Scene: Bloomingdale’s, Rachel is still dressing Joshua. He is trying on a pair of pants.]"
+dialogue,Joshua,"So, these will match the jacket you picked out for me last week?"
+dialogue,Rachel,Um-hmm. (Joshua turns to look in the mirror and leaves Rachel staring at his ass.) There we go. There it is.
+dialogue,Joshua,(turning around) Oh! You know what I need?
+dialogue,Rachel,Yeah!
+dialogue,Joshua,"Gloves. Brown, leather dress gloves."
+dialogue,Rachel,"Oh, okay. Uhh, well let’s see. (Grabs his hand.) You’re about—well uh, this one is large. And this one—(Grabs the other hand.)"
+dialogue,Joshua,Also large?
+dialogue,Rachel,"Yeah! Okay, two larges coming right up!"
+dialogue,Joshua,Okay.
+dialogue,Mr. Waltham,(entering) Rachel! Could I have a moment?
+dialogue,Rachel,Yes.
+dialogue,Mr. Waltham,"I-I was wondering, my niece you see is in from London—well Shropshire really but y’know—well she’s about your age I say. Anyway I have tickets for the opera, Die Fledermaus, and I was wondering if you’d like to keep her company this evening?"
+dialogue,Rachel,Sure. You got it. Great!
+dialogue,Mr. Waltham,"Oh, good."
+dialogue,Rachel,"Me, Fledermaus, great. I really—(motions to Joshua.)"
+dialogue,Mr. Waltham,"Ohh! Yes of course, thank you, thank you, thank you so very much."
+dialogue,Joshua,"So…(Holds out his hands as to say, ""Where are my gloves?"")"
+dialogue,Rachel,"So? (She puts her hands in his, totally forgetting about the gloves, and hoping for something more intimate.)"
+dialogue,Joshua,Gloves?
+dialogue,Rachel,"Ohh! Right! Right, sorry, I’ll be right back!"
+dialogue,Joshua,"Uhh, actually y’know what, I kinda—I have to take off."
+dialogue,Rachel,Oh.
+dialogue,Joshua,"But, I was curious; do you have any plans for tonight?"
+dialogue,Rachel,No! Nothing!
+dialogue,Joshua,"I invested in this night-club and it’s opening tonight, would you like to come?"
+dialogue,Rachel,Yeah! That would be great!
+dialogue,Joshua,You’re into hardcore S&M right?
+dialogue,Rachel,"(shocked) Well, I-I guess—I…"
+dialogue,Joshua,"Kidding! (Rachel is relived) I’m gonna get there early, but I’m going to put you on the V.I.P list, okay? Look for me."
+dialogue,Rachel,"Yeah, great, you betcha!"
+dialogue,Mr. Waltham,"(entering) I almost forget the tickets, didn’t I?"
+dialogue,Rachel,What?
+dialogue,Mr. Waltham,"For you and Emily, tonight, Die Fledermaus."
+dialogue,Rachel,"Oh. Oh, right."
+dialogue,Mr. Waltham,"I think you’ll like it, it has two out of the three tenors."
+dialogue,Rachel,Oh yay!
+heading,,"[Scene: Monica and Rachel's, erm, Chandler and Joey's, Chandler is in his sweats flinging playing cards into a pot.]"
+dialogue,Chandler,"Y’know, I can’t believe Kathy did this too me. I really, thought that she was the one. I tell you what, from now on I’m never getting out of this chair, ever! Okay? From now on, this chair is the one! You wanna what else is the one? My sweat pants!"
+dialogue,Ross,"Come on, man! Just-just take the sweats off. Okay? Just take ‘em off and we’ll have some fun."
+dialogue,Joey,(entering) Hey-hey!
+dialogue,Ross,Hi!
+dialogue,Phoebe,Hey!
+dialogue,Ross,"Catch any big fish? (Phoebe, Ross, and Monica all go over to him.)"
+dialogue,Joey,"Oh my God, you guys have no idea."
+dialogue,All,(they all recoil from the smell emanating from him) Oh! God! Wow!
+dialogue,Monica,You stink!
+dialogue,Ross,Are you kidding?!
+dialogue,Joey,"Yeah, three days on the lake without a shower. Plus! I fell in that big tub of worms at the bait stand! Hey, how-how’s he doing?"
+dialogue,Ross,He hasn’t gotten out of that chair in two days.
+dialogue,Joey,(goes over to Chandler) Hey buddy! How’s it going?
+action,,(Chandler imitates retching and gets out of the chair.)
+dialogue,Joey,"(To the rest of the gang) Hey, see that? He just needed his pal to come home. All right, uh, I’ve got to go memorise my lines. (Starts to go his bedroom) Me and Charlton Heston bright and early tomorrow morning! Yeah-yeah!"
+dialogue,Rachel,(entering) Hey!
+dialogue,Ross,Hey!
+dialogue,Rachel,"Hey, Monica!"
+dialogue,Monica,"Uh-oh, what’s the matter?"
+dialogue,Rachel,"Ohh, it’s Joshua invited me to this fancy club opening tonight. But, I already told Mr. Waltham that I would take his niece to this dumb old opera. So… What are you gonna do?"
+dialogue,Monica,I don’t know sweetie.
+dialogue,Rachel,No! Help me!
+dialogue,Monica,I can’t! I have to work!
+dialogue,Rachel,Phoebe?
+dialogue,Phoebe,"I would, but I get my morning sickness in the evening."
+dialogue,Rachel,Ugh!
+dialogue,Phoebe,Unless! She wants to spend the night holding my hair back for me.
+dialogue,Rachel,"Ohh, gosh. You guys, come on, this is—I have to meet Joshua! This is my one chance for him to see the fun Rachel. Y’know the ""Wouldn’t it be great if she was my wife"" Rachel. Ohh, all right! Are Joey and Chandler back?"
+dialogue,Monica,"No, Chandler’s still in Phase One, and Joey’s that thing you smell."
+dialogue,Rachel,Ohh! (Realises that Ross is in the room.) Hi!
+dialogue,Ross,Hi!
+dialogue,Rachel,So….
+dialogue,Ross,No.
+dialogue,Rachel,"Ohhhh, come on!!!"
+action,,(There’s a knock on the door.)
+dialogue,Monica,I think she’s here.
+dialogue,Rachel,"No! Wait! Wait-wait! Ross, please!"
+dialogue,Ross,"You want me to take some girl I’ve never met to the opera so you can go to a club and flirt with some guy, hmm, that-that is a toughie."
+dialogue,Monica,"(looking out the peephole) Ohh, she’s looking down the hall. Oh! She looked right at me! Oh wait, you can’t see people through that little hole, can you? (Goes back to the door.) Hello!"
+dialogue,Woman,Hello! (Monica screams)
+dialogue,Rachel,"I’ll be right there! (to Ross) Okay, Ross, please come on! I thought we have moved on! I thought we’ve gotten to a place where we could be happy for each other! I mean was that just me?"
+dialogue,Ross,"All right, I’ll do it."
+dialogue,Rachel,"Oh thank you! Thank you, thank you, thank you! (Monica opens the door.) Emily?"
+dialogue,Emily,Yes.
+dialogue,Rachel,I’m Rachel Green.
+dialogue,Emily,Thank goodness.
+dialogue,Rachel,There’s been a teeny-teeny change in plans. It turns out that I’m not free tonight. So…
+dialogue,Emily,"Really?! Well, that’s just lovely, isn’t it? I must’ve missed your call, even though I didn’t leave the flat all day."
+dialogue,Rachel,"Oh well, no I…"
+dialogue,Emily,"Oh, no-no-no, that’s not rude! It’s perfectly in keeping with a trip that I’ve already been run down by one of your wiener carts, and been strip-searched at John F. Kennedy Airport, apparently to you people, I look like someone who’s got a balloon full of cocaine stuffed up their bum."
+dialogue,Monica,I-I-I think you look great.
+dialogue,Emily,"Good night, it was very nice to meet you all. (Storms out.)"
+action,,(Pause)
+dialogue,Rachel,I’ll get her.
+dialogue,Ross,Please hurry.
+dialogue,Phoebe,Don’t you just love the way they talk?!
+heading,,"[Scene: Monica and Rachel's, erm, Chandler and Joey's, the next morning, Monica and Phoebe are eating breakfast.]"
+dialogue,Phoebe,Ohh!
+dialogue,Monica,What?
+dialogue,Phoebe,It kicked! I think the baby kicked!
+dialogue,Monica,Oh my God!
+dialogue,Phoebe,"Oh no wait, oh no, the elastic on my underwear busted."
+dialogue,Joey,(running from his bedroom) Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!
+dialogue,Monica,"Oh wait, Joey, you can’t go like that! You stink!"
+dialogue,Joey,"Look, I know I feel asleep before I could shower and now I don’t have time! They’re just ten blocks away, if I run, I can make it."
+dialogue,Monica,"Yeah. Run ten blocks, that’ll help the smell."
+action,,(He opens the door to reveal Rachel.)
+dialogue,Rachel,"Hey—whoa, slow down. (Gets a whiff of him) No, keep moving. (Joey runs off.) Wow!"
+dialogue,Monica,So? How did it go with Joshua last night?
+dialogue,Rachel,"Well, I didn’t see Joshua last night, but I did punch a girl in the face."
+dialogue,Monica,What?
+dialogue,Phoebe,Why?
+dialogue,Rachel,"The whole night was horrible, it was pouring down rain, and when I got there, there was no Rachel Green on the list, but there was a Rachel Greep."
+dialogue,Phoebe,"Ohh! So, did you get to meet her?"
+dialogue,Rachel,"No, there is no Rachel Greep, but then this other girl overheard us and she was all, ""I’m Rachel Greep! I’m Rachel Greep!"" and he let her right in."
+dialogue,Monica,So you hit her in the face?
+dialogue,Rachel,"No, she was already in, but then this big bitch behind me tried to steal my umbrella, so I clocked her. Ohhh! I can’t believe this, all I wanted was a few hours outside of work to see Joshua, so he can go ahead and start falling in love with me."
+dialogue,Phoebe,"(going over to comfort her) Aww, Pheebs."
+dialogue,Rachel,"Honey, that’s you’re name."
+dialogue,Phoebe,That’s short for Phoebe?! I thought that was just what we called each other!
+action,,(Chandler enters from his bedroom.)
+dialogue,Monica,Hey! You’re wearing pants!
+dialogue,Chandler,That’s right! Where are the guys? I’m ready to get drunk and see some strippers.
+dialogue,Monica,It’s 9:30 in the morning!
+dialogue,Chandler,They got a breakfast buffet.
+action,,(The phone rings and Monica answers it.)
+dialogue,Monica,"Hello. (Listens) Oh, hey Ross!"
+dialogue,Chandler,"Ooh, let me talk to him!"
+dialogue,Monica,"Oh-oh, my God!"
+dialogue,Chandler,"Well, can I just…"
+dialogue,Monica,"(to Chandler) Shh!! (On phone) Wait, what?"
+dialogue,Chandler,She’s shhing me! It’s my phone and she’s shhing me!
+dialogue,Phoebe,Shhh!! Please! What’s he saying?
+dialogue,Monica,He’s with Emily at a Bed and Breakfast in Vermont!
+dialogue,Phoebe,What? Oh my God!
+dialogue,Rachel,What? Who the hell is Emily—(realises) noooo!!
+action,,Commercial Break
+heading,,"[Scene: Chandler and Joey's, erm, Monica and Rachel's, scene continued from earlier.]"
+dialogue,Rachel,They’re in Vermont!! How could this happen?! (She waves her arms franticly and hits Chandler.)
+dialogue,Chandler,Ow!
+dialogue,Rachel,How—how did end up in Vermont with that awful witch?! (She hits Chandler again.)
+dialogue,Chandler,"Maybe, she doesn’t hit him all the time."
+action,,"[cut to Ross in Vermont, talking on the phone.]"
+dialogue,Ross,"When we first met her, she was soaking, her feet were wet! Who wouldn’t be miserable? I’m telling you when I got her into a dry pair of shoes, she was a totally different person."
+dialogue,Emily,(rushing in) Ross! Come quickly! There’s a deer just outside eating fruit from the orchard!
+dialogue,Ross,"I’ve gotta go, there’s a deer just outside eating fruit from the orchard! (He hangs up and runs out.)"
+action,,[cut back to Chandler and Joey’s.]
+dialogue,Monica,"He had to go, there’s a deer just outside eating fruit from the orchard."
+dialogue,Rachel,"I don’t get this! She was horrible! (She hits Chandler, yet again.)"
+dialogue,Chandler,"Okay, I’m going to go stand over there. (Points and moves into the living room.)"
+dialogue,Monica,Why do you care so much anyway?
+dialogue,Rachel,"I don’t care! All right, y’know what I’m just upset that I’m getting nowhere with Joshua that—y’know what still, you do not meet someone and go flitting off to Vermont!"
+dialogue,Monica,"Well, when you first met Barry, you flitted off to Vail."
+dialogue,Rachel,"Oh, y’know, would you just for once , not remember every…little…thing!! (Storms out.)"
+dialogue,Chandler,"So y’know, uh, when’s he getting back?"
+dialogue,Monica,A couple of days.
+dialogue,Chandler,"Y’know, I knew something like this was going to happen. (He starts to take off his pants, revealing that he is still wearing his sweat pants.)"
+dialogue,Monica,What are you doing?! Chandler! You can’t just go back a phase!
+dialogue,Chandler,"Yes you can. You’re thinking about time, you can’t go back in time."
+dialogue,Phoebe,"Well, look, why don’t you just, why don’t you do your Phase Two strip club thing with us."
+dialogue,Monica,"Yeah, come on, we can be guys!"
+dialogue,Chandler,(laughs) No you can’t.
+dialogue,Phoebe,Come on! Let us be guys! Maybe we want to be guys!
+dialogue,Chandler,"You don’t want to be guys, you’d be all hairy and wouldn’t live as long. (Starts to go to his bedroom)"
+dialogue,Phoebe,"Y’know you, you just stop being such a wuss and get those off and you come with us and watch naked girls dance around!!"
+dialogue,Chandler,Okay. (Starts to cry)
+dialogue,Phoebe,I’m sorry. (Goes and hugs him)
+heading,,"[Scene: Silvercup Studios, Joey is just arriving for his scene.]"
+dialogue,Joey,(rushing in) Hey! Joey Tribbiani! I’m here! I’m here!
+dialogue,The A.D,"Calm down, we got time, we’re running a little late."
+action,,"(Just then, Charlton Heston walks out of his dressing room and starts eating a liquorice whip.)"
+dialogue,Joey,"Look at that, Charlton Heston eating a liquorice whip!"
+dialogue,The A.D,"Yeah, we loves ‘em. I’ve never seen him with—(He gets a whiff of Joey and starts smelling around.)"
+dialogue,Joey,"(trying to act like he’s not the one that stinks.) Whoa! Yeah, what the hell is that? What smells so bad?"
+dialogue,The A.D,You.
+dialogue,Joey,"Y’know, I can see why you think that, but ah, actually, you know who I think it is?"
+dialogue,The A.D,You?
+dialogue,Joey,"No-no, it’s uh, it’s Heston."
+dialogue,The A.D,What?
+dialogue,Joey,"Yeah, the man wreaks! Smells like he went on a three day fishing trip and then ate some liquorice."
+dialogue,The A.D,"There’s no way he smells, he’s the only one around here with a shower in his dressing room."
+dialogue,Joey,"Really, a shower huh? And uh, which-which room might that be?"
+dialogue,The A.D,"The one with ""Heston"" on it."
+dialogue,Joey,Interesting.
+heading,,"[Scene: A strip club, the girls are there with Chandler, who isn’t enjoying himself.]"
+dialogue,Monica,"(coming back to the stage and sitting next to Chandler) Okay, I’ve got some Ones, you wanna put them in her panties?"
+dialogue,Chandler,"No thanks, Mom!"
+action,,(A man sits down next to Phoebe and lights up a cigarette.)
+dialogue,Phoebe,"Oh, no umm, hi, that-that, you have to put that out, ‘cause I’m pregnant."
+dialogue,The Cigarette Smoking Guy,"(No, not the Cigarette Smoking Man from The X-Files .) Well, maybe you and your baby should go to another strip club."
+dialogue,Phoebe,"Ha-ha, it’s not my baby, ha-ha-ha! (He leaves.)"
+action,,(The dancer finishes and everyone claps.)
+dialogue,Monica,"Very good, (getting up and sliding a One into the dancer’s hot pants) so good."
+dialogue,Phoebe,"(doing the same) I really, really enjoyed it. Very exotic."
+dialogue,Rachel,"(joining them) Well, I just checked our messages and Joshua didn’t call. I mean you’d think he’d be worried about me not showing up at his club. Ugh, you know what makes it so much worse, Ross is all happy in Vermont!"
+dialogue,Phoebe,Come on! Look where you are!!
+dialogue,Monica,"(to the waitress) When you get a sec, another round of daiquiris."
+dialogue,Phoebe,"Remember, a virgin for me please."
+dialogue,Monica,Oh! And don’t let me leave without getting the name of that carpet guy.
+dialogue,Chandler,"Ahh, come on! Y’know what—y’know what, I think I’m just gonna go home and call Kathy."
+dialogue,Phoebe,"Well, if you think it will help."
+dialogue,Chandler,"No! That was a test! In a couple of hours I’m gonna get really drunk and wanna call Kathy and you guys are gonna have to stop me! And then after that, I’m gonna get so drunk, I’m gonna wanna call Janice"
+dialogue,Phoebe,You should! How is she?
+dialogue,Chandler,Ohhh!!
+dialogue,Monica,I think somebody needs another lap dance. (Motions for one.)
+heading,,"[Scene: Silvercup studios, Joey is taking a shower in Charlton Heston’s dressing room. Heston enters the room, Joey panics, and walks over to the shower and confronts Joey about the use of his shower.]"
+dialogue,Charlton Heston,Hello! Who’s in there? (He opens to curtain to reveal a naked and wet Joey.)
+dialogue,Joey,How ya doin’?
+dialogue,Charlton Heston,Who in the hell are you?
+dialogue,Joey,"I guess you wouldn’t believe me if I said I was Kurt Douglas, huh?"
+dialogue,Charlton Heston,Put some pants on kid so I can kick your butt.
+dialogue,Joey,"No-no-no, no, no, wait. You see, I’m an actor, Joey Tribbiani, I’m doing a scene with you today, and well, I stink."
+dialogue,Charlton Heston,(shocked) You’re in this picture?
+dialogue,Joey,"Yeah-yeah, I’m one of the cops that won’t work with you ‘cause you a lose cannon. Anyway, look, I’m really sorry, but I stink!"
+dialogue,Charlton Heston,"Joey, right?"
+dialogue,Joey,Yeah.
+dialogue,Charlton Heston,"(tosses him a towel, motions for him to get out of the shower and sits down on the couch) Every actor at one time or another—opp! (Joey tries to sit down next to him and Heston makes him sit somewhere else.) Every actor thinks he stinks, even Lawrence Oliver at sometimes thought he stank, Bob Redford won’t even watch himself."
+dialogue,Joey,"Oh no-no-no, you don’t understand…"
+dialogue,Charlton Heston,Listen to me!
+dialogue,Joey,"Oh yeah, yeah."
+dialogue,Charlton Heston,"I don’t know one actor worth his salt that didn’t say at one time or another, ""God, I stink!"" Hell, I just did a scene out there, first take, I stunk the place up. But, the important thing you must remember, no matter how badly you think you might stink, you must never, ever bust into my dressing room and use my shower! Do you understand me?!"
+dialogue,Joey,"Yes sir! Yes sir, I’m-I’m—(he starts to leave)"
+dialogue,Charlton Heston,Wait a minute! Take your pants.
+dialogue,Joey,"Yeah. Oh, yeah."
+heading,,"[Scene: Chandler and Joey's, erm, Monica and Rachel's, Chandler, Monica, and Phoebe are returning from the strip club.]"
+dialogue,Monica,"So, we did okay at the strip club, right?"
+dialogue,Chandler,"Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!"
+dialogue,Rachel,(entering) I can’t believe it! He still hasn’t called.
+dialogue,Phoebe,"Who, Josh?"
+dialogue,Rachel,It’s Joshua.
+dialogue,Monica,"What, he doesn’t like Josh?"
+dialogue,Rachel,"No, I don’t."
+dialogue,Chandler,"All right, well I’m gonna put my sweats back on."
+dialogue,Phoebe,"Oh no! Wait! Wait! Okay, y’know what, you were right, you were right. We really weren’t great at being guys, but you know why? Because we’re girls."
+dialogue,Chandler,Yeah?
+dialogue,Phoebe,And do you know what girls are really good at?
+dialogue,Chandler,Stripping!
+dialogue,Phoebe,"No, listening! Sit! Y’know, maybe it would just really, really help if you would just talk."
+dialogue,Rachel,"Yeah, come on! What’s going in on in there? (Pats his chest.)"
+dialogue,Monica,"Yeah. And y’know, if you wanna cry, that’s okay too."
+dialogue,Chandler,"Okay, look, I’m gonna have to ask you all to leave."
+dialogue,Monica,Come on! Chandler!
+dialogue,Chandler,"Look, forget it. We tried, but Phase Three is a lost cause, Okay? Those strippers were insanely hot, and I couldn’t picture myself with any of them. (Sits back in disgust.)"
+dialogue,Monica,"They really were pretty, weren’t they? (Rachel and Phoebe both agree)"
+dialogue,Phoebe,"Yeah, I really liked that fighter pilot one."
+dialogue,Monica,"Oh, Candy! She was so spunky!"
+dialogue,Phoebe,Yeah.
+dialogue,Monica,"Y’know, I think if I were going to be with a woman. (Chandler is intrigued.) It’d, it’d be with someone like Michelle, she was so oh, she was so petite."
+dialogue,Rachel,"See, I don’t know, for me it would have to Chantal."
+dialogue,Monica,"Oh, Chantal!"
+dialogue,Rachel,"Oh my goodness, she had the smoothest skin! I mean when I stuck that dollar bill in her g-string and grazed her thigh…"
+dialogue,Chandler,(jumping up) Phase Three! I just achieved Phase Three!
+dialogue,Monica,Really?!
+dialogue,Chandler,I am totally picturing you with all those women!
+dialogue,Monica,That’s-that’s not Phase Three.
+dialogue,Chandler,"Well, I’m there too!"
+dialogue,Rachel,"Well, are we all together? Like in a group?"
+dialogue,Chandler,Stop it! You’re killing me! I think I just moved on to Phase Four!
+dialogue,Phoebe,Oh! What is that? What is that?
+dialogue,Chandler,Where I don’t want to have a relationship ever! I just want to have sex with strippers and my friends!!
+heading,,"[Scene: Central Perk, the gang is there, minus Ross. Chandler is trying to cheer Joey up about missing Phase Two.]"
+dialogue,Chandler,"Come on, let me see that smile."
+dialogue,Joey,I don’t wanna.
+dialogue,Chandler,Please?
+dialogue,Joey,I wanted to go to the strip club!
+dialogue,Chandler,"I know, I know, but you’re gonna have plenty of chances. There are literally thousands of women out there just waiting to screw me over."
+dialogue,Joey,"Yeah, all right. (Ross enters.)"
+dialogue,Monica,Hey!
+dialogue,Ross,Hey!
+dialogue,Phoebe,"Hey—ooh so, how was Vermont?"
+dialogue,Ross,"Emily is…incredible. I mean there-there are no words to describe it, I mean the whole weekend was like a dream. (Sees Rachel coming back from the bathroom.) Oh! And you! Rach!"
+dialogue,Rachel,"Oh, hey!"
+dialogue,Ross,Hey! You were so right!
+dialogue,Rachel,What?
+dialogue,Ross,"Uh, what you said, about us being in a place where we could finally be happy for each other."
+dialogue,Rachel,"Oh, hmm."
+dialogue,Ross,"I mean, I, I-I admit I-I wasn’t quite there. Y’know, I mean the thought of you and that-that Josh guy…"
+dialogue,Rachel,Joshua.
+dialogue,Ross,"Joshua…guy at that club, dancing and having a good time, the thought of it kinda…y’know."
+dialogue,Rachel,"Yeah, I…"
+dialogue,Ross,But now! I’m there! I’m totally there! I’m-I’m finally where you are!
+dialogue,Rachel,"Oh, thank goodness!"
+dialogue,Ross,"Yeah, and-and thank you for Emily."
+dialogue,Rachel,"Oh, no problem. I’m so glad I could help. Happy for you. (She playfully punches him.)"
+dialogue,Ross,Happy for you. (He punches her back.)
+dialogue,Rachel,"No, happy for you! (Hits him harder.)"
+action,,Closing Credits
+heading,,"[Scene: Chandler and Joey's, erm, Monica and Rachel's, Chandler is there and is getting ready to direct a bunch of strippers, Monica, Rachel, and Phoebe on what to do in the upcoming orgy of lesbian lust. Yes, it’s a dream sequence, this isn’t cable.]"
+dialogue,Chandler,"All right ladies, here’s what we’re gonna do. (Points to a stripper.) You are gonna take off my clothes. (To another two strippers) You two, go get the oils. (To another stripper) And you just constantly scream at the top of your voice, ""Chandler’s the king! Chandler’s the king!"""
+dialogue,Phoebe,"I-I wanna be with her, (points to the stripper next to her) I like her."
+dialogue,Chandler,"Oh, that’s fine! Go with your instincts, go with your instincts."
+dialogue,Monica,"Wait, now, what am I doing again?"
+dialogue,Chandler,"Come on! Would you please pay attention, I could wake up at any moment!"
+dialogue,The Cigarette Guy,"Hi, I’m Joshua, I’m here to pick up Rachel."
+dialogue,Rachel,"No-no-no, that’ not Joshua."
+dialogue,Chandler,"What do you want from me, I’ve never met the guy. So anyway, Rachel, I’m sorry you can’t stay, (Rachel is upset about leaving the orgy with the cigarette guy.) but the rest of us have a lot of work to do. (The cigarette guy starts rubbing Chandler’s back.) What are you doing? (The guy just nods) All right, listen, I’ve got to wake up!"
+action,,End

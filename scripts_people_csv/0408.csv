@@ -1,0 +1,308 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's, Joey is sitting at the counter reading a magazine as the phone rings.]"
+dialogue,Joey,(answering phone) Hello.
+dialogue,Chandler,"(on phone) Hey, it’s me. I know you can’t stand to be in the same room as me, so I just thought I’d try and apologize over the phone. All I… (Joey hangs up the phone in disgust.)"
+action,,(Pause)
+action,,(The phone rings again.)
+dialogue,Joey,(answering phone) Hello.
+dialogue,Chandler,"Look I never should have kissed your girlfriend, but I’m… (Joey hangs up the phone again.)"
+action,,(Pause)
+action,,(The phone rings yet again.)
+dialogue,Joey,(answering phone) Stop callin’!!
+dialogue,Voice,"(on phone) Hey! Hey! Hey! This is 92.3, WXRK, K-Rock for our $1,000 daily challenge."
+dialogue,Joey,All right!
+dialogue,Voice,"What is the name of your roommate who is very, very sorry and would do anything… (Joey realizes it’s Chandler and hangs up the phone in anger.)"
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, everyone but Joey and Chandler are there getting ready for Thanksgiving.]"
+dialogue,Chandler,"(entering) Aww, turkey! Aww, giving thanks! Aww!"
+dialogue,Phoebe,"Look everyone, it’s the spirit of Thanksgiving!"
+dialogue,Rachel,So are things with you and Joey any better?
+dialogue,Chandler,"They couldn’t be worse. I spent eight hours calling him last night, just trying to get him to talk to me."
+dialogue,Rachel,"Oh wow, eight hours? So you could probably really use one of those plug-in telephone headsets huh?"
+dialogue,Ross,Should we all expect Christmas gifts that can be stolen from your office?
+dialogue,Rachel,You shouldn’t.
+dialogue,Phoebe,"Speaking of Christmas, umm since Monica and I are starting a new business and have like no money, umm, this year maybe we could do secret Santa, and then we each only buy one gift. And-and there’s the added mystery of who gets who."
+dialogue,Ross,Who gets whom. (They all look at him.) I don’t know why I do that.
+action,,"[Cut to later, the gang, minus Joey, is watching the Thanksgiving Day parade.]"
+dialogue,Rachel,"Well, I’m gonna take a nap, turkey makes me sleepy."
+dialogue,Monica,We haven’t eaten yet!
+dialogue,Rachel,"I know, but all that work you’re doing to get it ready, I just… (goes into her bedroom.)"
+dialogue,Chandler,"Hey, by any chance did either of pick uh Rachel for your secret Santa, ‘cause I wanna trade for her."
+dialogue,Phoebe,I picked her! Oh thank God you want her! Ooh!
+dialogue,Chandler,Wow! Why do you want to get rid of her so badly?
+dialogue,Phoebe,"Because she exchanges every gift she ever gets, it’s like impossible to get her something she likes. Come on, let’s trade!"
+dialogue,Chandler,"Oh that’s not true! That’s not true! I got her that backpack and she loved it! I remember how much she was crying the day when that big dog ran off with it… (notices the look on Monica and Phoebe’s faces.) Oh, there was no big dog. All right this sucks! I already got her this briefcase, and I had R.G. put on it… (Phoebe looks confused.) Her initials…"
+dialogue,Phoebe,Ohh.
+dialogue,Monica,"Well, maybe you could give to somebody else. Ooh, like Ross Geller."
+dialogue,Chandler,"Op, y'know what though, it’s kind’ve a girlie briefcase."
+dialogue,Monica,Who cares? He works in a museum!
+dialogue,Chandler,"Hey, what time is it? The big game is about to start!"
+dialogue,Phoebe,"You don’t have to do that, Ross and Joey aren’t here, you can watch the parade if you want."
+dialogue,Chandler,Thanks.
+dialogue,Monica,What is wrong with this freezer?! (She jabs her arm into the freezer and a piece of ice flies into her eye.) Ow! Ow!!
+dialogue,Phoebe,"God, what happened?!"
+dialogue,Monica,"Oh my God, ice just got in my eye!"
+dialogue,Rachel,(standing in her doorway) People are trying to sleep in here!
+dialogue,Chandler,"Monica got ice in her eye, and it hurts."
+dialogue,Phoebe,"Open it up, let me see."
+dialogue,Monica,"Oh, y’know what, I can’t, it really kills."
+dialogue,Chandler,Well maybe you should put some ice on it.
+dialogue,Phoebe,"Ooh, God it looks bad."
+dialogue,Rachel,"Honey, maybe we should take you to a doctor."
+dialogue,Monica,"No, my eye doctor is Richard! I can’t go to him when I don’t have a boyfriend!"
+dialogue,Chandler,He’s really picky about his patients.
+dialogue,Phoebe,"Honey, you’ve got to go. What’s his office number?"
+dialogue,Monica,Like I remember his office number! (Pause) Speed dial 7.
+dialogue,Phoebe,"(on phone) Hi! Yeah, I’m calling on behalf of Monica Geller’s eye, and is um, is Richard Burke in today. (Listens) (to Monica) He’s out of town, but does she want to see the on-call doctor?"
+dialogue,Monica,Yes!!
+dialogue,Phoebe,Yes! She’s very excited about that.
+action,,"[Cut to later, Phoebe is adding butter to something and Ross is watching.]"
+dialogue,Phoebe,"This is so cool, ‘til Monica gets back, it’s like I’m head chef and I get to make all the decisions. (She looks at the remaining butter, and then decides to add it to the dish.)"
+dialogue,Ross,"Hey-hey, I thought she told you to follow the recipe exactly!"
+dialogue,Phoebe,"Okay, get out of my kitchen!"
+dialogue,Chandler,"(entering) All right! Okay! I think I am making some progress with Joey, when I went into the apartment he went straight into his bedroom but he only slammed the door once! (Ross is pleased.) I mean yeah, he gave me the finger while doing it."
+dialogue,Phoebe,All right I… I gotta call my mom and ask her a left handed cooking question.
+dialogue,Ross,"So listen ah, I picked Monica for secret Santa, but I’m already getting her something for Chanukah, I was wondering if you wanna switch."
+dialogue,Chandler,"Oh y’know what, I was already trying to trade for ah, well, you."
+dialogue,Ross,"Really?! Wow! That’s-that’s so nice, what are you gonna get me?"
+dialogue,Chandler,"I don’t know R.G., I was thinking something girlie for your office."
+dialogue,Ross,"Yeah, well maybe Phoebe will switch with me."
+dialogue,Chandler,"Oh no-no-no, you don’t want to do that, then you’re gonna get stuck with Rachel and she exchanges every gift she ever gets."
+dialogue,Ross,"Oh, that’s not true! I’ve got her lots of stuff she never took back."
+dialogue,Chandler,Like?
+dialogue,Ross,"Like uh, that gold necklace I got her last year."
+dialogue,Chandler,When was the last time you saw her wear it?
+dialogue,Ross,"Well, she wore it all Christmas day, and then uh…"
+dialogue,Chandler,Big dog?
+heading,,"[Scene: Chandler and Joey's, Joey is repacking the furniture into boxes to return it.]"
+dialogue,Ross,(entering) Hey!
+dialogue,Joey,Hey!
+dialogue,Ross,What are you doing?
+dialogue,Joey,I’m sending back all this stuff that Chandler bought out of guilt.
+dialogue,Ross,Everything? Even the TV?
+dialogue,Joey,No! I’m putting that in my room.
+dialogue,Ross,"Listen, Joey, I know what he did was wrong but don’t you think you could at least hear the guy out?"
+dialogue,Joey,"Back when you and Rachel were together, if Chandler had kissed her, would you hear him out?"
+dialogue,Ross,"That’s a good point. So uh, how long are you gonna punish him?"
+dialogue,Joey,Five years.
+dialogue,Ross,You’ve sentenced him?!
+dialogue,Joey,Hey! Don’t do the crime if you can’t do the time.
+dialogue,Ross,"Joey, the guy’s your best friend."
+dialogue,Joey,"No, was my best friend. Anyway, I don’t know why you’re pushing for him so hard. With him out of the way as my best friend, there’s a spot open."
+dialogue,Ross,"Oh, who? Me?"
+dialogue,Joey,Yeah!
+dialogue,Ross,Wow! I’m honored! And y’know what I’m gonna do as my first act as your best friend?
+dialogue,Joey,What?
+dialogue,Ross,I’m gonna get you to talk to Chandler.
+dialogue,Joey,All right. But if you weren’t my best friend.
+heading,,"[Scene: Central Perk, Chandler and Kathy are sitting at a table and talking about Joey.]"
+dialogue,Kathy,"Oh my God, is it really that bad?"
+dialogue,Chandler,"I walk into a room and he won’t even talk to me, he just mumbles something in Italian. And I know he only knows the bad words."
+dialogue,Joey,"(entering) Hey Gunther, have you uh, have you seen Chandler?"
+dialogue,Gunther,"I thought you were Chandler. But umm, one of who is over there."
+action,,(Joey turns around and sees them kissing.)
+dialogue,Kathy,Oh.
+dialogue,Chandler,Hey Joe.
+dialogue,Joey,(Something in Italian.) (Storms out.)
+heading,,"[Scene: Dr. Burke’s office, Rachel and Monica are waiting as the doctor arrives.]"
+dialogue,Doctor,"I’ll be right with you. Okay? (to the nurse) Thanks, Wendy."
+dialogue,Monica,Oh my God! How cute is the on-call doctor?
+dialogue,Rachel,"Ooh, so cute, that I’m thinking about jamming this pen in my eye."
+action,,(The intercom buzzes.)
+dialogue,Nurse,Dr. Burke will see you know.
+dialogue,Monica,"Oh no-no-no, not Dr. Burke. Dr. Burke is out of town. The-the on-call doctor will see me now."
+dialogue,Nurse,"Dr. Richard Burke is out of town. Dr. Timothy Burke, his son, will see you now."
+dialogue,Dr. Timothy Burke,Ready?
+action,,"(Monica looks at Rachel, who gives her the thumbs up.)"
+heading,,"[Scene: Chandler and Joey's, Joey is packing as Chandler rushes in.]"
+dialogue,Chandler,Hey! I’m sorry! That—(sees that Joey is about to leave) where are you going?
+dialogue,Joey,My folks.
+dialogue,Chandler,"Oh, uh, when-when are you coming back?"
+dialogue,Joey,I don’t know. I might stay there for a few days while I look for an apartment.
+dialogue,Chandler,What?!
+dialogue,Joey,"Yeah, y’know at first I thought we could talk about this y’know, work it out, but uh, seeing you two together I don’t think I…"
+dialogue,Chandler,"Hey, look, what do you want me to say? Do you want me to say that I’ll stop seeing her?"
+dialogue,Joey,"Look, it’s not about her. Okay? But seeing you two together just reminds me of what you did. And I don’t want to live with some one who doesn’t know what it is to be a friend. So, I’ll see ya. (He starts to leave, but Chandler grabs his bag and stops him.)"
+dialogue,Chandler,"Hey, look, I know what it is to be a friend, I just-I just screwed up!"
+dialogue,Joey,Yeah! You did! And that’s why I’m leaving.
+action,,(The chick and the duck walk into the living room.)
+dialogue,Chandler,"All right look, if you’re not gonna stay for me, then at least stay for them! Okay, they have had a very difficult year! What with the robbery and all!"
+dialogue,Joey,"When that guy was robbing us, and I was locked in the entertainment unit for like six hours, you know what I was doing in there all that time? I was thinking about how I let you down!"
+dialogue,Chandler,What?
+dialogue,Joey,"Yeah! But if would’ve know what kind of friend you were gonna turn out to be, I wouldn’t have worried about it so much! See you around!"
+dialogue,Chandler,"All right, wait! Come on! Just wait one second! There has to be something that I can do! Something! If we still had that entertainment unit I would get in it for six hours and think about how I let you down. (Joey looks intrigued) What?"
+dialogue,Joey,We’ve got a box. (Motions to a large wooden box next to him.)
+action,,Commercial Break
+heading,,"[Scene: Dr. Burke’s office, Tim is examining Monica.]"
+dialogue,Tim,"Last time I saw you, it was the morning I left for college. And you were just standing outside The Dairy Queen ."
+dialogue,Monica,I was probably waiting for it to open.
+dialogue,Tim,"I gotta tell you, you look great now."
+dialogue,Monica,You look great too.
+dialogue,Tim,You’re an excellent patient!
+dialogue,Monica,So how does it look?
+dialogue,Tim,"Well, you’ve got a little scratch on your cornea, your gonna have to wear a patch for a couple of days."
+dialogue,Monica,Like a pirate?!
+dialogue,Tim,If that helps you.
+dialogue,Monica,"Umm, so how long have you been working with your dad? (He looks at her) Come on, one of us had to mention him."
+dialogue,Tim,I moved back here a couple of months ago.
+dialogue,Monica,Oh. Big family dinner tonight?
+dialogue,Tim,Uh. (He holds up a brown lunch bag.)
+dialogue,Monica,No way!
+dialogue,Tim,I was gonna have Thanksgiving at my girlfriend’s.
+dialogue,Monica,(disappointed) Oh.
+dialogue,Tim,But we broke up.
+dialogue,Monica,(happy) Oh.
+dialogue,Tim,She-she wasn’t ready for a serious commitment.
+dialogue,Monica,"(sympathetic) Oh. (in a pirate’s voice) So you made her walk the plank? Aye, matie?"
+dialogue,Tim,You’re not wearing the patch yet.
+dialogue,Monica,I know.
+heading,,"[Scene: Monica and Rachel's, It’s closer to dinner. Monica has just told everyone that Tim is coming to dinner.]"
+dialogue,Ross,He’s coming here for Thanksgiving!
+dialogue,Rachel,"I know, it’s sick."
+dialogue,Monica,Why is it sick?
+dialogue,Rachel,Because it’s Richard’s son! It’s like inviting Greek tragedy over for dinner!
+dialogue,Monica,"Hey, come on, Phoebe, you understand don’t you?"
+dialogue,Phoebe,"Yeah, I can see where I’d be your best shot but, no. I’m sorry, but I think it’s twisted."
+dialogue,Ross,Yeah.
+dialogue,Joey,(coming out of the bathroom) What’s twisted?
+dialogue,Monica,Me going out with Richard’s son.
+dialogue,Joey,Ewwwww!! Ew! Ew! Ew!
+dialogue,Chandler,"(He is now in the box, in their living room.) Sounds like a really bad idea to me."
+dialogue,Rachel,Is he okay in there?
+dialogue,Joey,He’s fine!
+dialogue,Ross,"Hey, y'know, Mon, if things wrong out between you and Richard’s son, you’d be able to tell your kids, that you slept with their grandfather."
+dialogue,Monica,"Fine! Judge all you want to but, (points to Ross) married a lesbian, (points to Rachel) left a man at the altar, (points to Phoebe) fell in love with a gay ice dancer, (points to Joey) threw a girl’s wooden leg in a fire, (points to Chandler) livin’ in a box!! (goes to her room)"
+dialogue,Rachel,"So now, what exactly is the point of the box?"
+dialogue,Joey,Chandler?
+dialogue,Chandler,"The meaning of the box is three fold. One (holds a finger up through the air hole), it gives me the time to think about what I did. Two (holds up another finger), it proves how much I care about my friendship with Joey. And three (holds up a third finger), it hurts!"
+dialogue,Ross,"(to Rachel) Oh hey! Hey uh, you remember the necklace I gave you last year? Can I see it?"
+dialogue,Rachel,(worried) Why?
+dialogue,Ross,I just wanna check something.
+dialogue,Rachel,Okay. (She goes into her bedroom)
+dialogue,Ross,"(He puts his hand over the hole on the box.) (to Chandler) Now, we’ll see."
+dialogue,Chandler,Air hole! Air hole!! (Ross retracts his hand quickly.)
+dialogue,Rachel,(coming out of her bedroom with a necklace) Here it is! I love it. I wear it all the time.
+dialogue,Ross,"(grabbing the necklace) The necklace I got you was gold, this one is silver."
+dialogue,Rachel,"Huh, well maybe it uh, it changed."
+dialogue,Ross,Oh my God! You actually exchanged it!
+dialogue,Rachel,Well isn’t it better that I exchanged it for something that I enjoy and that I can get a lot of use out of?
+dialogue,Ross,What did you get?
+dialogue,Rachel,Credit.
+action,,(There’s a knock on the door.)
+dialogue,Monica,"(running in from her bedroom) I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! I’ll get it! (opens the door) Hi, Tim."
+dialogue,Tim,Hi. (gives her a bottle of wine)
+dialogue,Monica,"Thank you. Come meet my friends. This is uh, Phoebe."
+dialogue,Tim,"Hi, nice to meet you."
+dialogue,Monica,And Joey.
+dialogue,Joey,Hey!
+dialogue,Tim,"Hi, Joey."
+dialogue,Monica,"My brother, Ross."
+dialogue,Ross,Hey.
+dialogue,Monica,And Rachel. (Chandler clears his voice loudly) And that’s Chandler.
+dialogue,Chandler,How do ya do.
+dialogue,Tim,What’s…
+dialogue,Monica,"Umm, well, he’s…"
+dialogue,Joey,He’s doin’ some thinkin’!
+action,,"[cut to later, Joey, Rachel, Ross, and Tim are watching the football game, and they all cheer loudly.]"
+dialogue,Chandler,What happened? What happened?!
+dialogue,Joey,You kissed my girlfriend!
+action,,(A commercial for sunglasses comes on.)
+dialogue,Rachel,"Ooh, I like those sunglasses."
+dialogue,Ross,"Like ‘em, like ‘em? Or, I’d like to get store credit for that amount like ‘em?"
+dialogue,Rachel,"(Swears in Italian, it’s the same term used by Joey earlier and Joey nods his approval.)"
+dialogue,Monica,"All right everybody, this turkey is ready!"
+dialogue,Tim,Where can I wash up?
+dialogue,Monica,"Here, let me show you. Okay, the towels are hanging next to the sink, and umm, you can use the fancy soap."
+dialogue,Tim,Thank you.
+dialogue,Rachel,Fancy soap? I thought we were savin’ that for the Pope!
+dialogue,Monica,See he’s nice. Right?
+dialogue,Phoebe,"Yeah, but Monica, do you actually want to be in a relationship where you can actually use the phrase, ""That’s not how your dad used to do it."""
+dialogue,Tim,Wow! Everything looks great! Where should I sit?
+dialogue,Monica,I saved you a seat. (Motions to the one next to her.)
+dialogue,Rachel,(pouring the wine) Sick-sick-sick-sick.
+action,,(There’s a loud knocking.)
+dialogue,Phoebe,"Oh, I’ll get it. (goes over to the door.)"
+dialogue,Chandler,Gotcha! (laughs)
+dialogue,Joey,That doesn’t sound like thinking to me!
+dialogue,Chandler,Sorry!
+dialogue,Joey,Y’know I don’t think you should be talking at all in there! I think you’ve got to much thinking to do to be talking and making jokes!
+dialogue,Chandler,"Okay, okay, you got it!"
+dialogue,Rachel,"Ross, can you pass me the yams?"
+dialogue,Ross,"Sure! Oh, and Joey’s got the mashed potatoes if you want to exchange them."
+dialogue,Rachel,Would you stop?! What is the matter with you?!
+dialogue,Monica,"Oh-ho-ho, we’ve got company."
+dialogue,Ross,"There’s nothing the matter with me. See, I’m not completely devoid of sentiment, see I have feelings."
+dialogue,Rachel,"Okay, fine. (She gets up and walks into her bedroom)"
+action,,(an awkward silence follows)
+dialogue,Chandler,"You can’t tell, but I’m trying to break the tension by mooning you guys!"
+dialogue,Joey,"All right, look! If this is just a big joke to you, then forget about it, all right?! This means something to me! And if it doesn’t mean anything to you, then you should get out of there, otherwise you’re just an idiot in a box!"
+dialogue,Chandler,"You’re right, and I’m sorry! This means a lot to me! I want you to be my friend again! I swear, I won’t say another word tonight."
+dialogue,Joey,So are you gonna start taking this thing seriously?
+dialogue,Chandler,Absolutely!
+dialogue,Joey,That sounds like another word to me! Are you gonna take this seriously? (There’s no response from Chandler.) Okay.
+action,,(Rachel comes back carrying a shoe box.)
+dialogue,Rachel,"Don’t say that I have no sentiment! (Starts to show Ross what’s in the box.) This is a movie stub from our first date! This is an eggshell from the first time you made me breakfast in bed! (Holds up a bone) This is from the museum from the first time we… were together. Okay, maybe I exchange gifts sometimes, but I keep the things that matter!"
+dialogue,Ross,"I don’t know what to say, I’m sorry. Though, you’re not supposed to take these. (Points to the bone) It’s like a million years old, we, we actually, we had people looking for that."
+action,,(Rachel glares at him.)
+action,,[Cut to the balcony with Monica and Tim.]
+dialogue,Monica,"(putting off her coat) Ooh, this always happens. (Her coat gets stuck.)"
+dialogue,Tim,"Here, let me help. (Does so.)"
+dialogue,Monica,Thank you.
+dialogue,Tim,You-you have a very beautiful… eye.
+dialogue,Monica,Y’know all my friends think this is weird.
+dialogue,Tim,"Y’know I-I thought it was gonna be weird, I mean I almost called and canceled, but it really isn’t."
+dialogue,Monica,"I know! I mean it’s like me and your dad, that’s a totally separate thing."
+dialogue,Tim,"Oh, I totally agree."
+dialogue,Monica,We’re just two people who find each other very attractive. Right?
+action,,"(Tim leans in to kiss her. They stop, and when he tries to kiss her again, Monica pulls away.)"
+dialogue,Tim,What?
+dialogue,Monica,Nothing. Nothing.
+dialogue,Tim,"No-no really, was-was that not okay?"
+dialogue,Monica,"No-no-no that was good, it was, that was uh, that was a goood kiss…"
+dialogue,Tim,Oh my God! It didn’t remind you of…
+dialogue,Monica,(interrupting) Don’t say it!
+dialogue,Tim,"No, but it did! Didn’t it?!"
+dialogue,Monica,Yeah!
+dialogue,Tim,Oh man!!
+dialogue,Monica,I know!
+action,,(They both shiver in horror.)
+action,,"[cut to later, Tim has left. Monica is still shivering. There’s a knock on the door.]"
+dialogue,Joey,I’ll get it. (It’s Kathy.)
+dialogue,Kathy,(sees it’s Joey) Oh.
+dialogue,Joey,Hey.
+dialogue,Kathy,"Hey. Listen, I want you to know how sorry I am…"
+dialogue,Joey,That’s okay. Chandler’s the one I’m mad at.
+dialogue,Kathy,"Well, I’m still sorry. Is he here?"
+dialogue,Joey,In the box.
+dialogue,Kathy,(going over to the box) Chandler?
+dialogue,Phoebe,"Oh, he-he can’t talk right now."
+dialogue,Kathy,Why not? What’s going on?
+dialogue,Phoebe,He’s just trying to show Joey how much he means to him.
+dialogue,Kathy,By being in a box?
+dialogue,Rachel,"Joey, had reasons."
+dialogue,Phoebe,They were threefold.
+dialogue,Kathy,"Oh. Well uh, (to Chandler) you not being able to talk may make this easier. Listen umm… (She looks at the gang who are watching, they take the hint and leave them alone.) Listen I don’t wanna be someone who comes between two best friends. I just, I can’t stand seeing what this is doing to you guys, and I don’t wanna be the cause of that. So, I don’t think we can see each other anymore. I’m gonna go to my mom’s in Chicago, I’m gonna stay there for awhile. I think this could’ve be something really amazing, but y’know this is probably for the best. Y’know? I’m gonna miss you. Good-bye, Chandler."
+action,,"(She gets up and leaves, Chandler waves good-bye with one finger extended through the air hole. Ross glares at Joey.)"
+dialogue,Joey,(starting to cry) Open the box!! (Runs over to do so.)
+dialogue,Rachel,What?!
+dialogue,Joey,"He can still catch her! Come on, get out of there! (He opens the box) Get out of there!"
+dialogue,Chandler,So?
+dialogue,Joey,"Yeah, we’re gonna be fine! Get out!"
+dialogue,Chandler,Yeah?
+dialogue,Joey,"Yeah, you did some real good thinkin’ in there."
+dialogue,Chandler,"Man, this is…"
+action,,(Joey says something unintelligible and they hug.)
+dialogue,Joey,Now go! ‘Cause you can still catch her! And Merry Christmas from you’re secret Santa! (Chandler runs out and closes the door.)
+action,,(After he’s gone.)
+dialogue,Joey,"All right, who got Chandler? ‘Cause I uh, need to trade."
+action,,Closing Credits
+heading,,"[Scene: Monica and Rachel's Balcony, the gang is all there watching Chandler.]"
+dialogue,Rachel,"Oh, he sees her!"
+dialogue,Monica,"Oh, he’s catching up to her!"
+dialogue,Phoebe,"Oh, she sees him! Oh, they’re hugging!"
+dialogue,Ross,He’s taking her purse!
+dialogue,Joey,"Uhh, that’s not them. I’m gonna go call the police."
+dialogue,Phoebe,"Oh, there they are!"
+action,,(They watch them making up and sigh)
+dialogue,Phoebe,"All right, get a room."
+action,,End
