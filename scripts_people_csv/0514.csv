@@ -1,0 +1,307 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, everyone is eating some Chinese food.]"
+dialogue,Phoebe,"(looking out the window) Oh hey, you guys, look! Ugly Naked Guy is putting stuff in boxes!"
+action,,(They all run and join her at the window.)
+dialogue,Rachel,I'd say from the looks of it; our naked buddy is moving.
+dialogue,Ross,"Ironically, most of the boxes seem to be labeled clothes."
+dialogue,Rachel,"Ohh, I'm gonna miss that big old squishy butt."
+dialogue,Chandler,And we're done with the chicken fried rice.
+dialogue,Ross,"Hey! Hey! If he's moving, maybe I should try to get his place!"
+dialogue,All,Good idea! Yes!
+dialogue,Ross,It would be so cool to live across from you guys!
+dialogue,Joey,"Hey, yeah! Then we could do that telephone thing! Y'know, you have a can, we have a can and it's connected by a string!"
+dialogue,Chandler,Or we can do the actual telephone thing.
+action,,Opening Credits
+heading,,"[Scene: Ugly Naked Guy's apartment, Ross, Rachel, and Phoebe are checking out the place. Luckily, Ugly Naked Guy is nowhere to be seen.]"
+dialogue,Ross,Oh my God! I love this apartment! Isn't it perfect?! I can't believe I never realized how great it is!
+dialogue,Rachel,Well that is because your eye immediately goes to the big naked man.
+dialogue,Phoebe,It's amazing! You better hurry up and fill out an application or I'm gonna beat you to it.
+dialogue,Ross,(laughing) Ohh. (Phoebe takes a couple of steps to the door and Ross quickly hurries out.)
+dialogue,Rachel,"Well, I never thought I'd say this, but I'm gonna go use Ugly Naked Guy's bathroom. (Does so.)"
+dialogue,Phoebe,"(looking out the window) Oh, look! There's Monica and Chandler! (Starts yelling.) Hey! Hey, you guys! Hey! (Chandler and Monica start taking each other's clothes off.) Ohh!! Ohh! Ahh-ahhh!!"
+dialogue,Rachel,What?!
+dialogue,Phoebe,(screaming) Ahhh!! Chandler and Monica!! Chandler and Monica!!
+dialogue,Rachel,Oh my God!
+dialogue,Phoebe,CHANDLER AND MONICA!!!!
+dialogue,Rachel,OH MY GOD!!!
+dialogue,Phoebe,OH!! MY EYES!!! MY EYES!!!!
+dialogue,Rachel,Phoebe!! Phoebe!! It's okay!! It's okay!!
+dialogue,Phoebe,NO! THEY'RE DOING IT!!!
+dialogue,Rachel,I KNOW!! I KNOW!! I KNOW!
+dialogue,Phoebe,YOU KNOW?!!!
+dialogue,Rachel,"Yes, I know! And Joey knows! But Ross doesn't know so you have to stop screaming!!"
+dialogue,Ross,(entering) What's going on?
+action,,Phoebe and Rachel:
+dialogue,Rachel,(trying to divert his attention from the window by jumping up and down) HI!! Hi!
+dialogue,Ross,What?! What?!
+dialogue,Rachel,"Nothing! Oh God, we're just so excited that you want to get this apartment!"
+dialogue,Ross,"Actually, it looks really good. (Turns towards the window and now Phoebe starts jumping to divert his attention.)"
+dialogue,Phoebe,(Screaming incoherently.) Get in here!!! (Motions to join her and Rachel.)
+action,,(Ross starts jumping and screaming incoherently and hops over and joins in on the group hug.)
+heading,,"[Scene: Central Perk, Phoebe and Rachel are there talking about Chandler and Monica.]"
+dialogue,Phoebe,You mean whenever Monica and Chandler where like y'know doing laundry or going grocery shopping or—Oh! All that time Monica spent on the phone with sad Linda from camp!
+dialogue,Rachel,"Uh-huh, doing it. Doing it. Phone doing it."
+dialogue,Phoebe,"Oh! Oh, I can't believe it! I mean I think it's great! For him. She might be able to do better."
+dialogue,Joey,(entering) Hey guys!
+dialogue,Rachel,Joey! Come here! Come here!
+dialogue,Joey,What? What?
+dialogue,Rachel,Phoebe just found out about Monica and Chandler.
+dialogue,Joey,You mean how they're friends and nothing more? (Glares at Rachel.)
+dialogue,Rachel,"No. Joey, she knows ! We were at Ugly Naked Guy's apartment and we saw them doing it through the window. (Joey gasps) Actually, we saw them doing it up against the window."
+dialogue,Phoebe,"Okay, so now they know that you know and they don't know that Rachel knows?"
+dialogue,Joey,"Yes, but y'know what? It doesn't matter who knows what. Now, enough of us know that we can just tell them that we know! Then all the lying and the secrets would finally be over!"
+dialogue,Phoebe,"Or, we could not tell them we know and have a little fun of our own."
+dialogue,Rachel,Wh-what do you mean?
+dialogue,Phoebe,Well y'know every time that they say that like they're doing laundry we'll just give them a bunch of laundry to do.
+dialogue,Rachel,"Ohhh, I-I would enjoy that!"
+dialogue,Joey,"No-no-no! No-no wait Rach, you know what would even be more fun? Telling them."
+dialogue,Rachel,"Ehhh, no, I wanna do Phoebe's thing."
+dialogue,Joey,I can't take any…
+dialogue,Phoebe,No! You don't have to do anything! Just don't tell them that we know!
+dialogue,Joey,Noo! I can't take any more secrets! (To Rachel) I've got your secrets. I've got their secrets. I got secrets of my own y'know!
+dialogue,Rachel,You don't have any secrets!
+dialogue,Joey,"Oh yeah? Well, you don't know about Hugsy, my bedtime penguin pal. (Joey shies away.)"
+dialogue,Rachel,"(To Phoebe) So umm, how-how are we gonna mess with them?"
+dialogue,Joey,Ugh.
+dialogue,Phoebe,"Well, you could use your position y'know as the roommate."
+dialogue,Rachel,Okay.
+dialogue,Phoebe,And then. I would use y'know the strongest tool at my disposal. My sexuality.
+dialogue,Chandler,(entering) Hello children!
+dialogue,All,Hey!
+dialogue,Phoebe,"Okay, watch, learn, and don't eat my cookie."
+action,,(She gets up and goes over to Chandler who's ordering some coffee from Gunther.)
+dialogue,Chandler,Hey.
+dialogue,Phoebe,"Hey! Ooh, wow that jacket looks great on you!"
+dialogue,Chandler,Really?
+dialogue,Phoebe,(feels his arm) Yeah the material feels so soft—hello Mr. Bicep! Have you been working out?
+dialogue,Chandler,"Well, I try to y'know, squeeze things. (Phoebe giggles uncontrollably.) Are you okay?"
+dialogue,Phoebe,"Well, if you really wanna know, I'm—Oh! I can't tell you this."
+dialogue,Chandler,"Phoebe, it's me. You can tell me anything."
+dialogue,Phoebe,Well actually you're the one person I can't tell this too. And the one person I want to the most.
+dialogue,Chandler,What's going on?
+dialogue,Phoebe,"I think it's just y'know that I haven't been with a guy in so long and how sometimes you're looking for something and you just don’t even see that it's right there in front of you sipping coffee—Oh no, have I said to much? Well it's just something to think about. I know I will."
+action,,"(She makes a show of bending over to get her coat and showing off her bum. She then walks out, leaving no one to eat her cookie.)"
+heading,,"[Scene: Chandler's bedroom, Chandler and Monica are there, of course. Like who else would it be, duh!]"
+dialogue,Monica,You are so cute! How did you get to be so cute?
+dialogue,Chandler,"Well, my Grandfather was Swedish and my Grandmother was actually a tiny little bunny."
+dialogue,Monica,"Okay, now you're even cuter!!"
+dialogue,Chandler,Y'know that is a popular opinion today I must say.
+dialogue,Monica,What?
+dialogue,Chandler,"The weirdest thing happened at the coffee house, I think, I think Phoebe was hitting on me."
+dialogue,Monica,What are you talking about?
+dialogue,Chandler,I'm telling you I think Phoebe thinks I'm foxy.
+dialogue,Monica,That's not possible!
+dialogue,Chandler,Ow!
+dialogue,Monica,"I'm sorry it's just, Phoebe just always thought you were, you were charming in a, in a sexless kind of way."
+dialogue,Chandler,"Oh, y'know I-I can't hear that enough."
+dialogue,Monica,"I'm sorry, I think that you just misunderstood her."
+dialogue,Chandler,"No, I didn't misunderstand, okay? She was all over me! She touched my bicep for crying out loud!"
+dialogue,Monica,This bicep?
+dialogue,Chandler,Well it's not flexed right now!
+heading,,"[Scene: Monica and Rachel's, Monica, Rachel, Phoebe, and Chandler are there. Monica is entering from her room.]"
+dialogue,Rachel,"Hey Mon, what are you doing now? Wanna come see a movie with us?"
+dialogue,Monica,"Uhh, y'know actually I was gonna do some laundry."
+dialogue,Rachel,Oh.
+dialogue,Monica,"Hey Chandler, wanna do it with me?"
+dialogue,Chandler,"Sure, I'll do it with ya."
+dialogue,Monica,Okay.
+dialogue,Rachel,"Okay great, hold on a sec! (She runs to her room and returns carrying a huge bag of laundry.) Oh, here you go! You don't mind do ya? That would really help me out a lot! Thanks!"
+dialogue,Monica,I mean I-I don't I think I have enough quarters.
+dialogue,Phoebe,I have quarters! (She holds up a bag of quarters.)
+dialogue,Ross,(entering) Hey!
+dialogue,Rachel,Hey Ross! Any word on the apartment yet?
+dialogue,Ross,"Well, I called over there and it turns out Ugly Naked Guy is subletting it himself and he's already had like a hundred applicants."
+dialogue,Rachel,Oh.
+dialogue,Ross,"No-no, I got the edge. I know it's not exactly ethical but I sent him a little bribe to"
+action,,"tip the scales in my direction. Check it out, you can probably see it from the window. (They all head to the window.)"
+dialogue,Monica,"Oh, is it that pinball machine with the big bow on it?"
+dialogue,Ross,No.
+dialogue,Chandler,That new mountain bike?
+dialogue,Ross,No.
+dialogue,Monica,Well what did you send?
+dialogue,Ross,A basket of mini-muffins.
+dialogue,Phoebe,But there's a whole table of mini-muffin baskets. Which one did you send?
+dialogue,Ross,The small one.
+dialogue,Rachel,What?! You-you actually thought that basket was gonna get you the apartment?
+dialogue,Ross,Well yeah! Someone sent us a basket at work once and people went crazy over those little muffins. It was the best day.
+dialogue,Chandler,Your work makes me sad.
+dialogue,Ross,Oh man! I want that place so much!! I was so sure that was gonna work! There's twelve bucks I'll never see again! (Exits.)
+dialogue,Rachel,"All right honey, we'd better go if we wanna catch that movie."
+dialogue,Monica,Bye!
+dialogue,All,Bye!
+dialogue,Phoebe,Bye Chandler! (She walks up to him.) (Quietly.) I miss you already. (She pinches his butt.)
+dialogue,Chandler,"(after they've left) Okay, did you see that?! With the inappropriate and the pinching!!"
+dialogue,Monica,"Actually, I did!"
+dialogue,Chandler,"Okay, so now do you believe that she's attracted to me?"
+dialogue,Monica,"Ohhh, oh my God! Oh my God! She knows about us!"
+dialogue,Chandler,Are you serious?
+dialogue,Monica,Phoebe knows and she's just trying to freak us out! That's the only explanation for it!
+dialogue,Chandler,(a little hurt) Okay but what about y'know my pinchable butt and my bulging biceps—She knows!
+action,,Commercial Break
+heading,,"[Scene: Chandler, Joey, and Ross's, Joey is snoozing with Hugsy, his bedtime penguin pal and Chandler and Monica come storming in.]"
+dialogue,Chandler,(entering) Joey!
+action,,(Joey quickly tries to hide Hugsy by throwing it over his head.)
+dialogue,Joey,Yeah?
+dialogue,Chandler,Phoebe knows about us!
+dialogue,Joey,Well I didn't tell them!
+dialogue,Monica,Them?! Who's them?
+dialogue,Joey,"Uhhh, Phoebe and Joey."
+dialogue,Monica,Joey!
+dialogue,Joey,And Rachel. I would've told you but they made me promise not to tell!
+dialogue,Chandler,Oh man!
+dialogue,Joey,"I'm sorry! But hey, it's over now, right? Because you can tell them that you know they know and I can go back to knowing absolutely nothing!"
+dialogue,Monica,Unless…
+dialogue,Joey,No! Not unless! Look this must end now!
+dialogue,Monica,"Oh man, they think they are so slick messing with us! But see they don't know that we know that they know! So…"
+dialogue,Chandler,"Ahh yes, the messers become the messies!"
+heading,,"[Scene: Monica and Rachel's, Ross is looking at Ugly Naked Guy's apartment through binoculars.]"
+dialogue,Ross,Noooo.
+dialogue,Rachel,"Oh Ross, honey you gotta stop torturing yourself!"
+dialogue,Phoebe,"Yeah, why don't you just find another apartment?"
+dialogue,Ross,Look I've already looked at like a thousand apartments this month and none of them even compares to that one!
+dialogue,Rachel,Y'know what you should do?
+dialogue,Ross,Huh?
+dialogue,Rachel,"You should find out what his hobbies are and then use that to bond with him. Yeah! Like if I would strike up a conversation about say umm, sandwiches. Or uh, or my underwear."
+dialogue,Joey,I'm listening.
+dialogue,Rachel,(To Ross) See?
+dialogue,Ross,"That is a great idea! And! I know Ugly Naked Guy because we've been watching him for like five years so that gives me back my edge! Oh, let's see now he had the trampoline."
+dialogue,Phoebe,He broke that.
+dialogue,Ross,"Well, he had gravity boots."
+dialogue,Rachel,"Yeah, he broke those too."
+dialogue,Joey,So he likes to break stuff.
+dialogue,Ross,"Okay, I've got to go pick up Ben but I-I will figure something out. (He opens the door and stops.) Hey, didn't he used to have a cat?"
+dialogue,Phoebe,"I wouldn't bring that up, it would probably just bum him out."
+dialogue,Joey,"Yeah, poor cat, never saw that big butt coming."
+dialogue,Ross,Right. (Exits.)
+action,,(The phone rings and Rachel answers it.)
+dialogue,Rachel,Hello! (Listens) Oh yeah! Hey! Hold on a second she's right here! (To Phoebe) It's Chandler.
+dialogue,Phoebe,(in a sexy voice) Oh? (Takes the phone from Rachel.) Hello you.
+dialogue,Chandler,"Hello Phoebe, I've been thinking about you all day. (He's holding the phone so that Monica can hear it as well.)"
+dialogue,Phoebe,Eh?
+dialogue,Chandler,"Well you know that thing you said before, I'd be lying if I said I wasn't intrigued."
+dialogue,Phoebe,Really?
+dialogue,Chandler,"Yeah, listen, Joey isn't gonna be here tonight so why don't you come over and I'll let you uh, feel my bicep. Or maybe more."
+dialogue,Phoebe,"I'll have to get back to you on that. Okay, bye! (Hangs up.) Oh my God! He wants me to come over and feel his bicep and more!"
+dialogue,Rachel,Are you kidding?!
+dialogue,Phoebe,No!
+dialogue,Rachel,"I can not believe he would do that to Mon—Whoa! (She stops suddenly and slowly turns to point at Joey. Joey is avoiding her eyes.) Joey, do they know that we know?"
+dialogue,Joey,No.
+dialogue,Rachel,Joey!
+dialogue,Joey,They know you know.
+dialogue,Rachel,"Ugh, I knew it! Oh I cannot believe those two!"
+dialogue,Phoebe,"God, they thought they can mess with us! They're trying to mess with us?! They don't know that we know they know we know! (Joey just shakes his head.) Joey, you can't say anything!"
+dialogue,Joey,I couldn't even if I wanted too.
+heading,,"[Scene: Outside Ugly Naked Guy's apartment, Ross is knocks on the door and Ugly Naked Guy answers it. He's ugly. He's naked. And he's holding a huge jumbo soda.]"
+dialogue,Ross,"Good evening, sir. My name is Ross Geller. I'm one of the people who applied for the apartment. And I-I realize that the competition is fierce but—I'm sorry. I, I can't help but notice you're naked and (He claps his hands.) I applaud you. Man, I wish I was naked. I mean, this-this looks so great. That is how God intended it."
+heading,,"[Scene: Monica and Rachel's, Chandler and Monica and Rachel and Phoebe are planning their respective strategies to break the other pairing. Joey is not amused."
+dialogue,Monica,"(in the kitchen with Chandler) Look at them, they're-they're panicked!"
+dialogue,Chandler,"Oh yeah, they're totally gonna back down!"
+dialogue,Monica,Oh yeah!
+action,,[Cut to Phoebe and Rachel sitting on the couch.]
+dialogue,Phoebe,"All right. All right! If he wants a date? He's gonna get a date. All right, I'm gonna go in."
+dialogue,Rachel,All right. Be sexy.
+dialogue,Phoebe,(laughs) Please.
+action,,(She saunters over to Chandler with a mean pair of 'Come hither' eyes and she glares at Monica.)
+dialogue,Phoebe,"So Chandler, I-I'd love to come by tonight."
+dialogue,Chandler,"(initially worried, but gets over it) Really?"
+dialogue,Phoebe,"Oh absolutely. Shall we say, around seven?"
+dialogue,Chandler,Yes.
+dialogue,Phoebe,Good. I'm really looking forward to you and me having sexual intercourse.
+action,,"(As she walks away, Chandler mouths a scream to Monica. How motions and mouths, ""It's okay, it's okay."")"
+dialogue,Joey,"(looking out the window) Hey-hey, check it out! Check it out! Ugly Naked Guy has a naked friend!"
+action,,(They all run over to the window.)
+dialogue,Rachel,Oh yeah! (She gasps.) Oh my God! That is our friend! (Monica covers her face.) It's Naked Ross! (Monica turns and buries her face in Chandler's shoulder.)
+dialogue,All,"Yeah, it is! Naked Ross!!"
+heading,,"[Scene: Monica and Rachel's, Rachel is getting Phoebe ready for her date.]"
+dialogue,Rachel,Show time!
+dialogue,Phoebe,"Okay, Rachel, get me perfume!"
+dialogue,Rachel,Okay! (She runs to get some.)
+dialogue,Phoebe,"And Joey, get me a bottle of wine and glasses? (He begrudgingly does so.)"
+action,,"(In the meantime, Rachel has returned with the perfume and sprays a mist out in front of Phoebe who walks through the mist and does a little spin.)"
+action,,"[Cut to Chandler, Joey, and Ross's, Monica is getting Chandler ready for his half of the plan.]"
+dialogue,Monica,"All right, it'll be great! You just make her think you wanna have sex with her! It'll totally freak her out!"
+dialogue,Chandler,"Okay, listen, how far am I gonna have to go with her?"
+dialogue,Monica,"Relax, she-she's gonna give in way before you do!"
+dialogue,Chandler,How do you know?!
+dialogue,Monica,Because you're on my team! And my team always wins!
+dialogue,Chandler,At this?!
+dialogue,Monica,Just go get some! (Kisses him.) Go! (She runs to hide in the bathroom.)
+action,,"[Cut to the hallway, Phoebe is outside getting some last minute instructions from Rachel.]"
+dialogue,Rachel,"(handing her the wine) Okay honey, now I'm gonna try to listen from right here!"
+dialogue,Phoebe,Okay.
+dialogue,Rachel,"Okay? Whoa, wait! (She undoes one button on Phoebe's dress.)"
+dialogue,Phoebe,Good idea!
+dialogue,Rachel,"Yeah, oh wait! (She goes for another one.)"
+dialogue,Phoebe,"Oh now, don't give away the farm!"
+action,,(Phoebe knocks on the door with the wine and Chandler answers it. Rachel hides next to the door.)
+dialogue,Chandler,Phoebe.
+dialogue,Phoebe,Chandler.
+dialogue,Chandler,Come on in.
+dialogue,Phoebe,"I was going too. (They go inside and he closes the door.) Umm, I brought some wine. Would you like some?"
+dialogue,Chandler,Sure.
+action,,(She makes a big show out of pulling out the cork and pours the wine.)
+dialogue,Phoebe,"So, here we are. Nervous?"
+dialogue,Chandler,Me? No. You?
+dialogue,Phoebe,"No, I want this to happen."
+dialogue,Chandler,So do I.
+action,,"(They click their glasses and take a sip. That sip turns into a gulp, which quickly progresses into their mutual draining of their glasses at once.)"
+dialogue,Chandler,I'm gonna put on some music.
+dialogue,Phoebe,"Maybe, maybe I'll dance for you. (She starts doing a rather suggestive and seductive dance that's silly at the same time.)"
+dialogue,Chandler,You look good.
+dialogue,Phoebe,"Thanks! Y'know, that when you say things like that it makes me wanna rip that sweater vest right off!"
+dialogue,Chandler,"Well, why don't we move this into the bedroom?"
+dialogue,Phoebe,Really?
+dialogue,Chandler,"Oh, do you not want to?"
+dialogue,Phoebe,"No. No! It's just y'know first, I wanna take off all my clothes and have you rub lotion on me."
+dialogue,Chandler,(swallowing hard) Well that would be nice. I'll go get the lotion.
+action,,"[Cut to the bathroom, Chandler is entering.]"
+dialogue,Chandler,"Listen, this is totally getting out of hand! Okay? She wants me to put lotion on her!"
+dialogue,Monica,She's bluffing!
+dialogue,Chandler,"Look, she's not backing down! She went like this! (He does a little mimic of her dance.)"
+action,,[Cut to the hallway where Phoebe is conferring with Rachel.]
+dialogue,Phoebe,He's not backing down. He went to get lotion.
+dialogue,Joey,(entering the hall) Oh man! Aren't you guys done yet?! I wanna sit in my chair!
+dialogue,Rachel,"Joey look, just look at it this way, the sooner Phoebe breaks Chandler the sooner this is all over and out in the open."
+dialogue,Joey,Ooh!
+dialogue,Rachel,Okay!
+dialogue,Joey,"I like that! (To Phoebe) Oh, okay! Show him your bra! He's afraid of bras! Can't work 'em! (He swiftly rips open the front of Phoebe's dress revealing her bra.)"
+dialogue,Phoebe,"Joey! (Examining the dress.) Wow, you didn’t rip off any buttons."
+dialogue,Joey,It's not my first time.
+action,,[Cut to the bathroom.]
+dialogue,Monica,You go back out there and you seduce her till she cracks!
+dialogue,Chandler,"Okay, give me a second! (Pause) Did you clean up in here?"
+dialogue,Monica,Of course.
+action,,[Cut back to the living room. Chandler slowly exits the bathroom and gets pushed from behind by Monica and sees Phoebe closing the apartment door.)
+dialogue,Chandler,"Oh, you're-you're going?"
+dialogue,Phoebe,"Umm, not without you, lover. (She slowly walks over to him and is showcasing her bra.) So, this is my bra."
+dialogue,Chandler,"(swallowing hard) It's very, very nice. Well, come here. I'm very were gonna be having all the sex."
+dialogue,Phoebe,You should be. I'm very bendy. (Pause) I'm gonna kiss you now.
+dialogue,Chandler,Not if I kiss you first.
+action,,"(They move closer to together and Phoebe hesitantly puts her hand on Chandler's hip. He puts his hand on her left hip but then decides to put his hand on her left hip. Phoebe then grabs his butt. Chandler goes for her breast, but stops and puts his hand on her shoulder.)"
+dialogue,Phoebe,Ooh.
+dialogue,Chandler,"Well, I guess there's nothing left for us to do but-but kiss."
+dialogue,Phoebe,Here it comes. Our first kiss.
+action,,(They slowly and hesitantly move their lips together and kiss gently. Phoebe has her eyes wide open in shock and Chandler is squinting. He finally breaks the kiss after only a short while and pushes Phoebe away.)
+dialogue,Chandler,Okay! Okay! Okay! You win! You win!! I can't have sex with ya!
+dialogue,Phoebe,And why not?!
+dialogue,Chandler,Because I'm in love with Monica!!
+dialogue,Phoebe,You're-you're what?!
+action,,"(Monica comes out of the bathroom like a bolt, and Rachel and Joey both enter.)"
+dialogue,Chandler,"Love her! That's right, I…LOVE…HER!!! I love her!! (They walk together and hug.) I love you, Monica."
+dialogue,Monica,I love you too Chandler. (They kiss.)
+dialogue,Phoebe,"I just—I thought you guys were doing it, I didn't know you were in love!"
+dialogue,Joey,Dude!
+dialogue,Chandler,And hats off to Phoebe. Quite a competitor. (Pause) And might I say your breasts are still showing.
+dialogue,Phoebe,God! (She turns and buttons up.)
+dialogue,Joey,All right! So that's it! It's over! Everybody knows!
+dialogue,Monica,"Well actually, Ross doesn't."
+dialogue,Chandler,"Yes, and we'd appreciate it if no one told him yet."
+action,,(Joey suddenly gets very angry.)
+action,,Ending Credits
+heading,,"[Scene: Ross's new apartment, he is showing his boss, Dr. Ledbetter his new place and new outlook on life.]"
+dialogue,Ross,"A new place for a new Ross. I'm gonna have you and all the guys from work over once it's y'know, furnished."
+dialogue,Dr. Ledbetter,I must say it's nice to see you back on your feet.
+dialogue,Ross,Well I am that. And that whole rage thing is definitely behind me.
+dialogue,Dr. Ledbetter,I wonder if its time for you to rejoin our team at the museum?
+dialogue,Ross,Oh Donald that-that would be great. I am totally ready to come back to work. I—What? (He notices something through the window.) No! Wh… What are you doing?!! (Dr. Ledbetter is slowly backing away.) GET OFF MY SISTER!!!!!!!!!!!!!
+action,,End

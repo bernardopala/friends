@@ -1,0 +1,276 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's, Monica and Chandler are making out on one of the chairs.]"
+dialogue,Joey,"(entering) Hey! Hey! Hey! Hey!! None of that, not while you're living under my roof!"
+dialogue,Monica,What?!
+dialogue,Joey,"Look, just because I know about you two, doesn't mean I like looking at it."
+dialogue,Chandler,Aren't you supposed to be at an audition for another hour?
+dialogue,Joey,"Well, I'm sorry if I'm not a middle-aged black woman! (Starts for his room.) And I'm also sorry if sometimes I go to the wrong audition! Okay, look, if I have to pretend I don't know about you two, then you two are gonna have to pretend there's nothing to know about."
+action,,Chandler and Monica:
+dialogue,Monica,Sorry.
+dialogue,Chandler,Sorry.
+action,,(They wait for Joey to go into his room and close the door and then start making out again.)
+dialogue,Joey,(from the bedroom) I can hear that!
+dialogue,Monica,(To Chandler) Rachel's at work.
+action,,(They both go to her apartment.)
+action,,(Pause.)
+dialogue,Joey,I can still hear you!
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Joey, Chandler, and Monica are there as Phoebe enters carrying a large box.]"
+dialogue,Phoebe,Hey!
+dialogue,Joey,Hey!
+dialogue,Chandler,Hello!
+dialogue,Monica,"Hey, what's that?"
+dialogue,Phoebe,"Yeah, my mom sent me a family heirloom that once belonged to my grandmother. Can you believe it?! A year ago I didn't even have a family, and now I have heirlooms for crying out loud."
+action,,(She puts her leg up on the chair and removes this huge knife from her boot to open the box with. The guys are shocked at the knife's existence.)
+dialogue,Phoebe,Eeeee-(She opens the box and removes its contents and sees that it's a fur coat.)-ohh!! God! (She throws it at Joey.)
+dialogue,Joey,"Argh-argh!! (Catches the coat.) Ooh, soft. Is this mink?"
+dialogue,Phoebe,"Yeah! Why would my mother send me a fur? Doesn't she know me but at all! Plus, I have a perfectly fine coat that no innocent animal suffered to make!"
+dialogue,Chandler,"Yeah, just some 9-year-old Filipino kids who worked their fingers bloody for 12 cents an hour. (Phoebe stares at him wide-eyed. Chandler sees her reaction.) That didn't happen, I made that up!"
+dialogue,Ross,(entering) Hey!
+dialogue,Gunther,"Oh, Ross? Ross! You can't put up flyers in here."
+dialogue,Ross,How come? Everybody else does.
+dialogue,Gunther,You can't.
+dialogue,Monica,What is that?
+dialogue,Ross,"Oh, umm, I'm just getting rid of a couple of things."
+dialogue,Monica,(looking at the flyer) This is all of your things.
+dialogue,Ross,"Yes, yes it is! No, but it's good it's—Emily thinks we should get all new stuff. Stuff that's just ours, together. Y'know brand new."
+dialogue,Monica,"So basically, this is a getting-rid-of-everything-Rachel-ever-used sale."
+dialogue,Ross,Touched. Used. Sat on. Sleep on.
+dialogue,Gunther,I'll take it all.
+dialogue,Joey,"Hey, Ross, you're okay with that?"
+dialogue,Ross,"Look, if I can just do what Emily wants and get her to New York, I'm sure everything will be fine."
+dialogue,Chandler,"Okay, but don't you think this is a little extreme?"
+dialogue,Ross,After what I did? Can you blame her?
+dialogue,Phoebe,"Oh my God! You got off easy! When my friend Silvie's husband said someone else's name in bed, she cursed him and turned his thingy green."
+action,,(Ross suddenly gets up and heads for the bathroom.)
+dialogue,Joey,"(after Ross is gone) What is he doing? What, Emily, thinks Ross's furniture has got Rachel coodies?"
+dialogue,Monica,Now calm down Joey.
+dialogue,Joey,"No! Everything's gettin' all messed up, y'know? Emily won't let Ross see Rachel, we're not gonna stop seeing Rachel, hence Ross stops seeing us!"
+dialogue,Phoebe,"Oh, I hate this. Everything's changing."
+dialogue,Chandler,"Yeah I know, we're losing Ross, Joey said hence…"
+dialogue,Monica,"Look, I'm not happy about this either, but y'know if-if Ross says he's happy then we're just gonna have to keep our feelings about Emily to ourselves. Are you cool with that?"
+dialogue,Joey,"No! But y'know, I'm an actor, I'll act cool."
+heading,,"[Scene: The Storage Room in the basement of Monica and Rachel's building, Monica and Rachel are looking for something.]"
+dialogue,Rachel,"Ohh, whoa God! Storage rooms give me the creeps! Monica, come on please hurry up honey! Please?"
+dialogue,Monica,"Rachel, if you want the little round waffles, you gotta have to wait until I find the little waffle iron."
+dialogue,Rachel,I want the little round waffles.
+dialogue,Monica,"All right. (Looking through a box.) Op, here it is! Right underneath the can of-of bug bomb. I wonder if the best place to put something that cooks food is underneath the can of poison?"
+action,,(The single light flickers and goes out. Leaving the room in total darkness.)
+dialogue,Rachel,"Okay, y'know what? I'll-I'll have toast!"
+action,,(She starts to run out but is stopped by a figure looming out of the darkness carrying a pick axe.)
+dialogue,Rachel,Arghhhh!!!!!!
+action,,(They both start screaming at the top of their lungs.)
+dialogue,Monica,Oh my God! Fog him! Fog him!
+action,,"(Rachel grabs the bug bomb, activates it, throws it at the figure, and they both run out through the fog.)"
+heading,,"[Scene: Central Perk, Chandler, Joey, and Phoebe are there.]"
+dialogue,Phoebe,I don't know what I'm gonna do about this coat.
+dialogue,Joey,I'll take it!
+dialogue,Phoebe,That might work! (She gives him the coat.)
+dialogue,Joey,"Ooh-ooh-ooh, yeah! (He drapes it around his shoulders.) Enh? All right, what do you think?"
+dialogue,Chandler,You're on in 5 Ms. Minnelli.
+dialogue,Ross,"(on the phone) No-no-no, it's just a bit sudden. (Listens) No, it's great. Okay? I'm totally on board. I love you too, all righty. Bye. (Hangs up.)"
+dialogue,Joey,What's the matter Ross?
+dialogue,Ross,"Nothing. Oh, actually, great news! I just got off the phone with Emily and it looks like I'm moving to a new apartment. Woo-hoo!"
+dialogue,Phoebe,Why?
+dialogue,Ross,"Well, her thought is, and I agree, fresh new furniture, why not a fresh new apartment? Her cousin has this great place to sublet, it's got a view of the river on one side and Columbia on the other."
+dialogue,Joey,That's way uptown! That's like three trains away! (Phoebe pinches him.) Which is great! I love to ride that rail!
+dialogue,Chandler,So you're really okay with this?
+dialogue,Ross,"Yes! Yes! I mean it's-it's kinda far from work, but uh, y'know, I'll get so much done on the commute. I-I've been given the gift of time!"
+dialogue,Chandler,"Now that's so funny, because last Christmas I got the gift of space. We should get them together and make a continuum."
+action,,(Ross exits.)
+dialogue,Joey,"Now he's movin'? Man, what is Emily doing to him? (Phoebe pinches him again.) Ow!! He's not even here!!!"
+action,,(Monica and Rachel enter breathless.)
+dialogue,Rachel,You guys! You guys!
+dialogue,Monica,"We were, we were just in the storage area and we saw this really creepy man!"
+dialogue,Rachel,"It was like this crazy-eyed, hairy beast man! He was like a, like a bigfoot or a yeti or something!"
+dialogue,Monica,"And he came at us with an axe, so Rachel had to use a bug bomb on him!"
+dialogue,Rachel,"(proud of herself) Yeah, I-I-I just pulled the tab and I just fogged his yeti ass!"
+dialogue,Joey,"Uhh, like dark hair, bushy beard?"
+dialogue,Rachel,Yeah!
+dialogue,Joey,"Yeah, you fogged Danny."
+dialogue,Rachel,Please! We did not fog Danny! Who's Danny?
+dialogue,Joey,"Dan just moved in downstairs. Yeah, he just got back from like this four-month trek in the Andes. Nice fella."
+dialogue,Monica,"Oh he's nice. He's nice! Y'know, you always stick up for the people we fog!"
+heading,,"[Scene: Their Building, Monica and Rachel are going to apologize to Danny. Rachel knocks on his door, which he opens and he has this really bushy beard and long hair. Picture Paul Bunyan.]"
+dialogue,Danny,Yeah?
+dialogue,Rachel,"Hi! You might not remember us, but we are the girls that fogged you."
+dialogue,Monica,We're-we're really sorry we fogged you.
+dialogue,Danny,Okay.
+action,,(He closes the door. Rachel's not happy with that and knocks again. He opens the door.)
+dialogue,Rachel,"Hi! Just so you know, we-we didn't mean to fog you, we thought you were like a yeti or something."
+dialogue,Danny,Okay.
+action,,"(He closes the door again. Once again, Rachel knocks (harder this time) and he answers it.)"
+dialogue,Danny,Yesss?
+dialogue,Rachel,"Hi! Sorry to bother you, but I don't think we can accept your acceptance of our apology, it just doesn't really seem like you mean it."
+dialogue,Monica,Yeah.
+dialogue,Danny,O-kay !
+action,,(He closes the door before Rachel can say anything.)
+dialogue,Monica,Wow! That guy is so rude!
+dialogue,Rachel,Really! What is with that guy? I mean you'd forgive me if I fogged you.
+dialogue,Monica,Well you did a little bit.
+dialogue,Rachel,"Oh my God, honey, I'm so sorry!"
+dialogue,Monica,I totally forgive you!
+dialogue,Rachel,Really?
+dialogue,Monica,Yes!
+heading,,"[Scene: Monica and Rachel's, Monica is making a drink as Phoebe enters with the fur coat.]"
+dialogue,Phoebe,Hey!
+dialogue,Monica,Hey!
+dialogue,Phoebe,"So listen, you know my friend Chris who owns the crematorium?"
+dialogue,Monica,Crematorium Chris? Sure!
+dialogue,Phoebe,"He says, that he would cremate my fur coat for free if I umm, y'know, bring in the next person I know who dies."
+action,,(Rachel enters from the bathroom and sees the coat.)
+dialogue,Rachel,"Oh my God! Oh my God, look at these pelts!"
+dialogue,Monica,"Don't get too attached, she's having it cremated."
+dialogue,Rachel,"What? Uhh, Phoebe, honey, honey, I know you're quirky and I get a big kick out of it, we all do actually, but if you destroy a coat like this that is like a crime against nature! Not nature, fashion !"
+dialogue,Phoebe,"This is fashion?! (Grabs the coat from Rachel.) Okay, so to you, death is fashion?! That's really funny. (She puts the coat on and starts to model it.) Here's Phoebe umm, sporting uh, y'know, cutting edge hairy carcass from y'know, the steal traps of wintry Russia. I mean, you really thing this looks good? (Sees herself in the mirror.) 'Cause I do."
+heading,,"[Scene: Ross's Apartment, the gang is helping Ross move out by carrying boxes. Chandler has picked a particularly large and apparently heavy box, because he takes a running start at it and still can't budge it.]"
+dialogue,Ross,(on phone) I know I miss you too. I can't wait to see you. I love you. Bye. (Hangs up.)
+dialogue,Chandler,"Okay, what is in here? Rocks?"
+dialogue,Ross,"No-no, this is my collection of fossil samples."
+dialogue,Chandler,"So, rocks."
+action,,(He picks up a smaller box and carries it to the moving van as Joey returns.)
+dialogue,Ross,"I'm really gonna miss this apartment. Y'know, Ben-Ben took his first steps right over there. (Points.)"
+dialogue,Joey,"Ohh. Hey, remember when I ran into this thing (The shutters that close off the kitchen.) and it kinda knocked me out a little?"
+dialogue,Ross,"I loved this place! To tell you the truth, I wish I didn't have to move."
+dialogue,Joey,"Uhh, are you saying that you're not entirely happy about this?"
+dialogue,Ross,"Well, I mean if uh, if Emily gave me a choice…"
+dialogue,Joey,"You do have a choice!! Ross, why are you listening to her?! Are you, are you crazy?!"
+dialogue,Ross,Why?
+dialogue,Joey,"It's not right what Emily wants you to do! She is totally-(The gang enters behind Joey and Phoebe pinches him again.)-Owww!! Stop pinching me! Look, now you guys said I only had to keep my mouth shut as long as Ross was happy, right? Well he just told me that he's not entirely happy."
+dialogue,Ross,What's going on?
+dialogue,Joey,We all hate Emily!
+dialogue,Phoebe,Nooo!!
+dialogue,Monica,"No, Ross, we do not hate Emily. We-we just, we just think that you're having to sacrifice a whole lot to make her happy."
+dialogue,Joey,Yeah!
+dialogue,Chandler,"Look, we just think that maybe she's being a little unreasonable."
+dialogue,Joey,Yes! Yes! Unreasonable!
+dialogue,Ross,"Unreasonable? How about we have this conversation when one of you guys gets married! You have no idea what it takes to make a marriage work! All right, it's about compromise! Do you always like it? No! Do you do it? Yes! Because it's not all laughing, happy, candy in the sky, drinking coffee at Central Perk all the time! It's real life, okay? It's what grown-ups do! (He storms out.)"
+dialogue,Phoebe,I think he's right. You guys hang out at the coffeehouse way too much.
+action,,Commercial Break
+heading,,"[Scene: Central Perk, Monica, Phoebe, Joey, and Chandler are recovering from Ross's rebuke.]"
+dialogue,Monica,"God, I feel so guilty about Ross."
+dialogue,Phoebe,"Oh, I know."
+dialogue,Joey,I kinda feel like it's my fault.
+action,,(Monica and Chandler turn and stare at him.)
+dialogue,Chandler,Kind of? If you just kept this to yourself none of this would've happened.
+dialogue,Joey,"Well, I'm keeping so many things to myself these days, something was bound to slip out! (He glares at Chandler.)"
+dialogue,Chandler,"Well, I think it's very brave what you said."
+action,,(Monica pats Joey on the shoulder.)
+dialogue,Phoebe,"All right, I can't sit here anymore. I have to walk places. (She puts on her fur coat.)"
+dialogue,Chandler,"Pheebs, what are you doing with the coat? How about the whole animal rights thing?"
+dialogue,Phoebe,"Well, I've been reading up and for your information, minks are not very nice. Okay, I admit it! I love this coat! Okay, I—it's the best thing I've ever had wrapped around me, including Phil Huntley! (She starts to leave but stops and says to Monica.) Remember Phil Huntley? He was fine!"
+heading,,"[Scene: Their building's lobby, Danny is checking his mailbox as Rachel enters carrying shopping bags and goes to her mailbox. Danny has shaved his beard and cut his hair, Rachel doesn't recognize him.]"
+dialogue,Rachel,Hi!
+dialogue,Danny,So you like the short hair better.
+dialogue,Rachel,What? Yeti—I mean Danny?
+dialogue,Danny,"I had to cut my hair to get rid of the uh, fogger smell."
+dialogue,Rachel,"Oh. Listen, I'm so sorry. I would, I would've never fogged you if y'know if you hadn't looked so…. Y'know."
+dialogue,Danny,Absolutely. Some people are just into appearances.
+dialogue,Rachel,(shocked) What?
+dialogue,Danny,That's cool. Cool. (Starts to leave.)
+dialogue,Rachel,What? Hey! No-no-no! This not cool! You don't even know me!
+dialogue,Danny,"Come on, you got the shopping bags and the Sack's catalog."
+dialogue,Rachel,"So from that you think you've got me all figured out? Well, you don't! Y'know I-I could have toys for underprivileged kids in here!"
+dialogue,Danny,Do you?
+dialogue,Rachel,"Well, y'know, if-if kids like to play with Capri pants."
+dialogue,Danny,Okay. (Heads for his apartment.)
+dialogue,Rachel,And stop saying that! I hate that!
+dialogue,Danny,Okay!
+action,,"(Rachel decides not to give up that easily and follows him to his apartment and bangs on the door, which he opens.)"
+dialogue,Rachel,Fine! I judged you. I made a snap judgement. But you did it too! And you are worse because you are sticking to your stupid snap judgement! You can't even open up your mind for a second to see if you're wrong! What does that say about you?
+dialogue,Danny,The pizza-place across the street any good?
+dialogue,Rachel,What?!
+dialogue,Danny,I'm hungry. Wanna get some pizza? You can keep yelling if there's more.
+dialogue,Rachel,Okay. Okay.
+dialogue,Danny,Stop saying that. I hate that.
+heading,,"[Scene: Ross's now empty apartment, he is spackling some holes shut as the gang comes to apologize.]"
+dialogue,Chandler,"Uh, Ross?"
+dialogue,Phoebe,Are you still mad at us?
+dialogue,Ross,Yep.
+dialogue,Phoebe,"Oh good! Because we have an ""I'm sorry"" song."
+dialogue,Ross,Y'know what? I'm really not in the mood.
+dialogue,Joey,"Look, Ross, I feel really bad. I mean, you're going through all this stuff and I just acted like a jerk."
+dialogue,Chandler,"Yeah, we are so sorry."
+dialogue,Phoebe,(To Chandler) You're kinda stepping on the song. (She gets ready to play but is stopped by…)
+dialogue,Joey,"Look, we were way out of line, we totally support you."
+dialogue,Monica,"Whatever you decide, whatever you do."
+dialogue,Phoebe,"Okay, now you're just taking lines right out of the song!"
+dialogue,Ross,"Look, this is hard enough! I really need you guys right now."
+dialogue,Phoebe,Yes! Exactly! And that's why…
+action,,"(She starts to play her song, but is stopped by Monica.)"
+dialogue,Monica,Why don't you come over tonight? And I'll make you favorite dinner.
+dialogue,Ross,Okay. Thanks you guys. Pheebs are you wearing fur?
+dialogue,Phoebe,"Okay, let's get some perspective people; it's not like I'm wearing a seeing-eye dog coat!"
+heading,,"[Scene: Monica and Rachel's, the gang, minus Rachel, are getting ready for dinner.]"
+dialogue,Joey,"Hey, y'know Ross, I think I kinda understand why I kinda lost it today."
+dialogue,Ross,"You do, huh?"
+dialogue,Joey,"Yeah you see umm, well, I'm an actor. Right? So I gotta keep my emotions right at the surface y'know? See what I'm saying? I gotta lot of balls in the air. (Makes like he's juggling.) Y'know what I mean? It's tough! Guys like me, y'know, you wander around, you're alone…"
+dialogue,Ross,What are you talking about?
+dialogue,Joey,(thinks) I'm not sure.
+dialogue,Rachel,(entering) Hi!
+dialogue,Monica,"Hey, look at you! Where have you been?"
+dialogue,Rachel,"Oh, I went to have pizza. With Danny."
+dialogue,Monica,How did that happen?
+dialogue,Rachel,That yeti is one smooth talker.
+dialogue,Monica,"I hope you're not full, 'cause dinner's almost ready."
+dialogue,Rachel,"Yeah, y'know I-I think I'm just gonna hang out in my room."
+dialogue,All,No! Why?
+dialogue,Rachel,"Come on you guys! Listen, if Emily knew I was here having dinner you with you she would flip out and you know it. It's okay, I really… I don't mind."
+dialogue,Ross,Wait! Wait! Wait! Y'know what? Just stay. Please? It uh… It would really mean a lot to me if you stayed.
+dialogue,Rachel,"Ross, I…"
+dialogue,Joey,RACHEL PLEASE!!! JUST HAVE DINNER WITH US!!!
+dialogue,Rachel,"Okay. Okay. Joey, it's okay. Settle down."
+dialogue,Joey,"All right, I-I'm sorry. I'm sorry. You see Rach I'm an actor…"
+action,,"[Time lapse, dinner is now finished and Ross is looking out the window.]"
+dialogue,Ross,"Hey! Hey, look! Ugly Naked Guy's back!"
+action,,(They all run over to the window.)
+dialogue,Rachel,I haven't seen him in so long!
+dialogue,Phoebe,"Oh God, I really missed that fat bastard!"
+action,,(Pause.)
+dialogue,Monica,"Wow, this is so weird. I just realized this might be the last time we'll all be hanging out together."
+dialogue,Joey,It's almost as if he knew.
+action,,(The phone rings.)
+dialogue,Monica,"I'll get it. (On phone.) Hello. (Listens.) Hi Emily! (Listens.) Yeah, uh you-you tracked him down. Hold on one second. (She hands the phone to Ross.)"
+dialogue,Ross,"Hey! (Listens.) Yeah-yeah, we're just having dinner. (Listens.) Uh, yeah, sure uh hold on. (To the gang.) She wants to say hi. (To Emily) Hold on."
+action,,(Ross puts her on speakerphone.)
+dialogue,Phoebe,Hi Emily!
+dialogue,Chandler,Hi!
+dialogue,Emily,Hello everyone. So who am I saying hello too?
+dialogue,Joey,"Well uh, I don't know about who's here, but I can tell you for damn sure who's not here and that's Rachel!!"
+dialogue,Emily,"(laughs) Well, I should hope not. Ross knows better than that by now."
+action,,(Rachel waves her hands in disgust and starts to head for her room.)
+dialogue,Ross,"Y'know what? Uh, Rachel is here! (Rachel stops.)"
+dialogue,Emily,She's there?!
+dialogue,Chandler,"Oh yeah, there-there she is!"
+dialogue,Ross,"Yeah, yeah, she's here."
+dialogue,Emily,"Ross, take me off speakerphone."
+action,,(He does so.)
+dialogue,Ross,(on phone) Hi.
+dialogue,Emily,How can you do this too me?! I thought I'd made my feelings about Rachel perfectly clear!
+dialogue,Ross,"(going onto the patio) Look Emily, I'm just having dinner with my friends, okay?"
+dialogue,Emily,You obviously can't keep away from her.
+dialogue,Ross,"Emily that's ridiculous. Look, I'm-I'm moving for you, I'm cutting friends out of my life for you. Please, just get on the plane and come to New York. Okay, you'll see you're the only person I want to be with."
+dialogue,Emily,"I'll feel better when I'm there, and I can know where you are all the time."
+dialogue,Ross,"Well, you can't know where I am all the time. Look, this marriage is never gonna work if you don't trust me."
+dialogue,Emily,You're right.
+dialogue,Ross,"So, can you trust me?"
+action,,(Pause.)
+dialogue,Emily,No.
+action,,(Ross lowers his head.)
+action,,[Cut to the inside of the apartment.]
+dialogue,Joey,I think it's going okay. Looks like he's smiling.
+dialogue,Monica,How can you tell? You can only see the back of his head!
+dialogue,Joey,"You can totally tell! Here look, watch me. (He stands up and turns his back to them so that he is facing the window.) Smile! Frown. Smile! Frown. (The camera cuts to Ross outside hanging up the phone.) Smile! (Ross turns around and sees Joey alternately smiling and frowning and just stares at him for a second and heads back inside.)"
+dialogue,Ross,"Well, I guess that's it."
+dialogue,All,"Why, what happened?"
+dialogue,Joey,What happened? What happened?
+dialogue,Ross,My marriage is over.
+dialogue,All,What?!
+dialogue,Monica,"Oh, sweetie. Oh, look at you. You're shivering."
+dialogue,Phoebe,Here. (She wraps her coat around his shoulders.)
+dialogue,Rachel,"Ross, honey, is there anything we can do?"
+dialogue,Ross,Yeah. You can help me get my furniture back from Gunther.
+action,,Ending Credits
+heading,,"[Scene: A curbside newsstand, Phoebe is whistling and walking up to it wearing her fur coat. She stops and starts to look through a magazine and notices a squirrel on a nearby tree chirping at her.]"
+dialogue,Phoebe,"(to the squirrel) Okay, stop tormenting me! This mink! Okay, they're mean! And they hate squirrels! And y'know, okay, most of these probably wanted to be coats! (The squirrel stares at her.) All right, fine, now I get it. (To the clerk.) Here. (She hands him her coat.) You take it. (To the squirrel.) Are you happy now? I'm cold!"
+action,,End

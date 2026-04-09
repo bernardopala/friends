@@ -1,0 +1,303 @@
+script_element,character,text
+heading,,"[Scene: Ross’s Wedding, continued from last season, the Minister is about to marry Ross and Emily.]"
+dialogue,Minister,"Friends. Family. We are gathered to celebrate here today the joyous union of Ross and Emily. (Time lapse) Now Ross, repeat after me. I Ross..."
+dialogue,Ross,I Ross...
+dialogue,Minister,"Take thee, Emily..."
+dialogue,Ross,"Take thee, Rachel...(All his friends have looks of shock on their faces. He realizes what he said. Quickly he says.) Emily. (A slight chuckle.) Emily."
+dialogue,Minister,(Looking and feeling awkward. he looks towards Emily.) Uhh...Shall I go on?
+dialogue,Rachel,"(To the woman sitting in front of her) He-he said Rachel, right? Do you think I should go up there?"
+dialogue,Emily,"Yes, yes, do go on."
+dialogue,Minister,"I think we’d better start again. Ross, repeat after me. I, Ross…"
+dialogue,Ross,"I, Ross…"
+dialogue,Minister,"Take thee, EM-I-LY …"
+dialogue,Ross,"Take thee, (Glares at the Minister) Emily . (Chuckles) Like there’d be anybody else. (Emily is glaring at him.)"
+dialogue,Minister,"As my lawfully wedded wife, in sickness and in health, till death parts us."
+dialogue,Ross,"As my lawfully wedded wife, in sickness and in health, until death parts us. Really, I do. Emily. (Points at her.)"
+dialogue,Minister,"May I have the rings? (He is given the rings) Emily, place this ring on Ross’s finger as a symbol of your bond everlasting. (She jams the ring onto his finger) Ross, place this ring in Emily’s hand as a symbol of the love that encircles you forever."
+dialogue,Ross,Happy too.
+dialogue,Minister,Ross and Emily have made their declarations and it gives me great pleasure to declare them husband and wife.
+dialogue,Ross,Yay!
+dialogue,Minister,You may kiss the bride.
+action,,"(He goes to kiss her, but she isn’t very receptive of the kiss. She keeps avoiding him, until Ross finally gets to kiss her on her cheek.)"
+dialogue,Mrs. Geller,(To Mr. Geller) This is worse than when he married the lesbian.
+action,,"(The band starts to play, and the recessional starts. Ross tries to take Emily’s hand, but she snatches it away from him.)"
+dialogue,Emily,Just keep smiling.
+dialogue,Ross,Okay.
+dialogue,Joey,"Well, that went well. Yeah."
+dialogue,Chandler,"It could’ve been worse, he could’ve shot her."
+action,,(Ross and Emily make it to the lobby.)
+dialogue,Ross,"(laughs) That uh, that was pretty funny. Wasn’t it?"
+action,,(Emily gives him a forearm shot across the stomach.)
+action,,Opening Credits
+heading,,"[Scene: The Wedding reception, Ross and Emily are in the bathroom and Emily is yelling at him. Rachel, Chandler, Joey, and Monica are standing outside the doorway.]"
+dialogue,Emily,(Yelling from inside the bathroom) You’ve spoiled everything! It’s like a nightmare! My friends and family are out there! How can I face them?! How can you do this to me?!
+dialogue,Joey,"(To the gang) Hey, no matter what happens with Ross and Emily, we still get cake right?"
+dialogue,Ross,"(exiting the bathroom) That-that-that’s all right, no honey, you take your time sweetie. I’ll be right out here. (She slams the door in his face, to the gang) She’s just fixing her makeup."
+dialogue,Emily,I hate you!!
+dialogue,Ross,"And, I love you!! (He walks into the living room)"
+dialogue,Mr. Geller,"Boy, bad time to say the wrong name, huh Ross?"
+dialogue,Ross,"That’s true, thanks dad. (To All) People should be dancing! Huh? Hey, this is a party! Come on! Joey, dance!! (He starts to dance but stops when no one else joins him.)"
+action,,(Mrs. Waltham’s phone rings and she answers it.)
+dialogue,Mrs. Waltham,"Yes, Waltham interiors."
+dialogue,Phoebe,"(On the phone, in New York) Uh, hello, this is Ross Geller’s personal physician, Dr. Philange."
+dialogue,Mrs. Waltham,Who?
+dialogue,Phoebe,"Yeah, I’ve discovered that Ross forgot to take his brain medicine, uh, now without it, uh, in the brain of Ross, uh women’s names are interchangeable, through-through no fault of his own."
+dialogue,Mrs. Waltham,"Oh my God, Phoebe."
+dialogue,Phoebe,"No, not Phoebe, Dr. Philange. Oh no! You have it too!"
+action,,(Mrs. Waltham hangs up on her.)
+dialogue,Phoebe,Hello?
+action,,(Cut to Chandler and Monica at the buffet table.)
+dialogue,Chandler,Hey.
+dialogue,Monica,Hey.
+dialogue,Chandler,"Oh wow, I hope you don’t take this the wrong way but, I know we had plans to meet up tonight and, ugh, I’m just kinda worried about what it might do to our friendship."
+dialogue,Monica,I know. How could we have let this happen?
+dialogue,Chandler,Seven times!
+dialogue,Monica,"Ugh! Well, y’know, we were away…"
+dialogue,Chandler,"In a foreign , romantic country…"
+dialogue,Monica,I blame London.
+dialogue,Chandler,Bad London! (Takes a spoon and smacks the turkey.)
+dialogue,Monica,"So look umm, while we’re st-still in London, I mean, we can keep doing it right?"
+dialogue,Chandler,"Well, I don’t see that we have a choice. But, when we’re back home, we don’t do it."
+dialogue,Monica,Only here.
+dialogue,Chandler,"Y’know, I saw a wine cellar downstairs…"
+dialogue,Monica,I’ll meet you there in two minutes.
+dialogue,Chandler,Okay!
+action,,"(He throws down his plate and runs to the wine cellar, Monica is about to follow him but is intercepted by Rachel.)"
+dialogue,Rachel,"Mon, honey, I gotta ask you something."
+dialogue,Monica,(impatiently) Now?
+dialogue,Rachel,"Ross said my name up there, I mean, come on, I just can’t pretend that didn’t happen can I?"
+dialogue,Monica,"Oh, I-I don’t know."
+dialogue,Rachel,"Monica, what should I do?"
+dialogue,Monica,"Just uh, do the right thing. (Uses some breath spray)"
+dialogue,Rachel,What?
+dialogue,Monica,"Toe the line. Thread the needle. Think outside the box! (Tries to leave, but is stopped by Rachel.)"
+dialogue,Rachel,"Whoa, wait, listen, I think I’m just gonna talk to Ross about what he think it meant."
+dialogue,Monica,"Wait. Rachel, no, he’s married. Married! If you don’t realize that, I can’t help you."
+dialogue,Rachel,"Okay, you’re right. You’re right. You can’t help me."
+action,,(Cut to Mr. and Mrs. Geller.)
+dialogue,Mrs. Geller,"Jack, is it all our fault? Were we bad parents?"
+dialogue,Mr. Waltham,(walking by) Yes.
+dialogue,Mr. Geller,"Oh yeah, well who serves steak when there’s no place to sit, I mean how are you supposed to eat this?"
+dialogue,Joey,"Hey, what’s up? (He has solved the problem of eating the steak, he’s eating it with his hands.)"
+action,,"(Cut to Monica and Chandler, Monica is running up to him.)"
+dialogue,Monica,Where were you? We were supposed to meet in the wine cellar?
+dialogue,Chandler,"Forget it, that’s off."
+dialogue,Monica,Why?!
+dialogue,Mr. Waltham,(drunkenly) The next tour of the wine cellar will plan in two in-in minutes…
+action,,(Joey walks up to them.)
+dialogue,Monica,"Joey, what are you doing? You promised Phoebe you wouldn’t eat meat until she has the babies!"
+dialogue,Joey,"Well, I figured we’re in another country, so it doesn’t count."
+dialogue,Monica,That’s true.
+dialogue,Chandler,The man’s got a point.
+action,,(Cut to Rachel and Ross.)
+dialogue,Rachel,"Oh, hi!"
+dialogue,Ross,Hi!
+dialogue,Rachel,"Hi. Sorry, things aren’t working out so well."
+dialogue,Ross,"Oh no! It could be better, but it’s gonna be okay, right?"
+dialogue,Rachel,"Oh yeah! Of course, I mean, she’s gonna get over this, y’know? I mean, so you said my name! Y’know you just said it ‘cause you saw me there, if you’d have seen a circus freak, you would’ve said, ""I take thee circus freak."" Y’know, it didn’t mean anything, it’s just a mistake. It didn’t mean anything. Right?"
+dialogue,Ross,"No! No! Of course it didn’t mean anything! I mean, uh well, I can understand why Emily would think it meant something, y’know, because-because it was you…"
+dialogue,Rachel,Right…
+dialogue,Ross,But it absolutely didn’t. (Yelling towards the bathroom) It didn’t!! It didn’t!!
+dialogue,Joey,"(approaching) Ross, hey, the band’s ready outside for your first dance with Emily, so…"
+dialogue,Ross,"(sarcastic) Oh! Oh-oh, the band’s ready! Well, I-I-we gotta do what the band says—I don’t care about the stupid band!!"
+dialogue,Joey,You spit on me man! (Wipes his face.)
+dialogue,Ross,"Look, I’m sorry."
+dialogue,Joey,"Emily is kinda taking a long time, huh?"
+dialogue,Rachel,"(laughs) Y’know when I locked myself in the bathroom at my wedding, it was because I was trying to pop the window out of the frame."
+dialogue,Ross,"Oh, right!"
+dialogue,Rachel,"Get the hell out of there, y’know?"
+action,,"(They all start laughing, and quickly stop when they realize what she just said and run over to the bathroom.)"
+dialogue,Ross,"(Bangs on the bathroom door) Emily? Emily? I’m coming in. (He opens the door to reveal that the window is gone, along with Emily.)"
+dialogue,Rachel,"Well, look at that, same thing."
+heading,,"[Scene: London Marriott , Monica and Chandler are walking to her room.]"
+dialogue,Chandler,"Listen, in the middle of everything if I scream the word, ""Yippee!"" just ignore me."
+action,,(She laughs and opens the door to reveal Rachel sitting on the bed.)
+dialogue,Monica,"Oh my God, Rachel! Hi!"
+dialogue,Chandler,"Oh, hello Rachel."
+dialogue,Rachel,"Ross said my name. Okay? My name. Ross said my name up there that obviously means that he still loves me! (They both just stare at her.) Okay, don’t believe me, I know I’m right—do you guys want to go downstairs and get a drink?"
+dialogue,Chandler,"Yes, we do. But, we have to change first."
+dialogue,Monica,"Yes, I want to change. And why-why don’t you go down and get us a table?"
+dialogue,Chandler,"Yeah, we’ll be down in like five minutes."
+dialogue,Monica,(elbows him) Fifteen minutes.
+dialogue,Rachel,Okay.
+action,,(The phone rings and Rachel answers it.)
+dialogue,Rachel,"Hello? Oh, Pheebs! (To them) It’s Phoebe!"
+dialogue,Chandler,"Oh, yay…"
+dialogue,Monica,Great…
+dialogue,Rachel,Hi!
+dialogue,Phoebe,"Hi, so what happened?"
+dialogue,Rachel,"Well, Ross said my name."
+dialogue,Phoebe,"Yeah, I know, but I don’t think that means anything."
+dialogue,Rachel,"Okay, Pheebs, y’know what, let’s look at this objectively all right? Ninth grade, right? The obsession starts. All right? The summer after ninth grade he sees me in a two-piece for the first time, his obsession begins to grow. So then…"
+dialogue,Chandler,"(To Monica) Hey, listen, why don’t we go change in my room?"
+dialogue,Monica,But my clothes are—ohh! (They both leave.)
+action,,"(Cut to Chandler’s room, he opens the door slowly to see if Joey is there and after seeing that he isn’t, ushers Monica into the room, closes the door, and the security bar.)"
+dialogue,Chandler,"Wow, you look…"
+dialogue,Monica,No time for that!
+action,,"(They both start to frantically rip each other’s clothes off, but are interrupted when Joey tries to open the door.)"
+dialogue,Joey,"Hey, dude, let me in. I got a girl out here!"
+dialogue,Chandler,"Well, I’ve got a girl in here."
+dialogue,Joey,"No you don’t, I just saw you go in there with Monica!"
+dialogue,Chandler,"Well, we’re-we’re hanging out in here!"
+dialogue,Joey,"Look, which one of us is gonna be having sex in there, me or you?"
+dialogue,Chandler,"Well, I suppose I’d have to say you!! But, what if we’re watching a movie in here?"
+dialogue,Monica,"Which we are, and-and we already paid for it. It’s My Giant !"
+dialogue,Joey,My Giant ? I love that movie!
+heading,,"[Scene: Ross and Emily’s room, Chandler and Monica are still looking for a place to do the deed.]"
+dialogue,Monica,You really think this is okay?
+dialogue,Chandler,"Well, Ross and Emily aren’t gonna use it."
+dialogue,Monica,"Oh, it’s so beautiful. Ohh! Y’know, I-I don’t know if I feel right about this."
+dialogue,Chandler,"Oh Mon-Mon-Mon-Mon-look, this is the honeymoon suite. The room expects sex. The room would be disappointed if it didn’t get sex. All of the other honeymoon suites would think it was a loser."
+dialogue,Monica,Okay!
+dialogue,Chandler,Okay!
+action,,"(They both run to rip the covers off the bed, but are interrupted by Ross.)"
+dialogue,Ross,(entering) Emily?!
+dialogue,Chandler,"Nope, not under here!"
+dialogue,Monica,You didn’t find her?
+dialogue,Ross,"No, I’ve looked everywhere!"
+dialogue,Chandler,"Well, you couldn’t have looked everywhere or else you would’ve found her!"
+dialogue,Monica,"Yeah, I think you should keep looking!"
+dialogue,Chandler,"Yeah, for about 30 minutes."
+dialogue,Monica,Or 45.
+dialogue,Chandler,"Wow, in 45 minutes you can find her twice. (Monica smiles at that.)"
+dialogue,Ross,"No! For all I know, she’s trying to find me but couldn’t because I kept moving around. No, from now on, I’m staying in one place. (He sits down on the bed.) Right here."
+dialogue,Monica,"Well, it’s getting late."
+dialogue,Chandler,"Yeah, we’re gonna go."
+dialogue,Ross,"Actually, do you guys mind staying here for a while?"
+dialogue,Monica,"Ugh, y’know, umm we gotta get up early and catch that plane for New York."
+dialogue,Chandler,"Yeah, it’s a very large plane."
+dialogue,Ross,(disappointed) That’s cool.
+dialogue,Chandler,"But, we’ll stay here with you."
+dialogue,Ross,"Thanks guys! (They both sit down on either side of him.) I really appreciate this, y’know, but you don’t have to rub my butt."
+action,,(Chandler slowly takes his hand away.)
+action,,Commercial Break
+heading,,"[Scene: Ross and Emily’s room, the next morning. Ross is now asleep and has his head in Monica’s lap and his feet on Chandler’s lap. Monica and Chandler are both still awake and depressed.]"
+dialogue,Chandler,We have to leave for New York in an hour.
+dialogue,Monica,"I know, I’ve been looking at those doors, they look pretty sound proof, don’t you think?"
+dialogue,Chandler,"We can’t do that that’s insane. I mean ‘A’ he could wake up and ‘B’ y’know, let’s go for it."
+action,,"(They both try to slowly extricate themselves from Ross, but there’s a knock on the door that awakens him.)"
+dialogue,Ross,Em-Emily? (Looking around for her.) Em-Emily? (He runs to the door.) Emily! (He opens the door to reveal the Walthams standing outside.)
+dialogue,Mr. Waltham,No.
+dialogue,Mrs. Waltham,"You can forget about Emily, she’s not with us."
+dialogue,Mr. Waltham,We’ve come for her things.
+dialogue,Ross,"Wait, well wh-wh-wh-where is she?"
+dialogue,Mr. Waltham,She’s in hiding. She’s utterly humiliated. She doesn’t want to see you ever again.
+dialogue,Mrs. Waltham,"We’re very sad that it didn’t work out between you and Emily, monkey. But, I think you’re absolutely delicious."
+dialogue,Mr. Waltham,"Excuse me, I’m standing right here!"
+dialogue,Mrs. Waltham,"Oh yes, there you are."
+dialogue,Rachel,"(entering, carrying an armful of those little soaps.) Hey-hey, you guys oh hurry up, get some, there’s a whole cart outside… (Sees the Walthams and stops.)"
+dialogue,Mr. Waltham,Goodbye Geller.
+dialogue,Ross,"Now, hold on! Hold on! (Stops him) Look, look, your daughter and I are supposed to leave tonight for our honeymoon, now-now you-you tell her that I’m gonna be at that airport and I hope that she’ll be there too! Oh yeah, I said Rachel’s name, but it didn’t mean anything, Okay? She’s-she’s just a friend and that’s all! (Rachel sits down, depressed.) That’s all! Now just tell Emily that I love her and that I can’t imagine spending my life with anyone else. Please, promise me that you’ll tell her that."
+dialogue,Mr. Waltham,"All right, I’ll tell her. (To his wife) Come on bugger face!"
+dialogue,Mrs. Waltham,"(As she walks pass Ross, she pats his but.) Call me."
+dialogue,Mr. Waltham,"You spend half your life in the bathroom, why don’t you ever go out the bloody window!"
+heading,,"[Scene: A 747 somewhere over the North Atlantic, Monica and Chandler are sitting in first class, depressed.]"
+dialogue,Monica,"Y’know, maybe it’s best that we never got to do it again."
+dialogue,Chandler,"Yeah, it kinda makes that-that one night special. (Realizes something) Y’know, technically we still are over international waters."
+dialogue,Monica,"I’m gonna go to the bathroom, maybe I’ll see you there in a bit?"
+dialogue,Chandler,‘Kay!
+action,,"(Monica gets up and heads for the bathroom, Chandler turns to watch her go and is startled to see Joey sitting in Monica’s seat.)"
+dialogue,Joey,Can I ask you something?
+dialogue,Chandler,"Uhh, no."
+dialogue,Joey,"Felicity and I, we’re watching My Giant , and I was thinking, ""I’m never gonna be as good an actor as that giant."" Do you think I’m just wasting my life with this acting thing?"
+dialogue,Chandler,No.
+dialogue,Joey,"I mean, the giant is like five years younger than me, y’know, you think I’ll ever get there?"
+dialogue,Chandler,Yes.
+dialogue,Joey,Thanks man.
+dialogue,Chandler,Okay man. (Chandler starts to get up.)
+dialogue,Joey,But what about how much taller he is than me?
+action,,"(Time lapse, Chandler is finishing his third little bottle of booze.)"
+dialogue,Joey,"I mean, there’s no way I can make myself taller now, y’know? And who knows what science will come up with in the future, but Chandler, what if I die an unsuccessful, regular sized man?"
+action,,(Monica returns.)
+dialogue,Joey,"Hey, Monica, wow you’ve been in the bathroom for like a half-hour."
+dialogue,Monica,I know!
+dialogue,Joey,"Had the beef-tips, huh?"
+heading,,"[Scene: Monica and Rachel's, Phoebe is eating cereal from a bowl she has balanced on her stomach as Joey, Chandler, and Monica return.]"
+dialogue,Phoebe,Hey!
+dialogue,Chandler,Hey!
+dialogue,Joey,Hi!
+action,,(They all hug.)
+dialogue,Phoebe,(To Joey) You ate meat! (Joey is shocked) (To Chandler and Monica) You had sex! (They’re shocked.)
+dialogue,Chandler,No we didn’t!
+dialogue,Phoebe,"I know you didn’t, I was talking about Monica."
+dialogue,Monica,"Phoebe, I did not have sex."
+dialogue,Phoebe,This pregnancy is throwing me all off.
+dialogue,Joey,"All right, I’m gonna go say hi the chick and the duck."
+dialogue,Phoebe,"Oh, me too!"
+dialogue,Joey,"Why would you need to say hi to them, you’ve been feeding them for four days?"
+dialogue,Phoebe,"Oh right, maybe I’ll just go home."
+action,,"(She grabs her bag and leaves, Joey moves a little quicker to his apartment, leaving Monica and Chandler alone.)"
+dialogue,Monica,"Well, we certainly are alone."
+dialogue,Chandler,"Yes! Good thing we have that, ‘Not in New York’ rule."
+dialogue,Monica,"Right. Umm, listen since we’re-we-re on that subject, umm, I just wanted to tell you that uh, well, I-I was going through a really hard time in London, what with my brother getting married and that guy thinking I was Ross’s mother…"
+dialogue,Chandler,Right.
+dialogue,Monica,"Well, an-anyway, I just—that night meant a lot to me, I guess I’m just trying to say thanks."
+dialogue,Chandler,"Oh. Y’know, that night meant a lot to me too, and it wasn’t because I was in a bad place or anything, it just meant a lot to me ‘cause, you’re really hot! Is that okay?"
+dialogue,Monica,(laughs) That’s okay.
+dialogue,Chandler,And I’m cute too.
+dialogue,Monica,And you’re cute too.
+dialogue,Chandler,"Thank you! (They hug.) All right, I gotta go unpack."
+dialogue,Monica,Okay.
+dialogue,Chandler,Bye.
+action,,"(After he closes the door, Monica starts to follow him, but thinks better of it and stops.)"
+dialogue,Chandler,"(entering) I’m still on London time, does that count?"
+dialogue,Monica,That counts!
+dialogue,Chandler,"Oh, good! (They start kissing.)"
+heading,,"[Scene: An airport in London, Ross is waiting for Emily to show up to go on their honeymoon and sees Rachel walking past.]"
+dialogue,Ross,Rach! Rach!
+dialogue,Rachel,(she stops and turns) Hi!
+dialogue,Ross,"Hi! What are you, what are you doing here?"
+dialogue,Rachel,"Well, I-I-I’ve been on Standby for a flight home for hours."
+dialogue,Ross,Oh.
+dialogue,Rachel,"Ohh, so no sign of Emily huh?"
+dialogue,Ross,Not yet.
+dialogue,Rachel,"So umm, what time are you supposed to leave?"
+dialogue,Gate Agent,(On the P.A.) This is the last call for Flight 1066 to Athens. The last call.
+dialogue,Ross,Pretty soon I guess.
+dialogue,Rachel,Yeah. I’m sorry.
+dialogue,Ross,"I just, I don’t understand, I mean, how-how can she do this? Y’know, what, am I, am I like a complete idiot for thinking that she’d actually show up?"
+dialogue,Rachel,"No, you’re not an idiot, Ross. You’re a guy very much in love."
+dialogue,Ross,Same difference.
+dialogue,Gate Agent,(On the P.A.) All ticketed passengers for Flight 1066 to Athens should now be on board.
+dialogue,Ross,"I get it! Well, that’s that."
+dialogue,Rachel,"No, you know what, I think you should go."
+dialogue,Ross,What?
+dialogue,Rachel,"Yeah, I do. I think you should go, by yourself, get some distance, clear your head, I think it’d be really good."
+dialogue,Ross,"Oh, I don’t, I don’t, I don’t know…"
+dialogue,Rachel,"Oh, come on Ross! I think it would be really good for you!"
+dialogue,Ross,"I could, yeah, I can do that."
+dialogue,Rachel,Yeah.
+dialogue,Ross,"I can’t, I can’t even believe her! No, y’know what, I am, I am gonna go!"
+dialogue,Rachel,Good!
+dialogue,Ross,"I know, why not?"
+dialogue,Rachel,Right!
+dialogue,Ross,Right?
+dialogue,Rachel,Right!
+dialogue,Ross,Y’know—thanks! (They hug)
+dialogue,Rachel,"Okay, I’ll see you back at home, if I ever get a flight out of here."
+dialogue,Ross,"Yeah, well…nah."
+dialogue,Rachel,"What? Wait, what?"
+dialogue,Ross,"Why don’t you come, I mean, I-I have two tickets, why not?"
+dialogue,Rachel,"Well-well, I don’t know Ross—really?"
+dialogue,Ross,"Yeah, yeah, it’ll be great! You can, you can lay on the beach and I can cry over my failed marriage. See-see how I make jokes?"
+dialogue,Rachel,Uh-huh.
+dialogue,Ross,"No really, I mean, I mean, God, I could use a friend."
+dialogue,Rachel,"Oh wow, uh okay, uh maybe. Umm, yes, I can do that!"
+dialogue,Ross,Okay!
+dialogue,Rachel,Okay!
+dialogue,Ross,Cool!
+dialogue,Rachel,All right!
+dialogue,Ross,"Come on! (They go to the jetway, Ross hands the tickets to the gate agent.) Here."
+dialogue,Rachel,"Oh, okay, we’re going. Yeah."
+dialogue,Ross,Ah! Ah! I forgot my jacket!
+dialogue,Rachel,"Oh, wait-wait-wait…"
+dialogue,Ross,You tell them to wait!
+dialogue,Rachel,Okay. Wait! Wait!
+action,,"(Ross retrieves his jacket and sees that not only has Emily arrived, but she as seen Rachel take her place on the plane.)"
+dialogue,Ross,Emily.
+action,,(She stares at him and Ross realizes what she’s thinking.)
+dialogue,Ross,Oh no-no-no! Oh-no! (Emily starts to run out and Ross chases her.) No! No! Emily!
+action,,Ending Credits
+heading,,"[Scene: Flight 1066 to Athens, Rachel is ordering a drink for Ross and herself.]"
+dialogue,Rachel,"Ahh, yes, I will have a glass of the Merlot and uh, (points to Ross’s seat.) he will have a white wine spritzer. Woo! (Looks out the window.) Hey, look at that, the airport’s moving. (Realizes that that’s not how it works.) Hey, are we moving?! Are we moving? Why are we moving? Hey, time-out, umm, yeah, does the captain know that we’re moving? (Sits back in defeat.) Oh my God. Oh, my gosh."
+action,,End

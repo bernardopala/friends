@@ -1,0 +1,302 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, Rachel is trying to pry more information about Chandler and Monica from Joey who's sitting on the couch and busy downing a pizza.]"
+dialogue,Rachel,Come on Joey!!!
+dialogue,Joey,"Rach, I told you everything I knew last night! Look, it's not that big of a deal, so Monica and Chandler are doing it."
+dialogue,Rachel,I can't believe you would say that!
+dialogue,Joey,Sorry. Monica and Chandler are making love.
+dialogue,Rachel,"No! I mean come on! This is a huge deal! (She sits next to him on the couch.) Fine I want—I need more details, who-who initiated the first kiss?"
+dialogue,Joey,(thinks) I don't know.
+dialogue,Rachel,Is he romantic with her?
+dialogue,Joey,I don't know.
+dialogue,Rachel,Are they in love?
+dialogue,Joey,(thinks) I don't know.
+dialogue,Rachel,You don't know anything.
+dialogue,Joey,"Ohh, I know one thing!"
+dialogue,Rachel,What?
+dialogue,Joey,They did it right there on the couch.
+action,,(He points to where she's sitting and she jumps up quickly.)
+action,,Opening Credits
+heading,,"[Scene: Central Perk, everyone is there as Ross enters.]"
+dialogue,Joey,Hey Ross!
+dialogue,Phoebe,Hey!
+dialogue,Ross,"(disinterested) Hey-yeah. (He hurries up to the counter.) Hey Gunther, can I have a scone please? (To the gang.) Wanna hear some good news? Someone I know is getting married! Yeah! And weddings are happy occasions! Oh, by-the-by it's my ex-wife Emily!"
+dialogue,All,What? Oh!
+dialogue,Chandler,Sorry man.
+dialogue,Gunther,Here's your scone.
+dialogue,Ross,"Oh, thanks Gunther. (He takes it, hands the plate it's on to Rachel, sets it down on the table, and proceeds to pound it into oblivion while saying.) STUPID BRITISH SNACK FOOD!!!!!!!"
+dialogue,Chandler,Did they teach you that in your anger management class?
+dialogue,Phoebe,"Hey, you know what might help you deal with it? Think of it this way, you and Emily are in the past and you can't be mad about the past. So are you still mad about the Louisiana Purchase?"
+dialogue,Rachel,"Pheebs, I don’t think anyone's mad about that."
+dialogue,Phoebe,Exactly! Because it's in the past!
+dialogue,Joey,(eyeing the flattened scone) Anybody gonna eat that?
+heading,,"[Scene: Chandler's office, Monica and him are at a party his office is throwing.]"
+dialogue,Monica,"Look at us all dressed up for the big office party! By the way, what are we celebrating?"
+dialogue,Chandler,"Oh, we had a lot of liquor left over from the Christmas party."
+dialogue,Monica,I think this is so cool because none of our friends are here and we can be a real couple. We don't have to hide.
+dialogue,Chandler,"I know, I can do this. (He takes her hand.)"
+dialogue,Monica,"Ooh, and I can do this. (She kisses him on the cheek.)"
+action,,(They both stand real close together.)
+dialogue,Both,We can't do that. (They separate.)
+action,,(Chandler's boss (Doug) walks up.)
+dialogue,Doug,"Hey Bing! (Slaps him on his ass.) (Sees Monica) Wo-ho-ho, who's the pretty lady and what the hell is she doing with you?"
+dialogue,Chandler,"I asked myself that very question, sir. Uh, (Points to Monica) this is Monica. (Points to his boss.) This is my boss, Doug. Doug this is Monica."
+dialogue,Monica,"Hi, nice to meet you!"
+dialogue,Doug,Hi! And this is my wife Kara.
+dialogue,Kara,Nice to meet you Monica. Bing! (Slaps Chandler on his butt.)
+dialogue,Doug,"Say uh, Bing, did you hear about the new law firm we got working for us?"
+dialogue,Chandler,"No, sir."
+dialogue,Doug,"Yeah, Dewey, Cheatum, and Howe."
+action,,(Chandler does a fake laugh.)
+dialogue,Doug,"Come on honey, let's go drink our body weight. (They walk off leaving Chandler and Monica alone.)"
+dialogue,Monica,What was that?
+dialogue,Chandler,What?
+dialogue,Monica,That noise you just made?
+dialogue,Chandler,"Oh, that was my work laugh."
+dialogue,Monica,Really? Your work laugh?
+dialogue,Chandler,"Oh, believe me, to survive this party, you're gonna have to come up with one too."
+dialogue,Monica,"All right, check me out."
+dialogue,Chandler,Okay.
+action,,(She walks up to where Doug is finishing another joke to another group.)
+dialogue,Doug,…says $30 Father; same as in town.
+action,,"(Monica does a fake laugh. For the laughs, you'll have to see the episode. I can't describe them.)"
+heading,,"[Scene: Central Perk, Monica is buying a muffin as Chandler runs in.]"
+dialogue,Chandler,Hey! Everybody at work loved you last night!
+dialogue,Monica,Really?
+dialogue,Chandler,"And ! They like me more just because I was with ya! I think you repaired a lot of the damage from when they met Joey. And Doug wants us to play tennis with them. He's never even talked to me outside of work. Except for that time when we bumped into each other at that strip club. (She glares at him.) Strip church. Anyway, I'm gonna go try and find a racquet."
+dialogue,Monica,"Hey, I thought you already had one."
+dialogue,Chandler,"Oh I used too, but then Joey thought it would be fun to go to Central Park and hit rocks at…bigger rocks. (He starts to leave and stops an entering Rachel.) Hey Rach, do you have a tennis racquet?"
+dialogue,Rachel,"Oh umm, y'know I lent it to Joey and I never actually got it back."
+dialogue,Chandler,"Okay, good luck with that. (Exits.)"
+dialogue,Rachel,(To Monica) Hey!
+dialogue,Monica,Hi!
+dialogue,Rachel,What's up?!
+dialogue,Monica,What are you doing here? I thought you had to do inventory all day.
+dialogue,Rachel,"Well yeah, I do, but I decided to take a long lunch and spend some time with my friend Monica. Y'know I-I feel that we don't talk anymore. How are you? What is new with you?"
+dialogue,Monica,"Uhh, not much. Uh, work's good."
+dialogue,Rachel,"Oh y'know what, we don’t have to talk about work. We can talk about anything!"
+dialogue,Monica,Okay. Umm…
+dialogue,Rachel,Hey! Y'know what? Let's talk about relationships!
+dialogue,Monica,"Okay, what's going on with you?"
+dialogue,Rachel,Nothing! You go!
+dialogue,Monica,"Well, I-I—there was this guy at the bank that I thought was cute umm, but I don't anymore."
+dialogue,Rachel,"Wow that's uh, juicy. Umm, (checks watch) y'know what though Mon, I actually do have a lot of work to do so if-if—are you sure there's just not anything else?"
+dialogue,Monica,"Yes, I'm sure! Rachel is there something that you want to talk me about?"
+dialogue,Rachel,No! (Gets up to leave.) (Under her breath.) If there was I wouldn't tell you.
+heading,,"[Scene: Chandler, Joey, and Ross's, Phoebe is settling a dispute between the chick and the duck.]"
+action,,(The duck quacks.)
+dialogue,Phoebe,"Okay, then what happened?"
+action,,(The duck flaps its wings frantically.)
+dialogue,Phoebe,(gasps) Ohh. Uh-huh. Uh-huh. (The chick clucks.) You'll get your turn!
+dialogue,Ross,"(entering from the bathroom) Hey Pheebs, what's going on?"
+dialogue,Phoebe,Nothing! (Picks up and sets the chick down on the floor.) (To the chick.) This is not over!
+dialogue,Ross,No! No! No!
+dialogue,Phoebe,What?!
+dialogue,Ross,"I was up all night writing this really nasty letter to Emily! It was perfect and now it's all covered in-in… (The duck quacks.) Actually, thanks!"
+dialogue,Joey,(entering from his room) All right! Everybody ready to go to the movies?
+dialogue,Ross,"Uh actually, I think I'm gonna skip it."
+dialogue,Joey,Really?
+dialogue,Ross,"Yeah, I'm gonna stay and read my book. I just wanna be alone right now."
+dialogue,Joey,"Oh. Are you sure you don't want to come? Tom Hanks, Meg Ryan, they get mail and stuff."
+dialogue,Ross,"That's okay, Joe."
+dialogue,Joey,"All right, let's go Pheebs."
+dialogue,Ross,(licks the envelope and encounters a foreign substance on the glue.) Oh God!
+heading,,"[Scene: A tennis court somewhere in the city of New York, it's the doubles match-up of a century Chandler and Monica versus Doug and Kara.]"
+dialogue,Doug,Bing!
+action,,(Hits the ball towards Chandler who returns it back to him. He then hits the ball at Monica who slams it and it bounces off Kara's leg.)
+dialogue,Kara,Oww!!
+dialogue,Monica,Game!
+dialogue,Doug,"Well, I gotta tell ya Bing; that partner of yours is a real tiger. (To his wife.) Are you all right sweethart?"
+dialogue,Kara,(out of breath and mouths) I'm not all right.
+dialogue,Doug,"We're, we're just gonna get a little sip of water."
+action,,(They both walk off the court.)
+dialogue,Monica,"Am I on fire today or what?! Those birds are browned, basted, and ready to be carved!"
+dialogue,Chandler,"Okay, easy Martina. I think we should let them win the next game."
+dialogue,Monica,"I'm sorry, I don't understand what you just said."
+dialogue,Chandler,Let them win one.
+dialogue,Monica,"Are you crazy?! We own those two! I mean look at 'um, he can't breath and she's popping pills."
+dialogue,Chandler,You're not even giving them a chance!
+dialogue,Monica,They have racquets don't they?!
+dialogue,Doug,"Uh Bing, I think we're gonna make this the last game."
+dialogue,Chandler,"Oh yes, sir! Put me out of my misery. Are you sure you never played pro? (Does his work laugh.) (To Monica) Please let them win!"
+dialogue,Monica,I'll take it down to 95% but that's the best I can do.
+action,,(She serves to Doug who returns it to Chandler. As it bounces over his head Chandler swings and misses.)
+dialogue,Chandler,"Oopsey, missed it!"
+dialogue,Monica,I got it! (She hits a forehand smash that bounces right in between Doug and Kara and scores a point.)
+dialogue,Doug,Nice shot.
+action,,(Chandler glares at her and she shrugs her shoulders. Monica serves again; and Kara returns it.)
+dialogue,Monica,I got it!!
+action,,(Chandler cuts in front of her and hits the ball high and long.)
+dialogue,Chandler,Long! (Gives Monica the Work Laugh.)
+heading,,"[Scene: Monica and Rachel's, Monica and Chandler are returning from the game.]"
+dialogue,Monica,I can't believe you let them win!
+dialogue,Chandler,"Yeah, at least you hid your feelings well about it. (Removes a smashed racquet from his bag.)"
+dialogue,Monica,I was frustrated.
+dialogue,Chandler,It was my racquet.
+dialogue,Monica,I was frustrated with you!
+dialogue,Chandler,If we hadn't lost the game they never would've invented us to dinner tomorrow night.
+dialogue,Monica,"Y'know what really bothers me? Is—it's how-how different you act around them! I mean y'know the throwing the tennis games, the fake laugh, the ""I'll see you around, Bing!"" ""Not if I see you first, Doug!"" (Mocks the fake laugh.) I gotta tell you, I don't like Work Chandler. Okay? The guy's a suck-up."
+dialogue,Chandler,"Okay y'know what, because you said that, I'm not putting out tonight."
+heading,,"[Scene: Chandler, Joey, and Ross's, the next morning the girls are there with Joey.]"
+dialogue,Monica,"I'm telling you, something's wrong! My brother does not stay out all night."
+dialogue,Joey,Maybe we should check the trash chute.
+dialogue,Rachel,Ross couldn't fit down the trash chute.
+dialogue,Joey,"That's right, he almost could. Which is exactly how I got stuck there."
+action,,(Ross enters.)
+dialogue,Phoebe,Hey!
+dialogue,Rachel,There he is!
+dialogue,Monica,"Oh my God! (She goes to hug him, stops short, and hits him on the shoulder.) Where the hell have you been?!!"
+dialogue,Ross,"Just, y'know out."
+dialogue,Rachel,"Ohh, out, oh God, I don't know why we didn't think to check there!"
+dialogue,Phoebe,What were you doing?
+dialogue,Ross,"I uh, went to a bar. And then I just uh, just walked around for a while."
+dialogue,Rachel,You walked around all night in the city by yourself?
+dialogue,Joey,(snaps his fingers) He hooked up! He hooked up with someone.
+dialogue,Ross,"Look, I don't have to answer your questions! Okay? I'm a big boy, I can do whatever I want!"
+dialogue,Joey,He hooked up!! Tell us about her!
+action,,"[Suddenly the door opens and Ross's mystery girl enters. I'll give you a hint to who it is: OH….MY….GAWD!! Uh-huh, it's Janice.]"
+dialogue,Janice,(entering) Ross you left you scarf in…(sees everyone.) Hey you guys. (Does the laugh.)
+action,,(They all turn and with shocked looks on their faces stare at Ross. Ross is at a loss for words at this moment.)
+action,,Commercial Break
+heading,,"[Scene: Chandler, Joey, and Ross's, continued from earlier.]"
+dialogue,Janice,Uh-oh-okay. Uh-oh-okay. I know what you all are thinking. But Chandler is in Yemen ! I'm a young woman! I have needs! I can't wait forever!
+dialogue,Rachel,Yeah! No that's what I was thinking.
+dialogue,Janice,"So I'm asking you please, take a moment before you judge me."
+dialogue,Phoebe,"Oh, nobody's judging you. (They all turn and look at Ross.)"
+dialogue,Janice,"Oh! Okay! (To Ross) You, Mister Right Place at the Right Time, call me! (Does her famous, or is that infamous, laugh and exits.)"
+action,,(They all turn and glare at Ross.)
+dialogue,Ross,"Okay, look, I-I know what you guys are going to say…"
+dialogue,Phoebe,You two will have very hairy children.
+dialogue,Ross,"Okay, I didn't know you would say that."
+dialogue,Rachel,Ross! Janice?!
+dialogue,Joey,"All right, hold on! Hold on. Hold on. This is Ross, okay? He's our friend. He obviously went crazy. He obviously lost his mind."
+dialogue,Ross,"Look, I didn't lose my mind! Okay, Janice and I have a lot in common! We've-we've both been divorced. We-we both have kids."
+dialogue,Phoebe,So are you actually gonna see her again?
+dialogue,Joey,Phoebe! Don't put ideas in his head!
+dialogue,Ross,I am gonna see her again.
+dialogue,Joey,Damnit Phoebe!!
+heading,,"[Scene: Monica and Rachel's, Monica is going through her purse as Rachel rushes in.]"
+dialogue,Rachel,"(entering) Okay, I have to tell you something that I have never admitted during our entire friendship! But, when we were in high school I made out with James Farrell even when I knew that you liked him! Wow, that feels so good to get off my chest! Okay, you go!"
+dialogue,Monica,My turn? What-what are you talking about?
+dialogue,Rachel,"Ugh, Monica, I know about you and Chandler."
+dialogue,Monica,What?!
+dialogue,Rachel,"I overheard you guys on the phone the other day, and you said, ""I'll just tell Rachel that I'm doing laundry for a couple of hours."" And he said, ""Laundry? Is that my new nickname?"" And you said, ""No! You know what your nickname is, Mr. Big."""
+dialogue,Monica,Well. Sounds like you're writing yourself a little play there Rach. Wow! Let me know how that one turns out.
+dialogue,Rachel,"Well, I wouldn't know because I got so freaked out that I hung up the phone."
+dialogue,Monica,"Well, if you had kept listening, you-you would have heard me call him Mr. Big…(Thinks)…ot."
+dialogue,Rachel,What?!
+dialogue,Monica,Mr. Bigot. He tells the most racist jokes.
+dialogue,Rachel,All right. So you're telling me that there is nothing going on between you and Chandler.
+dialogue,Monica,Me and Chandler?! (Does her fake laugh.)
+heading,,"[Scene: Chandler, Joey, and Ross's, Phoebe and Joey are there.]"
+dialogue,Joey,"All right, put your 20 bucks down. First one to find the tasty treat wins. Okay?"
+dialogue,Phoebe,Uh-hmm.
+dialogue,Joey,"All right. Let's get the contestants out of their isolation booths. (He removes the waste bucket that's over the duck and the laundry basket that's over the chicken.) And they're off! (He puts his foot in front of the chick, stopping it from moving.)"
+dialogue,Phoebe,Get your foot off my contestant! Judge!
+dialogue,Joey,"Judge rules, no violation."
+dialogue,Phoebe,Ohhh.
+dialogue,Ross,(entering) Hey guys!
+dialogue,Phoebe,Hey!
+dialogue,Joey,Yeah!
+action,,(Neither of them turns around from watching the chick and the duck look for the tasty treat.)
+dialogue,Ross,"Y'know what? It sounds so weird to say this but, I just had a great day with Janice!"
+action,,(They both turn around.)
+dialogue,Joey,What?!
+dialogue,Phoebe,Are you serious?!
+dialogue,Ross,Yeah! I opened up to her about all the terrible stuff that's been happening to me. I mean I talked for hours. (Joey has lost interest and is watching the race again.) It is amazing to have someone give you such-such focused attention.
+dialogue,Phoebe,"You don't need Janice for that, you've got us. We…"
+dialogue,Joey,And the duck gets the Nutter-Butter!
+dialogue,Phoebe,"(turning from Ross.) No!! Hey-hey that's not a Nutter-Butter, that's just an old Wonton!"
+dialogue,Joey,"Judge rules, Nutter-Butter."
+dialogue,Phoebe,"Ohh, tough call."
+dialogue,Joey,Yeah.
+heading,,"[Scene: Doug's house, Chandler, Monica, and them are just finishing dinner.]"
+dialogue,Doug,"But seriously, I believe that we should all support President Clinton. And her husband Bill. (Chandler does the laugh.)"
+dialogue,Kara,So how do you kids like your coffee?
+dialogue,Monica,"Oh, none for me. Thanks."
+dialogue,Chandler,Just a little bit of sugar.
+dialogue,Doug,"Well, maybe I'll bring it out and have Monica stick her finger in it. That oughta sweeten it up, huh? (Once again, with the laugh.)"
+action,,(Doug and Kara go get the coffee.)
+dialogue,Monica,(To Chandler) How does that laugh not give you a headache?
+dialogue,Chandler,"Oh, you get used to it."
+dialogue,Monica,"Y'know, I-I-I don't think that I can. So if you don't mind, maybe this will be it for me on the work things."
+dialogue,Chandler,"So I laugh at my boss's jokes, what's the big deal?"
+dialogue,Monica,I'd rather hang out with a sniveling work weasel guy when I can be hanging out with my boyfriend who I actually respect.
+dialogue,Chandler,Oh. (Does a double take when he realizes what she just said.)
+dialogue,Doug,"(entering) Uh, I gotta apologize for Kara's coffee. Y'know, I feel sorry for it if it ever got in a fight, it's not strong enough to defend itself. (Chandler does not laugh.) Did you hear what I said Bing?"
+dialogue,Chandler,What?
+dialogue,Doug,The joke Bing. What's the matter with you?
+dialogue,Chandler,"Well, I-I just didn't think it was funny sir."
+dialogue,Doug,Excuse me?
+dialogue,Chandler,"Well, I just…"
+dialogue,Monica,"(interrupting) Honey, I just don't think that you understood the joke."
+dialogue,Chandler,Really?
+dialogue,Monica,"Yeah! I mean it was really funny, I-I just don't think you got it. You see Kara's coffee is-is-is weak tasting, okay? But-but what Doug was-was imply that it was weak physically. You get it now honey?"
+dialogue,Chandler,"I think I do! (They all laugh.) Thank you, Monica."
+dialogue,Monica,I thought you could use the help.
+dialogue,Chandler,Coffee in a fight! (Does the laugh again.)
+heading,,"[Scene: Monica and Rachel's, Rachel is going through the mail as Joey enters.]"
+dialogue,Joey,"(entering) Hey Rach! Hey, you mind if I read my comic books in here?"
+dialogue,Rachel,Sure! Why?
+dialogue,Joey,"Oh well, Chandler and Monica are over there and it's kinda hard to concentrate."
+dialogue,Rachel,What?! She just called and said that she was gonna be working late! She keeps lying to me! That's it! Y'know what? I'm just gonna go over there and confront them right now!
+action,,"[Cut to Chandler, Joey, and Ross's apartment, Rachel enters and sneaks up to Chandler's bedroom where she overhears Chandler and Monica talking.]"
+dialogue,Chandler,"(from his bedroom) All right, so you're telling me that I have to tell racist jokes now?!"
+dialogue,Monica,Sorry! I'm just—I'm not very good at this! I'm a terrible liar and I hate having to lie to Rachel!
+dialogue,Chandler,But we're not ready to tell yet!
+dialogue,Monica,I know! It's just that…ever since high school Rachel was the one person I told everything too. Y'know? I miss that so much now. She's my best friend.
+action,,"(Rachel decides not to confront them and starts to walk out, knocking over a lamp in the process.)"
+dialogue,Monica,"(entering) Joey?! Oh my God, Rachel!"
+dialogue,Rachel,Hey! Hi!
+dialogue,Monica,Wh-wh-what are you doing here? (She tries to pull her shirt down to cover the fact that she's wearing men's boxers.]
+dialogue,Rachel,"Well, I was actually—I-I came over here to-to borrow this lamp. To umm, look at my books, y'know, see them a little better."
+dialogue,Monica,Okay great!
+dialogue,Rachel,Yeah!
+dialogue,Monica,"Great! Umm, well what-what I was doing in Chandler's room is that umm, I was cleaning it! In fact, he pays me to clean it!"
+dialogue,Rachel,Oh! What a great way to earn some extra pocket money.
+dialogue,Monica,"Y'know when I said to you earlier that I was at work umm, I'm at my new work."
+dialogue,Rachel,"That's good enough. Right? (Pause.) Okay, well umm, I'm gonna go look at my books!"
+dialogue,Monica,Okay.
+dialogue,Rachel,Okay.
+dialogue,Monica,I'll get back to my new job.
+action,,(Pause.)
+dialogue,Rachel,'Kay. (Pause.) Congratulations on your new job. (She goes and hugs Monica and is almost in tears.)
+action,,"(After she exits, Chandler enters.)"
+dialogue,Chandler,"Man, she is really gullible."
+action,,(Monica motions that it went right over Rachel's head.)
+heading,,"[Scene: Central Perk, Ross and Janice are sitting on the couch.]"
+dialogue,Gunther,Here you go. (Serves them both some coffee.)
+dialogue,Ross,Thanks!
+dialogue,Janice,"Actually, I should get going."
+dialogue,Ross,"Are you sure? Because I can stay out as late as you want. I told you how I'm on sabbatical from work, right?"
+dialogue,Janice,Yes! Yes! You did!
+dialogue,Ross,Oh…
+dialogue,Janice,What is wrong now?!
+dialogue,Ross,This isn't what I ordered! Man! Can anything go right in my life?! First my marriage falls apart and then…
+dialogue,Janice,"I know! I know! And then you lose your apartment! And then you lose your job! And then your ex-wife gets married so fast! And now the coffee—ahh!! Ross, we need to talk."
+dialogue,Ross,Okay. Sometimes I feel…
+dialogue,Janice,"No-no-no, no. I'm going to talk. I believe that the sun has set on our day in the sun."
+dialogue,Ross,Huh?
+dialogue,Janice,"(starting to cry) You're a very sweet person Ross, umm, unfortunately I don't think I can take another second of you whining!!"
+dialogue,Ross,"Let-let me make sure I'm hearing this right, you're ending this with me because I'm too whiney? (Janice makes an agreeing sound.) So you're saying, I've become so whiney that I annoy you , Janice."
+dialogue,Janice,Well yeah!!
+dialogue,Ross,OH…MY…GOD!!
+dialogue,Janice,Are you gonna be okay?
+dialogue,Ross,I am now.
+dialogue,Janice,Okay.
+action,,(Joey enters.)
+dialogue,Joey,"Umm, hi."
+dialogue,Janice,"Oh hi! Well, I guess that's two out of three, Joey. (Laughs and exits.)"
+action,,(Joey looks at Ross with a horrified look on his face.)
+action,,Ending Credits
+heading,,"[Scene: Chandler, Joey, and Ross's, Chandler is reading a magazine as Ross hands him a beer.]"
+dialogue,Ross,"Dude, we got to talk."
+dialogue,Chandler,Okay.
+dialogue,Ross,"I just wanted to tell you something before you heard it from someone else and I hope this isn't too weird, but uh, I had uh, a thing with Janice. (He laughs, his real laugh this time.) What you're-you're not mad?"
+dialogue,Chandler,Why would I be mad?
+dialogue,Ross,"Well, because y'know there are certain rules about this kind of stuff. You don't uh, you don't fool around with your uh, friend's ex-girlfriends or possible girlfriends or girls they're related to."
+dialogue,Chandler,"(realizes what Ross just said and the implications to him) I am mad! But you know what I'm gonna do? I'm gonna forgive you! Because that's what friends do! They forgive their friends when they do everything you just said, all on the list there. Well, but I want you to remember that I forgave you."
+dialogue,Ross,Okay.
+dialogue,Chandler,I also want you to remember that I let you live here rent free!
+dialogue,Ross,All right.
+dialogue,Chandler,"And, I want you to remember that I gave you twenty (counts his money) seven dollars. No strings attached. Now, if you can't remember that, I think we should write it down—let's write it down!"
+action,,End

@@ -1,0 +1,301 @@
+script_element,character,text
+heading,,"[Scene: Chandler, Joey, and Ross's apartment, Ross is cleaning out the fridge. Joey walks from his room. He looks like he just woke up.]"
+dialogue,Joey,What are you doing?
+dialogue,Ross,"I...reorganized the fridge. See, bottom shelf: meats and dairy. (There’s nothing on the shelf.) Middle shelf: fruits and vegetables. (There’s one lone tomato.) And top shelf: expired products. (The shelf is jammed packed.)"
+dialogue,Joey,Why are you doing this?
+dialogue,Ross,"Because I am bored...Out of my mind. I’ve already been to the bank, post office, and the dry cleaners."
+dialogue,Joey,"Dude, you just described seven days worth of stuff. You’ve got to spread it out a little, you know. Haven’t you ever been unemployed?"
+dialogue,Ross,"Hey, I am not unemployed. I’m on sabbatical!"
+dialogue,Joey,"Hey, don’t get religious on me, ok. (Ross looks a little confused.) A guy in your position needs to be a little better at relaxing. You know. Why do you think we have the comfortable chairs? Huh...come here…sit down. (Ross sits down.) Ready? (Joey flips the foot rest up.) Ahh!! (He reclines the chair fully.) Ohh, yeah!! Huh?!"
+dialogue,Ross,"So what, we just sit?"
+dialogue,Joey,"Ohh, no, no. We’re not going to just sit. (Joey sits down and hits the speed dial button on the phone.) Shhh. (It begins to ring.)"
+dialogue,Chandler,"(Answering the phone at work) Hello, Chandler Bing."
+dialogue,Joey,(In a high pitched female voice) Hello Mr. Bing...I love you.
+dialogue,Chandler,"(Angrily) Alright, whoever this is, stop calling me! (Ross and Joey laugh silently.) It’s been six months! It’s not funny!"
+dialogue,Joey,"But, I love you."
+dialogue,Chandler,"Leave me alone! For the love of God, leave me alone!!! (Joey hangs up.)"
+dialogue,Joey,And that’s Wednesday. (He reclines in his chair.) Ohh.
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Chandler, Ross, Joey, Monica, and Rachel are there. Phoebe walks in ringing a bell.]"
+dialogue,Phoebe,"Hey you guys, guess what?"
+dialogue,Chandler,The British are coming?
+dialogue,Phoebe,"Ohh, you and your ways. (She shakes the bell at him and sits down.) Since it’s Christmastime. I’m going to be one of those people collection donations."
+dialogue,All,Ohh.
+dialogue,Phoebe,"(Excitedly) Yeah, I already have my bell and later on...I get my bucket."
+dialogue,Chandler,Ohh.
+dialogue,Phoebe,"Yeah, yeah, I’m going to be out there spreading joy to the people. I mean, last year, I spread a little joy but not really enough. So this year, I’m going to do the whole city."
+dialogue,Monica,"You know, I knew a girl in high school who did that. She was very popular. (Chandler laughs.)"
+dialogue,Joey,"So Pheebs, where are you doing all, your bell ringing?"
+dialogue,Phoebe,"Ohh, they gave me a great spot. Right by Macys . Yeah, they hardly ever give such a good spot to a rookie, but I’m the only one who can sing ""Merry Christmas"" in 25 languages. (She smirks.) I lied."
+dialogue,Rachel,"Oh my god. Ok you guys, there’s Danny. Watch. Just watch this. (He walks past the couch to the counter.) See?! Still pretending he’s not interested. Ohh, he’s coming over. Just pretend like we don’t know him. We’ve forgotten who he is."
+dialogue,Danny,Hey guys.
+dialogue,All,Hey Danny.
+dialogue,Monica,"Danny? You know Rachel? She’s nice. She’s not bad to look at, right?"
+dialogue,Rachel,"Thanks, Mon."
+dialogue,Danny,"Well, of course."
+dialogue,Monica,Do you want to go out on a date with her?
+dialogue,Rachel,Monica!!!
+dialogue,Danny,(Looking at Monica) Absolutely! Is Friday okay?
+dialogue,Monica,Friday’s perfect...She can’t wait.
+dialogue,Danny,"(To Monica) On the date, I will be able to talk to her directly? (To Rachel) See ya Friday. (He walks out.)"
+dialogue,Rachel,(Somewhat angrily) Okay. What the hell was that? You know what? Don’t answer me. (Giggling) I have a date with Danny.
+heading,,"[Scene: Estelle's (Joey's Agent) Office, Joey is there.]"
+dialogue,Joey,How could I not get the part? The play was about a 29-year-old Italian actor from Queens.
+dialogue,Estelle,"Well, Telia Shire suddenly became available."
+dialogue,Joey,She’s a woman!
+dialogue,Estelle,What can I say? She nailed it.
+dialogue,Joey,"(Very discouraged) Okay, is there anything else?"
+dialogue,Estelle,"Well, you’re just going to say no again but...gay porn."
+heading,,"[Scene: In front of Macys , Phoebe is collecting donations and ringing her bell.]"
+dialogue,Phoebe,"Happy Holidays. Feliz Navidad. Allo, and Merry Christmas. (A man put some change in her bucket.) Ohh thank you sir. Here's some joy. (She waves her hand up and down as if she is spreading joy.)"
+dialogue,Monica,(Walking in from off screen.) Phoebe!
+dialogue,Phoebe,Hey!
+dialogue,Monica,I just wanted to see how it's going.
+dialogue,Phoebe,"Well, it's going okay."
+dialogue,Monica,"(Taking out her wallet.) Well good, here let me help you out."
+dialogue,Phoebe,"Oh, thanks!"
+dialogue,Monica,Yeah!
+dialogue,Phoebe,Wow!
+action,,(Monica puts some change in Phoebe's bucket.)
+dialogue,Phoebe,Is that a new Swede jacket? It looks really expensive.
+dialogue,Monica,Yeah. I guess. (She puts more money in the bucket.)
+dialogue,Phoebe,Just get your nails done?
+dialogue,Monica,"Yes Phoebe, but this is all I have. Okay? (She pours out the rest of her change purse into the bucket.)"
+dialogue,Phoebe,"Okay! Thanks! Happy Holidays, here's your joy. (She waves her arm and spreads her joy.)"
+action,,(A man walks up and puts a dollar bill in.)
+dialogue,Phoebe,Thank you! And Happy Holidays.
+action,,(The man starts to take some change out.)
+dialogue,Phoebe,"Wait, you can't take the money out."
+dialogue,The Man,I'm making change. I need change for the bus.
+dialogue,Phoebe,"But, can't you leave the dollar? This money is for the poor."
+dialogue,The Man,I'm poor! I gotta take the bus!
+dialogue,Phoebe,"Okay, Seasons Greetings and everything, but still…"
+dialogue,The Man,"Bite me, blondie! (The man storms off.)"
+dialogue,Phoebe,"Oh, I'm going to give him something else besides joy, just… (She scowls at him.)"
+heading,,"[Scene: Chandler, Joey, and Ross's, Joey is telling Ross how he didn't get the part.]"
+dialogue,Joey,That part was perfect for me! I can't believe I didn't get it!
+dialogue,Ross,"I'm sorry, man. Hey, y'know what you should do? You should make something happen for yourself. Y'know, like-like write a play. Write a movie! Huh? I mean, what about those Good Will Hunting guys?"
+dialogue,Joey,"Come on Ross be realistic, y'know? If I did write something, what are the chances I could get those guys to star in it?"
+action,,(Ross just stares at him until he figures it out.)
+dialogue,Joey,"Wait a second, I could star in it!"
+dialogue,Ross,Or that.
+dialogue,Joey,"I can't write! Y'know I mean I-I-I'm an actor, I don't have the discipline that takes, y'know? I can't do it."
+dialogue,Ross,"I'll help you. Yeah, I'll make up a schedule and make sure you stick to it. And plus, it'll give me something to do."
+dialogue,Joey,Really? You'd-you'd do that for me?!
+dialogue,Ross,Yeah!
+dialogue,Joey,Thanks!
+dialogue,Ross,"(grabbing a notepad and sitting down) All right, we'll start off slow. The only thing you have to do tonight is come up with the name of your main character."
+dialogue,Joey,Done!
+dialogue,Ross,And it can't be Joey.
+dialogue,Joey,It's not.
+dialogue,Ross,Or Joseph.
+dialogue,Joey,(disappointed) Oh.
+heading,,"[Scene: Monica and Rachel's, Rachel is returning. Monica enters from her room wearing nothing but a robe.]"
+dialogue,Monica,"Hey, what's up?"
+dialogue,Rachel,I just saw Danny getting on the subway with a girl and he had his arm around her.
+dialogue,Monica,"Oh, honey, I'm sorry."
+dialogue,Rachel,"Well, you should be, this is all your fault! You meddled in our relationship!!"
+dialogue,Monica,You had no relationship!!
+dialogue,Rachel,"No, but I was doing my thing and everything was going according to the plan!"
+dialogue,Monica,"Oh God, stop with the plan! So what, so what you saw him with a girl? Who cares?! That doesn't mean anything! Now look, you're going to go out on a date with Danny and you're going to be so charming he's gonna forget all about that stupid subway girl."
+dialogue,Rachel,"She was kinda stupid. You're right. All right, I'm just gonna go on the date. I'm gonna go on the date. That is the new plan."
+action,,(Rachel goes into her room and closes the door. Which allows Monica to let Chandler out of her room.)
+dialogue,Monica,"Come on, hurry!"
+action,,"(Chandler runs out the door and closes it behind him. After a short pause the door opens and Chandler comes rushing back through, grabs Monica, kisses her good-bye, and heads back out.)"
+heading,,"[Scene: Chandler, Joey, and Ross's, Joey is trying to write his movie, Chandler is playing a game on the counter by trying to flip a ping pong ball with a spoon into a nearby bowl.]"
+dialogue,Joey,"Hey, how do you spell suspicious?"
+dialogue,Chandler,Why?
+dialogue,Joey,Because I think this character is going to be suspicious about stuff.
+action,,(Chandler makes it into the bowl.)
+dialogue,Chandler,"Yes! Chandler Bing, 7! Chandler Bing , 0."
+dialogue,Joey,You're driving me crazy with that!
+dialogue,Chandler,"Okay, I'll stop."
+dialogue,Joey,Don’t stop! Move the bowl further away! Ross could make that shot!
+action,,"(Chandler slides the bowl to the far end of the counter. He tries again, but he hits the spoon to hard and the ball goes flying away.)"
+dialogue,Joey,"Well, you suck! But at least you suck at a man's game now."
+dialogue,Chandler,You wanna play?
+dialogue,Joey,"Chandler, I can't be playing games, Ross is gonna be home soon. And I have to write five whole pages if I'm gonna stick to his schedule."
+dialogue,Chandler,"Well, so, play for the next 30 minutes and then write until he gets home."
+dialogue,Joey,"(jumping up) All right! But uh, listen, what do you say we crank it up a notch?"
+dialogue,Chandler,I'm intrigued.
+dialogue,Joey,"All right, all we need is a little lighter fluid."
+dialogue,Chandler,"Okay, but be careful okay, because I wanna get our security deposit back."
+dialogue,Joey,"Yeah, I think we said good-bye to that when we invented hammer darts."
+dialogue,Chandler,Do you even remember which part of the wall is not spackle?
+dialogue,Joey,"Uh yeah, right here. (He punches his fist through the wall next to the door.)"
+heading,,"[Scene: In front of Macys , Phoebe is still ringing her bell. A guy puts some change into the bucket.]"
+dialogue,Phoebe,"Thank you, Happy Holidays."
+action,,(Another woman walks up and throws something into the bucket.)
+dialogue,Phoebe,"Now, that's trash. Young lady, you can't… (The lady ignores her and walks off.) Hey! Stop that young lady, she donated trash!"
+action,,(Another guy walks by and throws his light cigarette butt in the bucket.)
+dialogue,Phoebe,"Hey!! (The bucket starts smoking.) The charity's on fire! Help! (Yet another guy walks by carrying a cup, which Phoebe grabs.) Oh good! Thank you, I need that. (She throws onto the smoldering fire. Suddenly the bucket erupts in flames.) Whoa! What is that?! (She sniffs the cup.) (To the guy.) It's nine o'clock in the morning!"
+heading,,"[Scene: Chandler, Joey, and Ross's, Ross is reading what Joey wrote.]"
+dialogue,Ross,"All right. (Reading.) A room. A man enters, he looks suspicious. (Stops reading a flips the page to find the next one is blank.) That's it? (Joey shrugs.) Joey, you're supposed to have five pages done by now! Including an exciting incident! (Flipping through the rest of the pad.) And what is, and what is all this?! (Reading.) The official rulebook of Fireball."
+dialogue,Joey,"Yeah, that's the uh, game we were playing."
+dialogue,Chandler,"(entering from his room carrying a fire extinguisher and wearing oven mitts) Oh yeah, it's great! See you take a tennis ball, a bowl, and some lighter fluid—Op! Op! (He puts out a small fire which has re-ignited in his room.)"
+dialogue,Ross,This is helping your career?! Huh? I thought you wanted to be an actor not the creator of crazy lawsuit game!
+dialogue,Joey,"You're right, you're right, I'll get back to work."
+dialogue,Ross,"(To Chandler) And shame on you! You should know better, Joey needs to work. (To Joey) Now come on!"
+dialogue,Joey,Hey!
+action,,"(He tries to fire a burnt tennis ball into the bowl Chandler is standing by, but Ross grabs the ball away from him.)"
+dialogue,Ross,"No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done! (After Joey walks past, Ross throws the ball down in pain.) Ahh! (Chandler shows him the burn spots on his oven mitts.)"
+heading,,"[Scene: Outside Danny's apartment, Danny and Rachel are returning from their date.]"
+dialogue,Danny,I had a really nice time tonight.
+dialogue,Rachel,So did I. I'm really glad Monica asked us out.
+action,,(He kisses her.)
+dialogue,Danny,"I'd love to ask you in, but uh, my sister's visiting and I think she's asleep on the couch."
+dialogue,Rachel,"You're sister? You're sister's asleep on the couch? (Danny nods, ""Yes."") Ohhh! I saw her with you on the subway and now she's asleep on the couch!"
+dialogue,Danny's Sister,"(opening the door) Oh, I thought I heard you."
+dialogue,Danny,"Oh hey, great, you're up. Rachel, this is my sister Krista. Krista, this is Rachel."
+dialogue,Rachel,Hi!
+dialogue,Krista,"Nice to meet you. I wish you'd told me we were having company, I'd fix myself up!"
+dialogue,Danny,Like it would help.
+dialogue,Krista,You are so bad! (Hits him softly.)
+dialogue,Danny,You are! (Hits her back.)
+dialogue,Krista,You are! (Hits him softly.)
+dialogue,Danny,You are! (Hits her back.)
+dialogue,Krista,You are! (Hits him softly.)
+dialogue,Danny,You are! (Hits her back.)
+dialogue,Krista,You are! (Hits him harder this time.)
+dialogue,Danny,You are so dead! I'm gonna get you.
+action,,(He starts chasing her around Rachel a couple of times before she runs into the living room and he tackles her on the couch where he starts tickling her.)
+dialogue,Rachel,"(not sure what to do) Uh, it was very nice meeting you. (They continue to ignore her.)"
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, Phoebe is complaining to Ross and Monica about the bucket.]"
+dialogue,Phoebe,"Nobody! Nobody respects the bucket! You wouldn't believe what people put in here! Look! (Hands it to Monica.) Okay, does this look like a garbage can to you?"
+dialogue,Monica,No.
+dialogue,Phoebe,Does it look like an ashtray?
+dialogue,Monica,No.
+dialogue,Phoebe,Does it look like a urinal?
+dialogue,Monica,Eww!! (Throws the bucket down.)
+dialogue,Ross,"So Pheebs, are you gonna go back out there or what?"
+dialogue,Phoebe,"Well, yeah! But I'm not gonna take anymore crap. Okay? No more Mrs. Nice Bucket!"
+dialogue,Monica,"Yeah, good for you. Y'know you're tough, you lived on the streets."
+dialogue,Phoebe,"Yeah, I'm gonna go back to being Street Phoebe. Yeah! Oh but, y'know what? I can't go totally back because Street Phoebe really wouldn't be friends with you guys. Sorry. (Leaves.)"
+dialogue,Rachel,(entering from her room) Hey!
+dialogue,Monica,Hey!
+dialogue,Rachel,"Hey, umm, can I ask you guys something?"
+dialogue,Monica and Ross,Sure.
+dialogue,Rachel,"Uh, I don't have any brothers so I don't know, but uh, did you guys wrestle?"
+dialogue,Ross,"Oh-oh, yeah."
+dialogue,Monica,"All the time. In fact, I was undefeated."
+dialogue,Ross,"Uh, you weighted 200 pounds."
+dialogue,Monica,"Still, I was quick as a cat."
+dialogue,Rachel,"Well, I met Danny's sister yesterday, and uh that was actually the girl on the subway."
+dialogue,Monica,"Oh, you're kidding."
+dialogue,Rachel,"Yeah, they were very y'know…wrestley. But, I guess that's normal?"
+dialogue,Monica,"(laughing with Ross) We don't, we don't wrestle now."
+dialogue,Ross,"Yeah, not since I got too strong for you."
+dialogue,Monica,Too strong for me?
+dialogue,Ross,Yeah.
+dialogue,Monica,"You wanna go right now? 'Cause I'll take you right now, buddy! You wanna go?"
+dialogue,Ross,Oh fine.
+dialogue,Monica,Ready? (They grab a hold of each other's necks.) Wrestle! (They start wrestling.)
+dialogue,Rachel,"Okay, y'know what uh, actually, that's great. That helps a lot. Thanks. (She leaves them to wrestle.)"
+heading,,"[Scene: Chandler, Joey, and Ross's, Ross is cleaning the foosball table, Joey is working on his script.]"
+dialogue,Chandler,"(entering from his bedroom) Guys, come on! Let's go! The puck drops in 20 minutes! Come on, Joe!"
+dialogue,Ross,Joey's not going.
+dialogue,Joey,(To Chandler) I didn't finish my five pages.
+dialogue,Chandler,"Well, why can't you do them tomorrow?"
+dialogue,Ross,Because tomorrow he's redoing yesterday's pages.
+dialogue,Joey,Yesterday's pages did not reflect my best work.
+dialogue,Chandler,"(To Ross) Why don't you cut him a little slack? Okay? Maybe if he relaxes a little bit, he'll get some work done."
+dialogue,Ross,"I think he's been relaxing enough, thanks to you and Fireball."
+dialogue,Joey,"Dude, if you think Fireball's relaxing, you've obviously have never played."
+dialogue,Chandler,"The only reason you're doing this to Joey is because you're bored. Okay, it's not his fault that you're unemployed."
+dialogue,Ross,I am not unemployed. I'm on sabbatical!
+dialogue,Joey,"Come on look guys, don't fight."
+dialogue,Ross,"And the reason I'm doing this is because I am Joey's friend. And if you were a good friend, you'd be doing the same thing."
+dialogue,Chandler,"Oh, so being a good friend means acting like a total jerk?"
+dialogue,Ross,If it does? Then you're an amazing friend of mine.
+dialogue,Joey,"Hey-hey guys, hey! How about we settle this over a friendly game of Fireball? Huh? I'll go unhook the smoke detectors!"
+dialogue,Ross,"How about we settle this right now! (He rips up the tickets.) There! Now, no one's going to the game. Ha-ha-ha!"
+dialogue,Chandler,I paid for those tickets!
+dialogue,Ross,"No you didn't. You said you would, but you never did!"
+dialogue,Chandler,Oh yeah! (Makes an unintelligible taunting sound.)
+heading,,"[Scene: Central Perk, Monica, Rachel, Joey, and Chandler are listening to a story being told by Danny and his sister.]"
+dialogue,Danny,…so we finally get to the top of the mountain and airhead here (His sister) forgets the camera!
+dialogue,Joey,"Oh, y'know the same thing happened to me one time."
+dialogue,Chandler,When did that happen to you?!
+dialogue,Joey,Don't you remember when we were jogging in the park and we saw that really pretty bird and wanted to take a picture—I didn't have my camera!
+dialogue,Chandler,"Oh yeah. First off all, chasing the Churo guy isn't jogging."
+dialogue,Krista,"Oh, this is so good (A piece of cake.) you have got to try it. (She takes some on her finger and feeds it to Danny. Then takes a little more and does it again. Meanwhile, the rest of the gang stares on in shock. Then they pick up a part of it and some filling falls into his lap.)"
+dialogue,Danny,"Oh, damn! I got it on my pants."
+dialogue,Krista,"Here, I'll get it. (She grabs a napkin and tries to wipe it up. The thing that gets the rest of the gang going is that she's whipping awfully close to his crotch. In fact, she is whipping his crotch. Chandler's about to come out of his chair.)"
+dialogue,Krista,We'd better take these pants off upstairs or that stain's gonna set.
+dialogue,Danny,Yep. (To Rachel) I'm gonna wear these on our date tonight.
+dialogue,Rachel,"Oh, great!"
+dialogue,Chandler,"Okay, bye! (To the gang.) Oh my God!!"
+dialogue,Monica,That was unbelievable!
+dialogue,Rachel,"Okay, see? I told you!"
+dialogue,Joey,"Yeah, wow, sorry Rach."
+dialogue,Chandler,I don't believe they're brother and sister.
+dialogue,Joey,They're brother and sister!!!
+heading,,"[Scene: In front of Macys , Phoebe has adorned her bucket with numerous signs. Like ""We are not a urinal!"" and ""I have no Macys info."" And other stuff like that. She also has a scowl on her face as she is ringing her bell. A little old lady walks up to make a donation but Phoebe stops her.]"
+dialogue,Phoebe,"Oh whoa-whoa-whoa! Wait a minute, open up your hand; let me take a look. (The lady opens up her hand.) Quarter. Dime. Lint? Not interested in that. (She throws the lint away.) What's this? A Canadian coin? Get outta here! (The lady walks away.)"
+action,,"(Another man walks up with a drink in his hand, Phoebe stops him too.)"
+dialogue,Phoebe,Whoa-whoa-whoa! No drinks near the bucket! Set it down over there and then you can make a contribution! (The guy starts to walk away with a hurt look on his face.) And you can leave the hurt bunny look over there too! (Her boss and a co-worker walk up.) Hi Bob! (The same old lady from before walks bye.) (To the old lady.) I thought I told you to get outta here!
+dialogue,Bob,"Uh, Phoebe we've been getting complaints and uh, we're gonna move you to a less high-profile spot."
+dialogue,Phoebe,What?!
+dialogue,Bob,"Umm, Ginger's gonna take over this corner."
+dialogue,Phoebe,That chick can't handle my corner.
+dialogue,Bob,"Look, either you leave, or we remove you."
+dialogue,Phoebe,"Fine. (She hands her bell to Ginger and starts to take down her signs.) (The same old lady walks by again.) All right, I'll give you one pointer. Look out for that bitch. (The old lady.)"
+heading,,"[Scene: Danny's apartment, there's a knock on the door and he answers it.]"
+dialogue,Danny,"Oh, hey Rach! I thought we said seven?"
+dialogue,Rachel,"Yeah uh, y'know what uh, let's skip it."
+dialogue,Danny,What?! Why?!
+dialogue,Rachel,"Umm, you-you and your sister seem to have umm, a very special bond, and…"
+dialogue,Danny,Oh great! That special bond again! Why do women have such a problem with the fact that I'm close with my sister?
+dialogue,Rachel,"Well, okay, look. I don't know, listen, I don't know what's going on here but let's…"
+dialogue,Danny,"Do-do you, do you have brothers?"
+dialogue,Rachel,"No, I have two sisters. But one of them has a very masculine energy."
+dialogue,Danny,Are you close with them?
+dialogue,Rachel,"No-no, they're not very nice people."
+dialogue,Danny,"Okay, listen, I really like you. Okay? I think this can go somewhere. So what if I'm close to my family, are you gonna let that stand in the way of us?"
+dialogue,Rachel,"Well, uh, I-I don't know. See when-when you put it that way y'know it does sort of…"
+dialogue,Krista,(calling from the bathroom) Danny! Hurry up! The bath is getting cold!
+dialogue,Danny,(seeing Rachel's shocked look) What?
+dialogue,Rachel,"Yeah, okay, I'll see you later. (Gets up and runs from the apartment.)"
+heading,,"[Scene: Chandler, Joey, and Ross's, Ross is there as Chandler enters.]"
+dialogue,Chandler,"Oh hey! There's some kids playing in the street, you wanna go down there and give them a project, ruin their day?"
+dialogue,Ross,"Hey, if they have a ball maybe you can stick razor blades in it and teach them a new game, Gonna Need Stitches Ball."
+dialogue,Joey,(entering) Hey guys! I was at the library all morning and I already finished my five pages for today!
+dialogue,Ross,Yay!
+dialogue,Chandler,"Great! Now, we can go to the Ranger game! (Pause) Last night!"
+dialogue,Joey,"No dude, Ross tore up the tickets!"
+dialogue,Ross,"I guess when you don't have so many distractions, it's easier for you to focus. Huh?"
+dialogue,Chandler,Yeah or also when you don't have somebody breathing down your neck ALL THE LIVE LONG DAY!!
+dialogue,Joey,"Yeah, well, that's fine, but the important thing is that I finished it. And uh, I think it's really good, but y'know it'd really help me is if I could hear it. So would you guys read it for me?"
+dialogue,Chandler,All right. (Takes a copy.)
+dialogue,Ross,All right. (Takes another copy.)
+dialogue,Joey,"Okay. (Reading.) ""It's a typical New York City apartment. Two guys are hanging out."" Ross (Points to him.)"
+action,,(Ross and Chandler start to read Joey's script aloud.)
+dialogue,Ross,Hey man.
+dialogue,Chandler,What is up?
+dialogue,Ross,"About yesterday, I was really wrong. I am sorry."
+dialogue,Chandler,"No, it was me. I'm sorry. I over reacted."
+dialogue,Ross,"Maybe it was both of us, but we had our best friend's interest… (Pauses and looks at Joey.) But we had our best friend's interest at heart."
+dialogue,Chandler,Could I be more sorry. (Looks at Joey.)
+dialogue,Ross,"I don't know, I'm one sorry polentologist. (Stops reading.) All right Joey, we get it. (To Chandler) I'm sorry."
+dialogue,Chandler,(To Ross) I'm sorry too.
+dialogue,Joey,"Oh no! No-no, keep reading! The good part's coming up. Keep going."
+dialogue,Ross,"(reading from the script.) I am sorry, Chandler."
+dialogue,Chandler,"I am sorry, Ross."
+dialogue,Joey,"A handsome man enters. (Playing the part of the handsome man.) Hey! How's it going guys? I don't know what you two were talking about, but I'd like to say thanks to both of you. You, (Ross) you wouldn't let me give up on myself, and you (Chandler) well you co-created Fireball. The end."
+dialogue,Chandler,This took you all day?!
+dialogue,Joey,"No-no, this only took five minutes. I spent the rest of the day coming up with new, Ultimate Fireball. (Takes out a bowling ball and a propane torch.) Ha-ha!"
+action,,Ending Credits
+heading,,"[Scene: Monica and Rachel's, Monica and Rachel are about to read another one of Joey's efforts.]"
+dialogue,Joey,"(Reading the scene set up.) Okay, it's a typical New York City apartment. Two girls are just hanging out."
+action,,(Monica and Rachel begin to read from the script.)
+dialogue,Monica,"Hi, how are you doing Kelly?"
+dialogue,Rachel,"I'm doing just fine! God, Tiffany, you smell so great!"
+dialogue,Monica,It's my new perfume. Why don't you come closer where you can really appreciate it?
+action,,(They both start to read ahead.)
+dialogue,Rachel,"Oh, y'know Joey, you are sick!"
+dialogue,Monica,This is disgusting!
+action,,(They both throw the scripts in his face.)
+dialogue,Rachel,I'm not reading this!
+dialogue,Joey,What?! Wait-wait-wait! The handsome man was about to enter!!
+action,,End

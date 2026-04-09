@@ -1,0 +1,349 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Gary, Phoebe, Monica, and Chandler are there.]"
+dialogue,Gary,"(To Phoebe) Would you like some more coffee, baby-doll?"
+dialogue,Phoebe,"I'm fine, thanks."
+dialogue,Chandler,"(To Monica) Yeah, see, I can't pull of baby-doll can I?"
+dialogue,Monica,No. I think we learned that from the sugarlips incident. I'm gonna get some tea.
+dialogue,Chandler,Okay.
+action,,(Monica leaves and Chandler moves to talk to Phoebe.)
+dialogue,Chandler,Hiya doin' pumpkin?
+dialogue,Phoebe,Nope. (Chandler nods in agreement.)
+action,,[Cut to Gary and Monica at the counter.]
+dialogue,Monica,"So it looks like it's going really well for you two, huh?"
+dialogue,Gary,"I know, really well. In fact, I'm gonna ask Phoebe to move in with me."
+dialogue,Monica,(shocked) Oh my God!
+dialogue,Gary,"What do you, what do you think?"
+dialogue,Monica,I think that is so great! When are you gonna ask her?
+dialogue,Gary,"Tonight, but don't say anything. Okay?"
+dialogue,Monica,"I swear, I promise. I promise. Oh my God, I'm so excited! { And I just can't hide it ! I'm about to lose control and I think I like it ! Sorry, just couldn't resist it.} All right, listen let me tell you, do not get her flowers. Okay? Because y'know, she cries when they die, and there's the whole funeral…"
+dialogue,Gary,(To Phoebe) I'll see you after work sweetie. (Kisses her.)
+dialogue,Phoebe,Okay. Bye!
+action,,(Gary exits and Monica rejoins them.)
+dialogue,Phoebe,"So, what movie should we see?"
+dialogue,Monica,(sitting down) Gary's gonna ask you to move in with him!!
+dialogue,Phoebe,What?! Really?!
+dialogue,Monica,"He just told me at the counter. He made me promise not to tell, but I couldn't hold it in any longer!"
+dialogue,Phoebe,I can't believe this!
+dialogue,Chandler,"(terrified) Right, because it's fast. Because, it's so fast. It's fast!"
+dialogue,Monica,Relax! It's Phoebe! Not you!
+dialogue,Chandler,"Oh! Good for you Pheebs, way to go! (Breathes a sigh of relief)"
+dialogue,Phoebe,"No, but it is fast. Isn't it?"
+dialogue,Monica,Ohhhh!
+dialogue,Phoebe,"No, I like him a lot but I don't think I'm ready for this!"
+dialogue,Chandler,"So, what are you gonna do?"
+dialogue,Phoebe,I don't know. I'll just handle it—I'll ask you to talk to him!
+dialogue,Chandler,Me?! Why me?
+dialogue,Phoebe,"Because you are so afraid of commitment! You talk to him, make him scared like you! Make him a…man!"
+dialogue,Chandler,"I'll try, but I'm not sure what good it would do, y'know? Because I'm a lot less afraid of commitment than I used to be."
+dialogue,Monica,That is so sweet! (She kisses him and turns to add some sugar to her tea.)
+dialogue,Chandler,"(To Phoebe, behind Monica's back) Still terrified, I'll take care of it. No problem. (When Monica turns back he smiles and kisses her, when she turns away he nods that he'll do it to Phoebe.)"
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, Joey and Ross are playing catch with a little foam globe.]"
+dialogue,Joey,"Hey Ross, is uh, is Staten Island really an island?"
+dialogue,Ross,"Uh-huh, that's why they call it Staten Island ."
+dialogue,Joey,Ohhh. I thought it was like Long Island.
+dialogue,Ross,"(he catches the ball and pauses, staring at Joey in disbelief) Also an island."
+action,,(The game resumes.)
+dialogue,Joey,"Hey, what time is it?"
+dialogue,Ross,(looks at his watch) 2:17.
+dialogue,Joey,"Wow! You realize that we've been throwing this ball, without dropping it, for like an hour?"
+dialogue,Ross,Are you serious?!
+dialogue,Joey,Yeah. I realized it about a half-hour ago but I didn't want to say anything 'cause I didn't want to jinx it.
+dialogue,Ross,Wow! We are pretty good at this! Hey! We totally forgot about lunch!
+dialogue,Joey,"Oh, I-I, I think that's the first time I ever missed a meal! (Checks his pants.) Yeah, my pants are a little loose!"
+dialogue,Rachel,"(entering) Hey, you guys…"
+dialogue,Joey,Hey!
+dialogue,Rachel,Is Monica here?
+action,,Joey and Ross:
+dialogue,Rachel,"All right listen umm, I just bought something I'm not sure she's gonna like it, and it's gonna seem a little crazy, but this is something that I wanted since I was a little girl."
+dialogue,Ross,You bought Shawn Cassidy!
+dialogue,Rachel,"Noo! I wish! Okay, you ready?"
+action,,Joey and Ross:
+dialogue,Rachel,"Okay! (She goes and gets her surprise and when she returns with it, Ross stares in shock.) Check it out!"
+action,,"(Joey turns and looks at quite possibly one of the ugliest pets that you can possibly buy on the planet. Rachel has bought herself a hairless cat. Yep, a hairless cat! Joey and Ross start to get sick.)"
+dialogue,Ross,What-what is it?!
+dialogue,Joey,What the hell is that?!!
+dialogue,Rachel,"It's a, it's a cat!"
+dialogue,Joey,"That , is not a cat! {I have to agree with Joey on this one.}"
+dialogue,Rachel,Yes it is!
+dialogue,Ross,Why is it inside out?!
+dialogue,Rachel,"Excuse me! But this is a purebred, show-quality Sphinx cat!"
+dialogue,Ross,How much did you pay for that?
+dialogue,Rachel,"Well, it was a little extravagant, but I a pretty good deal."
+dialogue,Ross,Yeah? How much?
+dialogue,Rachel,A thousand bucks.
+dialogue,Ross,ON A CAT??!!!!
+dialogue,Joey,It's not a cat!
+dialogue,Rachel,"All right listen ball boys! My grandmother had one of these when I was a little girl and it was the sweetest thing! I mean it was so cute, it would sit in my lap and purr all day long, and I would drag a shoestring on the ground and he would chase it!"
+dialogue,Ross,"Free cats do that too, y'know. {Which reminds me, if I might get a little political here, support your local animal shelter. Pet shops are not the place to buy dogs and cats from, you get a much better deal from the shelter, plus they probably won't die on you in a week and a half. If you want a leash, go to the pet shop. If you want the dog for that leash, go to the shelter and save it's life. Now back to regularly scheduled programming.}"
+dialogue,Joey,It's not a cat!
+dialogue,Rachel,"Ugh! Look you guys, I'm really excited about this! Okay? I don't care what you think! I'm gonna go set up a little litter box for Mrs. Whiskerson. (They both glare at her.) Well, what am I gonna call her? Fluffy?!"
+action,,(Rachel goes into the bathroom as the guys continue throwing the ball.)
+dialogue,Ross,"(To Joey) Hey, you wanna get something to eat or uh, do you wanna see how long we can throw this ball back and forth? Huh?"
+dialogue,Joey,"Uhh, the ball thing."
+dialogue,Ross,Yeah?
+dialogue,Joey,"Hey Ross, wouldn't it be great if we could go two straight hours without dropping it?!"
+dialogue,Ross,"Uhh, yeah it would! Let's do it!"
+dialogue,Joey,Okay!
+action,,(They throw the ball back and forth once.)
+dialogue,Joey,(catches the ball) Uh-oh.
+dialogue,Ross,What?
+dialogue,Joey,I have to pee. And Rachel's in the bathroom!
+action,,"[Cut to Chandler and Joey's, Ross is seen throwing the ball into the bathroom, presumably where Joey is currently using the facilities.]"
+dialogue,Joey,"Man, I didn't think we were gonna make it!"
+dialogue,Ross,"I know! (Looks at the ball in his hands.) Don't switch hands, okay?"
+heading,,"[Scene: the 5 th Precinct, Gary's precinct, Chandler has come to talk to him about commitment. And as he's walking through the door he notices a couple of ""Ladies of the night"" sitting there. (If you know what I mean.)]"
+dialogue,Chandler,Hey ladies! What are you in here for? (Laughs at his joke.)
+dialogue,Gary,"Hey Chandler, what are you doing here?"
+dialogue,Chandler,"Gary, I'm here to report a crime."
+dialogue,Gary,Yeah?
+dialogue,Chandler,It is a crime that you and I don't spend more time together.
+dialogue,Gary,"(laughs, then suddenly serious) What's up?"
+dialogue,Chandler,"Well, I heard that you thinking about asking Phoebe to move in with you and I thought maybe, we should have a talk. Man to uh, me."
+dialogue,Gary,Sure. Okay.
+dialogue,Chandler,"Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living together!"
+dialogue,Gary,"Yeah, I-I considered that. I just know it would make me happy."
+dialogue,Chandler,You mean scared.
+dialogue,Gary,"No, I mean happy."
+dialogue,Chandler,Scared? Happy?
+dialogue,Gary,"Chandler, what-what are you doing?"
+dialogue,Chandler,"I am trying to open your eyes, my man! Don't you see, if you lived with Phoebe she's always gonna be there. You're gonna get home, she's there. You go to bed, she's there. You wake up and oh yes, she's there!"
+dialogue,Gary,I know! I can't wait!
+dialogue,Chandler,"Were you're parents happy, or something?"
+dialogue,Gary,"Listen Chandler, the way I see it is that I was lucky enough to find someone that I really love. I just—I wanna be around her as much as I can."
+dialogue,Chandler,"Wow, y'know when you say it, it doesn't sound so scary."
+dialogue,Gary,"So you know what I'm talking about, right?"
+dialogue,Chandler,"Yeah, I think I do! Y'know what? You move in with her! You move in with her right now! Maybe I should in with Monica!"
+dialogue,Gary,"No, it's too soon for you guys."
+dialogue,Chandler,"(pause) Yeah, you're right about that."
+heading,,"[Scene: Chandler and Joey's, Ross and Joey are still playing catch.]"
+dialogue,Ross,…now when they found the remains of the Mesozoic Mastodon they discovered what appeared to be the remains of a Paleozoic Amphibian in its jaws! How did it get there?!
+action,,"{Y'know, sometimes I think the script writers throw in a line like that to try to trip me up. But it won't work. I'll always have the last laugh! <manical_laugh.wav> Okay, so maybe I'm a little deluded, it's probably just my spellchecker. But, I must admit I did get Mesozoic and Paleozoic on the first attempt. Yay me! Anyhoo…}"
+dialogue,Joey,Maybe this should be more of a quiet game.
+action,,"{Oh, all right! Geez, I can't have any fun!}"
+dialogue,Monica,(entering) Hey guys!
+dialogue,Joey,Hi!
+dialogue,Monica,"Joey, I left my watch on the counter last night. (Goes to the counter) It was right here, where is it?"
+dialogue,Joey,I don't know.
+dialogue,Monica,"All right, come on, I'm-I'm late for work!"
+dialogue,Ross,How do you know? You don't have a watch.
+dialogue,Monica,"Guys, could you please just stop throwing the ball for one minute and just help me find it!"
+dialogue,Joey,"Oh, I don't know…. Yeah, can't do it."
+action,,"(He throws it back to Ross, but it's intercepted by Monica and the guys both scream in horror.)"
+dialogue,Monica,What?!
+dialogue,Ross,"Monica, whatever you do, do not drop that ball!"
+dialogue,Joey,"Yeah, we haven't dropped it in… (Looks to Ross.)"
+dialogue,Ross,"2 hours, 27 minutes."
+dialogue,Monica,Really?!
+action,,"[Time lapse, Monica has joined in and is calling to get out of work.]"
+dialogue,Monica,"(on phone, faking she's sick) I-I'm not gonna be able to make it into work today, I don't feel very good. (Joey makes a high throw and Monica has to catch it way over her head.) (Not sounding sick) Yes!! (Realizes what she just did.) (Sounding sick again) Wow! Uh, for a second there I thought I was really better, but I'm not. (Hangs up and keeps throwing the ball.)"
+action,,(Rachel enters.)
+dialogue,Ross,Hey Rach!
+dialogue,Rachel,Hey.
+dialogue,Ross,Check it out! Almost 3 hours without droppin' it!
+dialogue,Rachel,"Oh, wow! Congratulations, that's quite a waste of time."
+dialogue,Monica,Rach?
+dialogue,Rachel,Yeah?
+dialogue,Monica,"You have scratches all over you, what happened? (Rachel's arms are covered with scratches.)"
+dialogue,Rachel,"Well, it's my cat."
+dialogue,Monica,(shocked) What?!
+dialogue,Rachel,"Oh yeah, I got a cat."
+dialogue,Monica,I don't want a cat!
+dialogue,Joey,"Oh, don't worry, it's not a cat."
+dialogue,Ross,Yeah.
+dialogue,Rachel,"You guys this cat is nothing like my grandmother's cat. I mean, it's not sweet, it's not cute, I even dragged that little string on the ground, and it just flipped out and scratched the hell out of me. And I swear, I know this sounds crazy, but every time this cat hisses at me I know it's saying, ""Rachel!"""
+dialogue,Ross,Doesn't sound as crazy as paying a thousand dollars for a cat.
+dialogue,Monica,(To Rachel) What?! You paid a thousand dollars for a cat when you owe me 300!!
+dialogue,Rachel,"Well, I was gonna let you play with it."
+heading,,"[Scene: Central Perk, Phoebe is drinking coffee as Chandler enters.]"
+dialogue,Chandler,Hi!
+dialogue,Phoebe,"Hmm, did you talk to Gary about the moving in thing?"
+dialogue,Chandler,"Yes I did, and I think you should do it."
+dialogue,Phoebe,What?!
+dialogue,Chandler,"He's a great guy, y'know? And he loves you a lot, you are a very lucky lady."
+dialogue,Phoebe,You are useless! Freaking out about commitment is the one thing you can do! The one thing! And you can't even do that right! God!
+dialogue,Chandler,"I’m sorry. (Pause) If you ask me, I'd move in with him."
+dialogue,Phoebe,"Ohh!! God! (Gary enters and she sees him) Ooh! (To Chandler) Get out of here, good for nothing."
+dialogue,Gary,Hey Chandler.
+dialogue,Chandler,Hey Gar!
+dialogue,Gary,"(To Phoebe) Hi sweetie. (Kisses her.) Hi, can I talk to you for a second?"
+dialogue,Phoebe,Yeah! Okay. (They move to the couch.)
+dialogue,Gary,You look very pretty today.
+dialogue,Phoebe,Thanks! Okay. (They sit down.)
+dialogue,Gary,Here's the thing.
+dialogue,Phoebe,Yeah?
+dialogue,Gary,Y'know I really want to move this relationship forward.
+dialogue,Phoebe,Uh-hmm.
+dialogue,Gary,"Because if you're not moving forward, y'know you're just moving backwards."
+dialogue,Phoebe,"No that's not true. If you're not moving forward, you're just staying still. And staying still is good. Watch this. (She stays still for a brief second.)"
+dialogue,Gary,Phoebe?
+dialogue,Phoebe,Yeah?
+dialogue,Gary,I want you to move in with me.
+dialogue,Phoebe,That is so sweet. But don't you think it's a little too soon? I mean there's so much we don't know about each other.
+dialogue,Gary,"(disappointed) Oh. Oh-oh-okay, I get it."
+dialogue,Phoebe,I just—I don't want us to jump into something we're not ready for.
+dialogue,Gary,(disappointed more) Uh-huh.
+dialogue,Phoebe,I really don't want to mess up what we have. I'm just—I'm worried it's gonna be a big mistake.
+dialogue,Gary,(on the verge of tears) Yeah.
+dialogue,Phoebe,Which is why my answer is yes!
+dialogue,Gary,(suddenly happy) Really?!
+dialogue,Phoebe,Uh-huh! (They hug.) I'm so…happy. (She's not happy.)
+action,,Commercial Break
+heading,,"[Scene: Chandler and Joey's, Joey, Ross, and Monica are still playing catch, with Chandler looking on. Joey throws the ball to Monica who catches it and whips it at Ross.]"
+dialogue,Ross,(catching the ball) Monica! Stop throwing it so hard! We're on the same team!
+dialogue,Chandler,Four hours? You guys have been doing this for four hours?
+dialogue,Joey,That's right baby.
+dialogue,Chandler,"All right, let me in. (He jumps off of the counter to join in the game.)"
+dialogue,Monica,(jumping in front of him) No-no! Don't do it! Don't!
+dialogue,Chandler,What?
+dialogue,Monica,He's a dropper!
+dialogue,Joey,"Oh yeah, that's right!"
+dialogue,Chandler,I'm not a dropper!
+dialogue,Ross,"It's really a uh-uh three person game, y'know?"
+dialogue,Chandler,It's throwing and catching!
+dialogue,Ross,All right. (He gently tosses the ball to Chandler who catches it.)
+dialogue,Chandler,"Oh! Oh! That's so hard. (Starts to juggle the ball, but loses control and almost drops it and hands it to Monica.)"
+action,,"(Rachel enters with the ""cat"" and the chick and the duck start to get riled up.)"
+dialogue,Joey,"Whoa-whoa you guys, it's not a cat!"
+dialogue,Monica,Oh my—Oh good God!
+dialogue,Rachel,"(she's wearing an oven mitt to protect her hand) I give up you guys, I don't know what I'm going to do with this thing!"
+dialogue,Ross,"Baking it didn't help, huh?"
+dialogue,Monica,"So, why don't you just take it back to where you got it?"
+dialogue,Rachel,I tried! They won't take her back.
+dialogue,Chandler,Maybe that's because she's a minion of the anti-Christ.
+dialogue,Monica,"Rach, why won't they take it back?"
+dialogue,Rachel,"Well, they said would but they would only give me store credit. I mean, what am I going to do, get a thousand regular cats?"
+dialogue,Monica,"Look, if you want you can keep it at our place until you find out what to do with it."
+dialogue,Rachel,"No Mon that's not the point. I'm out a thousand dollars, I'm all scratched up, and I'm stuck with this stupid cat that looks like a hand! (Storms out.)"
+action,,(Monica sneezes.)
+dialogue,Monica,"Oh my God, the cat's made my eyes water! Don't-don't throw it to me! My vision's been compromised!! (Quickly grabs a tissue to wipe her eyes.) Oh God! Okay. Okay. It's okay. Man, that was close."
+dialogue,Chandler,"Yeah, you almost overreacted to something."
+action,,Phoebe and Gary:
+dialogue,All,Hey!
+dialogue,Gary,We have great news!
+dialogue,Phoebe,We're moving in together! Isn't it great! Yay!
+dialogue,All,Congratulations! Congrats!
+dialogue,Phoebe,"I know, I'm so excited!"
+dialogue,Gary,So am I!
+dialogue,Phoebe,"Well, you're not more excited than I am! No way! I'm the most excited!"
+dialogue,Gary,"Okay, I'll see you at the station later."
+dialogue,Phoebe,"Okay, yeah, I'll see you later! Don't forget about the moving in!"
+dialogue,Gary,All right.
+action,,(Phoebe closes the door behind him.)
+dialogue,Monica,So you're moving in with him. What happened?
+dialogue,Phoebe,"I couldn't tell him no. He got so sad. Maybe it'll be all right. I do really like him a lot and probably do it eventually anyway and plus, think of all the money I'll save on stamps."
+dialogue,Monica,"Why, do you write him a lot?"
+dialogue,Phoebe,"No, I just heard when people live together, they split the cost of stamps. Don't they?"
+dialogue,All,Yeah! That's right. Yeah-yeah! Yeah!
+action,,"(Rachel enters with the cat, wearing the oven mitt, and startles Phoebe.)"
+dialogue,Phoebe,"Oh, I'm sorry, the oven mitts really freaked me out."
+heading,,"[Scene: Gary's precinct, Phoebe is entering.]"
+dialogue,Gary,"Hey, honey! Okay, so did you find any apartments? Anything in Brooklyn Heights?"
+dialogue,Phoebe,"No, nothing."
+dialogue,Gary,Oh really?
+dialogue,Phoebe,Yeah.
+dialogue,Gary,Nothing at all?
+dialogue,Phoebe,"No, as soon as something opens up we'll move right in. Unless it doesn't have a pool, I need a pool. (Turns away from him.)"
+dialogue,Gary,"Phoebe, can I talk to you for a second?"
+dialogue,Phoebe,Uh-huh!
+action,,"(He takes her into one of those typical interrogation rooms you see on TV and in the movies. Which is really appropriate here, since this is a TV show. What are the odds of that?)"
+dialogue,Gary,Take a seat. You okay? You feeling all right? (Closes the door and takes off his coat.)
+dialogue,Phoebe,"(sits down) Yeah, I feel great. 'Cause we're moving in together."
+dialogue,Gary,"So you uh, you checked the paper for listings in Brooklyn Heights, right? You-you checked the Post ?"
+dialogue,Phoebe,"Yeah, uh-huh, there was nothing. (Pause) Can I get some water?"
+dialogue,Gary,In a minute. You-you checked today's Post ?
+dialogue,Phoebe,"Umm, yeah! Today's."
+dialogue,Gary,"'Cause uh, this is today's Post (produces one from the other chair) and uh, these are the listings I found. (Points) Brooklyn Heights, two bedroom. (Points) Brooklyn Heights, one bedroom. (Points) Brooklyn Heights, (points) Brooklyn Heights, (points) Brooklyn Heights!"
+dialogue,Phoebe,(looks at the paper) Are these for rent! I thought people were just bragging!
+dialogue,Gary,"Let me tell you what I think might be going on. (Phoebe looks down in shame.) No-no-no, don't look at the table. Look at me. (Points to his eyes and she does so) Okay, I think somebody asked someone to move in with them. And I think someone said, ""Yes"" but now she's having doubts because things are moving to fast for someone. Does that sound at all possible to you?"
+dialogue,Phoebe,Yes. Yes! Fine! I am someone! You want me to say it? I have doubts! (Pause) I'm sorry! (Puts her head down.)
+dialogue,Gary,Phoebe…
+dialogue,Phoebe,Yeah?
+dialogue,Gary,"Phoebe, it's okay that you feel this way. I mean it is soon. And there's a lot of things we don't know about each other, and I just figure that everything I really like. And the things I don't know, I get to learn about at someplace with both our names on the mailbox."
+dialogue,Phoebe,That's so sweet.
+dialogue,Gary,"Sweethart, but none of that matters if it's too soon for you. It's fine! We don't have to move in together. I just—I want you to be happy"
+dialogue,Phoebe,Living with you would make me happy.
+dialogue,Gary,"Phoebe, you don't have to say that."
+dialogue,Phoebe,"No, I really wanna live with you! I wanna move in with you!"
+dialogue,Gary,Are you sure?
+dialogue,Phoebe,Yes. Definitely! Yes! Let's live in an apartment that we both live in! (Hugs him.)
+dialogue,Gary,Oh that's great!
+dialogue,Phoebe,"Oh wait, one sec. One sec. (Goes to the mirror) Hey you! Behind the glass! Who are you looking at! I've always wanted to say that when I was in one of these rooms, (sees the look on his face) which was never!"
+heading,,"[Scene: The street outside Central Perk, Rachel is trying to sell the cat.]"
+dialogue,Rachel,Show cat! Quality show cat! Show cat! (A woman approaches.)
+dialogue,Woman No. 1,(looks into the box) Oh my God! What's wrong with your baby?!
+dialogue,Rachel,It's not a baby! It's a cat!
+dialogue,Woman No. 1,Eew! It's creepy looking!
+dialogue,Rachel,"Oh no! No! It's actually—it's very sweet. It's very sweet. Look! (Goes to pet it and it hisses at her.) Yeah, do you want it?"
+dialogue,Woman No. 1,"(laughs) No, I hate cats."
+dialogue,Rachel,"Well, so then what are you doing to me? Okay? Just get out of here! All right? Move on!"
+action,,(Another woman approaches.)
+dialogue,Woman No. 2,Wow! What an unusual cat!
+dialogue,Rachel,Yes! Thank you! Exactly! You want it?
+dialogue,Woman No. 2,"Maybe. I was thinking about getting a cat, I was just going to go to the shelter (Good for her) but… Okay, why not?"
+dialogue,Rachel,"Oh, terrific! That'll be $2,000."
+dialogue,Woman No. 2,What?!
+dialogue,Rachel,"Okay, a thousand."
+dialogue,Woman No. 2,I thought you wanted to adopt your cat.
+dialogue,Rachel,"Well, I do, but you're just gonna have to actually look at this as more of an investment than a cat."
+dialogue,Woman No. 2,"Okay, yeah, I just wanted a cat. (Starts to leave.)"
+dialogue,Rachel,"(makes some unintelligible sound to stop her from leaving) Obviously you know how to haggle, so I'm not gonna try and take you on. Okay? So $800 and I don't call the cops because you're robbing me blind! Blind! (Covers her eyes) Just take cat, leave the money, and run away! Run away! (Uncovers her eyes and sees that the woman has fled) Damnit! (To the cat) Cat, can't you at least smile or something?! (The cat hisses at her again, it sounds like Rachel) Okay, did anybody just hear that? Anybody?"
+heading,,"[Scene: Chandler and Joey's, Joey, Ross, Monica, and now Chandler are still playing catch. The guys are exhausted and sitting around the room. Monica is still standing all pumped up and being hyper-competitive yet again. {Okay! We get it! She's competitive!! Must we see all the time?!}]"
+dialogue,Ross,I'm starving!
+dialogue,Monica,Come on guys! Suck it up! We're closing in on ten hours! It's gut-check time!
+dialogue,Joey,I don't know who made you the boss? All right? We (Ross and him) invented this game!
+dialogue,Monica,Please! I made this game what it is.
+dialogue,Chandler,Not fun anymore?
+dialogue,Ross,I'm still hungry!
+dialogue,Monica,"All right, there's some pizza at my place, we can all eat with one hand right? Are you with me?"
+dialogue,Ross,I am!
+dialogue,Monica,"All right! Let's go! (Runs to the door.) Let's go Team Monica! (The guys all stop and stare at her) All right, we can work out the name later."
+action,,[Cut to her apartment where Rachel is sitting at the table.]
+dialogue,Monica,Rachel! What is your cat doing in one of my bowls!
+dialogue,Rachel,"It's not! I'm defrosting a chicken. (Pause) Oh, I uh sold Mrs. Whiskerson."
+dialogue,Ross,"Oh, thank God!"
+dialogue,Joey,Did you get your money back?
+dialogue,Rachel,"Yeah, 15 hundred dollars."
+dialogue,Monica,Wow! You made a profit!
+dialogue,Gunther,(entering with the cat) I just came for the red-velvet pillow.
+dialogue,Rachel,"Oh yeah, there you go. (Hands over the pillow.)"
+dialogue,Gunther,Thanks Rachel. And-and don't forget you-you can come visit her anytime you want.
+dialogue,Rachel,"Oh good, great! I'll-I'll keep that in mind. (Turns and walks away.)"
+dialogue,Gunther,(To Ross) Hey! So what is this? Some kind of snake or something?
+heading,,"[Scene: Gary and Phoebe's apartment, it's morning and they're both waking up in bed.]"
+dialogue,Gary,I really like waking up with you.
+dialogue,Phoebe,"I like waking up with you too. (Looks out the window) Oh! It's such a beautiful morning. (Some birds are singing outside the window) Oh, I can stay here all day."
+dialogue,Gary,That would be great!
+dialogue,Phoebe,We could have breakfast in bed…
+dialogue,Gary,"Wait, just a second."
+dialogue,Phoebe,Okay. (He grabs his gun and shoots the bird.) Oh! Oh no.
+heading,,"[Scene: Monica and Rachel's, Hyper-competitive Monica, Rachel, Chandler, Joey, and Ross are still playing catch. Monica is finally tiring while the rest of them are totally exhausted and virtually asleep.]"
+dialogue,Monica,"All right! Come on Monica! Look alive! Come on, look alive!"
+dialogue,Phoebe,"(entering) Oh good, you're all up."
+dialogue,Rachel,Phoebe! It's 6 o'clock in the morning! Why aren't you at Gary's?
+dialogue,Phoebe,"Oh yeah, that's over."
+dialogue,All,What?!
+dialogue,Chandler,"Come on! Gary's such a great guy! Whatever the problem is, you can work it out!"
+dialogue,Phoebe,He shot a bird!
+dialogue,Chandler,Oh that is over!
+dialogue,All,That's terrible! I'm sorry!
+dialogue,Rachel,"Phoebe, are you okay?"
+dialogue,Phoebe,"Yeah. Yeah, I'll be alright."
+dialogue,Joey,"Oh hey, here Pheebs. (He throws her the ball.)"
+dialogue,Phoebe,"(catches it) Nah, I don't feel like playing. (She sets the ball down on the table and everyone gasps.)"
+dialogue,Monica,"It's okay. It's okay. Just pretend that it didn't happen! Okay? No one needs to know! I mean, Phoebe's not an official ballplayer! I mean, only official ballplayers can drop the ball!"
+dialogue,All,"All right. Okay. I'm starving! (They all get up, thus officially ending the game.)"
+dialogue,Rachel,"Phoebe, honey, wanna get some breakfast?"
+dialogue,Phoebe,Yeah!
+dialogue,Monica,"Okay! Okay, let's race! First one there wins! Ha-ha! (Runs out the door and everyone watches her leave.)"
+action,,(Pause)
+dialogue,Chandler,You guys wanna eat here?
+dialogue,All,Yeah! As long as we're here!
+action,,Ending Credits
+heading,,"[Scene: Central Perk, everyone is there.]"
+dialogue,Joey,Man that was great! Huh? Can you believe how long we threw that ball around?
+dialogue,Rachel,"Yeah, it is amazing it lasted that long."
+dialogue,Ross,I know. My arm is killing me.
+dialogue,Rachel,"No, I meant with the dropper over here. (Points at Chandler.)"
+dialogue,Chandler,"Y'know, how did I get this reputation as a dropper? Okay? I'm anything but a dropper. (We see various scenes of him dropping a football, a mug of coffee, the phone, an apple, a Frisbee, a record, and the final scene has a ball bouncing off of his chest. I'm not going to describe them, you'll have to see them.)"
+action,,End

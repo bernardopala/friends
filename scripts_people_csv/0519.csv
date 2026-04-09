@@ -1,0 +1,333 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's, Chandler is getting ready for a date with Monica as Ross enters.]"
+dialogue,Ross,Hey!
+dialogue,Chandler,Hey!
+dialogue,Ross,Wow! You look nice. What's the occasion?
+dialogue,Chandler,"Monica and I are celebrating our ten-month anniversary, we've got reservations at Ja George."
+dialogue,Ross,Wow! How'd you get in there?
+dialogue,Chandler,"Made a few calls, pulled some strings, and they agreed to seat us at 11:30 if we both had the chicken and didn't get desert."
+action,,(There's a knock on the door and Chandler answers it. It's the pizza delivery girl.)
+action,,Delivery Girl:
+dialogue,Chandler,Hey Caitlin! Somebody got a haircut.
+dialogue,Caitlin,"Ugh, I hate it! I look like an 8-year-old boy."
+dialogue,Chandler,"Yeah, if that was true, gym class would've been a lot more interesting."
+dialogue,Caitlin,"It's uh, 27 dollars even."
+dialogue,Chandler,"Oh, okay. (Hands her the money.) Here you go."
+action,,(The duck starts quacking.)
+dialogue,Caitlin,"Hey, where's the chicken?"
+dialogue,Chandler,"Oh, he's in the back. The duck pissed him off, said that eggs came first."
+dialogue,Caitlin,(laughs) Great. I'll see you later!
+dialogue,Chandler,"Okay, bye!"
+action,,(He closes the door and turns to see Ross glaring at him.)
+dialogue,Ross,What the hell was that?!
+dialogue,Chandler,What?
+dialogue,Ross,"The flirting! Aren't you supposed to be going out with, I don't know hmm, let's say my sister?!"
+dialogue,Chandler,I was not flirting.
+dialogue,Ross,"It was totally flirting. ""Somebody got a haircut (Makes some whiney, nasally noises.)"""
+dialogue,Chandler,"Okay first of all, the impression, uncanny. And second, that was not flirting, that was just casual conversation between two people. That is all."
+dialogue,Ross,"Yeah, right."
+dialogue,Chandler,You wanna see flirting? I'll show you flirting. (Starts to move towards Ross.)
+dialogue,Ross,(backing away) I'm good.
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, Rachel and Phoebe are in the kitchen.]"
+dialogue,Rachel,"I am so proud of Joey, I can't believe he's going to be on Law & Order !"
+dialogue,Phoebe,I know. But don't you think that it should be called Order and Law?
+dialogue,Rachel,No because first they arrest the guy and then they try him.
+dialogue,Phoebe,Don't get me started on that.
+action,,(Ross and Chandler enter with the pizzas.)
+dialogue,Chandler,I was not flirting.
+dialogue,Ross,"And on your anniversary, for shame!"
+dialogue,Rachel,What's going on?
+dialogue,Ross,Chandler was hitting on the hot delivery girl!
+dialogue,Chandler,"I was not and oh God, shh!"
+dialogue,Ross,"Well I'm sorry but you were! Okay? And besides if anyone should be hitting on her it's the guy who's single, the guy that who-who-who can do something about it."
+dialogue,Phoebe,Sounds like somebody wants to be Mr. Pizza Delivery Girl.
+dialogue,Ross,Well…
+dialogue,Chandler,Is that what this is about? You like Caitlin?
+action,,(Ross looks at Rachel.)
+dialogue,Rachel,Ross! We broke up two years ago; you've been married since then. I think it's okay that we see other people.
+dialogue,Ross,"Well, I-I was watching her the other day at the pizza place."
+dialogue,Rachel,Hm-mmm.
+dialogue,Ross,And she's just so sexy and funny and has the cutest little…
+dialogue,Rachel,"Okay, y'know what? We don't need her measurements."
+dialogue,Phoebe,"(looking through the pizzas) Okay pepperoni, pepperoni, pepperoni, okay Ross, I know she's pretty and you love her, but is she stupid?! She forgot my vegetarian!"
+dialogue,Ross,"This is perfect! She'll have to come back here with your pizza, and when she does, I'll turn on the Charm-O-Ross. Oh I'm so glad you don't eat meat."
+dialogue,Phoebe,See? Vegetarianism benefits everyone.
+dialogue,Joey,"(entering, with his grandmother) Hey everybody, look who's here! You remember my grandmother!"
+dialogue,Rachel,Big night!
+dialogue,Phoebe,This is so cool!
+dialogue,Chandler,"So, Joey on Law & Order , you must be very proud!"
+dialogue,Joey,"Chandler, she doesn't understand a word of English."
+dialogue,Chandler,"I'm sorry, I thought you were Joey's other grandmother. (She just stares at him.) I've done it again."
+dialogue,Joey,"She's my biggest fan. Yeah, she's the only one in the family that's believed in me."
+action,,"(They both start speaking Italian to each other, and since I'm not Italian and don't understand one word, we'll move on to the English portion of the show. Not, that I'm English. Not that there's anything wrong with that, it's just that I'm not. Y'know I think I should shut-up now and move on. Anyhoo, she says something about Joey being fat I think based on this line.)"
+dialogue,Joey,"Yeah, I uh weighted like 27 pounds when I was born so…"
+dialogue,Monica,(entering from the bathroom) Hey! Happy Anniversary!
+dialogue,Chandler,"Happy Anniversary, 10 months! (They kiss.)"
+dialogue,Monica,"So umm, when I was in the shower I was thinking about our first night in London…"
+dialogue,Chandler,"Uhh, Joey's grandmother is right there. (Points)"
+dialogue,Monica,Is that the one that speaks English or the one that doesn't?
+dialogue,Chandler,The one that doesn't.
+dialogue,Monica,That was some hot love you gave me! I'm gonna go get ready.
+dialogue,Chandler,"Hey, why don't you wear those earrings I gave you?"
+dialogue,Monica,That's a great idea! I was saving them for something special.
+dialogue,Chandler,Okay.
+dialogue,Monica,(runs over to Phoebe) You have got to go home!
+dialogue,Phoebe,But I like it here!
+dialogue,Monica,You gotta go home and get the earrings that you borrowed from me okay? Chandler wants me to wear them tonight.
+dialogue,Phoebe,"Okay, well I think that they're in my purse. Why don't you go get dressed and I'll look for them."
+dialogue,Monica,Great!
+dialogue,Phoebe,"Okay! (Walks over to Rachel) Rach, hi, I need those earrings you borrowed."
+dialogue,Rachel,"Oh, umm, okay, yeah, I'll be, yeah I'll be right back. (Goes to her room.)"
+action,,"(Phoebe then gets possessed 'cause she starts speaking in tongues. She speaks Italian to Joey's grandmother. She is quickly exorcised and returns to speaking in English. Of course, too most people English is a strange language as well. But none of them are probably reading this and if they were they wouldn't understand it. So why am I talking about them? I have absolutely no clue. Moving on…)"
+dialogue,Joey,"Wow Pheebs, you speak Italian?"
+dialogue,Phoebe,"I guess so. (See, the brief possession didn't affect her at all, like we could really tell.)"
+dialogue,Rachel,(She enters and hands Phoebe the earring) Here you go. Thank you!
+dialogue,Phoebe,"Wait, Rach! Where's the other one?"
+dialogue,Rachel,"Oh what, you-you want both of them?"
+dialogue,Phoebe,"Rachel Karen Green, where's the other earring?!"
+dialogue,Rachel,"Okay, okay, okay, look, just don't freak out, but I kinda lost it. I know it's in the apartment, but I definitely lost it."
+dialogue,Phoebe,"Well, what am I going to tell Monica? She wants to wear them tonight!"
+dialogue,Rachel,Tell her to wear her own earrings.
+dialogue,Phoebe,These are her earrings.
+dialogue,Rachel,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!
+dialogue,Phoebe,Why not?
+dialogue,Rachel,Because I lose her stuff!
+action,,"[Time Lapse, the gang is now watching Law & Order . By the way, the entire rest of the episode takes place in Monica and Rachel's apartment. Why are they called apartments when they're all stuck together? Something to think about.]"
+dialogue,Joey,"Okay, see that blind guy right there? I'm gonna bash his head in later."
+action,,(His grandmother asks him something.)
+dialogue,Joey,"Oh umm, my big scene is coming up. Big scene coming up."
+dialogue,Chandler,"If you said, ""Big lima bean, bubbling up."" Would she understand the difference?"
+dialogue,Monica,(noticing Rachel crawling behind the couch) Rach? What are you doing?
+dialogue,Rachel,"Oh boy, I just can't watch. It's too scary!"
+dialogue,Monica,It's a diaper commercial.
+dialogue,Rachel,"Oh yeah well, you know me, babies, responsibilities, ahhh!!!"
+action,,(There's a knock on the door.)
+dialogue,Caitlin,Pizza delivery!
+dialogue,Ross,I'll get it! I will get that! (Runs over and opens the door.)
+dialogue,Caitlin,Hi!
+dialogue,Ross,Hi!
+dialogue,Caitlin,"One uh, vegetarian pizza. That's $12.15."
+dialogue,Ross,"Oh. Uh, by the way, if it makes you feel any better. I happen to like 8-year-old boys."
+dialogue,Caitlin,What?!
+dialogue,Ross,"(I can't make it out.) The uh, your hair, before, your hair, you said you thought your looks like an 8-year-old's, and I'm just saying I like it. The hair."
+dialogue,Caitlin,Oh. Thanks.
+dialogue,Ross,You understand I don't actually like 8-year-old boys.
+dialogue,Caitlin,"Y'know, all I'm looking for is the money."
+dialogue,Chandler,Here you go. (Hands her the money.) Now stop bringing us pizzas you.
+dialogue,Caitlin,I'm gonna try. (Walks away and Ross closes the door.)
+dialogue,Chandler,You're welcome.
+dialogue,Ross,"You couldn't let me have her, could ya?!"
+dialogue,Chandler,What?
+dialogue,Ross,This is a girl that I really like and had too swoop in there!
+dialogue,Monica,What's goin' on?
+dialogue,Ross,Chandler was totally flirting with the hot delivery girl!
+dialogue,Chandler,Thank you for that! (To Monica) I was not flirting.
+dialogue,Monica,"It's okay. I don't care. It's uh, it's fine."
+dialogue,Ross,Really?!
+dialogue,Chandler,Really?!
+dialogue,Monica,"It's no big deal, I do it all the time."
+dialogue,Chandler,"(starts to laugh, but then gets serious) So umm, you-you flirt with guys all the time?"
+dialogue,Monica,Sure! It doesn't mean anything! Just like I know it doesn't mean anything with you!
+dialogue,Chandler,"Okay, but there is a big difference. You are a lot hotter than I am."
+dialogue,Joey,(walking past) True story! (Goes and sits down.)
+dialogue,Monica,"Chandler, this actually bothers you?"
+dialogue,Chandler,"Yes, it does bother me! And I think it would bother a lot of people. Rachel, when you were going out with Ross, did it bother you when he flirted with other women?"
+dialogue,Rachel,"Uhh, no, no, it bothered me when he slept with other women."
+dialogue,Ross,"And thank you, for that."
+dialogue,Rachel,"But y'know, I never really had anything to worry about. Ross was never very good at the flirting thing."
+dialogue,Ross,"What? (Mumbles) What-what, what are talking about? It-it worked with you."
+dialogue,Rachel,"Oh! Y'know what? You're right! We meet, you flirted and then bamn nine years later you had me!"
+dialogue,Ross,"All right, all right. You-you-you know what I'm going to do? I am going to order another pizza and when Caitlin gets here, you-you--I will show how well I flirt. Yeah! I will, I will get her phone number! (To Chandler) And not the one on the menu!"
+dialogue,Phoebe,(entering from Rachel's bedroom) I found it!
+dialogue,Rachel,Ohh! Thank God! Where was it?
+dialogue,Phoebe,On your dresser.
+dialogue,Rachel,Okay that is the one we already have!
+dialogue,Joey,"Okay, here's my big scene. My big scene's here! (They have two of the cops on the street, then they cut to where they're entering an apartment.) Oh my God."
+dialogue,Monica,What?
+dialogue,Joey,"(smiling) Okay, everybody just keep smiling. It'll kill my grandmother if she finds out."
+dialogue,Chandler,"(smiling) Well, what is it?"
+dialogue,Joey,"(smiling) Oh, they cut me out of the show."
+dialogue,Rachel,(smiling) What?!
+dialogue,Ross,(smiling) Are you sure?
+dialogue,Phoebe,(smiling) Maybe your scene's coming up?
+dialogue,Joey,(smiling) Not likely. 'Cause you see that body bag right there
+dialogue,Rachel,(smiling) Yeah.
+dialogue,Joey,(smiling) I'm in it.
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, it's continued from before the commercial break.]"
+dialogue,Phoebe,"(smiling) This is terrible, what are you going to do?"
+dialogue,Joey,"(smiling) I don't know. This little, old lady lives for my career. When they dumped me off of Days of Our Lives she almost died."
+dialogue,Phoebe,(not smiling) That's not good.
+dialogue,Joey,"(smiling) No, smile! Not that face, smile! Everybody smile! (They all smile.)"
+dialogue,Rachel,"(smiling) Joey, why don't you just tell her what happened? It's not your fault."
+dialogue,Chandler,"(smiling) If we keep talking this way, aren't we gonna freak her out soon?"
+dialogue,Grandma Tribbiani,(Something in Italian to Joey.)
+dialogue,Joey,"Soon, soon, I'm gonna be on soon. There I am! (Points to the screen, of course it isn't him.)"
+dialogue,Grandma Tribbiani,(pointing at the screen) No! Sam Waterston!
+dialogue,Joey,"No-no-no, that-that's me, that's me."
+dialogue,Grandma Tribbiani,"No, it's Sam Waterston! Crimes and Misdemeanors , Capricorn One ."
+dialogue,Chandler,"Doesn't know, ""Hello."" But she knows Capricorn One ."
+action,,(Phoebe gets up.)
+dialogue,Monica,"(following her) Phoebe! I have to have those earrings, we're going to leave as soon as the show is over."
+dialogue,Phoebe,But I already gave them back to you!
+dialogue,Monica,No you didn't.
+dialogue,Phoebe,"All right, I already didn't give them back to you, that's what I said. (Walks away over to Rachel.) Where is that other earring?"
+dialogue,Rachel,"It's not here Pheebs, it's not here. Ohh, I went to Joey and Chandler's last night! Okay! (Goes to the door.)"
+dialogue,Phoebe,Make sure you check Chandler's jewelry box.
+dialogue,Rachel,Wait a minute. Chandler has a jewelry box?
+dialogue,Phoebe,"Okay, we have like ten minutes. Do you want me to get into that now?!"
+action,,(Rachel heads for Joey and Chandler's and Phoebe heads for the kitchen to find Ross.)
+dialogue,Ross,"(To Phoebe) Hey Pheebs! How's that uh, vegetarian pizza working out for ya? You and those vegetables have a real thing going on, huh?"
+dialogue,Phoebe,(she just looks at him) Why are you being weird?
+dialogue,Ross,Do you like it?
+dialogue,Phoebe,"No, that would be, ""Why are you being cute?"""
+dialogue,Ross,"Okay, I'm working on my flirting."
+dialogue,Phoebe,Ohh! I did not get that.
+action,,[Cut to Chandler and Monica on the couch.]
+dialogue,Chandler,"So uh Monica, do you, do you like the Law & Order ?"
+dialogue,Monica,"Yeah, it's good."
+dialogue,Chandler,"See, I'm finding out all this stuff about you today, like you like the Law & Order and that you flirted with every guy in the Tri-State area!"
+dialogue,Monica,"Chandler! (Joey and his grandmother shush them and wave them away, which they do.) Okay, let me get this straight, it's okay for you to flirt, but not for me."
+dialogue,Chandler,"Oh, I'm so glad we cleared that up. Look, I'm sorry, some things are different for men and for women."
+dialogue,Monica,"Go on, teach me something about men and women."
+dialogue,Chandler,"Okay, I've already taught you so much already, but whatever. See when you flirt with a guy you think, ""I'm just flirting, no big deal."" But the guy is thinking, ""Finally! Somebody who wants to sleep with me!"""
+dialogue,Monica,No way!
+dialogue,Chandler,It's true.
+dialogue,Monica,Well that's pathetic!
+dialogue,Chandler,Again true.
+dialogue,Monica,And this goes for all guys?
+dialogue,Chandler,All guys that are awake. Then we go to sleep and then all the guys from the other end of the world wake up and behave the exact same way.
+dialogue,Joey,"(To Ross in the kitchen) All right, it's another commercial; I still haven't told her!"
+dialogue,Ross,Joey! This is like the last commercial. You've got like (checks his watch) ten minutes left!
+dialogue,Joey,"I know, I know! What am I going to do? (Thinks) Ooh!"
+dialogue,Monica,No! You are not gonna run out and leave her here!
+dialogue,Joey,"(dejected) Yeah, all right. (Thinks of something.) Ooh! (He quickly runs out before anyone can stop him.)"
+dialogue,Grandma Tribbiani,Joey!
+dialogue,Chandler,"Uh, Joey is gonna be right back. Right back! (Tries to pantomime it for her.) Meanwhile, let's-let's-let's talk about you. (Pause.) So, you're old and small."
+action,,"[Time lapse, Rachel is coming back from Chandler and Joey's.]"
+dialogue,Rachel,(entering) (To Phoebe) (whispering) Hey!
+dialogue,Phoebe,Did you find it?
+dialogue,Rachel,"The earring? No. But look, I found my sunglasses under the couch! I've been looking for these since like last summer. (Puts 'em on.)"
+dialogue,Phoebe,"Okay, those are my sunglasses, you borrowed them from me."
+dialogue,Rachel,"Okay, calm down, here they are. (Gives back the sunglasses.)"
+dialogue,Monica,(entering from her room) Phoebe! (Motions for the earrings. Phoebe gives her the one-minute sign.)
+dialogue,Phoebe,(To Rachel) What are we going to do?!
+dialogue,Rachel,"I don't know, I don't know."
+dialogue,Phoebe,"All right well, we're just gonna have to tell Monica, that's all."
+dialogue,Rachel,"Oh gosh, she's going to kill me."
+dialogue,Phoebe,I suppose I could tell her it's just all my fault.
+dialogue,Rachel,Ohh that'd be great!
+dialogue,Phoebe,"Mon, can I talk to you for a sec?"
+dialogue,Monica,"Yeah, what is it?"
+dialogue,Phoebe,"Umm, I lost one of your earrings. I'm sorry! I am so, so sorry!"
+dialogue,Monica,"(shocked) Wow! All right well, I mean, what can you do? If you lost it you lost it."
+dialogue,Phoebe,"I will replace it, I promise. I feel so terrible."
+dialogue,Monica,"All right, sweetie that's fine. You didn't do it on purpose."
+dialogue,Phoebe,No.
+dialogue,Monica,Look at you! Come here! (They hug.) Feel better?
+dialogue,Phoebe,Yeah! You're the best!
+dialogue,Rachel,"Okay, wait a minute. Wait a minute, I-I-I, I can't do this. Listen honey, this is, it's not Phoebe's fault. She lent me the earrings, and I lost it. I'm so sorry. Honey, I feel terrible too. (Holds out her arms for a hug.)"
+dialogue,Monica,"(angrily) That is exactly why I do not lend you stuff!! (Rachel looks over at Phoebe in resignation.) Okay?! I mean, first it's my jewelry! And if it's not my jewelry, it's-it's my blue sweater! And if it's not my sweater, it's my sunglasses!"
+dialogue,Rachel,Your sunglasses?!
+dialogue,Monica,Yes!
+dialogue,Phoebe,"Oh, right! (Hands Monica back her sunglasses.)"
+dialogue,Caitlin,(from outside) Pizza!
+dialogue,Ross,"(running to the door) Oh, mine! Mine! Mine! (to everyone) Okay, here goes. Prepare yourselves for some Class A flirting."
+dialogue,Chandler,"Okay, hold on. (Pauses as he readies himself.) Okay. (Walks away.)"
+dialogue,Rachel,"Honey, you have nothing to prove. And if you really like this girl, I don't flirting is the right thing to… (Ross interrupts and shushes her.)"
+dialogue,Ross,"You'll see. Okay. (Readies himself.) Oh, what's-what's her name?"
+action,,All:
+dialogue,Grandma Tribbiani,Caitlin!
+dialogue,Ross,"(He opens the door while faking a laugh.) Hey! Oh, we-we can't keep eating like this. (Monica turns her head in shame.)"
+dialogue,Caitlin,"It's uh, $12.50."
+dialogue,Ross,"Okay, (gets the money) so, do you make the pizzas in one of those uh, wood-burning ovens?"
+dialogue,Caitlin,"No actually umm, I think that they're umm, gas."
+dialogue,Ross,Gas? Wow! Intense.
+dialogue,Chandler,"(To Monica) If this is the way all the Gellers flirt, we don't have a problem."
+dialogue,Ross,"(to Caitlin) Hey uh, y'know that smell gas has?"
+dialogue,Caitlin,"(wanting more than anything to get the money and leave this horrible, horrible place) Yeah."
+dialogue,Ross,They put that in.
+dialogue,Caitlin,What?!
+dialogue,Ross,"The gas is odorless, but they add the smell so you know when there's a leak."
+dialogue,Caitlin,(getting more desperate to leave) Well okay!
+dialogue,Ross,A lot of other gas smells…
+dialogue,Chandler,Oh the humanity.
+dialogue,Ross,Meth-methane smells…
+dialogue,Caitlin,"Y'know what umm, actually I, I really, I should go."
+dialogue,Ross,Oh but I-I-I haven't paid you yet!
+dialogue,Caitlin,"Y'know what? That's okay, you guys have ordered so many that this one is on me! (Runs for her life.)"
+action,,(Ross closes the door slowly.)
+dialogue,Ross,(To All) Was I talking to her about gas?
+dialogue,Chandler,More so than anything else.
+dialogue,Phoebe,I-I-I found it interesting.
+dialogue,Rachel,I'm sorry.
+dialogue,Ross,"Look, no-no, hey, hey, don't worry about it! In nine years, she and I will be right there. (Goes and sits on the couch dejectedly.)"
+dialogue,Rachel,"Okay, well, I'm gonna clear out some of these boxes. (She grabs a couple of the old pizza boxes and exits.)"
+dialogue,Phoebe,(walking over to Ross) Ross?
+dialogue,Ross,Yeah?
+dialogue,Phoebe,What else do they add smell too?
+heading,,"[Scene: The street outside the building, Rachel is running to catch up with Caitlin.]"
+dialogue,Rachel,"Hey! Hey! (Stops Caitlin) Hi! Hey-hey-hey, I'm Rachel! From upstairs? The ones with all the pizza?"
+dialogue,Caitlin,"Oh, is there a problem?"
+dialogue,Rachel,"No. No. Every thing's--they're fine. Great pizza. But it's uh, actually umm my friend Ross. He uh, just gets really nervous when he's flirting."
+dialogue,Caitlin,Oh my God! That was flirting?!
+dialogue,Rachel,Yeah.
+dialogue,Caitlin,Wow!
+dialogue,Rachel,"I know, I know, but uh just, I'm telling you, once, once you get past that part, that where it-it just feels like you wanna die, he's-he's really a good person."
+dialogue,Caitlin,The guy with the gas?!
+dialogue,Rachel,"Yeah. I'm-I'm telling you he's really sweet and he's really funny and he's just ugh, got a good heart. And besides, I y'know, I think he really likes you."
+dialogue,Caitlin,Really?!
+dialogue,Rachel,"Well y'know, we have 7 people and like 10 pizzas, what do you think?"
+dialogue,Caitlin,"I just, I thought Joey was there."
+heading,,"[Scene: Monica and Rachel's, Phoebe, Chandler, and Joey's grandmother are still watching Law & Order .]"
+dialogue,Rachel,"(entering) Hey Ross? Umm, I just ran into Caitlin in the hallway and-and uh, you must be getting better at this flirting stuff than I thought."
+dialogue,Ross,What do you mean?
+dialogue,Rachel,"Well, I don't get it, but she wanted me to give you her phone number. (Hands him the slip of paper with the phone number on it.)"
+dialogue,Ross,And she just gave you this?
+dialogue,Rachel,Yeah!
+dialogue,Ross,"Rach, thanks but uh, I don't need you doing me any favors."
+dialogue,Rachel,I-I-I didn't! I didn't! She thought you were cute.
+dialogue,Ross,Well that I can believe.
+dialogue,Rachel,Yay!
+dialogue,Joey,(entering) Hey! Is the show still on?
+dialogue,Chandler,Almost over man.
+dialogue,Joey,(says hi to his grandma) Look! Oh! (Pointing out the window.) Is that the Pope?! (Chandler and his grandma turn to look and Joey slips a tape into the VCR.)
+dialogue,Chandler,Why am I looking?
+dialogue,Joey,"Oh, here I am, here's my big scene!"
+action,,(Joey has made a little home movie that's his big scene. He braces himself against the door to his apartment and while holding a plastic gun and wearing the same sweater says…)
+dialogue,Joey,(on the tape) All right back off! I gotta gun! I'm not afraid to use it!
+dialogue,Grandma Tribbiani,Oh Joey!
+dialogue,Joey,That's right!
+dialogue,Chandler,You couldn't have at least changed your shirt.
+dialogue,Joey,"(on the tape) Now, I wanna a suitcase filled with 100,000 dollars. (The duck quacks, to the duck) Choo! Choo! Choo! (To the imaginary cops) Filled with $100,000 in small bills, and if I don't get it…(the duck quacks louder) Choo!! And if I don't get it, (pause, picks up the duck) I'm gonna shoot this duck!"
+dialogue,Phoebe,Oh no!
+dialogue,Joey,(on the tape) I'm comin' out! (He opens the door and hops out pointing the gun in all directions and then runs out of view.)
+dialogue,Ross,(To Phoebe) And she's supposed to buy this?!
+dialogue,Grandma Tribbiani,"Joey, bravo! (Starts with that Italian stuff again.)"
+action,,"(Suddenly, the tape cuts away from Joey's impromptu scene, to Chandler standing really, really close to the camera.)"
+dialogue,Chandler,(singing) Ground control to Major Tom ! Commencing countdown…engines…on !
+action,,(Joey and Chandler both run to shut off the tape.)
+dialogue,Joey,"(to his grandmother) That's uh, scenes from next week's show. Next week's!"
+dialogue,Phoebe,I am definitely gonna watch that!
+action,,Ending Credits
+heading,,"[Scene: Monica and Rachel's, another time lapse, Monica is seeking advice from Rachel and Phoebe about possible replacement earrings.]"
+dialogue,Monica,What about these? These look the same?
+dialogue,Phoebe,Definitely!
+dialogue,Monica,Not as each other!
+dialogue,Phoebe,"Oh, then no."
+action,,(Goes over to Chandler.)
+dialogue,Chandler,(To Monica) Hey!
+dialogue,Monica,Hi!
+dialogue,Chandler,You ready?
+dialogue,Monica,Yeah.
+dialogue,Chandler,You look amazing. I'm the luckiest man in the world.
+dialogue,Monica,"Ohh, you're about to get a little luckier."
+dialogue,Chandler,Let me see the earrings.
+dialogue,Monica,"Oh, honey, the earrings…"
+dialogue,Chandler,(looking at them) They look great! Does your boyfriend have the best taste or what?
+dialogue,Monica,My boyfriend really does have good taste!
+action,,(He turns to get his coat and Monica gives Rachel and Phoebe two thumbs up as Chandler walks over to Ross.)
+dialogue,Chandler,(To Ross) Thanks for picking out the earrings man.
+dialogue,Ross,Hm-mmm.
+action,,End

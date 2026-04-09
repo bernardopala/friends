@@ -1,0 +1,294 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's, 3:02 A.M., Chandler is up. There's a knock on the door and Chandler answers it.]"
+dialogue,Monica,(quietly) Hi!
+dialogue,Chandler,(quietly) Hi! (They both start kissing.)
+action,,(Joey enters and Chandler pushes her away.)
+dialogue,Joey,Monica? What time is it?
+dialogue,Chandler,"Uhh, 9. (He pushes the clock into the sink.)"
+dialogue,Joey,But it's dark out.
+dialogue,Monica,"Well that's because you always sleep to noon, silly! This is what 9 looks like."
+dialogue,Joey,I guess I'll get washed up then. Watch that sunrise. (He goes into the bathroom.)
+dialogue,Monica,I'm really getting tired of sneaking around.
+dialogue,Chandler,"I know, me too. Hey! Y'know what if we went away for a whole weekend? Y'know we'd have no interruptions and we could be naked the entire time."
+dialogue,Monica,All weekend? That's a whole lotta naked.
+dialogue,Chandler,"Yeah, I can say that I have a conference and you can say you have a chef thing."
+dialogue,Monica,"Ohh, I've always wanted to go to this culinary fair that they have in Jersey!"
+dialogue,Chandler,"Okay, y'know your not though. Let's go. (He starts for his bedroom.)"
+dialogue,Monica,Wait! What about Joey?
+action,,(Chandler opens the bathroom door to reveal Joey passed out on the toilet with a toothbrush in his mouth.)
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, the next morning, Chandler, Joey, and Phoebe are eating breakfast.]"
+dialogue,Monica,"(entering from her room) Hey, guess what I'm doing this weekend! I'm going to this culinary fair in New Jersey."
+dialogue,Phoebe,"Oh weird, Chandler just told us he's got a conference there!"
+dialogue,Monica,"Oh now that-that-that's funny, it seems like Chandler's conference could've been in Connecticut or Vermont."
+dialogue,Chandler,I'm not in charge of where the conference is held. Do you want people to think it's a fake conference? It's a real conference.
+dialogue,Ross,(entering) Hey.
+dialogue,Joey,Hey!
+dialogue,Monica,Hey.
+dialogue,Ross,Is Rachel here? I gotta talk to her.
+dialogue,Monica,"No, she's out shopping."
+dialogue,Ross,Damn!
+dialogue,Chandler,What's going on?
+dialogue,Ross,"I told Emily to come. And I just need to y'know, talk to Rachel about it."
+dialogue,Phoebe,"Wait a minute! So when Emily comes you're just, you're not gonna see Rachel anymore?"
+dialogue,Ross,"Well look, I'm just trying to focus on the ""I get to see my wife,"" part, all right? And not the part that makes me do this. (He takes a big swig of Pepto Bismol .)"
+dialogue,Monica,"Wow, so you guys are, you're never gonna be in the same room together? How is that even gonna work?"
+dialogue,Ross,I have no idea. I mean… But-but I assure you I will figure it out.
+action,,(They all reflect briefly on what was said.)
+dialogue,Joey,"Doesn’t seem like it's going to work, I mean…"
+dialogue,Rachel,"(entering) Hi, guys!"
+dialogue,Joey,Hi!
+dialogue,Chandler,"Uh, hey!"
+dialogue,Rachel,What's going on?
+dialogue,Chandler,We're flipping Monica's mattress.
+dialogue,Joey,"So I'm thinking, basically we pick it up and then we flip it."
+dialogue,Phoebe,Yeah that's better than my way.
+action,,(They all agree and head to Monica's room.)
+dialogue,Rachel,"Oh okay, hey guys, would you flip mine too?"
+dialogue,Chandler,"Aww, man! (They go into Monica's room.)"
+dialogue,Rachel,(going through the mail) Oh look! A letter from my mom.
+dialogue,Ross,"So, Rach, y'know-y'know how Emily's coming right?"
+dialogue,Rachel,Oh yeah! I know.
+action,,"[Cut to Monica's bedroom, Chandler is trying to listen through the door.]"
+dialogue,Phoebe,(To Chandler) Can you hear anything?
+dialogue,Chandler,"Oh yes, somebody just said, ""Can you hear anything?"""
+action,,(Joey is bent over at the waist and is looking for something under Monica's bed.)
+dialogue,Monica,"Hey, Joey's ass! What are you doing?"
+dialogue,Joey,"(holding a box) Well, remember when they got in that big fight and broke up and we were all stuck in her with no food or anything? Well, when Ross said Rachel at the wedding, I figured it was gonna happen again, so I hid this in here."
+dialogue,Monica,"Ooh, candy bars, crossword puzzles…"
+dialogue,Phoebe,"Ooh, Madlibs , mine! (Grabs it.)"
+dialogue,Chandler,Condoms?
+dialogue,Joey,You don't know how long we're gonna be in here! We may have to repopulate the Earth.
+dialogue,Chandler,And condoms are the way to do that?
+action,,[Cut to the living room.]
+dialogue,Ross,"Anyway it-it kinda-it all boils down to this, the last time I talked to Emily…"
+dialogue,Rachel,(interrupting) Oh my God! My dog died!
+dialogue,Ross,What?!
+dialogue,Rachel,"Oh my God, Le Poo, our dog!"
+dialogue,Ross,Le Poo's still alive?!
+dialogue,Rachel,"Oh God, it says he was hit by an ice cream truck and dragged for nine-(turns over the note)-teen blocks. Oh. (They all come out from Monica's bedroom) Oh my God."
+dialogue,Monica,"Sweetie, we heard you crying. Please don't cry."
+dialogue,Rachel,It's Le Poo.
+dialogue,Phoebe,"I know it's le poo right now, but it'll get better."
+heading,,"[Scene: Atlantic City, New Jersey, Chandler and Monica are about to start their weekend of sex, sex, nothing but sex.]"
+dialogue,Chandler,(jumping on the bed) I can't believe it! We're here!
+dialogue,Monica,"Ooh, chocolates on the pillows! I love that!"
+dialogue,Chandler,"Oh, you should live with Joey, Roll-os everywhere."
+dialogue,Monica,"Come here. (He does, and they kiss.) Okay, be right back."
+action,,(Goes to the bathroom and Chandler turns on the TV and finds a high-speed police chase.)
+dialogue,Chandler,"Oh yes! Monica, get in here! There's a high-speed car chase on!"
+action,,"(Monica returns, carrying a glass.)"
+dialogue,Monica,We're switching rooms.
+dialogue,Chandler,"(looks at what she's holding and shies away) Oh dear God, they gave us glasses!"
+dialogue,Monica,"No, they gave us glasses with lipstick on them! I mean, if they didn't change the glasses, who knows what else they didn't change. (He glares at her.) Come on sweetie, I just want this weekend to be perfect, I mean we can change rooms, can't we?"
+dialogue,Chandler,"Okay, but let's do it now though, because Chopper 5 just lost it's feed! (He grabs their bags and sprints out.)"
+heading,,"[Scene: Central Perk, Ross is trying to tell Rachel about Emily's ultimatum again.]"
+dialogue,Ross,"Hey, so uh, y'know how there's something I wanted to talk to you about?"
+dialogue,Rachel,Oh yeah! (Turns to face him.)
+dialogue,Ross,"Well, y'know how I'm trying to work things out with Emily. Well, there's this one thing… Okay, (Rachel has her back turned to the camera, and Ross isn't looking at her.) here goes. I made a promise that-(they cut to the other camera and Ross notices something coming out of Rachel's nose)-Oh hey!"
+dialogue,Rachel,What?
+dialogue,Ross,You're nose is bleeding!
+dialogue,Rachel,"Oh God. (He hands her some tissues.) No! Oh not again! (Wiping her nose.) This-this happened when my grandfather died. It's ugh! Sorry. (She puts her head back.) Oh, okay, so I'm sorry, what-what were you-what did you want to tell me?"
+dialogue,Ross,Umm… (Rachel blows her nose.)
+dialogue,Rachel,Sorry. Sorry.
+dialogue,Ross,"Okay, I uh, I can't see you anymore."
+dialogue,Rachel,"Yeah, I know. It's ridiculous! I can't see you either."
+heading,,"[Scene: Chandler and Monica's weekend, a hotel clerk is showing them their new room.]"
+dialogue,Hotel Clerk,I think you'll find this room more to your liking.
+dialogue,Chandler,"Okay, great. (He grabs the remote and turns on the TV to the chase.)"
+dialogue,Hotel Clerk,(watching the chase) They say he's only got half a tank left.
+dialogue,Chandler,Half a tank? We still got a lot of high-speed chasing to do!
+dialogue,Monica,We're switching rooms again.
+dialogue,Chandler,What? Why?
+dialogue,Monica,"This is a garden view room, and we paid for an ocean view room."
+dialogue,Hotel Clerk,Our last ocean view room was unacceptable to you.
+dialogue,Monica,"(To Chandler) Excuse me, umm, can I talk to you over here for just a second?"
+dialogue,Chandler,Uh-huh. (He doesn't take his eyes off the TV.)
+dialogue,Monica,Chandler!
+dialogue,Chandler,(turning to face her) Yeah.
+dialogue,Monica,"Look, these clowns are trying to take us for a ride and I'm not gonna let 'em! And we're not a couple of suckers!"
+dialogue,Chandler,"I hear ya, Mugsy! But look, all these rooms are fine okay? Can you just pick one so I can watch-(realizes)-have a perfect, magical weekend together with you."
+action,,"[Time lapse, Monica and Chandler have changed rooms yet again.]"
+dialogue,Monica,"Okay, this one I like!"
+dialogue,Chandler,"(watching TV, in fact, ER is on.) Nothing! It's over! Dammit! This is regularly scheduled programming!"
+dialogue,Monica,Can we turn the TV off? Okay? Do we really want to spend the entire weekend like this?
+dialogue,Chandler,"Oh, I'm sorry, am I getting in the way of all the room switching fun?"
+dialogue,Monica,"Hey, don't blame me for wigging tonight!"
+dialogue,Chandler,"Oh, who should I blame? The nice bell man who had to drag out luggage to 10 different rooms?"
+dialogue,Monica,"I don't know, how about the idiot who thought he could drive from Albany to Canada on a half a tank of gas!"
+dialogue,Chandler,Do not speak ill of the dead.
+dialogue,Monica,"We're supposed to uh, be spending a romantic weekend together, it-it, what is the matter with you?"
+dialogue,Chandler,"I just want to watch a little television. What is the big deal? Geez, relax mom."
+dialogue,Monica,What did you say?
+dialogue,Chandler,"I said, ""Geez, relax Monnnnn."""
+heading,,"[Scene: Monica and Rachel's, Rachel is reading a magazine and has two tissues stuck up her nose in an attempt to stop the bleeding and as she hears Ross enter, she quickly hides her face behind the magazine and removes the tissues.]"
+dialogue,Rachel,Hi!
+dialogue,Ross,"Hey. Rachel, I-I-I've been wanting to tell you something for a while now and I really, I just have to get it out."
+dialogue,Rachel,"Okay, what's up?"
+dialogue,Ross,"Okay, y'know how you told me I should do whatever it takes to fix my marriage?"
+dialogue,Rachel,"Yeah, I told you to give Emily whatever she wants."
+dialogue,Ross,"And while that was good advice, you should know that what-what she wants…"
+dialogue,Rachel,Yeah?
+dialogue,Ross,…is for me not to see you anymore.
+dialogue,Rachel,"That's crazy! You can't do that! What are you going to tell her? (Pause) (Realizes) Oh God. Ohh, you already agreed to this, haven't you?"
+dialogue,Ross,"It's awful I know, I mean, I feel terrible but I have to do this if I want my marriage to work. And I do, I have to make this marriage work. I have too. But the good thing is we can still see each other until she gets here."
+dialogue,Rachel,"Ohh! Lucky me! Oh my God! That is good news, Ross! I think that's the best news I've heard since Le Poo died!"
+dialogue,Ross,You have no idea what a nightmare this has been. This is so hard.
+dialogue,Rachel,"Oh yeah, really? Is it Ross? Yeah? Okay, well let me make this a just a little bit easier for you."
+dialogue,Ross,What are you doing?
+dialogue,Rachel,Storming out!
+dialogue,Ross,"Rachel, this is your apartment."
+dialogue,Rachel,"Yeah, well that's how mad I am!!"
+action,,Commercial Break
+heading,,"[Scene: Chandler and Joey's, Chandler is returning from his disastrous weekend. He throws his bag down and sits down on one of the leather chairs, but he sits on something and picks it up and throws it away.]"
+dialogue,Chandler,Damn Rollos !
+dialogue,Joey,"Hey, you're back!"
+dialogue,Chandler,Hey.
+dialogue,Joey,How was your conference?
+dialogue,Chandler,"It was terrible. I fought with (Pause) my colleagues y'know, the entire time. Are you kidding with this? (Throws away another Rollo )"
+dialogue,Joey,"Oh, so your weekend was a total bust?"
+dialogue,Chandler,"Uh, no, I got to see Donald Trump waiting for an elevator."
+dialogue,Monica,(entering) Hi!
+dialogue,Joey,"Hey, you're back too!"
+dialogue,Monica,"Yeah. Umm, Chandler can I talk to you outside for a second?"
+dialogue,Joey,"Hey, how was your chef thing?"
+dialogue,Monica,"Oh, it was awful. (To Chandler) I guess some people just don't appreciate really good food."
+dialogue,Chandler,"Well, maybe it was the kind of food that tasted good at first but then made everybody vomit and have diarrhea."
+dialogue,Monica,Chandler! (Motions for him to come outside.)
+dialogue,Chandler,Monica. (Follows her out.)
+action,,[In the hall.]
+dialogue,Monica,"Okay, I'd like to know how much the room was because I'd like to pay my half."
+dialogue,Chandler,"Okay, fine, $300."
+dialogue,Monica,300 dollars?!
+dialogue,Chandler,"Yeah, just think of it as $25 per room!"
+dialogue,Monica,Urghh!!
+dialogue,Joey,(sticking his head out the door) What are you guys woofing about?
+dialogue,Monica,Chandler stole a twenty from my purse!
+dialogue,Joey,"Nooooo!!! Y'know what? Now that I think about it, I constantly find myself without twenties and you always have lots!"
+heading,,"[Scene: Central Perk, Ross is drinking some Alka-Seltzer . The rest of the gang, minus Rachel is there as well.]"
+dialogue,Ross,You should've seen the look on her face. I don't want Rachel to hate me! I don't know what to do.
+dialogue,Joey,You want my advice?
+dialogue,Ross,Yes! Please!
+dialogue,Joey,You're not gonna like it.
+dialogue,Ross,That's okay.
+dialogue,Joey,You got married to fast.
+dialogue,Ross,That's not advice!
+dialogue,Joey,I told ya.
+dialogue,Ross,I'm going to the bathroom. (Gets up and exits.)
+dialogue,Joey,"Man, if anyone asked me to give up any of you, I couldn't do it."
+action,,Chandler and Phoebe:
+dialogue,Monica,Maybe I could do it.
+dialogue,Rachel,(entering) Hi!
+dialogue,Joey,"Hi, Rach."
+dialogue,Chandler,Hi!
+dialogue,Phoebe,Hey.
+dialogue,Monica,Hey.
+dialogue,Rachel,"Look, I know you guys heard about the whole thing with me and Ross but y'know, I've been obsessing about it all day and I'd just love not to talk about it. All right?"
+dialogue,Joey,"I-I-I don't know if this falls under this category, but uh, Ross is right back there. (Points over his shoulder.)"
+dialogue,Rachel,That's not Ross!
+dialogue,Phoebe,Oh no! Not that guy! He does look like him though.
+dialogue,Chandler,"Okay, Ross is in the bathroom."
+dialogue,Rachel,"Oh my God, its happening. It's already started. I'm Kip."
+dialogue,Joey,"Hey, you're not Kip!"
+dialogue,Rachel,(To Joey) Do you even know who Kip is?
+dialogue,Joey,Who cares? You're Rachel! (To Chandler) Who's Kip?
+dialogue,Chandler,"Kip, my old roommate, y'know we all used to hang out together."
+dialogue,Joey,"Oh, that poor bastard."
+dialogue,Rachel,"See? Yeah, you told me the story. He and Monica dated when they broke up they couldn't even be in the same room together and you all promised that you would stay his friend and what happened? He got phased out!"
+dialogue,Monica,You're not gonna be phased out!
+dialogue,Rachel,"Well, of course I am! It's not gonna happen to Ross! He's your brother. (To Chandler) He's your old college roommate. Ugh, it was just a matter of time before someone had to leave the group. I just always assumed Phoebe would be the one to go."
+dialogue,Phoebe,Ehh!!
+dialogue,Rachel,"Honey, come on! You live far away! You're not related. You lift right out."
+heading,,"[Scene: Chandler and Joey's, Joey is watching TV.]"
+dialogue,Chandler,(entering) Hey!
+dialogue,Joey,"Hey, Mr. Bing. That uh, hotel you stayed at called. Said someone left an eyelash curler in your room."
+dialogue,Chandler,Yes that was mine.
+dialogue,Joey,'Cause I figured you'd hooked up with some girl and she'd left it there.
+dialogue,Chandler,Yes that would have made more sense.
+dialogue,Joey,"Y'know, I-I don't even feel like I know you anymore man! All right, look, I'm just gonna ask you this one time. And whatever you say, I'll believe ya. (Pause.) Were you, or were you not on a gay cruise?!"
+heading,,"[Scene: Central Perk, Phoebe is sitting on couch and Rachel is getting some coffee. Phoebe keeps turning her head from to keep from looking at Rachel.]"
+dialogue,Rachel,Phoebe? (She turns her head further away.) I'm sorry about the whole lifting out thing. (Moves over next to her.) You gotta come with me!
+dialogue,Phoebe,Come where?
+dialogue,Rachel,"Wherever I go. Come on you and me, we'll-we'll start a new group, we're the best ones."
+dialogue,Phoebe,"Okay, but try and get Joey too."
+dialogue,Ross,"(entering) Pheebs, you mind if I speak to Rachel alone for a sec?"
+dialogue,Phoebe,"Oh, sure! (She gets up to leave.) Bye Ross! (Whispering behind his back.) Forever."
+dialogue,Ross,Hi.
+dialogue,Rachel,Hi. What are you doing here? Isn't this against the rules?
+dialogue,Ross,"I talked to Monica, look, I'm the one who made the choice. I'm the one who's making things change, so I should be the one to y'know, step back."
+dialogue,Rachel,"Oh, Ross…"
+dialogue,Ross,"No, no, it's okay. Really. They're plenty of people who just see their sisters at Thanksgiving and just see their college roommates at reunions and just see Joey at Burger King . So is, is that better?"
+dialogue,Rachel,"No, it's not better. I still don't get to see you."
+dialogue,Ross,"Well, what-what would you do? Rach, if you were me, what-what would you do?"
+dialogue,Rachel,"Well, for starters I would've said the right name at my wedding!"
+dialogue,Ross,I can't believe this is happening.
+dialogue,Rachel,I know.
+dialogue,Ross,I am so sorry.
+dialogue,Rachel,I know that too.
+dialogue,Joey,"(entering) (He clears his throat to get their attention.) Hey, Rach? Sorry to interrupt but umm, Phoebe wanted me to talk to you about a trip or something."
+heading,,"[Scene: Monica and Rachel's, Monica is doing a crossword puzzle.]"
+dialogue,Chandler,(entering) Hey!
+dialogue,Monica,Hi.
+dialogue,Chandler,"I just came over to drop off…nothing. So that weekend kinda sucked, huh?"
+dialogue,Monica,"Yeah, it did."
+dialogue,Chandler,"So, I guess this is over."
+dialogue,Monica,What?
+dialogue,Chandler,"Well, y'know, you and me, it had to end sometime."
+dialogue,Monica,"Why, exactly?"
+dialogue,Chandler,"Because of the weekend, we had a fight."
+dialogue,Monica,Chandler that's crazy! If you give up every time you'd have a fight with someone you'd never be with anyone longer than—Ohhh! (They both realize something there.)
+dialogue,Chandler,"So, this isn't over?"
+dialogue,Monica,"(laughs) You are so cute! No. No, it was a fight. You deal with it and move on! It's nothing to freak out about."
+dialogue,Chandler,Really? Okay. Great!
+dialogue,Monica,"Ohh, welcome to an adult relationship! (She goes to kiss him.)"
+dialogue,Chandler,(stops her) We're in a relationship?
+dialogue,Monica,I'm afraid so.
+dialogue,Chandler,Okay.
+action,,(They kiss.)
+heading,,"[Scene: Monica and Rachel's, Monica, Rachel, Joey, and Chandler are there as Phoebe enters.]"
+dialogue,Phoebe,Hey!
+dialogue,Monica,Hey!
+dialogue,Phoebe,"Oh hey, Monica, I heard you saw Donald Trump at your convention."
+dialogue,Monica,"Yeah, I saw him waiting for an elevator."
+action,,"(Joey thinks that sounds familiar, but dismisses the thought.)"
+dialogue,Monica,"Hey, Rach, can I borrow your eyelash curler, I think I lost mine."
+dialogue,Rachel,"Yeah, it's in there. (Points to the bathroom.)"
+action,,(Joey puts two and two together.)
+dialogue,Joey,(shocked) Oh! Ohh! Oh!!
+dialogue,Chandler,"Joey, can I talk to you for a second? (He grabs him and starts to drag Joey into Monica's room.)"
+dialogue,Joey,Oohh!! Ohh! Oh-oh-oh! Oh-oh!!
+action,,(Chandler pushes him through the door and Monica closes it behind them.)
+action,,"[Cut to Monica's room, Chandler tackles Joey onto her bed and tries to cover his mouth.]"
+dialogue,Joey,Ohhhhhhhhhhh!!!!!!!
+dialogue,Chandler,Yes. Yes. (Lets him up.)
+dialogue,Joey,(To Chandler) You?! (To Monica) And-and you?!
+dialogue,Monica,"Yes, but you cannot tell anyone! No one knows!"
+dialogue,Joey,How?! When?!
+dialogue,Chandler,It happened in London.
+dialogue,Joey,IN LONDON!!!
+dialogue,Chandler,The reason we didn't tell anyone was because we didn't want to make a big deal out of it.
+dialogue,Joey,But it is a big deal!! I have to tell someone!
+action,,(They both grab him and stop him.)
+dialogue,Chandler,No-no-no-no-no! You can't!
+dialogue,Monica,"Please? Please?! We just don't want to deal with telling everyone, okay? Just promise you won't tell."
+action,,(Joey thinks it over.)
+dialogue,Joey,"All right! Man, this is unbelievable! I mean, it's great , but…"
+dialogue,Monica,"I know, it's great!"
+action,,(She goes over and kisses Chandler.)
+dialogue,Joey,"Aww, I don't want to see that!"
+action,,[Cut to Phoebe and Rachel.]
+dialogue,Phoebe,We're so stupid! Do you know what's going on in there? They're trying to take Joey!
+action,,Ending Credits
+heading,,"[Scene: Monica and Rachel's, the gang, minus Ross are playing Madlibs . Phoebe is reading hers.]"
+dialogue,Phoebe,"The most popular Phoebe in tennis is called the overhand Phoebe. And if you win, you must slap your opponent on the Phoebe and say, ""Hi, Phoebe!"""
+dialogue,Monica,"Oh that's cute! We really all enjoyed it. But y'know, it doesn't count."
+dialogue,Phoebe,Count for what?
+dialogue,Monica,Count in our heads as-as good Madlibs .
+action,,(They putting their notepads down and get up to leave.)
+dialogue,Joey,I guess I'm done.
+dialogue,Chandler,Fun's over!
+dialogue,Monica,"Wait-wait, guys! If-if we follow the rules, it's still fun and it means something!"
+dialogue,Rachel,Uh-huh!
+dialogue,Joey,I think I'm gonna take-off.
+dialogue,Monica,"Guys, rules are good! Rules help control the fun! (They all leave and close the door on Monica.) Ohhh! (Throws her notepad down in disgust.)"
+action,,End

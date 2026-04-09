@@ -1,0 +1,247 @@
+script_element,character,text
+heading,,"[Scene: Monica and Rachel's, Rachel has just gotten home and is going through the mail. She finds something that's Monica's and goes over and knocks on her closed bedroom door.]"
+dialogue,Monica,(In a sexy voice) Come in. I've been waiting for you.
+action,,(Rachel enters.)
+dialogue,Rachel,Hi! I just wanna-(sees Monica)-Ahhh!!! Oh my God! (She runs out in horror.) Oh my God!
+dialogue,Monica,"(pulling on a robe) Okay, I'm sorry! I'm sorry! I-I-I was um, I was taking a nap."
+dialogue,Rachel,"Since when do take naps in that position. Oh God Monica, tell me you were waiting for a guy! Please tell me you were waiting for a guy!"
+dialogue,Monica,"Yes. Yes, I was. A guy. From work. (Thinks) I'm seeing a guy from work! Ha!"
+dialogue,Rachel,"(Gasps) That cute waiter guy from your restaurant, the one that looks like a non-threatening Ray Liotta?"
+dialogue,Monica,"Uh-huh, that one!"
+dialogue,Rachel,"Y'know what, just give me a second and I'll be out of your hair. I'm just gonna grab a jacket. When I get back, I want every little detail. (There's a knock on the door.) Maybe that's him. (Goes to answer the door.)"
+dialogue,Monica,"(Panicking) Okay, umm, okay, umm… (Rachel opens the door.) It's just Joey and Ross."
+dialogue,Rachel,Why aren't you guys at the movie?
+dialogue,Joey,"Well, we were! But Ross was talking so loud on his phone they threw us out!"
+dialogue,Ross,I had to talk loud because the movie was loud!
+dialogue,Joey,(to Monica and Rachel) He's talking to London!
+dialogue,Monica,But why?! Did he get in touch with Emily?
+dialogue,Joey,"Well no, not yet. He's calling everyone on her side of the family hoping that someone will help him get in touch with her."
+dialogue,Ross,"(on phone) I-I-I don't care if I said some other girl's name you prissy, old twit!"
+dialogue,Joey,Ross! Way to suck up to the family.
+dialogue,Chandler,"(entering, happily, with a bottle of champagne, thinking that Monica is the only one there) Ha-ha-ha-(sees everyone)-enh-enh. I'm so glad you guys are all here! My office finally got wrinkle free fax paper!"
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, the next morning, Phoebe, Chandler, Ross, and Monica are eating breakfast.]"
+dialogue,Joey,"(entering, wearing a tux) Hey!"
+dialogue,Chandler,"Oh no-no-no-no-no-no, vomit tux! No-no, vomit tux!"
+dialogue,Joey,"Don't worry, I had it dry-cleaned."
+dialogue,Monica,"Vomit tux? Who vomited on—y'know what, what you up to Joe?"
+dialogue,Joey,"Well, I'm doing this telethon thing on TV and my agent got me a job as co-host!"
+dialogue,Monica,Oh that's great!
+dialogue,Joey,"A little uh, good deed for PBS and a little TV exposure, now that's the kind of math Joey likes to do!"
+dialogue,Phoebe,"Ugh, PBS!"
+dialogue,Monica,What's wrong with PBS?
+dialogue,Phoebe,"Ugh, what's right with them?"
+dialogue,Joey,"Why don’t you like PBS, Pheebs?"
+dialogue,Phoebe,"Okay, 'cause right after my mom killed herself, I was just in this really bad place, y'know personally. So, I just thought that it'd make me feel better if I wrote to Sesame Street , 'cause they were so nice when I was a little kid! No one ever wrote back."
+dialogue,Chandler,Well y'know a lot of those Muppets don't have thumbs.
+dialogue,Phoebe,All I got was a lousy key chain! And by that time I was living in a box. I didn't have keys!
+dialogue,Joey,"I'm sorry Pheebs, I just, y'know, I just wanted to do a good deed. Like-like you did with the babies."
+dialogue,Phoebe,"This isn't a good deed, you just wanted to get on TV! This is totally selfish."
+dialogue,Joey,"Whoa! Whoa! Whoa! What about you, having those babies for your brother? Talk about selfish!"
+dialogue,Phoebe,What-what are you talking about?!
+dialogue,Joey,"Well, yeah, it was a really nice thing and all, but it made you feel really good right?"
+dialogue,Phoebe,Yeah. So?
+dialogue,Joey,"It made you feel good, so that makes it selfish. Look, there's no unselfish good deeds, sorry."
+dialogue,Phoebe,Yes there are! There are totally good deeds that are selfless.
+dialogue,Joey,"Well, may I ask for one example?"
+dialogue,Phoebe,"Yeah, it's… Y'know there's—no you may not!"
+action,,"(They are standing on either side of Chandler as they discuss the point. Chandler, meanwhile, is disgusted with the whole argument.)"
+dialogue,Joey,That's because all people are selfish.
+dialogue,Phoebe,Are you calling me selfish?!
+dialogue,Joey,"Are you calling you people? (Chandler rolls his eyes.) Yeah, well sorry to burst that bubble, Pheebs, but selfless good deeds don't exist. Okay? And you the deal on Santa Clause right?"
+dialogue,Phoebe,"I'm gonna find a selfless good dead. I'm gonna beat you, you evil genius."
+action,,(Ross's phone rings and he answers it.)
+dialogue,Ross,(on phone) Hello.
+dialogue,Emily,"(on phone from London) Hello, Ross?"
+dialogue,Ross,"Emily? Emily! Oh my God! Oh my God, it's Emily! (He picks up a lamp and hands it to Chandler, for no reason.) It's Emily everyone! Shush-shush-shhst! (to Emily) Hi!"
+dialogue,Emily,"Ross, I'm only ringing to say stop harassing my relatives. Good-bye!"
+dialogue,Ross,"No wait! Look, wait! Okay, you can hang up, but I'm gonna keep calling! I'm gonna, I'm gonna call everyone in England if that's what it takes to get you to talk to me!"
+dialogue,Emily,Really? About what?
+dialogue,Ross,Look you're my wife. We're-we're married. Y'know? I-I love you. I-I really miss you.
+dialogue,Emily,"I miss you to. Well, at least I think I do."
+dialogue,Ross,"(to the gang, whispering) She's talking."
+dialogue,All,"(subdued) Yay! (He motions for them to keep quiet, including Chandler who is still holding the lamp Ross handed him, before he goes off to talk to Emily in private.)"
+dialogue,Phoebe,"Hey, Joey, when you said the deal with Santa Clause, you meant?"
+dialogue,Joey,That he doesn't exist.
+dialogue,Phoebe,Right. (She turns and opens her eyes in shock.)
+heading,,"[Scene: Central Perk, Chandler, Monica, and Rachel are there.]"
+dialogue,Rachel,"So Chandler, have you heard about Monica's secret boyfriend?"
+dialogue,Chandler,"Uhh, yeah. She uh, she uh, she uh might've mentioned him."
+dialogue,Rachel,"So Mon, when are we gonna meet this new secret waiter man?"
+dialogue,Monica,"Ohh, he's really shy. I-I don’t think he's up to meeting everyone yet."
+dialogue,Chandler,"Yeah, I don't think he's up to meeting everyone yet."
+dialogue,Rachel,I don’t care! I wanna meet this guy who's the best sex she ever had!
+action,,(Chandler is quite pleased with that statement.)
+dialogue,Chandler,Really?! That's what you heard? (To Monica) You said that?
+dialogue,Monica,I might've said that. (Chandler laughs.) Why is that funny?
+dialogue,Chandler,"Because I'm very happy for him! (To Monica) And you , you lucky dog!"
+dialogue,Ross,(entering) Hi!
+dialogue,Monica,Hey!
+dialogue,Ross,"Well, Emily's willing to work on the relationship."
+dialogue,Chandler,Yes!
+dialogue,Monica,That's great!
+dialogue,Ross,In London!
+dialogue,Monica,What?!
+dialogue,Ross,She wants me to move to London.
+dialogue,Monica,But you live here! (Ross rolls his eyes.) You know that.
+dialogue,Rachel,What-what-what are you gonna do?
+dialogue,Ross,I bet if I talk to Carol and Susan I can convince them to move to London with Ben.
+dialogue,Monica,"Yeah, I'm sure your ex-wife will be more than happy to move to another country so you can patch things up with your new wife."
+dialogue,Ross,It could happen.
+heading,,"[Scene: Unitel Video, Studio 55, Joey's telethon, he is being shown around by the stage director.]"
+dialogue,Joey,(To the pledge volunteers) How ya doin'? Welcome. Good to see ya!
+dialogue,Stage Director,This will be your phone.
+dialogue,Joey,"That's great. But uh, I'm not really expecting a lot of calls."
+dialogue,Stage Director,No you answer it and take pledges.
+dialogue,Joey,But I'm the host!
+dialogue,Stage Director,"No, Gary Collins is the host. You'll be answering the phones."
+dialogue,Joey,"You don't seem to understand. See, I was Dr. Drake Remoray."
+dialogue,Stage Director,"Well, here's your phone doctor. (She walks away.)"
+heading,,"[Scene: Monica and Rachel's, Phoebe, Rachel, and Monica are there.]"
+dialogue,Phoebe,"I cannot believe I can't find a selfless good deed! Y'know that old guy that lives next to me? Well, I snuck over there and-and raked up all the leaves on his front stoop. But he caught me and force-fed me cider and cookies. Then I felt wonderful. That old jackass!"
+dialogue,Rachel,Maybe Joey's right. Maybe all good deeds are selfish.
+dialogue,Phoebe,I will find a selfless good deed! 'Cause I just gave birth to three children and I will not let them be raised in a world where Joey is right!
+dialogue,Chandler,"(entering) Hey, Monica? Can I ask you a cooking question?"
+dialogue,Monica,Sure!
+dialogue,Chandler,"If you're cooking on the stove, does that mean that your new secret boyfriend is better in bed than Richard?"
+dialogue,Rachel,Chandler! (Pause) Is he?
+dialogue,Monica,"Well, y'know I-I-I think I'm gonna respect the privacy of my new secret boyfriend."
+dialogue,Chandler,"Why?! I mean if this guy was me and it was me who had learned that it was me who was the best you'd ever had, I'd be going like this. (He jumps up onto the table and starts doing his happy dance.)"
+heading,,"[Scene: Ross's apartment, he's on the phone with Emily.]"
+dialogue,Ross,"All right Emily, as much as I love you, I'm sorry, I can't move to London without Ben."
+dialogue,Emily,I understand that would be difficult.
+dialogue,Ross,"Yeah, would you please consider moving here? I mean you were gonna move here anyway, why can't you just do that?"
+dialogue,Emily,"I don't know, it's just…"
+dialogue,Ross,"Oh-oh-okay, but-but I know, that even though I've been a-a complete idiot up 'til now, I mean, I mean you-you-you have to come here. You have to come here so we can work this out."
+dialogue,Emily,All right.
+dialogue,Ross,"All right, did you just say all right?"
+dialogue,Emily,I did. Now I'm the idiot.
+dialogue,Ross,"Oh, Emily that is, that is so great. It's gonna be so great! We're gonna be like-like-like two idiots in love!"
+action,,(She laughs.)
+dialogue,Emily,"Ross, there's one thing that really scares me still."
+dialogue,Ross,"Yes, tell me."
+dialogue,Emily,"Well, you have to understand how humiliating it was for me up on that altar in front of my entire family, all my friends."
+dialogue,Ross,"I know. I am, I am so sorry."
+dialogue,Emily,"And then after decided to forgive you, seeing you at the airport catching our plane with her."
+dialogue,Ross,"Again, very sorry."
+dialogue,Emily,"I mean, I can't-I can't be in the same room as her! It drives me mad just thinking of you being in the same room as her!"
+dialogue,Ross,"Emily, there is nothing between Rachel and me. Okay? I love you."
+dialogue,Emily,All right. I'll come to New York and we'll try and make this work.
+dialogue,Ross,Oh that is so great! That's…
+dialogue,Emily,(interrupting him) As long as you don't see Rachel anymore.
+action,,Commercial Break
+heading,,"[Scene: Monica and Rachel's, Ross is telling Phoebe, Monica, and Chandler about Emily's ultimatum.]"
+dialogue,Ross,"So I asked Emily if she would come to New York, and she said yes."
+dialogue,Chandler,Yes!
+dialogue,Phoebe,Ooh-ohh!
+dialogue,Monica,Great!
+dialogue,Ross,No-no-no! Only if I promise never to see Rachel again.
+dialogue,Phoebe,Why?
+dialogue,Monica,What?! You can't—what did you tell her?
+dialogue,Ross,"I told her I'd have to think about it. I mean, how the hell am I supposed to make this kind of a decision? (They're all quiet.) I'm actually asking you!"
+dialogue,Chandler,"Well, you can't just not see Rachel anymore, she's one of your best friends."
+dialogue,Monica,"Yeah! But, he can't not exactly see Emily, I mean that's his wife."
+dialogue,Phoebe,Yeah.
+dialogue,Chandler,That's true!
+dialogue,Phoebe,"Yeah, but you've known Rachel since High School and you cannot just cut her out of your life."
+dialogue,Chandler,That's true!
+dialogue,Monica,"No, you cannot."
+dialogue,Ross,"Thanks for the help, problem solved. (Wipes his hands.)"
+action,,(The phone rings.)
+dialogue,Monica,(answering it) Hello.
+dialogue,Joey,(on phone) Hey Mon!
+dialogue,Monica,"Oh hey Joey! We've been watching all day, when are you gonna be on TV?"
+dialogue,Joey,"See, there was kind of a mix up in my agent's office, but I'm still on TV and that's good exposure."
+dialogue,Monica,(Looking at the TV) You're not on TV.
+dialogue,Joey,"Oh, uh, okay, how, how about now? (He waves his hand in front of the woman next to him and you can now see his arm on TV.)"
+dialogue,Chandler,"Hey, there he is! There he is!"
+dialogue,Joey,Hello New York! (The woman bats his hand out of the way.)
+heading,,"[Scene: Chandler and Joey's, the chick and the duck are watching Emeril Live, a cooking show.]"
+dialogue,Emeril,"(on TV.) Now maybe you just like wanna but the whole duck in there! Who cares, y'know? Now I got the legs…"
+action,,"(Chandler enters and sees what they're watching, panics, and runs to turn off the TV.)"
+dialogue,Chandler,"How many times have I told you guys, you never watch the cooking channel!"
+dialogue,Monica,(entering) Hi Chandler.
+dialogue,Chandler,Hey!
+dialogue,Monica,"Uh, listen, I need that broiling pan that Joey borrowed the other day."
+dialogue,Chandler,"Oh that was yours? Uh, yeah, we used it when the duck was throwing up caterpillars."
+dialogue,Monica,"William Sonoma , fall catalog, Page 27."
+dialogue,Chandler,"Expect it in 4-6 weeks. (She starts to leave.) Umm, hey, umm, Joey's gonna be at the telethon for the rest of the day, we have the whole place to ourselves."
+dialogue,Monica,"Yeah, so?"
+dialogue,Chandler,"Well I just, thought maybe you'd wanna book some time with the best you'd ever had."
+dialogue,Monica,"Y'know what, champ? I think I'll pass."
+dialogue,Chandler,Why?
+dialogue,Monica,Why? (She hops into the living room and imitates Chandler's happy dance.)
+dialogue,Chandler,What's your point?
+heading,,"[Scene: The Telethon, Joey's phone rings and he answers it.]"
+dialogue,Joey,(in a bored voice) PBS telethon.
+dialogue,Phoebe,"(on phone from Central Perk) Hey Joey, I just wanted to let you know that I found a selfless good deed. I just went down to the park and I let a bee sting me."
+dialogue,Joey,What?! What good is that gonna do anybody?
+dialogue,Phoebe,"Well, it helps the bee look tough in front of his bee friends. The bee is happy and I am definitely not."
+dialogue,Joey,"Now, y'know the bee probably died after he stung ya."
+dialogue,Phoebe,"(Thinks for a moment.) Aw, dammit! (Slams the phone down.)"
+dialogue,Stage Director,Back on in 30 seconds people!
+action,,(Joey gets up and moves to the other end of his row to talk to the guy sitting there.)
+dialogue,Joey,"Hey, excuse me, would you mind switching with me?"
+dialogue,PBS Volunteer,"Hey, no way, I'm in the shot man."
+dialogue,Joey,Come on man! You've been here all day!
+dialogue,PBS Volunteer,"Yeah, I-I'm taking pledges here, eh?"
+dialogue,Stage Director,"We're on in 3, 2, (points to Gary Collins.)"
+dialogue,Gary Collins,"Welcome back to our fall telethon. Now if you've been enjoying the performance of Cirque Du Soleil , (As he is speaking, Joey and the volunteer getting into a shoving match.) and you'd like to see more of the same kind of programming, it's very simple. All you have to do (Joey is knocked down.) is call in your pledge and at that time tell the operator, one of our volunteers, what kind of programming you'd like to… (Just as the volunteer sits down, Joey pulls him to the ground.)"
+heading,,"[Scene: Monica and Rachel's, Monica and Phoebe are cooking, Chandler is reading a magazine.]"
+dialogue,Ross,"(entering) Okay, that's it. I cannot make this decision! It is too difficult, so I'm just gonna leave it entirely to the gods of fate. (He holds up and starts shaking a…)"
+dialogue,Monica,"A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!"
+dialogue,Phoebe,"Ooh, it's not a toy."
+dialogue,Ross,"Well, I don't know what else to do. I mean, I either keep my wife and lose one of my-my-my best friends or I keep my friend and get divorced the second time before I'm 30! So-so if anyone has-has a better suggestion, let's hear it! 'Cause I-I got nothing! All right, don't be shy, any suggestion will do. (There are none.) Okay then. Here we go. Magic 8 Ball, should I never see Rachel again? (He turns it over and reads the answer) Ask again later. Later is not good enough. (He shakes it up again and reads the answer.) Ask again later. What the hell! This is broken! It-it is broken!"
+dialogue,Monica,"All right, let me see. (She grabs the 8 ball.) Will Chandler have sex tonight? (Reads the answer.) Don't count on it. Seems like it works to me."
+heading,,"[Scene: The Telethon, Joey answers his ringing phone.]"
+dialogue,Joey,(in an unenthusiastic voice) PBS Telethon.
+dialogue,Phoebe,(on phone) Hi Joey.
+dialogue,Joey,Hey Pheebs!
+dialogue,Phoebe,I would like to make a pledge. I would like to donate $200.
+dialogue,Joey,"$200? Are you sure Pheebs? I mean, after what Sesame Street did to ya?"
+dialogue,Phoebe,"Oh, I'm still mad at them but I also now that they bring happiness to lots of kids who's moms didn't kill themselves, so by supporting them, I'm doing a good thing, but I'm not happy about it. So there, a selfless good deed."
+dialogue,Joey,And you don't a little good about donating the money?
+dialogue,Phoebe,"No, it sucks. I was saving up to buy a hamster."
+dialogue,Joey,"A hamster? What, those things are like 10 bucks."
+dialogue,Phoebe,"Yeah, not the one I had my eye on."
+dialogue,Gary Collins,"(on TV.) It looks like we have surpassed last year's pledge total! Thank you viewers! The pledge that did it was taken by one of our volunteers…(He walks over to where Joey is sitting.) Oh boy! And may I say one of our sharpest dressed volunteers, (Joey stands up.) Mr. Joseph Tribbiani!"
+dialogue,Phoebe,"Oh, look-look, Joey's on TV! Isn't that great? My pledge got Joey on TV! Oh that makes me feel—Oh no! (Realizes that her deed made her happy and therefore it's selfish and covers her mouth in horror.)"
+heading,,"[Scene: Monica and Rachel's, later that day. Monica is coming out of the bathroom carrying her cleaning gear.]"
+dialogue,Chandler,"(entering) Look, maybe I got carried away before. But there's something you gotta know. If I'm the best, it's only because you've made me the best."
+dialogue,Monica,Keep talking.
+dialogue,Chandler,"I mean I was nothing before you. Call the other girls and ask. Which wouldn't take long. But when I'm with you, and we're together, OH…MY…GOD."
+dialogue,Monica,Really?
+dialogue,Chandler,"Oh-aw my God! Now, I understand if you never want to sleep with me again, but that would be wrong. We're too good! We owe it, to sex!"
+dialogue,Monica,"Well, if we owe it? (She throws down her cleaning stuff and jumps into his arms.) Oh my… When is Joey gonna be home?"
+dialogue,Chandler,"Well, I was kinda hoping we could do this without him. (She starts to take off her latex gloves.) Oh no-no-no, leave the gloves on."
+dialogue,Monica,"But, I just cleaned the bathroom."
+dialogue,Chandler,"Yeah, why don't we lose the gloves."
+dialogue,Monica,Yeah. (She takes them off.)
+action,,(He carries her over to the door and opens it.)
+dialogue,Chandler,"All right, let's show them how it's done."
+dialogue,Monica,Okay.
+action,,(He starts to carry her into the hallway but hits her head on the door.)
+dialogue,Monica,Ow!
+dialogue,Chandler,Y'know that wasn't part of it?
+dialogue,Monica,I know!
+action,,(He carries her into the hall.)
+heading,,"[Scene: Ross's apartment, Ross is prying at the Magic 8 Ball with a screwdriver as there's a knock on his door which he goes to answer.]"
+dialogue,Rachel,(entering) Hi! Are you ready? We're gonna be late!
+dialogue,Ross,For what?
+dialogue,Rachel,For Stella! Remember? She's gettin' her grove back in like 20 minutes.
+dialogue,Ross,"Yeah, I uh, totally forgot about that. You mind if I take a rain check? I'm waiting for a call from Emily."
+dialogue,Rachel,"Sure. I guess. Hey, I hear you don't have to go to London. Yay!"
+dialogue,Ross,"It's not that easy, there's still a lot of relationship stuff."
+dialogue,Rachel,Like what?
+dialogue,Ross,Just stuff. Y'know kinda what Emily wants.
+dialogue,Rachel,"Well, why don't you talk to me about it, maybe I can help."
+dialogue,Ross,"No. No. You-you can't help. I mean, I kinda have to do this without your help."
+dialogue,Rachel,"Well, I-I know you can do that too. I'm just, I'm just saying if you need somebody to talk to… Hi!"
+dialogue,Ross,Thanks.
+dialogue,Rachel,"Ross? Look, whatever this relationship stuff that Emily wants, just give it to her. Come on, the bottom line here is that you love her. So just fix whatever she wants fixed. Just do it. (The phone starts ringing.) I mean, you're gonna have to try. You'll just gonna hate yourself if you don't. (The phone keeps ringing.) Oh come on answer it! It's driving me crazy!"
+dialogue,Ross,"(answering the phone.) Hello. (Listens) Hi sweetie. (Listens.) Good. Look umm, yes I've been thinking about that thing that you wanted me to do and, I can do it. (Rachel gives him a thumbs up.) So will you come to New York? (Rachel wants to know what she said, and he gives her a thumbs up and she goes over and hugs him. All the time not knowing what's going on.)"
+action,,Ending Credits
+heading,,"[Scene: Central Perk, ??????? is playing, as Chandler peaks his head out of the storage closet and sneaks back to his seat and pretends he's reading something. Then a short while later Monica pokes her head out of the closet and sneaks back to her seat and sits down, pretending as if nothing has happened.]"
+dialogue,Monica,Never done that before.
+dialogue,Chandler,Nope.
+action,,End

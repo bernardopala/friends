@@ -1,0 +1,305 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's, Monica and Chandler are sitting on one of the chairs doing a crossword puzzle.]"
+dialogue,Joey,Hey!
+dialogue,Chandler,Hey!
+dialogue,Monica,Hey!
+dialogue,Joey,What are you guys doing up?
+dialogue,Chandler,"Oh, we wanted to finish the crossword before we went to bed. Hey, do you know a six-letter word for red?"
+dialogue,Joey,(thinks) Dark red.
+dialogue,Chandler,"Yeah, I think that's wrong, but there's a Connect the Dots in here for you later. (To Monica) Hey, how about maroon?"
+dialogue,Monica,"(checks to see if it works) Yes, you are so smart! (Kisses him.)"
+dialogue,Joey,"Aww, you guys are so cute!"
+dialogue,Monica,I know.
+dialogue,Joey,"All right, I'll see you in the morning."
+dialogue,Chandler and Monica,Okay.
+heading,,"[Scene: Joey's bedroom, time lapse. He's asleep and dreaming. In his dream he's doing the crossword puzzle with…wait for it…Monica!]"
+dialogue,Dream Monica,"Y'know, I love doing crossword puzzles with you honey!"
+dialogue,Dream Joey,"Aww, me too. Now let's finish this and go to bed."
+dialogue,Dream Monica,"Okay! There's only one left, three letter word, not dog but…"
+dialogue,Dream Joey,Cat.
+dialogue,Dream Monica,Yes! You are so smart! (Kisses him.) I love you.
+dialogue,Dream Joey,I love you too.
+action,,(They hug.)
+action,,"[Cut back to Joey in bed, he's smiling, enjoying the dream as he wakes up. Suddenly, he realized what he was dreaming about and bolts upright in bed.]"
+action,,Opening Credits
+heading,,"[Scene: Central Perk, everyone is there but Ross and Joey. Gunther hands them the bill, and Chandler gives some money to pay it.]"
+dialogue,Rachel,"(looking at the bill) Uhh, we still need a tip."
+dialogue,Phoebe,All right. Hold on. (She starts digging in the chair.) I got it. Nickel! (Donates it.) How much more do we need?
+dialogue,Rachel,A couple of bucks.
+dialogue,Phoebe,"Okay, dime! (Donates that.) You guys should probably keep talking; this could take a while. (Finds something else.) Oh no, wait! Look it! Whoa! (Looks at it.) Oh my God, this is a police badge!"
+dialogue,Monica,Wow!
+dialogue,Chandler,"Oh that's so cool! Why would a cop come in here though? They don't serve donuts. (No one laughs.) Y'know what actually, could you discover the badge again? I think I can come up with something better than that."
+dialogue,Rachel,"Phoebe, I bet somebody's missing that badge."
+dialogue,Phoebe,"Yeah, I should probably take it back. Ooh, but you know what? While I'm at the police station, I could check their Ten Most Wanted lists because my friend Fritzy has been like number 11 forever, so this could be her year! (She crosses her fingers in hope.)"
+dialogue,Joey,"(entering) Hey, you guys!"
+dialogue,Chandler,Hey!
+dialogue,Rachel,Hey Joey!
+dialogue,Monica,Hey.
+dialogue,Joey,"(To Monica) Hey. That uh, that my sweatshirt?"
+dialogue,Monica,"Oh yes, it is. I'm sorry I borrowed it, I was cold. I hope its okay?"
+dialogue,Joey,"Well uh, it's just that uh, y'know if-if you're gonna be wearing someone's sweatshirt shouldn't it be your boyfriends--and I’m not him."
+dialogue,Monica,"I'm sorry, I'll give it back to you."
+dialogue,Joey,No-no! No! I mean it's gonna be all smelling like Monica!
+dialogue,Monica,Are you saying I smell bad?
+dialogue,Joey,"No! No, you smell like a meadow. (Pause.) I'm sorry. (Runs to the bathroom.)"
+dialogue,Monica,What's with him?
+dialogue,Chandler,"Oh, y'know what? The last time Joey went to a meadow, his mother was shot by a hunter."
+heading,,"[Scene: A couch store, Ross is trying to decide on a new couch for his place. He has dragged Rachel along for the trip, and she's not too happy about it. Ross is sitting on it in different ways to see how it feels. He tries to just sit on it normally, and then he tries flopping on it. One thing about this couch, it's huge. It's like twice the size of a normal full size couch. Whoever designed this thing, needs help and fast.]"
+dialogue,Rachel,(disgusted at Ross's antics) Ugh!
+dialogue,Ross,"(To Rachel) Yeah, I still don't know. (To the salesman who is hovering nearby) I'm sorry I just wanna make sure that I bought the right couch. I need a couch that says, ""Kids welcome here."" But that also says, (In a sexy voice) ""Come here to me!"""
+dialogue,Rachel,What?! You say that to kids?!!
+dialogue,Ross,"No! No! No! The ""Come here to me"" is y'know for the ladies."
+dialogue,Rachel,"Ross, honey, it's a nice couch. It's not a magic couch."
+dialogue,The Salesman,You picked a great couch.
+dialogue,Ross,Yeah?
+dialogue,The Salesman,Yeah. Could you just sign right here please? (Hands him a clipboard.)
+dialogue,Ross,"Oh, sure. Whoa-whoa, what's this? The delivery charge is almost as much as the couch!"
+dialogue,Rachel,"Wait! No, that's ridiculous. Come on, he lives three blocks away!"
+dialogue,Ross,"Yeah, y'know what? I'll take it myself, thank you! (He signs the form and hands it back to the salesman.) All right Rach, let's go! (He picks up one end of the couch.)"
+dialogue,Rachel,Yeah! (She puts on her coat and turns around and sees Ross is expecting her to help.) (Laughing.) Are you kiddin'?
+dialogue,Ross,"Oh, come on it's only three blocks! And-and, it's not very heavy, try it! Come on! Come on!"
+dialogue,Rachel,"(Disgustedly she goes and tries to pick up the couch. Much to her amazement, she is successful.) Oh. Oh! I can do it!"
+dialogue,Ross,Yeah!
+dialogue,The Salesman,You two are really gonna enjoy that couch.
+dialogue,Ross,"Oh yeah, we're uh, yeah we're not together. (He starts backing out of the store.)"
+dialogue,The Salesman,"Ohh, okay. (Laughs.) Something didn't quite add up there. (Ross stops, walks back to talk to the salesman, and in the process pushes Rachel up against a wall.)"
+dialogue,Rachel,Ross!
+dialogue,Ross,What's that supposed to mean?
+dialogue,Rachel,Ross!
+dialogue,The Salesman,"Well you, her, I mean, she's very…y'know. And you're like…y'know."
+dialogue,Ross,"Not that it's any of your business, but we did go out."
+dialogue,The Salesman,Really? You two?
+dialogue,Ross,Yeah! Rach?
+dialogue,Rachel,"Come on, I don't really want to be doing this right now. I am carrying a very heavy couch."
+dialogue,Ross,Then tell him quickly.
+dialogue,Rachel,(To Ross) Fine! (To the salesman) We went out.
+dialogue,Ross,"Not only did we go out, we did it 298 times!"
+dialogue,Rachel,Ross!! Oh my--ugh!! You kept count?! You are such a loser!
+dialogue,Ross,A loser you did it with (To the salesman) 298 times!
+action,,(Rachel pushes on the couch and pushes Ross out the door.)
+heading,,"[Scene: Outside of Central Perk, Phoebe is exiting and sees a woman put out her cigarette on a tree.]"
+dialogue,Phoebe,"Oh. Oh! Ma'am? Excuse me, ma'am?"
+dialogue,The Smoking Woman,Yes?
+dialogue,Phoebe,You can't put your cigarette out on a tree!
+dialogue,The Smoking Woman,"Yeah I can, it worked real well."
+dialogue,Phoebe,No but you shouldn't! Don't ever do that again.
+dialogue,The Smoking Woman,I won't! (Turns away) Until I have my next cigarette.
+dialogue,Phoebe,Hold it! (Grabs the badge) N.Y.P.D! Freeze punk!
+dialogue,The Smoking Woman,What?!
+dialogue,Phoebe,Yeah that's right you are so busted. (To no one in particular.) Book 'em.
+dialogue,The Smoking Woman,Who are you talking too?
+dialogue,Phoebe,"Save it Red! Unless you wanna spend the night in the slammer, you apologize to the tree."
+dialogue,The Smoking Woman,I am not going to apologize to a tree!
+dialogue,Phoebe,You apologize to the tree right now or I am calling for backup. (The woman calls her bluff.) (Screaming at no one in particular) Backup! Backup!!
+dialogue,The Smoking Woman,I-I'm sorry! Sorry.
+dialogue,Phoebe,"Okay, cancel backup! Cancel backup!"
+heading,,"[Scene: Ross's building's lobby, he and Rachel are about to attempt to take the couch upstairs.]"
+dialogue,Ross,Okay. (Throws off the last cushion.)
+dialogue,Rachel,"Ross, didn't you say that there was an elevator in here?"
+dialogue,Ross,"Uhh, yes I did but there isn't. Okay, here we go."
+action,,"(They start the attempt. Ross is going backwards and reaches the first landing. This staircase has three steps then a landing, makes a 90-degree turn, and has more steps before another landing and another 90-degree turn.)"
+dialogue,Ross,"Okay, go left. Left! Left! (The bottom of the couch is hitting the railing.)"
+dialogue,Rachel,"Okay, y'know what? There is no more left, left!"
+dialogue,Ross,"Oh okay, lift it straight up over your head! Straight up over your head! You can do it! You can do it! (She gets it lifted up and they make the first turn.) Okay. You got it?"
+dialogue,Rachel,Yeah.
+dialogue,Ross,Good-good-good.
+dialogue,Rachel,Oh-oh!
+action,,(She can't stay at the end as the couch rounds the turn so she shifts to the back corner of the couch and is at a 90-degree angle to it.)
+dialogue,Ross,"Yeah, you got it right? You got it right? You got it?"
+action,,(She don't got it as the couch slips out of their grips and falls over the bottom railing.)
+dialogue,Rachel,Any chance you think the couch looks good there?
+heading,,"[Scene: Chandler and Joey's, Phoebe is telling Chandler and Monica how she fought crime in her own way with the badge she found.]"
+dialogue,Phoebe,"…so this guy was all (Mumbles.) And I'm all, Buffay, Homicide. (Flashes the badge.) It was just so cool!"
+dialogue,Monica,"(cooking something) Phoebe, you were supposed to take that back!"
+dialogue,Phoebe,I know but I'm having so much fun doing good deeds.
+dialogue,Chandler,"Okay, but impersonating a police officer is a serious thing. You could get arrested."
+dialogue,Phoebe,"You could get arrested, right now! (Flashes the badge and they glare at her.) All right, yeah, I gotta take it back. I'm totally drunk with power. (She heads for the door just as Joey enters.)"
+dialogue,Phoebe,(To Joey) Hey.
+dialogue,Joey,(To Phoebe) Hey! (Sees that Monica's there.) Oh.
+dialogue,Chandler,"Hi, Joe."
+dialogue,Joey,"Yeah, I didn’t know you guys were going to be here."
+dialogue,Monica,"Hey Joey, sweetie, taste this. (Holds out a spoon for him.)"
+dialogue,Joey,(backing away) What?! Why?!
+dialogue,Monica,What is going on with you?
+dialogue,Joey,Nothing!
+dialogue,Chandler,"Oh, come on! You've been acting strange all day!"
+dialogue,Joey,"All right! There is something. I kinda had a dream, (pause) but I don't want to talk about it. (Starts for his room.)"
+dialogue,Chandler,Whoa-whoa-whoa-whoa-whoa-what-what if Martin Luther King had said that? (Imitating what his famous speech would sound like.) I kinda have a dream! I don’t want to talk about it.
+dialogue,Joey,"Well, it involved Monica."
+dialogue,Chandler,"You had a dream about a girl that I am seeing?! Oh, that is so cool! (To Monica) I can't tell you how many times I've dreamt about a girl that he was seeing. (Seeing Monica's stare.) (To Joey) Anyway we're talking about your dream. (To Monica) I love you. (To Joey) Your dream? (Leans in to listen closely.)"
+dialogue,Joey,"Don't worry, there wasn't any sex in it or anything. I haven't dreamt about her like that since I found out about you two--ish."
+dialogue,Monica,What was the dream about?
+dialogue,Joey,"Well, okay. You were my girlfriend and we were doing the crossword puzzle. Y'know like you guys were doing last night. So, that's it. I'm in love with Monica and I'll be moving out."
+dialogue,Monica,"Wait, Joey! Joey! That doesn’t mean that-that you're in love with me!"
+dialogue,Joey,It-it doesn’t?
+dialogue,Monica,No!
+dialogue,Chandler,"No, it can mean anything. Like uh, all of the sudden you're jealous because I've become the apartment stud."
+dialogue,Joey,That kinda sounds like your dream dude.
+dialogue,Monica,"Or, it could mean that-that you saw Chandler and me together and we y'know were being close and stuff and then you just want to have that with someone too."
+dialogue,Joey,In the dream I did enjoy the closeness.
+dialogue,Monica,Um-hmm.
+dialogue,Chandler,"Joey, look, are you attracted to Monica? Right here, right now, are you attracted to her?"
+dialogue,Joey,(looks at her) Not really.
+dialogue,Chandler,Well there you have it!
+dialogue,Monica,"Well sure! I'm just wearing sweats! (Looking at Chandler and slowly realizing what his point is.) But that's good that you're not in love with me, because you just want a girlfriend!"
+dialogue,Joey,"No, I don't think it's just about just getting a girlfriend. Y'know? I mean, yeah, I can get a girlfriend! Yeah, we could sit in the chair and do crosswords, but y'know are we ever going to have y'know the closeness like-like you guys have?"
+dialogue,Chandler,"Well y'know, Monica and I were friends before we started dating. So maybe-maybe that's it?"
+dialogue,Joey,Friends first? That's interesting.
+dialogue,Monica,You become friends after?
+dialogue,Joey,"No, never done that either."
+dialogue,Rachel,"(entering) Hey, umm, do you guys have that tape measure?"
+dialogue,Chandler,"Oh yeah, it's actually in my bedroom."
+action,,(Monica and Chandler both remember a special moment between them.)
+dialogue,Monica,(laughing) That's right.
+action,,"(They realize the implication of their behavior, stop instantly and head for his bedroom. In the meanwhile, Joey is starring at Rachel in a seductive way.)"
+dialogue,Rachel,(noticing him) What's up Joey?
+dialogue,Joey,(in a sexy voice) How you doin'?
+action,,(Rachel is stunned.)
+action,,Commercial Break
+heading,,"[Scene: Outside Central Perk, Phoebe is walking up and notices a car that is parked half on the curb and right in front of the door, making it difficult for people to enter Central Perk.]"
+dialogue,Phoebe,"Excuse me, is this your car?"
+dialogue,Guy,Yeah.
+dialogue,Phoebe,"Well I don't think it's very nice of you to park here, y'know you're blocking the entrance."
+dialogue,Guy,Don't worry about it. It's not a problem.
+dialogue,Phoebe,"Well, it's a problem for me, which means it's a problem for you 'cause I'm a cop. (Shows the badge.)"
+dialogue,Guy,(he reaches into the car and slams his siren on the roof.) So am I!
+dialogue,Phoebe,"Ohh, no. (Pause) Oh okay, so you're a cop which means you can park anywhere, 'cause I know that 'cause I'm a cop too. So, all right, keep up the good work. 10-4. (Tries to leave.)"
+dialogue,Cop,"(stopping her) Hey, wait a second! So wait, what precinct are you with?"
+dialogue,Phoebe,"I-I'm with the umm, the 57 th ."
+dialogue,Cop,"Oh, I know a guy in homicide up there."
+dialogue,Phoebe,"I'm in vice. Yeah, in fact I'm undercover right now. I'm a whore."
+dialogue,Cop,Who-who else is in vice up there?
+dialogue,Phoebe,"Umm, do you know, umm Sipowicz?"
+dialogue,Cop,"Sipowicz? No, I don't think so."
+dialogue,Phoebe,"Yeah, big guy, kinda bald."
+dialogue,Cop,"No, I don't know him."
+dialogue,Phoebe,"(starts to walk away, but stops) Don’t try to call him or anything, 'cause he's not there, he's out. His umm, his partner just died."
+dialogue,Cop,"Wow umm, tell Sipowicz I'm real sorry for his loss."
+dialogue,Phoebe,"I-I sure will, take care. (Starts walking off.)"
+dialogue,Cop,"(following her) Hey by the way, I'm sure Sipowicz is gonna be all right. I heard that kid from Silver Spoons is really good. (Phoebe's stunned) And where did you find my badge?"
+dialogue,Phoebe,Oh. (She starts laughing. Then she throws the badge at him and runs away.)
+heading,,"[Scene: Monica and Rachel's, Joey is entering. Rachel is there getting some tools to help Ross out.]"
+dialogue,Rachel,"Hey! Joey, would you mind giving me and Ross a hand moving his couch?"
+dialogue,Joey,"Oh, I'd love too, but I got acting class. But y'know what? I guess I can blow that off, (In a sexy voice) for you."
+action,,(He starts staring at her longingly.)
+dialogue,Rachel,Thanks!
+dialogue,Joey,"Uh, hey, Rach let me ask you something. Uh, I was just over there talking to Monica and Chandler, boy they are really tight."
+dialogue,Rachel,I know.
+dialogue,Joey,Yeah that's not such a bad situation they got going over there. I'm thinking of getting me one of those.
+dialogue,Rachel,What's up Joe?
+dialogue,Joey,"Well, the reason I think Monica and Chandler are so great…"
+dialogue,Rachel,Yeah?
+dialogue,Joey,"…is because they were friends first. Y'know? So I asked myself, ""Who are my friends?"" You and Phoebe, and I saw you first. So…"
+dialogue,Rachel,(laughing) What are you saying?
+dialogue,Joey,I'm saying maybe you and I crank it up a notch.
+dialogue,Rachel,"Y'know honey, umm, as uh, as flattered as I am that uh, you saw me first, uhh, I just, I-I don't think we should be cranking anything up."
+dialogue,Joey,I'll treat you real nice. (Pulls out a chair for her.)
+dialogue,Rachel,"(laughs and pushes the chair back in) Yeah, well, y'know umm… No honey, listen I think it's a great idea to become friends with someone before you date them, but I think the way you do it is y'know you meet someone, become their friend, build a foundation, then you ask them out on a date. Don't hit on your existing friends!"
+dialogue,Joey,Won't-won't that take longer?
+dialogue,Rachel,"Yeah. Yeah. Oh, but once you find it, ohh it's so worth the wait."
+dialogue,Joey,"Yeah. I understand. I understand. (Pause) Man , I wish I saw Phoebe first!"
+heading,,"[Scene: The lobby of Ross's building, he's sitting on the couch at the bottom of the stairs, and he's practicing enticing women to join him on the couch.]"
+dialogue,Ross,"Come here to me. No-no, you come here to me."
+dialogue,Rachel,(entering) Hey Ross! I brought reinforcements.
+dialogue,Ross,"Oh great! What, you brought Joey?"
+dialogue,Rachel,"Well, I brought the next best thing."
+dialogue,Chandler,(entering) Hey!
+dialogue,Ross,Chandler?! You brought Chandler?! The next best thing would be Monica!
+dialogue,Chandler,"Y'know, I would be offended, but Monica is freakishly strong, so…"
+dialogue,Ross,"Look, I-I drew a sketch about how we're gonna do it. (Showing them) Okay Rach, (points to the sketch) that's you. That's the couch. (Points again.)"
+dialogue,Rachel,"Whoa-oh, what's-what's that? (Points.)"
+dialogue,Ross,"Oh, that's me."
+dialogue,Rachel,Wow! You certainly think a lot of yourself.
+dialogue,Ross,No! That's-that's my arm!
+dialogue,Chandler,"(looking at the sketch) Oh, I see. I thought you just really, really liked your new couch."
+dialogue,Ross,Y'know what? Just-just follow my lead.
+action,,(Chandler and Ross head for opposite ends of the couch.)
+dialogue,Rachel,Okay!
+dialogue,Chandler,Okay.
+dialogue,Ross,"Come on, Chandler."
+action,,(They pick up the couch and after throwing off the last pillow; Rachel helps out on Chandler's end.)
+dialogue,Ross,"All right. (They start up the stairs. Ross is first.) Okay, here we go!"
+action,,(Chandler has moved forward and is now underneath the couch as it heads up the first set of stairs.)
+dialogue,Ross,"All right, ready?"
+dialogue,Chandler,Yeah.
+dialogue,Ross,Turn.
+dialogue,Chandler,(straining) Okay.
+dialogue,Ross,Turn! Turn!
+action,,"(As they turn the couch, Chandler gets sandwiched between the railing and the couch.)"
+dialogue,Chandler,"Okay, I don't think we can turn anymore!"
+dialogue,Rachel,"Ross, I don't, I just don't think it's going to fit."
+dialogue,Ross,"Oh yeah it will! Come on, up! Up-up-up! Up! Yes! Here we go! Pivot! (They start up the stairs again. Chandler is between the couch and the wall now.) Pivot! Piv-ot! Piv-et!! Piv-ett!!! Piv-et!"
+dialogue,Chandler,Shut up! Shut up! Shut up!!
+action,,(They set the couch down.)
+dialogue,Ross,"Okay, I don't think it's going to pivot anymore."
+action,,Chandler and Rachel:
+dialogue,Ross,"All right, let's uh, let's bring it back down and-and try again."
+action,,(As they start back down the couch drops a little bit and gets jammed. They try to free it to no avail.)
+dialogue,Chandler,"Okay, yeah, I think it's really stuck now."
+dialogue,Ross,I can't believe that didn't work!
+dialogue,Rachel,"I know, me neither! I mean, you had a sketch!"
+dialogue,Chandler,"Oh, y'know, what did you mean when you said pivot?"
+heading,,"[Scene: Chandler and Joey's, Joey is returning and finds Chandler, Monica, and Rachel are there.]"
+dialogue,Joey,(entering) Hey!
+dialogue,Rachel,Hey! How's it going? Did you make any new friends?
+dialogue,Joey,"Yeah, yeah, I met this woman. (Starts for his room.)"
+dialogue,Chandler,"(stopping him) Hey, whoa-whoa! What's she like?"
+dialogue,Joey,"Uhh, well, she's…really good in bed."
+dialogue,Monica,"Joey, I thought you were gonna try to be friends first!"
+dialogue,Joey,"(To Rachel) Well look, hey, it's all your fault!"
+dialogue,Rachel,What?! Why?!
+dialogue,Joey,"Well because you didn't give me advice! No! You gave me a pickup line! As soon as I told her I wanted to y'know, build a foundation and be friends first. I suddenly, through no fault of my own, became irresistible to her! (Pause) And her roommate!"
+dialogue,Monica,What about the closeness?
+dialogue,Joey,Closeness-shmoshness! There was three of us for crying out loud!
+heading,,"[Scene: Monica and Rachel's, Joey is entering with a pizza and finds everyone but Ross there.]"
+dialogue,Joey,"(entering) All right! Hey, who wants pizza?!"
+dialogue,Chandler,"Ooh, I do! I do! I do!"
+action,,(They all walk over to get a slice.)
+dialogue,Joey,"(taking a bite) Oh, great! Can you believe I found it on the second floor?"
+action,,(They all throw their pieces back as there is a knock on the door.)
+dialogue,Monica,Who is it?
+action,,Voice:
+action,,Phoebe and Joey:
+dialogue,Joey,"Uhh, just a minute officer!!"
+action,,"(He throws his piece back in the box, runs into the living room, looks for a place to hide the pizza, finds one, slides the box under the couch, sits down on the table, and tries to quickly chew the food in his mouth.)"
+action,,Cop:
+dialogue,Phoebe,"Ooh, God, it's him! It's that cop! God, I can't believe it! He found me!"
+dialogue,Rachel,"Oh my God, Phoebe, are you gonna go to jail?!"
+dialogue,Phoebe,"Well, if I'm going down, I'm taking you (Points at all of them) with me. (They all look at her.) Harboring a fugitive? That's one to three years minimum. Good luck Chandler. (She opens the door to the cop from before.) Okay, you can arrest me. Fine. But you'll never make it stick and you know it!"
+dialogue,Cop,"Yeah, but I kinda don't have a choice, it's my job. I mean, you understand right?"
+dialogue,Phoebe,Yep! As long as you understand that I'm going to call my lawyer and once he puts you on the stand he'll make you look like a fool. A fool!
+dialogue,Cop,"I don't like looking foolish. Y'know what? Maybe uh, I don't arrest you today. Maybe I came by and you weren't here."
+dialogue,Phoebe,I would love it if I weren't here!
+dialogue,Cop,"Okay, so since umm, you're not going to jail tonight I was wondering if you would like to go to dinner with me?"
+dialogue,Phoebe,Me?!
+dialogue,Cop,"Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen."
+action,,Chandler and Joey:
+dialogue,Phoebe,Wow! I didn't see that coming! You're-you're asking me out!
+dialogue,Cop,"Yeah. I mean, I coulda done it better, but these people keep staring at me."
+dialogue,Phoebe,"Umm, yeah, I'd like to go out with you officer…"
+dialogue,Cop,Gary.
+dialogue,Phoebe,Gary.
+dialogue,Gary,"Okay, so it's a date."
+dialogue,Phoebe,"Yeah! So--ooh, I gotta ask you though. How did you know where to find me?"
+dialogue,Gary,Well you're fingerprints were all over my badge so I just ran it through the computer and this was listed as your last known address so I just checked it out.
+dialogue,Phoebe,"Ohh, impressive."
+dialogue,Gary,"Not as impressive as you. I gotta tell you, I looked at your record and you've done some pretty weird stuff."
+dialogue,Phoebe,"Yeah, we'll talk at dinner."
+dialogue,Gary,Okay. (He starts to leave.) So I'll come by in a couple hours and pick you up?
+dialogue,Phoebe,"All right, I can't wait!"
+dialogue,Gary,"Okay. And don't worry, I'm not just gonna take you out for donuts."
+action,,(Chandler busts out laughing and everyone just looks at him.)
+dialogue,Chandler,(To Rachel) He has a gun!
+action,,Closing Credits
+heading,,"[Scene: The couch store, Ross is talking to a saleswoman.]"
+dialogue,Ross,I'd like to return this couch. I'm not satisfied with it.
+action,,"[The camera cuts to show the couch, which has been cut in half.]"
+dialogue,The Saleswoman,You wanna return this couch? (Ross nods yes.) It's cut in half!
+dialogue,Ross,That's what I'm telling you.
+dialogue,The Saleswoman,Did you cut this couch in half?
+dialogue,Ross,"This couch, is cut in half ! I would like to exchange it for one that is not cut in half!"
+dialogue,The Saleswoman,You're telling me this couch was delivered to you like this?!
+dialogue,Ross,"Look, I am a reasonable man. I will accept store credit."
+dialogue,The Saleswoman,I'll give you store credit in the amount of four dollars.
+dialogue,Ross,(thinks) I take it.
+action,,End
