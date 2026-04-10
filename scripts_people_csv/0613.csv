@@ -1,0 +1,287 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Joey is giving Rachel, Chandler, Phoebe, and Ross their bills.]"
+dialogue,Joey,"Okay Rach, that muffin and espresso, $4.50. Ross, double latte, $2.75. Chandler, coffee and a scone, $4.25. And Pheebs, herbal tea, $1.25. So, all together that’s (pauses to figure the total) $12.75."
+dialogue,Chandler,This coming from the man who couldn’t split our 80 dollar phone bill in half.
+action,,(A good-looking woman approaches.)
+dialogue,Woman,Hi!
+dialogue,Joey,Hi!
+dialogue,Woman,How much do I owe you for the muffin and the latte?
+dialogue,Joey,Oh that’s on the house courtesy of Joey Tribbiani.
+dialogue,Woman,"Oh great! Well, tell him thanks. And since uh, Joey seems like such a nice guy, maybe we could go on a date sometime?"
+dialogue,Joey,"Well, he’s not used to women being so forward with him; but uh, I good check with him—He says it’s okay. (She hands him her card.) Great! Thanks! Bye-bye!"
+dialogue,Ross,"Hey Joey, how come our stuff isn’t free?"
+dialogue,Joey,It will be when you look like that in a tight skirt! This is great! I’m getting more dates than ever!
+dialogue,Rachel,"Wait a minute, you’re only giving free stuff away to the pretty girls?"
+dialogue,Phoebe,Yeah Joey that is so gross!
+dialogue,Joey,How about a scone on the house baby?
+dialogue,Phoebe,(giggles) I’m pretty.
+action,,Opening Credits
+heading,,"[Scene: Monica and Chandler's, everyone but Monica is there playing Monopoly .]"
+dialogue,Ross,Hey does anyone have any gum?
+dialogue,Phoebe,"Oh I do! (She grabs her huge purse and starts rummaging through it and taking out various items in a futile search for the gum.) Oh, y’know what? No. (Pause) Wait a second. (She removes a bag filled with water that has a goldfish swimming in it.) I know it’s in here somewhere."
+dialogue,Ross,Y’know what? I’m good! I’m good!
+dialogue,Monica,(entering) Hey!
+dialogue,Ross,Hey!
+dialogue,Chandler,"Hey, what are you doing here? Shouldn’t you be at work?"
+dialogue,Monica,"(congested) Ugh, they sent me home. They said I can’t work if I’m sick."
+dialogue,All,Ohh!
+dialogue,Chandler,I’m so sorry you’re sick.
+dialogue,Monica,I’m not sick!! I don’t get sick! Getting sick is for weaklings and for pansies!
+dialogue,Rachel,"Honey, no one thinks you’re a pansy, but we do think you need a tissue. (She notices something hanging from Monica’s nose, as does Joey.)"
+dialogue,Monica,(wiping her nose) I have not been sick in over three years! (Sneezes.)
+dialogue,Chandler,I’m gonna grab you some tissue.
+dialogue,Monica,I don’t need a tissue! I’m fine-d!
+dialogue,Ross,When you put a ‘D’ at the end of ‘Fine’ you’re not fine.
+dialogue,Monica,"I’m fine-d. I’m fine-d! Y’know, it’s a really hard word to say."
+action,,(There’s a knock on the door. The gang is stunned and Phoebe counts to make sure that everyone is there. Out of curiosity Chandler goes and answers the door.)
+dialogue,Chandler,Yes?
+action,,(A woman enters.)
+dialogue,Woman,"Hi, is Rachel here? I’m her sister."
+dialogue,Rachel,"Oh my God, Jill!"
+dialogue,Jill,"Oh my God, Rachel!"
+action,,(They run and hug each other.)
+dialogue,Chandler,"Oh my God, introduce us!"
+dialogue,Rachel,This is Chandler. (Points at him.)
+dialogue,Jill,Hi!
+dialogue,Rachel,And you know Monica and Ross!
+dialogue,Ross,Hi Jill.
+dialogue,Rachel,"And that’s Phoebe (points), and that’s Joey."
+dialogue,Joey,"Hey, (in the Joey voice) how you doin’?"
+dialogue,Rachel,"Don’t!! (Joey backs away frightened.) (To Jill) Honey, what are you doing here?!"
+dialogue,Phoebe,(To Ross) Which-which sister is this? Is this the spoiled one or that’s bitter?
+dialogue,Jill,(To Rachel) Daddy cut me off.
+dialogue,Phoebe,"Never mind, I got it."
+dialogue,Jill,"And y’know what I said to him? ""I’m gonna hire a lawyer and I’m gonna sue you and take all your money. Then I’m gonna cut you off!"""
+dialogue,Rachel,Wow! What did he say?
+dialogue,Jill,That he wouldn’t pay for my lawyer! Then he told me to come here and learn about the value of money from the one daughter he’s actually proud off.
+dialogue,Rachel,Oh! Did you hear that?! My dad’s proud of me! My dad’s proud of me.
+dialogue,Monica,Rach? (Points to Jill.)
+dialogue,Rachel,"Oh yeah, sorry. Wait honey, so what did you do that made dad cut you off?"
+dialogue,Jill,"Okay, I bought a boat."
+dialogue,Monica,You bought a boat?
+dialogue,Jill,"Yeah but it wasn’t for me, it was for a friend."
+dialogue,Chandler,Boy did we make friends with the wrong sister! (Rachel glares at him.)
+dialogue,Rachel,"Jill, honey, I think this is the best thing that could’ve ever happened to you. I mean you needed to get out on your own anyway! And you know when I did it, I-I-I at first I was scared, and look at me now! I’m the only daughter dad is proud of! Okay, well this is, this is what you’re gonna do. You’re gonna get a job, you’re gonna get an apartment, and then I’ll help you and you can stay with us. Right Pheebs, she can stay with us?"
+dialogue,Phoebe,"Of course, yeah!"
+dialogue,Jill,"Oh, that’s so great! Okay, I’m really gonna do this! I don’t know how to thank you guys."
+dialogue,Phoebe,"Ooh, I like cards."
+heading,,"[Scene: Central Perk, Joey is working as Phoebe and Ross are sitting on the couch.]"
+dialogue,Joey,(to a customer) Are you all finished here?
+dialogue,Customer,Yes.
+dialogue,Joey,Great! (Joey takes his cookie and finishes it.)
+dialogue,Gunther,"Okay, here are the tips for this morning. Jen gets 50, 50 for me, and Joey owes eight dollars."
+dialogue,Joey,What?!
+dialogue,Gunther,For all the free food you gave away.
+dialogue,Joey,"Well if it’s free food, how come you’re charging me for it?"
+dialogue,Gunther,We don’t give anything away unless it’s someone’s birthday.
+dialogue,Joey,"Well, what if they came in third in a modeling contest?"
+dialogue,Gunther,No!
+dialogue,Joey,(to a woman who came in third in a modeling contest) Sorry! (He grabs her muffin away and returns it to the serving tray.)
+dialogue,Jill,"(entering, carrying a bunch of shopping bags) I just had the hardest day. Those bags are so heavy. (Sets them down.)"
+dialogue,Ross,"Jill, how did you pay for all this? I thought your dad took away your credit card."
+dialogue,Jill,"Oh please, I memorized those numbers when I was 15. But look at all the cool make-it-on-my-own stuff I got! (Holds up a red sweater) This is my ""Please, hire me"" sweater. (Holds up a pair of black pants) And these are my, ""Don’t you want to rent me this apartment?"" pants."
+dialogue,Ross,I don’t think charging new clothes too your dad qualifies as making it on your own.
+dialogue,Jill,"Oh, Mr. Scientist has to get all technical!"
+dialogue,Phoebe,"Seriously, I don’t Rachel’s gonna think it’s a good idea."
+dialogue,Jill,So who made her queen of the world?
+dialogue,Phoebe,I would love that job!
+dialogue,Rachel,(entering) Hey! What’s goin’ on?
+dialogue,Jill,Hey!
+dialogue,Rachel,(notices Jill’s bags) Jill! Did you shop?!
+dialogue,Jill,No! They did! (Points to Phoebe and Ross)
+action,,Phoebe and Ross:
+dialogue,Rachel,"You went shopping?! What, and then you just came in here and paraded it right under Jill’s nose when you know she’s trying to quit. Wow, you guys are terrible!"
+dialogue,Phoebe,Sorry Jill.
+dialogue,Ross,Sorry-sorry Jill.
+dialogue,Rachel,What’d you get?
+dialogue,Phoebe,"Oh well, all right, I got (Ross hands her a bag) (To Ross) thank you, I got uh, this y’know ""I want a job sweater."" (Holds up the same sweater.)"
+dialogue,Rachel,Oh.
+dialogue,Phoebe,"And, and then I got uh, these are apartment pants."
+dialogue,Rachel,Apartment pants?
+dialogue,Phoebe,"Yeah, you never heard of them?"
+dialogue,Rachel,"No, of course, of course I’ve heard of them! Ross, what did you get?"
+dialogue,Ross,"Huh? Oh, I got this—(Holds up this pink frilly thing)—this!"
+dialogue,Rachel,A pajmena?
+dialogue,Ross,"Yeah! Oh, I-I love this babies!"
+dialogue,Rachel,Really?
+dialogue,Ross,"Ross, wants a pajmena?"
+dialogue,Ross,It’s a rug. (Jill winces.)
+dialogue,Rachel,Jill?
+dialogue,Jill,"(covers her eyes and starts crying) I’m sorry Rachel, I’m sorry…"
+dialogue,Rachel,"Oh, come on! You think that’s gonna work on me?! I invented that!"
+dialogue,Jill,"Right! But, I am sorry."
+dialogue,Rachel,"All right, it’s okay. One little setback is okay, just don’t let it happen again, all right? Now since daddy paid for all this stuff, I should take it all away. But I’m just gonna take the-the pajmena. (Ross hands it to her.) And the uh, and the uh pants. Y’know what, I’m just gonna take it all away, ‘cause that way you’ll just really learn the lesson. Okay? All righty, I’m gonna run a couple of errands and I will see you at dinner. (Leaves with all of Jill’s stuff.)"
+dialogue,Jill,She took all my stuff.
+dialogue,Ross,"Yeah. Everything but, the little blue one. (Holds it up for her.)"
+dialogue,Jill,"(gasps) That’s the best one! Oh my God, (hugs him) thank you so much!"
+dialogue,Ross,Well. Hey…
+dialogue,Jill,"Oh my gosh, that was so lame. Like a pajmena could be a rug!"
+dialogue,Ross,"Oh yeah, how about you and the, (mimics her fake cry) ""I’m sorry!"""
+dialogue,Jill,(hits him) Shut up! I did not sound like that at all!
+dialogue,Phoebe,"What about, what about when I said y’know about the apartment pants, how dumb was I?"
+action,,(They both look at her.)
+dialogue,Jill,Were you this cute in high school?
+dialogue,Ross,Oh stop.
+dialogue,Jill,No you stop!
+dialogue,Ross,"No, you stop!"
+dialogue,Jill,You stop!
+dialogue,Phoebe,"(gets up and sits between them) Okay-okay, why don’t I sit here and you’ll both stop it!"
+heading,,"[Scene: Monica and Chandler's, Monica is still very sick and is entering the living room from the bathroom wearing a robe. Chandler is reading a magazine.]"
+dialogue,Monica,"Okay, so what do you, what do you want to do? Let’s do something crazy!"
+dialogue,Chandler,"I know, let’s rest and drink lots of fluids. (Holds up a glass of orange juice.)"
+dialogue,Monica,"Okay, I’ll rest. But y’know if I’m going to bed, then you’re coming with me."
+dialogue,Chandler,That would be impossible to resist if you weren’t all drippy here. (Points to his nose.)
+dialogue,Monica,"(wiping her nose) Are you saying that you don’t wanna get with this? (Tries to do a little sexy body rub, but it doesn’t work all that well with the big robe.)"
+dialogue,Chandler,"Yeah, I don’t you should say that even when you’re healthy."
+dialogue,Monica,(in a sexy voice) Come on. (Coughs loudly.)
+dialogue,Chandler,Don’t take this personally okay? It’s just that I just can’t have sex with a sick person.
+dialogue,Monica,"I’m with you Chandler! I mean I can’t have sex with a sick person either, that’s disgusting! But I’m not sick! Let me prove it to you. We are two healthy people in the pribe of libe."
+dialogue,Chandler,"That’s the thing, see I would like to stay in the pribe of mwha-ah-libe."
+heading,,"[Scene: Phoebe and Rachel's, Rachel is putting away her new clothes as Phoebe enters.]"
+dialogue,Rachel,Hey!
+dialogue,Phoebe,Hey.
+dialogue,Rachel,What’s up?!
+dialogue,Phoebe,"Umm, I think there’s something you should maybe know."
+dialogue,Rachel,"Well, it’d better not be about the apartment pants, because I just pitched the idea to my boss at Ralph Lauren and she loved it."
+dialogue,Phoebe,"No. No. It’s just I was umm, I was with Ross and Jill after you left and umm, I’m pretty sure I saw a little spark between them."
+dialogue,Rachel,What?!
+dialogue,Phoebe,"Yeah I mean it’s probably nothing, but I just wanted to warn you that there might be something there."
+dialogue,Rachel,With Ross and Jill?
+dialogue,Phoebe,Yeah!
+dialogue,Rachel,With Ross and my sister?
+dialogue,Phoebe,Yeah.
+dialogue,Rachel,With my sister Jill and my ex-boyfriend Ross?
+dialogue,Phoebe,Yeah.
+dialogue,Rachel,Oh there is no way.
+dialogue,Phoebe,Okay then.
+dialogue,Rachel,"Oh my God! I can not believe that! I mean I don’t really like it when Ross goes out with anyone, but my sister isn’t that like incest or something?! Oh my God, and they’re gonna have sex! Oh! Oh no what if he marries her too?! Oh this is just terrible, this is just terrible. And I can’t stop it! I can’t—I don’t own Ross! Y’know? And Jill, she should be able to do whatever it is that she wants to do! And oh my God, I can’t believe Ross is marrying my little sister, this terrible. Oh my God, this is just the worst thing that could have ever happened to me."
+dialogue,Phoebe,"But great news about the apartment pants, huh?"
+heading,,"[Scene: Central Perk, Joey is giving the bill to the same beautiful woman from before.]"
+dialogue,Joey,That’ll be $3.85.
+dialogue,Woman,What do you mean? Yesterday you said I was too pretty to pay for stuff!
+dialogue,Joey,"It’s just I can’t because my manager said I… (Gets an idea) (Starts singing) ""Happy birthday to you, happy birthday to you. Happy birthday dear Annie…"
+dialogue,Woman,Amy!
+dialogue,Joey,"(still singing) ""…Amy! Happy birthday to you!"""
+action,,A Male Customer:
+dialogue,Joey,"Yeah, not it here it isn’t."
+dialogue,Jill,"(entering) Sorry I’m late, what’s up?"
+dialogue,Rachel,"(on the couch) Oh hi! Y’know, I just wanted to see if there were any leads on the old job front."
+dialogue,Jill,Oh no! But I just walked past three sales and I didn’t go in. How strong am I?
+dialogue,Rachel,"That is great. Hey, y’know who doesn’t have to job hunt? Ross. He works at the university."
+dialogue,Jill,Yeah.
+dialogue,Rachel,"Oh so you know that, you guys talked about that, so you get along, so you think you’re gonna go out?"
+dialogue,Jill,Me go out with Ross?! No! God no! What would make you think that?
+dialogue,Rachel,"I just, Phoebe, said y’know thought she saw something between you guys."
+dialogue,Jill,No! I mean he’s nice.
+dialogue,Rachel,Yeah.
+dialogue,Jill,"He’s the kind of guy you’re friends with, y’know? But he’s not the kind of guy you date. He’s the kind of guy you’d date because you did. Me, not so much."
+dialogue,Rachel,"Oh not-not so much. Umm, what-what do you, what do you mean is there something wrong with Ross?"
+dialogue,Jill,"Oh no-no-no, he’s just I don’t know, he’s just a little bookish."
+dialogue,Rachel,Are-are you saying he’s a geek?
+dialogue,Jill,You think so too?
+dialogue,Rachel,"No! No I, no Ross is not a geek!"
+dialogue,Jill,"Fine, then let’s just say he’s not my type."
+dialogue,Rachel,What handsome is not your type? Smart? Kind? Good kisser? What those things aren’t on your list? Ross is a great guy! You would be lucky to be with him!
+dialogue,Jill,"Well okay, if it means that much to you, then I’ll ask him out."
+dialogue,Rachel,"Oh no-no-no, no-no-no, that’s not what I meant."
+dialogue,Jill,"No! Y’know what Rachel? You’re right, y’know he has been really nice to me."
+dialogue,Rachel,"Yeah but, he’s not your type."
+dialogue,Jill,"Yeah but maybe that’s a good thing. Y’know I’m doing all these different sorts of things, and maybe I should try dating a geek too!"
+dialogue,Rachel,"Yeah but, you don’t, you don’t, you don’t want to try to much too fast. Y’know? I mean, you do remember what happened to the little girl that tried to much too fast don’t you?"
+dialogue,Jill,What?
+dialogue,Rachel,She-she died Jill.
+action,,Commercial Break
+heading,,"[Scene: Monica and Chandler's, Chandler has fallen asleep reading a book. Monica calls from the bedroom and wakes him up.]"
+dialogue,Monica,(still sick) Chandler!
+dialogue,Chandler,"Oh what is it honey, you need some tea? Some soup? (He gets up from the couch and goes into the bedroom to find Monica, still in the robe, lying seductively on the bed. Or at least she’s trying too and as he enters the room, she takes the robe off on of her legs.) Oh-ohhhh!"
+dialogue,Monica,"(trying to be seductive) Calling Dr. Big, Dr. Big to the bed."
+dialogue,Chandler,"Oh Jeez honey, I thought, I thought you were asleep."
+dialogue,Monica,How could I be asleep knowing that you were in the next room.
+dialogue,Chandler,I was asleep. (She takes off her robe and starts to shiver) Oh no! No-no honey! Y’know what’s sexy? Layers. Layers are sexy. And blankets are sexy. And oh! Hot water bottles are sexy.
+dialogue,Monica,"Come on, get into bed! I want to prove to you that I’m not sick! I wanna make you feel, as good as I feel. (Sneezes.)"
+dialogue,Chandler,Would you please get some rest!
+dialogue,Monica,"I’m fine. (She goes into one of those half sneezing, half-coughing fits that you get with a bad cold or flu.)"
+heading,,"[Scene: Central Perk, Joey is singing Happy Birthday to yet another good-looking woman. Gunther is watching and is not very happy.]"
+dialogue,Joey,"(singing) ""Happy birthday to you!"""
+dialogue,Gunther,You’re paying for that.
+dialogue,Joey,What? No-no it’s her birthday!
+dialogue,Gunther,You’ve sung Happy Birthday to 20 different women today!
+dialogue,Joey,But it really…
+dialogue,Gunther,You are no longer authorized to distribute birthday muffins.
+dialogue,Joey,Damnit! (Storms off.)
+dialogue,Ross,(entering) Rach? Hi!
+dialogue,Rachel,Hi!
+dialogue,Ross,Did you tell your sister to ask me out?
+dialogue,Rachel,Well yeah…
+dialogue,Ross,"Oh wow! I mean, wow! I mean, I-I-I think she’s cute but I-I would never have thought of going out with her, never!"
+dialogue,Rachel,Really?!
+dialogue,Ross,"Yeah but after you said it was okay, I figured, ""Why not?!"""
+dialogue,Rachel,Oh so-so not really never.
+dialogue,Ross,"I have to say you are a much bigger person than I am. I mean after all we’ve been through, I just—y’know I wish I had a brother to reciprocate. Hey, if you ever want to go out with Monica, you have my blessing."
+dialogue,Joey,"(overhearing them) Oh-ho, and mine!"
+heading,,"[Scene: Monica and Chandler's, Monica is still sick and is hobbling out into the living room for some help from Chandler who’s on the couch reading.]"
+dialogue,Monica,"(entering) Chandler, I think I’m sick."
+dialogue,Chandler,Really? Struck down in the pribe of libe!
+dialogue,Monica,"Okay, fine I admit it! I feel terrible! Would you please rub this on my chest? (She hands him some of that Vicks Vap-O-Rub to put on.)"
+dialogue,Chandler,"No-no-no-no-no-no-no, you are not getting me this way."
+dialogue,Monica,Come on! I really need your help!
+dialogue,Chandler,No-no-no-no-no!
+dialogue,Monica,"Fine, I’ll rub it on myself."
+dialogue,Chandler,Okay.
+action,,"(To start this task, she lowers the top of her robe to reveal that she is naked from the waist up, well at least her back is, and starts to rub on the gunk. Chandler notices this, and has something start happening. I’ll let you fill in the blank here.)"
+dialogue,Chandler,"So you’re just, kinda rubbing it on yourself?"
+dialogue,Monica,Yeah?
+dialogue,Chandler,It’s nice.
+dialogue,Monica,Are you kidding me?! Is this; is this turning you on?
+dialogue,Chandler,Yes! (Hangs his head in shame.)
+dialogue,Monica,I can’t believe it! What is it? Is it the rubbing or the smell?
+dialogue,Chandler,"It’s all very, very good. (She covers up and sits down.) So you wanna go uh, mix it up?"
+dialogue,Monica,"Not now, I’m sick!"
+dialogue,Chandler,Oh come on you big faker!
+dialogue,Monica,What happened to your rule about never sleeping with sick people?
+dialogue,Chandler,Well that was before all the vaporizing action.
+dialogue,Monica,"Okay, if you really wanna have sex…"
+dialogue,Chandler,Okay! (Runs into the bedroom.)
+dialogue,Monica,Worked like a charm.
+heading,,"[Scene: Central Perk, Rachel is there as Jill enters to start her date with Ross.]"
+dialogue,Jill,(entering) Hi!
+dialogue,Rachel,Hi! Wh-what are you doing here?
+dialogue,Jill,"This is where Ross and I are meeting for our date. So, what do you think? (She spins to show Rachel the outfit she’s wearing.)"
+dialogue,Rachel,"Well, I-I don’t like it."
+dialogue,Jill,Really?!
+dialogue,Rachel,It’s kinda slutty.
+dialogue,Jill,It’s yours!
+dialogue,Rachel,"Yeah well, I’m-I’m a slut."
+dialogue,Jill,(laughs) Me too.
+dialogue,Ross,(entering) Hi Jill!
+dialogue,Jill,Hey!
+dialogue,Ross,Hi (sees Rachel and forgets her name for a moment).
+dialogue,Rachel,Rachel.
+dialogue,Ross,"Rachel! Well, you-you’re not at home, you’re-you’re-you’re right here."
+dialogue,Rachel,"Yeah I know, and I bet you thought it would be weird. But it’s not!"
+action,,(There’s an awkward silence.)
+dialogue,Ross,"Okay. So well I’ll umm, (To Rachel) I’ll have her home by midnight."
+action,,"(Rachel laughs a little too hard as Ross and Jill leave for their date. After they have left, Rachel starts to break down.)"
+heading,,"[Scene: Monica and Chandler's, Rachel enters and walks quickly over to the window to watch Ross’s apartment. We see that Ross’s apartment is empty.]"
+dialogue,Rachel,Why aren’t you home yet?!
+dialogue,Monica,(calling from the bathroom) Is someone there?
+dialogue,Rachel,"Oh yes, it’s me! Sorry!"
+dialogue,Chandler,(calling from the bathroom) What are you doing here?
+dialogue,Rachel,"Uh, I’m just, I’m just looking out your window. At-at the view. What are you guys doing?"
+dialogue,Chandler,We got some Vap-O-Rub in some places.
+action,,(We see that Ross is returning to his apartment with Jill.)
+dialogue,Rachel,"(gasps) Oh, he brought her back to his apartment."
+dialogue,Monica,(entering with Chandler) Who? (She looks out the window at Ross’s apartment) Is that your sister?
+dialogue,Rachel,"Ugh, she is a slut!"
+dialogue,Monica,"God, Ross is on a date with your sister! How weird is that?!"
+dialogue,Rachel,"Oh my God, look-look he’s taking off her clothes!"
+dialogue,Chandler,He’s taking off her coat!
+action,,(We see that Ross is taking off Jill’s coat.)
+dialogue,Rachel,"Oh, this is just terrible."
+dialogue,Monica,"Oh no it’s not, no it’s not. It’s a first date. I’m sure that nothing is gonna…(as she is talking we see Ross close his drapes.)"
+dialogue,Rachel,Oh. (Squeaks again.)
+dialogue,Chandler,"Ho-oh, he’s gonna get some! (Rachel looks at him.) Of the glare from the streetlight out of his apartment. Y’know so umm, he’s closed the drapes there so he can have a nice, pleasant conversation with your little sister. (Pause) Well, I’m off to bed! (Goes to bed.)"
+action,,To Be Continued
+action,,Ending Credits
+action,,"(There is no credits scene, just a preview of the next couple of episodes.)"
+action,,End

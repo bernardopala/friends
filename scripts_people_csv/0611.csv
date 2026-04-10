@@ -1,0 +1,315 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's, everyone is there as Joey enters happily.]"
+dialogue,Joey,Hey!
+dialogue,Ross,Hey!
+dialogue,Joey,"Listen, do you guys think I have a chance with Janine?"
+dialogue,Monica,"Honey, we have been through this before!"
+dialogue,Rachel,Yeah. Don’t do this to yourself.
+dialogue,Phoebe,"She’s made it pretty clear, it is not going to happen."
+dialogue,Joey,"Well all right then, I guess I shouldn’t get to excited about the fact (excitedly) that I just kissed her!"
+dialogue,Monica,You serious?!
+dialogue,Chandler,That’s great!
+dialogue,Monica,Really?!
+dialogue,Phoebe,"Yeah well, we’ll see."
+dialogue,Ross,You kissed her.
+dialogue,Joey,Oh we kissed it up real nice.
+dialogue,Chandler,"So you kissed her, so what happened after that?"
+dialogue,Joey,I came over here to tell you guys.
+dialogue,Chandler,So she’s just waiting over there for ya?
+action,,"(Joey nods yes, but suddenly realizes what he did and runs out of the apartment and back to his place.)"
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Joey and Janine are pretty much making out at one of the tables as Monica and Rachel look on from the couch.]"
+dialogue,Janine,I gotta go.
+dialogue,Joey,Okay. (They kiss.)
+dialogue,Janine,I’m gonna be really late for dance class!
+dialogue,Joey,Okay. (They kiss.)
+dialogue,Janine,"Okay, now I’m really late. (Gets up.)"
+dialogue,Joey,"Okay, I’m all right, okay, but hey, could you just leave your lips? (She kisses him on the cheek and starts to leave.)"
+dialogue,Janine,(to Monica and Rachel) Bye.
+dialogue,Monica,Bye. (Janine exits.)
+dialogue,Joey,Have you kissed her yet? It’s awesome! I could do it forever! Y’know what? She-she kisses better than my mom cooks!
+dialogue,Monica,I am so glad you said cooks.
+dialogue,Rachel,I know.
+dialogue,Chandler,"(entering) Oh hey Rachel, sweetheart? You have got to tell the post office that you have moved. Okay? We are still getting all your bills and stuff. (Hands her all of her bills and stuff.)"
+dialogue,Rachel,"Oh-oh, Pottery Barn ! (Grabs the aforementioned catalog and holds the rest back out to Chandler.) You can throw the rest away."
+dialogue,Chandler,I’m not your garbage man. I’m your mailman.
+dialogue,Rachel,Monica look! Look-look-look! Here is that table that I ordered. (Shows her the picture.)
+dialogue,Monica,You got it from Pottery Barn ?!
+dialogue,Rachel,Yeah! It’s an apothecary table. Does anyone even know what an apothecary is?
+dialogue,Chandler,A pharmacist. (Rachel mocks him.)
+dialogue,Monica,"Rach, Phoebe hates Pottery Barn ."
+dialogue,Joey,I hate Pottery Barn too. They kicked me out of there just because I sat on a bed!
+dialogue,Chandler,You took off your pants and climbed under the sheets!
+dialogue,Joey,(indignant) I was tired!
+dialogue,Rachel,Phoebe hates Pottery Barn ?!
+dialogue,Monica,"Yeah, she hates all mass produced stuff. She thinks her furniture should have a history, a story behind it."
+dialogue,Rachel,Well this has story behind it! I mean they had to ship it all the way from the White Plains store.
+dialogue,Monica,"It’s gotta be one of a kind. Y’know like umm, y’know uh, what’s that God awful ceramic fruit bowl she has on her counter?"
+dialogue,Joey,Hey! I made that for her!
+dialogue,Chandler,You made pottery?
+dialogue,Joey,Yeah! I made it of this fruit bowl I found in the garbage.
+dialogue,Monica,I’m telling—If you put that in her apartment you’ll never hear the end of it.
+dialogue,Rachel,"Okay fine! I’ll-I’ll just tell her it’s an antique apothecary table, she doesn’t have to know where it came from. Oh! Look at this little drawers! Oh look-look it says that it holds 300 CDs."
+dialogue,Chandler,"Ahh, just like the apothecary tables of yore…"
+heading,,"[Scene: The Hallway between the apartments, Joey, Janine, Chandler, and Monica are returning from a double date. Chandler is telling a joke.]"
+dialogue,Chandler,"…so then the farmer says, ""That’s not a cow and you’re not milking it."" (Everyone laughs.)"
+dialogue,Monica,"I am so glad you guys got together, Chandler and I are always looking for a couple to go out with and now we have one!"
+dialogue,Chandler,"Look at us, we’re a couple of couples!"
+dialogue,Janine,"I had so much fun tonight, and what a great restaurant."
+dialogue,Monica,Yeah.
+dialogue,Joey,And Chandler I can’t believe I let you pay for this one. (They hug and he whispers in his ear.) Thanks man.
+dialogue,Monica,So do you guys gonna come over tomorrow? I’ll make that pasta thing I was telling you about.
+dialogue,Janine,Oh that would be great!
+dialogue,Joey,"Oh, but hey look, at least let us bring the wine."
+dialogue,Monica,"Joey, you don’t have too!"
+dialogue,Joey,Nope-op! I insist! (He hugs Chandler again and whispers to him.) You get the wine right?
+dialogue,Chandler,"Yeah all right. (They part.) Okay, good night guys."
+dialogue,Joey,See ya tomorrow!
+dialogue,Monica,Tomorrow!
+dialogue,Janine,Can’t wait! (They each go into their respective apartments.)
+action,,[Cut to Joey and Janine’s.]
+dialogue,Janine,How are we gonna get out of that one?
+dialogue,Joey,What?
+dialogue,Janine,I can’t handle two nights in a row with them.
+dialogue,Joey,What-what’s wrong with Monica and Chandler?
+dialogue,Janine,"I don’t know, they’re just a little blah!"
+dialogue,Joey,Blah?!
+dialogue,Janine,"Well y’know, he’s blah, she’s just—she’s very loud for such a small person."
+dialogue,Joey,"Uh, they’re like my best friends. Are you saying we can’t hang out with them? ‘Cause that would kinda be a problem."
+dialogue,Janine,"No! Of course we can still hang out with them. Just y’know, not two nights in a row. Okay?"
+dialogue,Joey,I guess.
+dialogue,Janine,Thank you. (They kiss.)
+dialogue,Joey,"If you want, I’ll sell my friends and use the money to buy you presents."
+heading,,"[Scene: Phoebe and Rachel's, Rachel is placing CDs into her antique apothecary table as Phoebe returns home.]"
+dialogue,Phoebe,Hey!
+dialogue,Rachel,Hey!
+dialogue,Phoebe,"(sees the table) Ooh, what a great table! Where-where did you get it?"
+dialogue,Rachel,Guess!
+dialogue,Phoebe,"Umm, a flea market?"
+dialogue,Rachel,"Ha! See, I knew, I knew you’d get it on the first guess. Isn’t it cool! It’s an apothecary table."
+dialogue,Phoebe,Wow! Oh you can just imagine that this is where (She’s opening and closing the drawers) they kept all the stuff to make their potions.
+dialogue,Rachel,"Ohh, yes."
+dialogue,Phoebe,"Y’know? Ooh, you can almost smell the opium."
+dialogue,Rachel,Almost.
+dialogue,Phoebe,How much was it?
+dialogue,Rachel,It was only 500 bucks.
+dialogue,Phoebe,500 bucks at a flea market?!
+dialogue,Rachel,"Oh, okay see I thought, I thought you meant how much was it when it was new, y’know like back then."
+dialogue,Phoebe,Oh no.
+dialogue,Rachel,"Yeah no, I mean it was at a flea market, so it was y’know, it was like a dollar."
+dialogue,Phoebe,A dollar?
+dialogue,Rachel,And fifty. So it was like one and fifty dollars.
+dialogue,Phoebe,"Ohh, okay, they gave you the old time pricing."
+dialogue,Rachel,Yeah.
+dialogue,Phoebe,"Well, what period is it from?"
+dialogue,Rachel,"Uh, it’s from yore. Like the days of yore. Y’know?"
+dialogue,Phoebe,"Yes, yes I do. God, oh it’s just perfect! Wow! I bet it has a great story behind it too. Did they tell you anything? Like y’know where it was from or…"
+dialogue,Rachel,"Yes! That I know, this is from White Plains."
+dialogue,Phoebe,"(gasps) White Plains. Oh, it sounds like such a magical place."
+heading,,"[Scene: Ross’s apartment, Rachel is entering as Ross comes out of the kitchen carrying popcorn.]"
+dialogue,Rachel,Hey! We’re here!
+dialogue,Ross,Hey!
+dialogue,Rachel,(seeing his new table) Ohh! Oh my God!
+dialogue,Ross,You like it?
+dialogue,Rachel,Oh no!
+dialogue,Ross,It’s my new apothecary table!
+dialogue,Rachel,"Ross! Phoebe’s gonna be here any second, she cannot see this!"
+dialogue,Ross,Well why not?! She’ll-she’ll love it! It’s the real thing! I got it at Pottery Barn .
+dialogue,Rachel,I know you did! I bought the same one! And if she sees your table she’s gonna know that I lied to her. I told her ours was an original.
+dialogue,Ross,Why did you do that?
+dialogue,Rachel,Because she hates Pottery Barn .
+dialogue,Ross,She hates Pottery Barn ?!!
+dialogue,Rachel,"I know! I know, she says it’s all mass-produced, nothing is authentic, and everyone winds up having the same stuff. (Ross looks at his table.) So come on, she’s gonna be here any second! Can we please just cover this up with something?! Please?"
+dialogue,Ross,"What? No! No! I am not gonna hide it from Phoebe—Ooh, although I did get some great Pottery Barn sheets! (Gets them.)"
+dialogue,Rachel,"Ooo! Oh, I forgot they made sheets!"
+dialogue,Ross,"Uh, yeah! I still can’t believe she hates Pottery Barn !"
+dialogue,Rachel,"Ross, get over it! It’s not like she hates you."
+dialogue,Ross,Yeah but Pottery Barn ! Y’know what I think? It’s just she-she’s weird. Y’know it’s because she’s a twin. Twins are weird.
+dialogue,Rachel,"Ross, she’s not weird, she just wants her stuff to be one of a kind."
+dialogue,Ross,Huh. Y’know what’s not one of a kind? A twin!
+dialogue,Phoebe,(entering) Hey!
+dialogue,Rachel,Hey!
+dialogue,Ross,Hey!
+dialogue,Rachel,"Ooh, Phoebe’s here! Okay, let’s turn out all the lights and we’ll just watch the movie!"
+dialogue,Phoebe,"Okay. Hey—Ooh, cool sheets! (Notices the sheet over the table.)"
+dialogue,Ross,"Oh, you like it? You wanna know where I got it?"
+dialogue,Phoebe,Sure!
+dialogue,Rachel,He got it a flea market!
+dialogue,Phoebe,"You bought your sheets at a flea market? Ross come on, you gotta loosen the purse strings a little."
+heading,,"[Scene: Joey and Janine’s, Joey is pacing around as Chandler and Monica enter.]"
+dialogue,Monica,Hey!
+dialogue,Joey,Hi!
+dialogue,Monica,The dinner will be ready in twenty minutes. This is so exciting.
+dialogue,Chandler,"And here is the bottle of wine for you to bring over tonight. (Hands it to him.) You were also going to buy Monica flowers but you couldn’t afford it, because you paid dinner last night."
+dialogue,Joey,"Thanks. Thanks, but uh actually it’s just gonna be me again tonight."
+dialogue,Monica,What happened to Janine?
+dialogue,Joey,"Oh, she’s uh-uh really sick."
+dialogue,Chandler,Oh that’s too bad.
+dialogue,Joey,"Yeah, she’s been in there all day (Points to her room), uh high fever, a nose problem… Phlegm! Phlegm! Phlegm-phlegm-phlegm!"
+dialogue,Janine,(entering from her room) Monica! Chandler! I’m really-really sorry about tonight. I don’t know if Joey told you; I just couldn’t get out of going to this play. I’m sorry. Have a great time.
+dialogue,Joey,‘Kay!
+dialogue,Janine,Bye. (Exits)
+dialogue,Chandler,"That’s funny, I saw no phlegm."
+action,,Commercial Break
+heading,,"[Scene: Joey and Janine’s, continued from earlier.]"
+dialogue,Joey,"No-no, she really is sick!"
+dialogue,Chandler,Then why-why is she going to a play?!
+dialogue,Joey,"Uh, y’know, starve a fever, go to a play for a cold."
+dialogue,Monica,Joey! Why is Janine not coming over for dinner?!
+dialogue,Joey,"Well uh, she didn’t want to hang out with you guys two nights in a row. I’m so sorry."
+dialogue,Chandler,"Well, why does she not want to hang out with us?!"
+dialogue,Joey,"Because she uh, she-she thinks that you are blah and that you, Monica, are too loud."
+dialogue,Monica,(loudly) What?!! (Quietly) What?
+dialogue,Chandler,So she was just pretending to have a good time last night? She was lying to our faces?!
+dialogue,Monica,"Ugh, I can not believe this! I mean, who is she to judge us? We could not have been nicer to her!"
+dialogue,Chandler,"And I am not blah, I am a hoot!"
+dialogue,Joey,"I know! I know! Come on, please-please you guys, don’t-don’t be mad. I’m sure she just, she just said that stuff because she was nervous and you guys are like my best friends! Y’know? And it was our first date! Plus, she’s really sick!"
+dialogue,Chandler,"No, you sh—No you said you made that up!!"
+dialogue,Joey,"I know, but don’t you think the sick thing is way better than the play thing?"
+dialogue,Chandler,"Eh, they’re both good. I generally just go with, Monica’s drunk again. (Monica glares at him.)"
+dialogue,Joey,"Come on you guys, come on please-please just give her another chance, huh? She’ll come around I promise."
+dialogue,Monica,"Of course we will, come on we gotta make dinner."
+dialogue,Chandler,Okay.
+action,,(They exit and close the door.)
+dialogue,Monica,(from the hallway) I do not like that woman!
+dialogue,Joey,(shouting) I can hear you!
+dialogue,Monica,I am loud!
+heading,,"[Scene: Ross's apartment, Ross, Rachel, and Phoebe are watching a movie.]"
+dialogue,All,Aww! (They all laugh.)
+dialogue,Rachel,That’s funny. (Phoebe puts her feet up on Ross’s table.)
+dialogue,Ross,"Hey Pheebs, could you please not put your feet up on my new…(On Rachel’s glare)…old sheet?"
+dialogue,Phoebe,"Oh sure! (She goes to take her feet off, but drags the sheet with her which spills the wine.) Noo!"
+dialogue,Rachel,Ohh!!
+dialogue,Ross,My apothecary table!!!
+dialogue,Phoebe,What?!
+dialogue,Rachel,Noooooo!! (Phoebe lifts up the sheet to discover the exact same apothecary table they have.)
+dialogue,Phoebe,"Ross, where did you get this?!"
+dialogue,Ross,I got it at Pottery Barn !! Okay?!
+dialogue,Rachel,"Oh my God, Phoebe, Pottery Barn has ripped off the design of our antique!"
+dialogue,Phoebe,"Wow! Oh my God, well if they’ve ripped off our table ours must be much more than one and fifty dollars!"
+dialogue,Rachel,Oh yes.
+dialogue,Phoebe,Well this doesn’t even smell like opium.
+dialogue,Ross,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way."
+dialogue,Phoebe,"Oh Ross, calm down, I’ll give you the 80 cents. (Ross glares at Rachel)"
+heading,,"[Scene: Monica and Chandler's, Monica and Chandler are sitting at the kitchen table.]"
+dialogue,Chandler,"Okay, one more time."
+dialogue,Monica,"Chandler, would you like some more orange juice?"
+dialogue,Chandler,Perfect decibel.
+dialogue,Monica,(loudly) I know!!!
+dialogue,Joey,(entering) Hey!
+dialogue,Chandler,Hey.
+dialogue,Joey,"So uh, what are you guys doing?"
+dialogue,Chandler,"Oh nothing, we’re just talking. Y’know, blah-blah-blah."
+dialogue,Joey,"Look, come on you guys, you said you were gonna try! All right look, I came over here to invite you guys to a movie with me and Janine."
+dialogue,Monica,"Well, I’d like to but, (extremely quietly) I’m not sure we have time to go."
+dialogue,Joey,"Ha-ha, very funny—Look! I don’t know what to do! I really want you guys to get along. Just please come to the movie with us. I mean you owe me!"
+dialogue,Monica,We owe you?!
+dialogue,Joey,"That’s right! I helped you guys out a lot in the start of your relationship. Huh? I helped you guys sneak around for like six months, and I looked like an idiot! And I was humiliated. And I only made 200 dollars!"
+dialogue,Monica,"We didn’t give you any money! (Chandler is motioning, ""No!"")"
+dialogue,Joey,You don’t think I know that!
+heading,,"[Scene: Phoebe and Rachel's, Rachel is showing Ross around the newly decorated living room.]"
+dialogue,Rachel,"…see I can’t decide whether it would go better next to the new wicker dining chair, the Sahara desk, or the Parker console table."
+dialogue,Ross,Wow! I didn’t know that there was a Pottery Barn up here.
+dialogue,Rachel,"I know, I know. I went a little crazy."
+dialogue,Ross,A little? Your place looks like page 72 of the catalogue. Oh look at that! The ornamental bird cage! Large!
+dialogue,Phoebe,(entering) Hey!
+dialogue,Rachel,Hey.
+dialogue,Phoebe,"(sees Ross) Oh Ross no. Be careful, that is very old! Okay? Early Colonial bird merchants used to bring their birds to market in that."
+dialogue,Ross,(glaring at Rachel) Fascinating.
+dialogue,Phoebe,(gasps) Another amazing find! Wow! Oh I bet this has a great story too!
+dialogue,Rachel,"Oh it does, it does! It is a room separating apparatus from Colonial times."
+dialogue,Phoebe,Ah!
+dialogue,Ross,"Hmm, a lot of this stuff is from Colonial times. Hey, what are some other time periods Rachel? (She glares at him.)"
+dialogue,Rachel,"Well there’s yore. And uh, y’know, yesteryear."
+dialogue,Phoebe,"Yeah no, I’m telling you Rachel has such a great eye for this stuff. Ross, y’know if you ever decide you need to redecorate—And I think that you should. You should, you should ask Rachel to help."
+dialogue,Rachel,Oh honey he doesn’t need my help.
+dialogue,Phoebe,"Oh, come on! I think he’s ready to get rid of, what did you call it? The cheap knock-offs and dinosaur junk."
+dialogue,Ross,"Really?! (To Rachel) Hey, y’know what? Since you have such a great sense of what I need, uh ooh, here’s-here’s 60 bucks, why don’t you take Phoebe down to that Colonial flea market of yours and get me some stuff."
+dialogue,Rachel,"(not sure of what to do) Y’know what? I don’t, I don’t think Phoebe really wants to come."
+dialogue,Phoebe,No! I do want to!
+dialogue,Rachel,"Oh, she does want to."
+dialogue,Ross,She does want to.
+dialogue,Phoebe,Yeah!
+heading,,"[Scene: The Street, Phoebe and Rachel are heading back from that Colonial flea market.]"
+dialogue,Rachel,"Pheebs, I don’t know what to say. I guess the flea market was just better last time."
+dialogue,Phoebe,Well at least I got these sheets for Ross.
+dialogue,Rachel,Yeah.
+action,,(They walk by a Pottery Barn window display.)
+dialogue,Phoebe,"Uck, look at this! Pottery Barn , yuck!"
+dialogue,Rachel,"Yeah, y’know what? Don’t look at it. (Realizes the display is their living room) Seriously, don’t look at it. (Tries to pull Phoebe away.)"
+dialogue,Phoebe,No! Look-look! There’s the coffee table they stole from us!
+dialogue,Rachel,"Ugh, those bastards! Let’s go."
+dialogue,Phoebe,That fan kinda looks like ours. And the birdcage and the…wait a sec! This is our exact living room!
+dialogue,Rachel,"No! No! No! No it’s not! No it’s not! Come on! Phoebe, ours is totally different! I mean we don’t have the… (Looks desperately for something different.) We don’t have the…that lamp! And-and that screen is y’know, on the other side."
+dialogue,Phoebe,"Oh my God. This is where you got all our stuff, Pottery Barn ! Oh my God!"
+dialogue,Rachel,"Okay! Okay-okay look—no I did, I just wanted this stuff and I know how you feel about Pottery Barn . Just… Come on don’t be mad."
+dialogue,Phoebe,"No-no-no, but I am mad! I am mad! Because this stuff is everything that is wrong with the world! And it’s all sitting up in my living room and all I can think about is how I don’t have that lamp!"
+dialogue,Rachel,"Well then honey, buy the lamp! Hey, we have that 60 bucks from Ross."
+dialogue,Phoebe,I can’t! I can’t! Unless… Well are you saying that-that you would move out if-if I didn’t buy that lamp?
+dialogue,Rachel,What?! No! I’m not gonna move out!
+dialogue,Phoebe,But are you saying that you would move out if I didn’t buy that lamp?
+dialogue,Rachel,(gets it) Oh. Yes! I would so move out!
+dialogue,Phoebe,Okay then I don’t have a choice! I have to buy that lamp!
+dialogue,Rachel,That’s right!
+action,,(They start to go inside.)
+dialogue,Phoebe,But at least the apothecary table is real.
+heading,,"[Scene: The hallway, Joey, Janine, Monica, and Chandler are returning from their second date.]"
+dialogue,Joey,"Well, this-this-this was great. Didn’t everybody have a great time?"
+dialogue,Janine,"Well I did. I really did. And you guys, I’ve got to say, I’m sorry if I was a little weird after the last time we went out. I guess I was just nervous or something."
+dialogue,Chandler,That’s totally understandable.
+dialogue,Monica,Don’t worry about it.
+dialogue,Janine,So we can go out again?
+dialogue,Chandler,Oh yeah!
+dialogue,Monica,Absolutely!
+dialogue,Janine,Oh good.
+dialogue,Joey,"Oh well then, good night!"
+dialogue,Monica,Good night! (They go into their respective apartments.)
+action,,"[Cut to Joey and Janine’s, they’re entering.]"
+dialogue,Joey,"See? Eh, wasn’t that fun?"
+dialogue,Janine,We have got to move!
+dialogue,Monica,"(bursting in) I knew it!! Y’know, you’re not so quiet yourself, missy!"
+dialogue,Chandler,"And I’m blah? Listen, the only thing more boring than watching modern dance is having to listen to you talk about it, (Imitating her) ""Oh Chandler, I just lost myself in the moment."""
+dialogue,Janine,"Y’know, I know you’re talking, but all I hear is, ""Blah. Blah. Blah-blah-blah."""
+dialogue,Monica,(steps up and points at her) All right! You and me! Let’s go! Right now!
+dialogue,Joey,All right! All right! Enough! Enough! Enough!! Enough! (To Chandler and Monica) You two go home! I-I-I gotta talk to Janine! (They start to leave.)
+dialogue,Chandler,(To Monica) Y’know I think you can take her.
+dialogue,Monica,(to Janine) You’d better hope I don’t see you in the hallway!! (They exit.)
+dialogue,Joey,"All right, uh, we’ve got a little bit of a problem here. These people are my friends; you can’t treat them that way."
+dialogue,Janine,"They said stuff to me too, y’know!"
+dialogue,Joey,"I know! I know! And I’m going to talk to them about it. They mean so much to me. They… They’re like my family. If you guys are gonna be fighting all the time, I-I… I don’t think we can be together. It just, it just can’t work. It can’t. (Starts to break up) I’m very upset."
+dialogue,Janine,"Okay. Okay. Would, would it help if I went over and apologized?"
+dialogue,Joey,Yeah! Yeah! That would be very helpful! Yeah. (He opens the door for her and she exits into the hallway.)
+action,,"[Cut to the hallway, Janine is entering as Monica is taking out the garbage.]"
+dialogue,Monica,What did I tell you about the hall?!
+dialogue,Janine,I was just coming over here to apologize for my behavior! I’d really like it if we could be friends.
+dialogue,Monica,"Well, I know that would make Joey happy, so, I would like that too."
+dialogue,Janine,Great.
+dialogue,Monica,"Now come on. (They hug like men.) Well, I’m glad we worked things out."
+dialogue,Janine,Me too.
+dialogue,Monica,Okay.
+dialogue,Janine,I’ll see you.
+dialogue,Monica,Bye. (Leaves to resume her garbage removal task.)
+dialogue,Janine,(muttering to herself) Or I’ll hear you.
+dialogue,Monica,(hearing that) That’s it big girl! (Hits Janine in the butt with the garbage bag) Come on!
+dialogue,Janine,"Wait! (Janine pauses, then runs down the stairs.)"
+dialogue,Monica,(chasing her) You’d better run!
+action,,(Joey and Chandler both come into the hallway.)
+dialogue,Chandler,Did you hear that?
+dialogue,Joey,"Yeah uh, what am I gonna do?"
+dialogue,Chandler,"Yeah, I’m sorry man. (Pause) You wanna go watch?"
+dialogue,Joey,Yeah! (They head downstairs.)
+action,,Ending Credits
+heading,,"[Scene: Central Perk, Ross, Chandler, and Monica are there as Joey enters.]"
+dialogue,Ross,Hey!
+dialogue,Joey,How ya doin’?
+dialogue,Chandler,"Hey so, did uh, did she move out?"
+dialogue,Joey,"Pretty much, yeah."
+dialogue,Monica,I cannot believe you broke up with her just like that.
+dialogue,Joey,"Well, when it’s not right, you know it."
+dialogue,Chandler,You okay?
+dialogue,Joey,Yeah! Yeah. I’ll be all right.
+dialogue,Ross,Y’know what would cheer you up?
+dialogue,Joey,What?
+dialogue,Ross,"I’m giving this lecture on erosion theories tomorrow night, I think you should come."
+dialogue,Joey,(laughing hysterically) You’re right! That did cheer me up!
+action,,End

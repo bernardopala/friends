@@ -1,0 +1,294 @@
+script_element,character,text
+heading,,"[Scene: The Wedding Chapel, continued from last season. Chandler and Monica are about to get married.]"
+dialogue,Chandler,Okay! (Stands up) This is it! (Claps his hands) We're gonna get married!
+dialogue,Monica,Are you sure you wanna do this?
+action,,"(Suddenly the doors burst open, and ROSS AND RACHEL COME OUT ARM-IN-ARM!!!!! And Rachel's carrying a bouquet!!! THEY GOT MARRIED!!!!)"
+dialogue,Ross,"Well, hello, Mrs. Ross! (Throws some rice.)"
+dialogue,Rachel,"Well, hello, Mr. Rachel! (Throws some more rice.)"
+action,,(They storm out into the street.)
+dialogue,Rachel,Wait! (Gets her bearings) Okay!
+action,,"(She goes one way; he goes the other. The camera pans back to Chandler and Monica, and needless to say, they're standing there dumbstruck.)"
+dialogue,Monica,Whoa!
+dialogue,Chandler,Oh my God!
+dialogue,Joey,(entering with Phoebe) Come on Pheebs! Hurry! Hurry! Hurry! Hurry!
+dialogue,Phoebe,Okay! Okay! Okay! (They run into the chapel.)
+action,,(Chandler and Monica are stunned again.)
+dialogue,Chandler,Oh my God!! Is everybody getting married?!!
+action,,(Phoebe and Joey run back out and head towards the street.)
+dialogue,Attendant,(scolding them) N-No running in the chapel!
+dialogue,Phoebe,(to her) Hey! Don’t you give me any of your—Hey! (Sees Chandler and Monica standing there.)
+dialogue,Chandler,Hey!
+dialogue,Joey,Hey!
+dialogue,Monica,What are you guys doing here?
+dialogue,Joey,Ross and Rachel left us a message saying they were getting married! Isn’t that why you guys are here?
+dialogue,Chandler,Yes! Well that-yes.
+dialogue,Monica,Why else would we be here?
+dialogue,Joey,Well! What happened?! Did we miss it?
+dialogue,Chandler,We actually missed it.
+dialogue,Phoebe,"Well, maybe you wouldn’t have had you (turns to the attendant) run in the chapel !"
+dialogue,Monica,This is insane!
+dialogue,Phoebe,"What’s the big deal, y’know? It’s not like it’s a real marriage."
+dialogue,Chandler,What?!
+dialogue,Phoebe,"Yeah, if you get married in Vegas, you’re only married in Vegas."
+dialogue,Monica,What are you talking about? If you get married in Vegas you’re married everywhere.
+dialogue,Phoebe,(shocked) Really?!
+dialogue,Monica,Yeah!
+dialogue,Phoebe,Oh my God!—Eh! Well…
+action,,Opening Credits
+heading,,"[Scene: Rachel’s hotel room, she’s waking up with a horrendous hangover.]"
+dialogue,Rachel,Ohhh! (Looks in the mirror and sees that she still has her mustache and groans.)
+action,,"(Suddenly, there’s movement beside her, startling her. It’s Ross! He wakes up and they both start screaming in terror. Then they both grab their heads having aggravated their hangovers.)"
+dialogue,Ross,Why are we in bed together?
+dialogue,Rachel,I don’t know. Do-do you have any clothes on?
+dialogue,Ross,(checks) Yeah.
+dialogue,Rachel,Really?!
+dialogue,Ross,"No! But we-we didn’t have…sex-uh, did we? I mean, I don’t remember much about last night, it was such a blur."
+dialogue,Rachel,Oh! I remember laughing! I laughed a lot.
+dialogue,Ross,And we didn’t have sex.
+action,,(Rachel agrees with him and starts to get out of bed.)
+dialogue,Rachel,"Ohh, I mean, we were really drunk. I’m just glad we didn’t do anything stupid."
+dialogue,Ross,"(getting up) Tell me about it. (He sits up on the edge of the bed and has ""Just Married"" written on his back.)"
+heading,,"[Scene: The breakfast buffet, Phoebe is already sitting at the table as Joey enters.]"
+dialogue,Joey,"Mornin’ Pheebs. (Sits down.) Well, my movie has officially been canceled."
+dialogue,Phoebe,"Oh Joey, I’m so sorry. You want some of my breakfast?"
+dialogue,Joey,"Nah, I’m too depressed to eat. I’ll probably eat in like 5 minutes. So I guess I’ll just fly home with you guys, what time’s your flight?"
+dialogue,Phoebe,What about my cab?
+dialogue,Joey,I don’t need that anymore.
+dialogue,Phoebe,"No, Joey! You borrowed my cab; you have to drive it back."
+dialogue,Joey,"I don’t want to drive all the way back by myself, I get so lonely. (Gets an idea.) Oh—ooh! How about you come with me?"
+dialogue,Phoebe,"I don’t know, it’s such a long trip."
+dialogue,Joey,"It’ll be great! We-we could talk, and play games! Huh? This could be our chance to like renew our friendship."
+dialogue,Phoebe,Are you asking me to have a frenaissance?
+dialogue,Joey,Sure?
+dialogue,Phoebe,"All right. Although I don’t think we need one, I never stopped loving you."
+action,,(Chandler and Monica enter.)
+dialogue,Chandler,Hi!
+dialogue,Joey,Hey.
+dialogue,Monica,Hey.
+dialogue,Chandler,"So, has anyone talked to Dr. and Mrs. Geller yet?"
+dialogue,Phoebe,"Um-hmm, yeah. They left me a message; they should be here any minute."
+dialogue,Joey,Where is the waitress?! I’m starving!
+dialogue,Chandler,It’s a buffet man.
+dialogue,Joey,"Oh, here’s where I win all my money back! (Gets up and heads for the buffet table with Chandler in tow.)"
+dialogue,Chandler,"Listen, I gotta talk to you."
+dialogue,Joey,Sure! What’s up? (He grabs a plate and proceeds to load it with a huge pile of scrambled eggs. Chandler just stares at him and Joey reluctantly gives him a spoonful.)
+dialogue,Chandler,Monica and I almost got married last night.
+dialogue,Joey,"Oh my God! That’s huge! (Hugs him.) Wait a minute, why come I wasn’t invited? And who was going to be your best man? Don’t say, ""Ross."" Do not say, ""Ross."""
+dialogue,Chandler,"Look, I just don’t think Monica and I are ready to get married yet! Y’know? I mean, I love her and everything but seeing Ross and Rachel coming out of that chapel was like a, like a wake-up call that Monica and I are moving so fast. Y’know? And, how do I tell her without crushing her?"
+dialogue,Joey,Oh! Tell her she’s not marriage material.
+dialogue,Chandler,What?!
+dialogue,Joey,"Girls say it to me all the time! And believe me, if she’s anything like me, she’s just gonna be relieved."
+action,,[Pan to Monica and Phoebe having the same conversation.]
+dialogue,Monica,"How do I tell Chandler that it’s too soon. It’s gonna break his heart, he’s not gonna think that I don’t love him anymore."
+dialogue,Phoebe,Well you don’t.
+dialogue,Monica,Yes I do!
+dialogue,Phoebe,Good! Good! I was just testing you.
+dialogue,Chandler,(returning with Joey) Hi.
+dialogue,Monica,"Oh hi! Hi! Y’know, we were just talking about bacon."
+dialogue,Phoebe,"No, we were talking about tennis. Tennis is more believable."
+action,,(Ross and Rachel enter.)
+dialogue,Ross,Hey!
+dialogue,The Girls,Hey!
+dialogue,Chandler,Hey!
+action,,(They both sit down and Rachel pours them both some coffee. They’re acting like nothing’s happened and everyone is just staring at them.)
+dialogue,Ross,What?
+dialogue,Chandler,Are we gonna talk about what you guys did last night? Or…
+dialogue,Rachel,"(To Ross) I don’t know. (To the gang.) What do you mean last night? Nothing, nothing uh, happened last night."
+dialogue,Ross,Yeah!
+dialogue,Phoebe,Uh-huh! Ross invited us all to watch.
+action,,(Rachel turns to Ross stunned.)
+dialogue,Monica,Rach! We weren’t gonna miss our friends getting married!
+dialogue,Rachel,(gasps) Who got married?! (Ross is as surprised to hear this as she is.)
+dialogue,Chandler,(not quite sure) You did.
+dialogue,Ross,What?! Hello! We didn’t get married.
+dialogue,Rachel,"No, we didn’t get married! That’s ridiculous!"
+action,,(They turn to look at each other and suddenly remember that they did in fact get married.)
+dialogue,Ross,We-we-we—I remember being in a chapel.
+dialogue,Rachel,Oh my God.
+dialogue,Ross,I—They would not let us get married when we were that drunk!
+dialogue,Rachel,No!
+dialogue,Joey,They let you get married when you’re drunk! Most people who get married in Vegas are drunk!
+dialogue,Phoebe,"Hell, I’m drunk right now! (They all turn and look at her.) What? I can’t have a mimosa with breakfast?! I’m on vacation!"
+dialogue,Monica,What are you guys gonna do?
+dialogue,Rachel,"Well, I guess we just find a divorce lawyer? (Looks at Ross.)"
+dialogue,Chandler,"Well, I think, I think, Ross already has one. Now, this one’s free, right? Because you paid for the first two, so the third one’s free."
+dialogue,Ross,"Laugh it up, but the joke’s on you. Because we don’t need to get divorced, okay? We we’re just gonna get an annulment."
+dialogue,Joey,An annulment? Ross! I don’t think surgery’s the answer here.
+dialogue,Phoebe,"Oh-oh, that’s your thing."
+dialogue,Ross,What?
+dialogue,Phoebe,You’re thing. You’re thing. Y’know? You’re the guy who gets divorced.
+dialogue,All,Oh yeah!
+dialogue,Ross,"No-no, that’s-that’s not my thing! I do not love getting divorced!"
+dialogue,Phoebe,"Yes you do! This is your third divorce! You love divorce so much you’re probably gonna marry it! Then it won’t work out and you’re gonna have to divorce it, divorcing guy. (Pause) I’m so drunk."
+heading,,"[Scene: The casino floor, Chandler and Monica are walking through it.]"
+dialogue,Monica,"So, what do you think we should do?"
+dialogue,Chandler,I don’t know. But I-I-I know I love you!
+dialogue,Monica,I know I love you! (They hug.)
+dialogue,Chandler,So where are we on the whole going back to the place where they have all the marriages thing? I love you.
+dialogue,Monica,"That’s a good question. Look umm, last night we let the dice decide. Maybe we should leave it up to fate again. I love you!"
+dialogue,Chandler,"Yes, we don’t get married unless there’s a sign! Okay, so say uh, say you roll another eight (motions to the craps table) then there’s a definite sign that we should get married."
+dialogue,Monica,"All right, eight we get married, but 2, 3, 4, 5, 6, 7, 9, 10, 11, 12 we don’t get married."
+dialogue,Chandler,Sounds great.
+dialogue,Monica,Okay. (They approach the craps table.)
+dialogue,Croupler,"Coming in, we got a shooter! Money please."
+dialogue,Monica,Ready?
+dialogue,Chandler,Ready!
+dialogue,Monica,(sarcastic) Come on eight.
+dialogue,Chandler,"(deadpan) Yes, yes eight."
+action,,(Monica rolls the dice.)
+dialogue,Croupler,Eight! Easy eight. (She rolls a 3 and a 5 and they’re stunned.)
+dialogue,Monica,Wow! I can’t believe I actually rolled an eight.
+dialogue,Chandler,"That was so unlikely. Well, let’s get married! I guess."
+dialogue,Monica,Wait a minute. That wasn’t a hard eight! Last night I rolled a hard eight.
+dialogue,Chandler,"That’s right! It was the wrong kind of eight, no wedding! Damnit!"
+dialogue,Monica,I wanted it so bad! (Pause) Wanna go pack?
+dialogue,Chandler,"Yeah. (They go pack.) We’re doing the right thing, right?"
+dialogue,Monica,"Ohh, of course we are! (They walk up to the elevators.) We left it up to fate. (Pushes the elevator button.) If we were supposed to get married there would be a clear-cut sign. (The elevator door opens to a priest reading from a bible with Chandler and Monica standing side-by-side holding each other’s hands.)"
+heading,,"[Scene: Phoebe’s cab, Phoebe and Joey are driving back. Phoebe is driving while Joey is sleeping.]"
+dialogue,Phoebe,"Okay, you have 19 questions left. Use them wisely. (Joey groans.) Come on Joey! You can’t win if you don’t ask any (sees that he’s asleep) QUESTIONS !!!"
+dialogue,Joey,(wakes up) What?!
+dialogue,Phoebe,"Well, you promised me a fun road trip! We’ve been on the road six hours and you’ve been asleep for five and a half! We are switching at the next rest stop and you are going to drive all the way back! That will be your punishment, you greedy sleeper!"
+dialogue,Joey,All right. All right.
+dialogue,Phoebe,Yeah! And until then you are going to sing to me because the radio’s broken and you are selfish but have a nice voice.
+dialogue,Joey,Really? I don’t…
+dialogue,Phoebe,Sing!!
+dialogue,Joey,(starts singing) I wanna rock and roll all night ! (Falls asleep.)
+action,,"[Time lapse, Phoebe is asleep, Joey’s driving and having a hard time staying awake.]"
+dialogue,Joey,"(to himself) Man, this is a long drive! Are my eyes open? No! (He opens his eyes and sees a hitchhiker.)"
+action,,"[Time lapse, Phoebe is still asleep only Joey is now passed out next to her and the car’s still moving. She wakes up, sees Joey, and screams.]"
+dialogue,Hitchhiker,(driving) Morning! (Phoebe screams again.)
+heading,,"[Scene: Central Perk, Rachel is on the couch as Ross enters.]"
+dialogue,Ross,Hey!
+dialogue,Rachel,"Hey, hubby!"
+dialogue,Ross,"Yeah. Yeah, actually um, I wanted to talk to you about that whole annulment thing?"
+dialogue,Rachel,Uh-huh.
+dialogue,Ross,I’m not going to do that. (Rachel glares at him.)
+action,,Commercial Break
+heading,,"[Scene: Central Perk, continued from earlier. Rachel starts laughing.]"
+dialogue,Rachel,"Okay! So, we’ll just stay married."
+dialogue,Ross,"Yes, exactly!"
+dialogue,Rachel,And I will make everyone call me Mrs. Geller!
+dialogue,Ross,"Wow! This is so amazing. I uh, I really thought I’d have to talk you into this more."
+dialogue,Rachel,"Okay, see now I’m scared because I don’t actually think you’re kidding."
+dialogue,Ross,"I’m-I’m not kidding. Look I-I, I can’t have three failed marriages. I can’t. Okay? I-I am not gonna be that guy!"
+dialogue,Rachel,What-wh-what so we’ll just stay married forever?!
+dialogue,Ross,"Okay, look, how is this gonna affect you? Really? I mean you fill some form out once and a while and instead of checking the box that says Ms you check the box that says Mrs.! It’s right next to it!"
+dialogue,Rachel,"Ohh, okay, I’m sorry. You’re right. Y’know what? We absolutely can stay married, because I was under the impression that the boxes were far away from each other. All right, look, just please, take a moment here and think about what you’re asking of me."
+dialogue,Ross,I’m asking you to do me a favor.
+dialogue,{Note,"Does anyone else want to smack Ross right about now? Raise your hands. Okay, put them down before you stink out the person next to you.}"
+dialogue,Rachel,You are asking me to be your wife!
+dialogue,Ross,And as my wife I think you should grant me this favor.
+heading,,"[Scene: The hallway, Chandler is helping Monica to the door.]"
+dialogue,Monica,That kid really kicked me hard on the plane.
+dialogue,Chandler,Well you did pull his hair.
+dialogue,Monica,He took my snack!
+dialogue,Chandler,I’m not getting into this again!
+dialogue,Monica,"Okay! Oh God, y’know what? It’s really bad."
+dialogue,Chandler,"Well, I told you not to walk. Here. (Picks her up.) There. Okay. (He opens the door, carries her across the threshold, stops, backs out, and lets go of Monica who is only holding on by his neck.)"
+dialogue,Monica,"This doesn’t mean anything, does it?"
+dialogue,Chandler,No!
+dialogue,Monica,Okay.
+heading,,"[Scene: Phoebe’s cab, she’s driving, Joey’s in the back seat, and the hitchhiker is riding up front with Phoebe.]"
+dialogue,Phoebe,"(To Joey) How could you pick up a hitchhiker?! He could be a rape—(She holds her hand in front of the hitchhiker’s face), a rapist or a killer or something!"
+dialogue,Joey,Don’t you think I asked him that before he got in?!
+dialogue,Phoebe,"Y’know what? I’m not talking to you! You go back to sleep! (To the hitchhiker) And you, are you a rapist?!"
+dialogue,Hitchhiker,No!
+dialogue,Phoebe,Do you like car games?
+dialogue,Hitchhiker,"Yeah, y’know the license plate game?"
+dialogue,Phoebe,I love the license plate game!
+dialogue,Joey,"Ooh, I’ll play! I’ll play!"
+dialogue,Phoebe,No-No! You need your sleep. Night-night! Shh! (She closes the partition.)
+heading,,"[Scene: Monica and Rachel's, Ross is entering.]"
+dialogue,Ross,Hey!
+dialogue,Rachel,Hey!
+dialogue,Ross,"Listen, I know you wanted to talk to me, but I have an idea that may make you want to stay married. (Rachel shakes her head.) We register, and you get to keep all the presents!"
+dialogue,Rachel,"(thinks about it for a second) No! Ross, come on! No! Listen, look I thought a lot about how to tell you this and the bottom line, Ross, is we can not stay married."
+dialogue,Ross,I don’t know if it’s true.
+dialogue,Rachel,Oh b-b-but it is!
+dialogue,Ross,"Oh, okay, y’know what this is? This is a difference of opinion. And when that happens in a marriage..."
+dialogue,Rachel,"Oh Ross, come on! This is not, this is not a marriage!! This is the world’s worst hangover! Ross, listen, if you do not get this annulment, I will!"
+dialogue,Ross,"All right. All right, I’ll do it."
+dialogue,Rachel,"Thank you. (He goes to leave.) Hey-hey umm, uh, is there, is there any such thing as an annulment shower?"
+action,,(Ross turns and leaves.)
+heading,,"[Scene: Phoebe’s cab, it’s the same arrangement as before.]"
+dialogue,Hitchhiker,Wait! Wait! There is the train station!
+dialogue,Phoebe,"Oh, okay."
+dialogue,Hitchhiker,"This is where I get off. Well, I have your address and phone number."
+dialogue,Phoebe,"And I have your name and the fact that you’re a drifter, so the ball’s pretty much in your court."
+dialogue,Hitchhiker,"All right, see ya Pheebs. (Gets out and Phoebe drives away.)"
+dialogue,Joey,"Come on Pheebs! I can’t take this anymore! Let-let me make it up to you. Huh? (Starts singing.) Ground control to Major Tom. Commencing countdown, engines on. Take your protein pills and put your helmet on !"
+dialogue,Phoebe,Stop it! Stop it no! That’s not fair! Y’know I can’t resist that beautiful voice!
+dialogue,Joey,"Pheebs, I am so sorry! I know I promised you a fun road trip with your friend and I didn’t deliver. But-but-but now I know that you think being awake is an important part of friendship! So, so, so I will strive to-to stay awake for as long as I know you."
+dialogue,Phoebe,You can still sleep at night and stuff.
+dialogue,Joey,"Well, thank you. So, can we play 20 Questions now? I’ve got a really good one! I’ve been thinking about it since Kansas."
+dialogue,Phoebe,Okay. Is it a kind of hot sandwich?
+dialogue,Joey,Yes.
+dialogue,Phoebe,Is it a meatball sub?
+dialogue,Joey,That is incredible! You are the master!
+heading,,"[Scene: Monica and Rachel's, Chandler and Monica are there and Rachel is arranging a bouquet of flowers, pricks her finger on a thorn, throws the bouquet over her head, and those you who are quicker than some already know that Monica is the one who catches it.]"
+dialogue,Rachel,"Huh, that’s funny. You look like you’re gonna be the…"
+dialogue,Monica,"No, don’t say it! Don’t even think it!"
+dialogue,Rachel,"All right. Okay Chandler, enjoy your handful. (Exits.)"
+dialogue,Chandler,"All right, should we just, should we just get married? Y’know? I mean should we just do it? All the signs are telling us to do it."
+dialogue,Monica,"I’m sick of the signs! It’s too fast, I’m happy the way things are!"
+dialogue,Chandler,Me too!
+dialogue,Monica,I don’t want things to change! Do you?
+dialogue,Chandler,No!
+dialogue,Monica,"All right then, then nothing changes! Everything is great! Everything stays the same! And you go unpack because it’s been three days and it’s driving me insane!"
+dialogue,Chandler,"Jeez, relax! It’s not like we’re mar-ah-ah!! (Runs out.)"
+dialogue,Chandler,"(entering, slowly) Y’know I was thinking, what if I uh, unpack here?"
+dialogue,Monica,Then all your stuff would be here.
+dialogue,Chandler,"Well, what if all my stuff was here?"
+dialogue,Monica,"Then you’d be going back and forth all the time, I mean it doesn’t make any sense."
+dialogue,Chandler,Okay. What if we lived together and you understand what I’m saying?
+dialogue,Monica,Live together? There have been no signs for that.
+dialogue,Chandler,Me asking is kind of a sign.
+dialogue,Monica,YES !!!!!!!!
+dialogue,Chandler,Okay!!!!!
+action,,"(And the crowd goes wild! Well, at least the live studio audience.)"
+dialogue,Monica,Yes! Okay! Okay! Wait-wait-wait!
+dialogue,Chandler,Okay.
+dialogue,Monica,Here’s your key (Gets him one.)
+dialogue,Chandler,Oh thanks.
+dialogue,Monica,"Here’s your key. All right, you have to christen it! Now, go out and come back in!"
+dialogue,Chandler,"The door hasn’t been locked in five years, but okay! (Runs out.) Ready?!"
+dialogue,Monica,Ready!
+action,,"(He tries, but something happens.)"
+dialogue,Chandler,"Okay, a little problem. The key broke in the lock and I can’t get in!"
+dialogue,Monica,Wait! Oh my God! I can’t get out!
+dialogue,Chandler,This is not a sign!
+dialogue,Monica,"No, it’s not a sign! It’s a very old key!"
+dialogue,Chandler,It’s an old key!
+dialogue,Monica,Oh my God it’s old!
+dialogue,Chandler,I love you!
+dialogue,Monica,I love you!
+dialogue,Chandler,Are you hugging the door right now.
+action,,(Pause)
+dialogue,Monica,No.
+dialogue,Chandler,"Yeah-yeah, me neither."
+heading,,"[Scene: Central Perk, Rachel and Phoebe are on the couch as Ross enters.]"
+dialogue,Ross,Hey!
+dialogue,Rachel,"Hey, so did everything go all right with the annulment?"
+dialogue,Ross,"Oh, yeah, no problems. It’s all taken care of."
+dialogue,Rachel,"Ross, thank you. Hey, do you guys wanna go see a movie?"
+dialogue,Ross,"Oh yeah, why not?"
+dialogue,Rachel,Pheebs?
+dialogue,Phoebe,"No thanks, I’ve already seen one."
+dialogue,Rachel,"Okay, umm, I’m gonna get my sweater. (Walks away.)"
+dialogue,Ross,"Okay. (Sits down next to Phoebe.) You uh, you wanna hear something weird?"
+dialogue,Phoebe,Always.
+dialogue,Ross,I didn’t get the annulment.
+dialogue,Phoebe,What?!
+dialogue,Ross,We’re still married! Don’t tell Rachel. See you later. (He gets up leaving Phoebe in shock.)
+action,,Ending Credits
+heading,,"[Scene: The hallway, Joey is coming up the stairs and sees Chandler trying to open the lock.]"
+dialogue,Joey,What are you doing?
+dialogue,Chandler,The key’s stuck in the lock.
+dialogue,Joey,I can fix it. Hold on. (He goes and gets a screwdriver from his apartment) Look out. Look out. (Pries at the door a little bit.)
+dialogue,Chandler,(trying the handle) It still doesn’t work.
+dialogue,Joey,I’m not finished.
+dialogue,Chandler,Oh.
+action,,"(Joey goes back into the apartment, runs back into the hallway, throws his shoulder against the door, and knocks it down off it’s hinges.)"
+dialogue,Chandler,Nice job Joe! You’re quite the craftsmen.
+action,,(Joey pats him on the stomach and heads to bed.)
+action,,End

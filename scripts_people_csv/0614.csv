@@ -1,0 +1,290 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's, Rachel is still looking out the window as Joey enters.]"
+dialogue,Joey,"(sees Rachel) Oh, uh, hey Rach. I uh, I was just coming over here to uh… Oh wait, I don’t have to lie to you, you don’t live here anymore. Uh, I’m eating their food. What are you doing?"
+dialogue,Rachel,Ross is on a date with my sister and they shut the drapes two and a-half-hours ago.
+dialogue,Joey,"Whoa, I didn’t know we could date your sister!"
+action,,(Chandler and Monica enter from their room and Joey quickly hides the bag of potato chips behind his back.)
+dialogue,Monica,Joey we know you steal our food.
+action,,(Joey offers them some potato chips.)
+dialogue,Chandler,I’m good.
+dialogue,Monica,"(To Rachel) Oh, are the drapes still closed hon?"
+dialogue,Rachel,Yeah. And y’know who should’ve shut their drapes? Is that perverted old couple two doors over.
+dialogue,Chandler,(looking) Is that a swing?
+dialogue,Rachel,Oh don’t even ask!
+dialogue,Chandler,Yuck!
+dialogue,Joey,I can’t believe Ross went out with Rachel’s sister! When Chandler made out with my sister I was mad at him for 10 years.
+dialogue,Chandler,That was like 5 years ago.
+dialogue,Joey,Yeah you got 5 years left!
+dialogue,Chandler,Joey…
+dialogue,Joey,You wanna make it 6?!
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Ross is on the couch reading as Rachel enters. It’s the next day.]"
+dialogue,Rachel,"Oh Ross, hi! Hey, how are ya? There you are!"
+dialogue,Ross,Hey!
+dialogue,Rachel,(to Gunther) I’ll take a coffee. (To Ross) So how was your big date last night?
+dialogue,Ross,"Uhh, it was okay. Yeah, it was fun."
+dialogue,Rachel,"Yeah fun? Great! So uh, so did you guys hit it off?"
+dialogue,Ross,I guess so.
+dialogue,Rachel,"So uh, so did anything happen? Because rumor has it you guys shut the drapes!"
+dialogue,Ross,"No. No. Nothing happened. I shut the drapes to uh, show her slides of my favorite fossils."
+dialogue,Rachel,"Oh, slides. (Laughs.) So really nothing happened."
+dialogue,Ross,Something could’ve happened. All right? She-she really dug my slides. And-and she was definitely giving me the vibe.
+dialogue,Rachel,"Right. Was it the, ""Please don’t show me another picture of a trilobite vibe?"""
+dialogue,Ross,"Anyway, if she, if she wasn’t in to me, why-why would she ask me out again?"
+dialogue,Rachel,She asked-asked you out again?
+dialogue,Ross,"Yeah-uh-huh. Tomorrow night, Valentine’s Day, the most romantic day of the year. Who knows what could happen? I might not be shutting my drapes to show her my slides, if you know what I mean."
+dialogue,Rachel,"Okay-okay-okay-okay-okay-okay-okay! I got it! I got it! I got it! I can’t! I can’t! I can’t! I cannot go with you and my sister thing. Okay? I just can’t. It’s just too weird, all right? I imagine the two of you together and I freak out. It freaks me out. I can’t do it! I can’t do it."
+dialogue,Ross,"(while Rachel is finishing her rant) Okay! Okay! Okay! It’s okay. (Rachel stops.) It’s okay. Hey, it’s too weird for you, I won’t see her again."
+dialogue,Rachel,Thank you. I…yeah.
+dialogue,Ross,I mean after tomorrow night.
+dialogue,Rachel,"No-no-no! No-no-no! Please Ross, I can’t! I can’t do it! (Starts to freak out.) It’s just gonna freak me out!!!"
+dialogue,Ross,Okay! Okay! Ooh-hey-hey-hey! Okay! Okay! Okay! I’ll-I’ll tell her tonight I can’t see her anymore.
+dialogue,Rachel,Ross thanks.
+dialogue,Ross,You want me to call her right now?
+dialogue,Rachel,"Oh no! No! No-no-no-no! No, I mean come on that’s-that’s crazy—I mean that’s crazy. So what’s-what’s going on with you? What is going on with you?"
+dialogue,Ross,"Well umm, oh! I might be teaching another class this semester!"
+dialogue,Rachel,"Yeah do it now, call right now."
+heading,,"[Scene: Monica and Chandler's, Chandler, Monica, Phoebe, and Joey are watching ET .]"
+dialogue,Monica,(crying) This is my favorite part.
+dialogue,Phoebe,(crying) Yeah me too.
+action,,(We see the TV and it’s the last scene where ET is saying goodbye.)
+dialogue,Phoebe,Oh y’know what’s sadder than this? Bambi . I cried for three days with that movie. No wait two! Because on the third day my mother killed herself so I was partly crying for that.
+dialogue,Chandler,"(totally not crying) Well see now that I can see crying over, but Bambi is a cartoon!"
+dialogue,Joey,(crying) You didn’t cry when Bambi’s mother died?
+dialogue,Chandler,Yes it was very sad when the guy stopped drawing the deer!
+dialogue,Monica,Chandler there’s nothing wrong with crying! I mean you don’t have to be so macho all the time.
+dialogue,Chandler,I’m not macho.
+dialogue,Monica,Yeah you’re right. I don’t know what I was thinking.
+dialogue,Chandler,"No, I guess I just never really cried. Y’know? I’m not a crying kind of guy."
+dialogue,Joey,"Come on man there’s gotta be something that gets you choked up! Like uh, uh oh, what if you saw a three-legged puppy?"
+dialogue,Chandler,"I’d be sad sure, but I wouldn’t cry."
+dialogue,Joey,"Okay, what if the puppy said, ""Help me Chandler. All the other puppies pick on me."""
+dialogue,Chandler,"Cry?! I just found a talking puppy, I’m rich!"
+dialogue,Monica,"Oh, I’ve got it! I have got it! (Gets up and gets something from the dresser underneath the TV.) Pictures from your childhood. This will get you going good!"
+action,,(Chandler starts paging through the album.)
+dialogue,Phoebe,"All right, what’s going on there? (Points to a picture.)"
+dialogue,Chandler,"Oh, that’s Parent’s Day, first grade. That’s me with the janitor Martin."
+dialogue,Monica,Where were your parents?
+dialogue,Chandler,Oh they didn’t want to come!
+dialogue,Phoebe,Oh Chandler!
+dialogue,Monica,Poor thing!
+dialogue,Phoebe,So that story doesn’t make you cry?
+dialogue,Chandler,"No! Look, I don’t cry! It’s not a big deal! Okay?!"
+dialogue,Joey,No! It’s not okay! It’s not okay at all!! You’re dead inside!!
+heading,,"[Scene: Central Perk, Phoebe is putting away her guitar as a man approaches.]"
+dialogue,The Fan,Excuse me.
+dialogue,Phoebe,Yeah?
+dialogue,The Fan,Are you Phoebe Buffay?
+dialogue,Phoebe,Yeah.
+dialogue,The Fan,"Can-can I get your autograph, I’m your biggest fan. (Holds out a napkin and a pen.)"
+dialogue,Phoebe,Oh you’re my biggest fan? I’ve always wanted to meet you! Hi! (Shakes his hand.) Sure! Yeah! (Signs the autograph)
+dialogue,The Fan,"Wow! Wow, thanks a lot! I just wanna say, I think you’re really talented."
+dialogue,Phoebe,"You’re just saying that because you’re my biggest fan. (The fan leaves and Joey approaches.) (To Joey) Joey listen, take good care of that guy, okay? (Points) He’s a fan. (To the fan as she’s leaving) Bye! (Exits)"
+dialogue,Joey,"(to the fan) So, you saw me on Days Of Our Lives huh? Want me to, want me to do a little Dr. Drake Remoray for ya?"
+dialogue,The Fan,"I have no idea what you’re talking about. But I, but I just got Phoebe Buffay’s autograph!"
+dialogue,Joey,"Oh, you’re Phoebe’s fan!"
+dialogue,The Fan,Oh yeah! I’ve seen all her movies.
+dialogue,Joey,Movies?
+dialogue,The Fan,"That was Phoebe Buffay, the porn star."
+dialogue,Joey,(laughs) I don’t think so.
+dialogue,The Fan,"No-no, it was! She was in Sex Toy Story 2, Lawrence of Alabia, and I got her autograph! The guys at the comic book store aren’t gonna believe this! (Exits.)"
+dialogue,Joey,"Hey Gunther, don’t let that guy in here anymore! He just said Phoebe’s a porn star!"
+dialogue,Gunther,"Well, I wouldn’t call her a star, but she’s really good. You should check out Inspecther Gadget."
+heading,,"[Scene: Central Perk, time lapse, Rachel is at the counter as Jill enters.]"
+dialogue,Jill,Hey!
+dialogue,Rachel,Hey!
+dialogue,Jill,"You’ll never believe what just happened, Ross just totally blew me off and he didn’t even tell me why!"
+dialogue,Rachel,Ohhh well. Y’know what honey? The best thing to do to get over a guy is to start dating someone else. Oh! There is this great guy you will love at work named Bob! He’s a real up-and-comer in Human Resources.
+dialogue,Jill,"Y’know, thanks for trying to cheer me up, but I’m not gonna date some random guy from your work."
+dialogue,Rachel,"It’s not random, it’s Bob."
+dialogue,Jill,It’s probably because not mature enough. Or smart enough. Maybe he doesn’t like the way I dress—No that can’t be it. It’s really gotta be the smart thing. Oh I’m so stupid! I’m just like this incredibly pretty stupid girl!
+dialogue,Rachel,"No honey, okay, okay, you wanna know why Ross canceled the date? Because I asked him to."
+dialogue,Jill,You asked him too?!
+dialogue,Rachel,Hm-mmm.
+dialogue,Jill,Why?!
+dialogue,Rachel,Because you are my sister and Ross and I have this huge history…
+dialogue,Jill,"I don’t understand, do you want to go out with Ross?"
+dialogue,Rachel,No.
+dialogue,Jill,"You don’t want him, but you don’t want me to have him?"
+dialogue,Rachel,(changing the subject) Y’know Bob in Human Resources…
+dialogue,Jill,Ugh! I cannot believe you did this too me! You had me doubting how smart I was! (Gasps) You had me doubting my fashion sense!
+dialogue,Rachel,"Look, this is not that big of a deal! You just don’t date Ross! There’s a million other guys out there, you just…"
+dialogue,Jill,Hey! You have no right to tell me what to do.
+dialogue,Rachel,I’m not telling you what to do! I am telling you what not to do!
+dialogue,Jill,Why are you so jealous of me?
+dialogue,Rachel,Jill this is not about me being jealous of you! This is about you being a brat! Wanting what you can’t have!
+dialogue,Jill,"Can’t have?! Excuse me, the only thing I can’t have is dairy ! (Starts to storm out.)"
+dialogue,Rachel,"All right, all right, well you just blew your chances at dating Bob!"
+dialogue,Jill,Who?!
+dialogue,Rachel,In Human Resources !!!!!!
+heading,,"[Scene: Monica and Chandler's, Rachel is ranting about Jill to Chandler and Monica.]"
+dialogue,Rachel,…I am jealous of her?! I mean who does she think she is?! Princess Caroline?!
+dialogue,Monica,You’re jealous of Princess Caroline?
+dialogue,Rachel,Do I have my own castle?
+action,,(Joey and Ross enter.)
+dialogue,Ross,"Hey! Uh, Phoebe’s not here is she?"
+dialogue,Rachel,No.
+dialogue,Monica,(noticing the bag Joey’s carrying) Oh great! Did you get a movie?
+dialogue,Joey,"Uhhh, yeah. Yeah. But uh, I don’t think it’s the kind you’re gonna like."
+dialogue,Chandler,You didn’t get more movies that are gonna have us reaching for the tissues all night did you?
+action,,(Joey and Ross exchange looks.)
+dialogue,Joey,Sort of…
+dialogue,Monica,"Guys, what’s going on?"
+dialogue,Joey,(holds up the movie) Phoebe’s a porn star!
+dialogue,All,What?!!
+action,,"(They all run over to Joey and Ross, Chandler grabs the movie and reads the title.)"
+dialogue,Chandler,Phoebe Buffay in Buffay: The Vampire Layer.
+dialogue,Rachel,Oh my God!
+dialogue,Monica,That’s Phoebe! Where did you get that?
+dialogue,Joey,Well down at the adult video place down on Bleaker.
+dialogue,Ross,"And-and I, and I saw that Joey was about to go in, so I ran in ahead of him to-to surprise him and, and then I pretended I didn’t know he was in there. (They all kinda look at him.)"
+dialogue,Rachel,"Wow! I mean, I just—I can’t, I can’t believe this. Y’know, I mean you think you know someone even, even Phoebe who’s always been somewhat of a question mark."
+dialogue,Monica,"This is so bizarre. I guess it kinda makes sense though, y’know she had such a terrible childhood."
+dialogue,Chandler,"Hey, I had a terrible childhood and I don’t do porn."
+dialogue,Monica,"Yes, but you are dead inside."
+dialogue,Joey,"All right well, I’d better take that back."
+dialogue,Monica,"Wh-what, why?"
+dialogue,Joey,We can’t watch that! I mean that’s Phoebe!
+dialogue,Monica,"Yeah you’re right, we can’t—we shouldn’t watch this."
+dialogue,Rachel,Absolutely not.
+dialogue,Monica,"(hands the tape back to Joey, but doesn’t let him grab it) Y’know maybe a little bit!"
+dialogue,Rachel,Probably just the first half.
+dialogue,Joey,"No! Hey no! This is wrong you guys! Phoebe’s our friend! Well, I’m not gonna watch it!"
+dialogue,Ross,Yeah! Good for you Joe!
+dialogue,Joey,Yeah.
+action,,"(Ross stands next to him for a second, then goes and watches the movie.)"
+action,,"(The movie starts, it’s a vampire’s lair and Buffay, The Vampire Layer enters dressed in leather and carrying a wooden stake. Suddenly, the vampire opens his coffin and sits up."
+dialogue,"Buffay, the Vampire Layer","Ah, I thought I’d find you here, Nasforatool."
+dialogue,The Vampire,"Buffay, are you going to plunge your stake into my dark places?"
+dialogue,"Buffay, the Vampire Layer","Actually, I was kinda hoping it would be the other way around."
+action,,"(At this point, Buffay, the Vampire Layer and Nasforatool start to get it on. Of course, since this is network TV, we can only see the reactions of the gang to the film playing off screen.)"
+dialogue,Monica,Hold on a second! What is that on her ankle?
+dialogue,Chandler,Her ankle is what you’re watching?
+dialogue,Rachel,"Well it’s hard to tell… (Rachel gets up to get a closer look, only she’s having some trouble.) Oh God, if she would just stop moving."
+dialogue,Chandler,She’s just doing her job!
+dialogue,Joey,(sitting at the kitchen table with his back to the TV) You sick bastards!
+dialogue,Rachel,"Oh, it’s a tattoo! That’s weird, Phoebe doesn’t… Wait that’s Ursula! That’s not Phoebe that is Ursula!"
+action,,"(Upon hearing this, Joey can’t turn his chair around fast enough and knocks it over.)"
+dialogue,Joey,Re! Re! Then I can watch that! Rewind it! Rewind it!
+dialogue,Phoebe,(entering) Hey! What’s up? (Sees the TV) Oh my God! What am I doing?!!
+action,,Commercial Break
+heading,,"[Scene: Monica and Chandler's, Chandler is reading Chicken Soup for the Soul as Monica enters.]"
+dialogue,Monica,Hey sweetie!
+dialogue,Chandler,"Hey! (He quickly tries to hide the book by throwing it under the couch, only the couch has no back and it slides into the kitchen.)"
+dialogue,Monica,(picking up the book) Chicken Soup for the Soul ?
+dialogue,Chandler,There’s no back to this couch!
+dialogue,Monica,Why are you reading this? You hate this kind of stuff.
+dialogue,Chandler,"Yeah I know, but I figured a shot y’know? Maybe one of those stories would make me cry and then you wouldn’t think I was y’know, all dead inside."
+dialogue,Monica,"Oh that’s so sweet! Look Chandler I don’t care if you can’t cry, I love you."
+dialogue,Chandler,Oh that makes me feel so warm in my hollow tin chest.
+dialogue,Monica,Stop it!
+dialogue,Chandler,"No, I mean, come on, seriously think about it, we get married, we’re up at the altar and I’m like this. (Makes a bored face.)"
+dialogue,Monica,"I won’t care, because I know you will be feeling it all in here. (Points to her heart.)"
+dialogue,Chandler,Yeah?
+dialogue,Monica,"Yeah! And if, and if we have a baby one-day, and the doctor hands it to you in the delivery room and you don’t cry, so what! And-and-and, and if we take him to college and come home and see his empty room for the first time, and you got nothing, it won’t matter to me."
+dialogue,Chandler,"Okay, well I won’t uh, worry about this anymore then."
+dialogue,Monica,"And-and-and if I die, from a long illness. And you’re writing out my eulogy and you open a desk drawer and you find a note from me that says, ""I will always be with you,"" and you still can’t shed one tiny tear, I know you’ll be crying a river inside."
+dialogue,Chandler,"Aww, I love you so…"
+dialogue,Monica,What is wrong with you?!!!
+dialogue,Chandler,What?!
+dialogue,Monica,"What?! You can’t shed a tear for your dead wife!! Now, I left you a note from the beyond!"
+dialogue,Chandler,So you didn’t mean any of that?!
+dialogue,Monica,No you robot!!
+heading,,"[Scene: Ross's apartment, his doorbell is ringing and he’s running to answer it while doing up his pants.]"
+dialogue,Ross,"You damn kids! You ring my bell one more time, I swear to… (Opens the door to find Jill standing there.) Ohh, uh Jill. Umm, that-that’s just a little game I play with the kids down the hall. Umm, they’ve really taken a liking to me. (Quickly looks out to see if they’re watching.) Uhh what’s-what’s-what’s the matter?"
+dialogue,Jill,"Rachel and I had a really big fight, can I come in? I-I mean I know we’re not supposed to see each other anymore and I’m okay with that, it’s just that I don’t know anybody in the city and I really need somebody to talk to about it."
+dialogue,Ross,"Of course, what happened? (Lets her in.)"
+dialogue,Jill,(entering) I don’t want to talk about it.
+dialogue,Ross,"Okay, umm…"
+dialogue,Jill,But you know what might really cheer me up?
+dialogue,Ross,What?
+dialogue,Jill,Seeing some more of your super-cool slides.
+dialogue,Ross,Wow! Really?!
+dialogue,Jill,"Totally, I love them! And, maybe you could finish telling me about all the different kinds of sand."
+dialogue,Ross,"Well, I’d love to! Here, you wait right here and I’ll go get the projector and my notes!"
+dialogue,Jill,"Oh great! Thanks Ross, you’re such a good friend!"
+dialogue,Ross,Ohh!
+action,,"(He goes into another room to get his projector and notes. While he’s gone, Jill quickly checks her makeup."
+action,,"[Cut to Monica and Chandler’s, Rachel is entering.]"
+dialogue,Rachel,Hey! Have you guys seen Jill? I can’t find her anywhere.
+dialogue,Monica,"No, I haven’t."
+dialogue,Rachel,"Well, is Ross home? Maybe I’ll just call him to see if he’s actually seen her."
+action,,(She goes to look out the window at Ross’s apartment and sees Jill staring at her and closing the drapes with an evil look on her face. Rachel is stunned into silence.)
+heading,,"[Scene: Ursula’s apartment, Phoebe is going to confront her twin about her new porn career.]"
+dialogue,Ursula,Who is it?
+dialogue,Phoebe,It’s Phoebe! Phoebe!
+action,,(Ursula opens the door and is all dressed up with big hair and lingerie.)
+dialogue,Ursula,Hey!
+dialogue,Phoebe,(seeing her dress) Oh God. So-so you’re making porn movies.
+dialogue,Ursula,No I’m not.
+action,,(Someone calls out from her apartment.)
+dialogue,Man’s Voice,We’re still rolling!
+dialogue,Phoebe,You’re making one right now!
+dialogue,Another Man’s Voice,Let’s go Phoebe!
+dialogue,Phoebe,And- and you’re using my name!
+dialogue,Ursula,"Yeah, can I help you with something?"
+dialogue,Same Man’s Voice,"Phoebe, come on!"
+dialogue,Phoebe,"Look, I’m talking right now! You’re—you mean her."
+dialogue,Ursula,"Y’know, twin stuff is always a real big seller."
+dialogue,Phoebe,What?!
+dialogue,Ursula,"Yeah, I can talk them into giving you like, 30 dollars."
+dialogue,Phoebe,No!! No way! No! And stop using my name! And shame on you! (Yells into the apartment) And shame on all of you! You’re disgusting! Especially you (points to someone) with that! (Storms away.)
+heading,,"[Scene: Ross's apartment, Ross is setting up for the slide show.]"
+dialogue,Ross,Slides are almost ready.
+dialogue,Jill,"Yeah. Ooh, I know what this is missing! Alcohol!"
+dialogue,Ross,"Uh okay, well there’s-there’s wine in the kitchen."
+dialogue,Jill,Oh great! (Goes to get it as the phone rings.)
+dialogue,Ross,(answering it) Hello?
+dialogue,Rachel,(on phone) What is my sister doing there?! And why are the drapes shut?!
+dialogue,Ross,"O-okay, Rach calm-calm down, okay? She-she’s really upset we’re just talking."
+dialogue,Rachel,Ross! I think she is trying to make something happen with you to get back at me!
+dialogue,Ross,So that’s the only reason she could be here huh? It couldn’t have anything to do with the fact that-that maybe I’m a good listener and I uh I put on a great slide show!
+dialogue,Rachel,"Ross, I am telling you that she is using you to get back at me!"
+dialogue,Ross,"Y’know what? I think I can take care of myself, I’ll talk to you later. Good-bye. (Hangs up the phone and turns to find Jill sitting really close to him.) Whoa! Uh, that was your sister actually. She-she thinks that you’re just using me."
+dialogue,Jill,So? (Kisses him passionately.)
+heading,,"[Scene: Central Perk, Joey is reading a paper as Phoebe enters.]"
+dialogue,Phoebe,Hey!
+dialogue,Joey,Hey!
+dialogue,Phoebe,"So, I just came from the company Ursula works for."
+dialogue,Joey,"Oh no, not you too!"
+dialogue,Phoebe,No! No! I just went to pick up Phoebe Buffay’s checks; there were a lot of them.
+dialogue,Joey,Nice!
+dialogue,Phoebe,"Um-mmm, and I won’t have to go there anymore because I gave them my correct address."
+dialogue,Joey,"That’s great, but isn’t it gonna bother that people still think you’re a porn star?"
+dialogue,Phoebe,Oh no! No! I know how to handle it.
+dialogue,Joey,You do?
+dialogue,Phoebe,"Yeah. (She notices some guy putting a coat on his girlfriend is trying to remember where he’s seen her before.) (To him) You’re trying to figure out where you know me from? All right, I’ll give you a hint. From porn! Okay? (He tries to rush his girlfriend out.) Yeah your pervert boyfriend watched me in a porno movie! (To Joey) See?"
+dialogue,Joey,Yeah.
+heading,,"[Scene: Monica and Chandler's, time lapse, Ross is entering. Chandler and Monica are at the kitchen table. Rachel is on the couch reading.]"
+dialogue,Chandler,Hey.
+dialogue,Ross,"(To Rachel) You uh, you may have been right about Jill."
+dialogue,Rachel,Oh! I knew it! What happened?
+dialogue,Ross,"Umm, she kissed me."
+dialogue,Rachel,What?! You kissed!
+dialogue,Chandler,(To Monica) Maybe we should give them some privacy.
+dialogue,Monica,(To Chandler) Shhhh!!!
+dialogue,Ross,"Look, I uh, I tried not to kiss her, okay?"
+dialogue,Rachel,"Well, it doesn’t sound like it! I mean, it’s pretty easy not to kiss someone, you just don’t kiss them! See look at us, right now, not kissing!"
+dialogue,Ross,"Let me finish, okay? She started kissing me and-and I didn’t stop it. I guess I-I just wasn’t thinking…"
+dialogue,Rachel,Yeah that’s right you weren’t thinking! Y’know what? Let me give you something to think about! (She pulls up her sleeves and steps towards him.)
+dialogue,Ross,Oh wait—hold it! But then I started thinking and I stopped the kissing.
+dialogue,Rachel,"Oh, well thank you for taking your tongue out of my sister’s mouth long enough to tell me that."
+dialogue,Ross,Look I-I realize if anything were to happen with me and Jill then nothing could ever happen with us!
+dialogue,Rachel,What?!
+dialogue,Ross,"No, I mean, look I don’t know if anything is going to happen with us, again. Ever. But I don’t want to know that it-it never could. So I stopped it and she got mad and broke my projector."
+dialogue,Rachel,"Wow. I, I don’t even know what to say. Thank you. (Gently kicks him.)"
+dialogue,Ross,You’re welcome. (Gently kicks her back.)
+action,,(Chandler starts crying.)
+dialogue,Monica,Oh my God! Are-are you crying?
+dialogue,Chandler,(crying hysterically) I just don’t see why those two can’t work things out!
+action,,Ending Credits
+heading,,"[Scene: Central Perk, everyone is there as Jill enters.]"
+dialogue,Jill,"All right, I’m leaving! Because I’m not going to spend one more day with someone whose out to sabotage my every move. That’s you Rachel!"
+dialogue,Rachel,"Yeah, I got that."
+dialogue,Jill,"(To Ross) And you! I throw myself at you and you say no, how gay are you?"
+dialogue,Ross,You take care Jill.
+dialogue,Jill,"(happily) Okay, see ya! (Exits.)"
+dialogue,Rachel,Bye-bye-e!
+dialogue,Monica,Bye.
+dialogue,Chandler,"(starts crying) I-I can’t believe Jill’s gone. (They all look at him.) I can’t help it, I opened a gate."
+action,,End

@@ -265,9 +265,12 @@ def episode_codes_from_stem(stem: str, season_hint: str) -> List[str]:
 
     - 0101 -> [0101]
     - 0212-0213 -> [0212-0213]
+    - 0615-0616 -> [0615-0616]
     - 07outtakes -> []
     """
     if stem == "0212-0213" and season_hint == "02":
+        return [stem]
+    if stem == "0615-0616" and season_hint == "06":
         return [stem]
 
     four_digit_codes = re.findall(r"\d{4}", stem)
@@ -639,6 +642,278 @@ def apply_episode_specific_fixes(
         if 0 <= row_index < len(fixed_rows):
             _element, character, text = fixed_rows[row_index]
             fixed_rows[row_index] = ("singing", character, text)
+
+    if episode_code == "0601" and html_text:
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                normalize_spaces(f"{row[1]}: {row[2]}" if row[1] else row[2])
+                .lower()
+                .replace("’", "'")
+                .startswith("{transciber's note:")
+            )
+        ]
+
+        malformed_cues = {
+            "Chandler": r"(?is)<p[^>]*>\s*<b>\s*Chandler:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Monica": r"(?is)<p[^>]*>\s*<b>\s*Monica:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Ross": r"(?is)<p[^>]*>\s*<b>\s*Ross:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Rachel": r"(?is)<p[^>]*>\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+            "The Girls": r"(?is)<p[^>]*>\s*The Girls:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if text:
+                    parsed_texts.append(text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, text)
+
+    if episode_code == "0602" and html_text:
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                normalize_spaces(f"{row[1]}: {row[2]}" if row[1] else row[2])
+                .lower()
+                .replace("’", "'")
+                .startswith("{transciber's note:")
+            )
+        ]
+
+    if episode_code == "0603":
+        for csv_line_number in range(229, 235):
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
+
+    if episode_code == "0609":
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue":
+                continue
+            match = re.match(r"^(.+?)\s+(\[[^\]]+\])$", character)
+            if not match:
+                continue
+
+            speaker = normalize_spaces(match.group(1))
+            aside = normalize_spaces(match.group(2))
+            if speaker != "Janine" or aside.lower() != "[to chandler]":
+                continue
+
+            fixed_rows[idx] = ("dialogue", speaker, f"{aside} {dialogue}")
+
+    if episode_code in {"0615", "0616", "0615-0616"}:
+        blocked_dialogue_characters = {
+            "part i written by",
+            "part ii written by",
+            "parts i & ii transcribed by",
+        }
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and (
+                    normalize_spaces(row[1]).lower() in blocked_dialogue_characters
+                    or normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+                )
+            )
+        ]
+
+        malformed_cue_pattern = r"(?is)<p[^>]*>\s*<b>\s*Arthur:\s*</b>\s*</b>\s*(.*?)</p>"
+        parsed_texts = []
+        for match in re.finditer(malformed_cue_pattern, html_text):
+            parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+            if parsed_text:
+                parsed_texts.append(parsed_text)
+
+        if parsed_texts:
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == "Arthur:"
+            ]
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", "Arthur", text)
+
+        for csv_line_number in range(591, 596):
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
+
+    if episode_code == "0624":
+        blocked_dialogue_characters = {
+            "part i written by",
+            "part ii written by",
+            "parts i and ii transcribed by",
+        }
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and (
+                    normalize_spaces(row[1]).lower() in blocked_dialogue_characters
+                    or normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+                )
+            )
+        ]
+
+    if episode_code == "0621" and html_text:
+        malformed_cues = {
+            "Phoebe and Monica": r"(?is)<p[^>]*>\s*Phoebe and\s*<b>\s*Monica:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Monica and Phoebe": r"(?is)<p[^>]*>\s*Monica and\s*<b>\s*Phoebe:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, text)
+
+    if episode_code == "0620":
+        blocked_dialogue_characters = {
+            "written by",
+            "transcribed by",
+            "with scenes taken from episodes transcribed by",
+        }
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and normalize_spaces(row[1]).lower() in blocked_dialogue_characters
+            )
+        ]
+
+        for csv_line_number in range(44, 48):
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Joey", dialogue)
+
+    if episode_code == "0618" and html_text:
+        malformed_cue_pattern = r"(?is)<p[^>]*>\s*Elizabeth:\s*</b>\s*(.*?)</p>"
+        parsed_texts = []
+        for match in re.finditer(malformed_cue_pattern, html_text):
+            parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+            if parsed_text:
+                parsed_texts.append(parsed_text)
+
+        if parsed_texts:
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == "Elizabeth:"
+            ]
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", "Elizabeth", text)
+
+    if episode_code == "0617":
+        csv_line_number = 110
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            element, character, dialogue = fixed_rows[row_index]
+            if element == "dialogue" and character == "Joey":
+                match = re.match(
+                    r"^\(in his head\)\s*(.+?\?)\s*(\(.*\))$",
+                    normalize_spaces(dialogue),
+                )
+                if match:
+                    thought_text = match.group(1)
+                    trailing_action = match.group(2)
+                    fixed_rows[row_index] = (
+                        element,
+                        character,
+                        f"<voiceover>{thought_text}<\\voiceover> {trailing_action}",
+                    )
+
+        malformed_cue_pattern = (
+            r"(?is)<p[^>]*>\s*Janice(?:&#146;|’|')s Voice:\s*</b>\s*(.*?)</p>"
+        )
+        parsed_texts = []
+        for match in re.finditer(malformed_cue_pattern, html_text):
+            parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+            if parsed_text:
+                parsed_texts.append(parsed_text)
+
+        if parsed_texts:
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) in {"Janice’s Voice:", "Janice's Voice:"}
+            ]
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", "Janice’s Voice", text)
+
+        for csv_line_number in {253, 257}:
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, character, text = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", character, text)
+
+
+    if episode_code == "0612" and html_text:
+        match = re.search(r"(?is)<p[^>]*>\s*Joey:\s*</b>\s*(.*?)</p>", html_text)
+        if match:
+            parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+            if parsed_text:
+                for idx, (element, character, dialogue) in enumerate(fixed_rows):
+                    if element not in {"dialogue", "action"} or character:
+                        continue
+                    if normalize_spaces(dialogue) != "Joey:":
+                        continue
+                    fixed_rows[idx] = ("dialogue", "Joey", parsed_text)
+                    break
+
+    if episode_code == "0610":
+        csv_line_number = 212
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            element, character, dialogue = fixed_rows[row_index]
+            if character in {"Joey’s Head", "Joey's Head"}:
+                wrapped = dialogue
+                if not (wrapped.startswith("<voiceover>") and wrapped.endswith("<\\voiceover>")):
+                    wrapped = f"<voiceover>{wrapped}<\\voiceover>"
+                fixed_rows[row_index] = (element, "Joey", wrapped)
 
     if episode_code == "0423":
         blocked_characters = {
@@ -1481,6 +1756,11 @@ def main() -> int:
             write_episode_csv(output_file, episode_rows)
             if episode_code == "0212-0213":
                 for legacy_name in ("0212.csv", "0213.csv"):
+                    legacy_file = output_dir / legacy_name
+                    if legacy_file.exists():
+                        legacy_file.unlink()
+            if episode_code == "0615-0616":
+                for legacy_name in ("0615.csv", "0616.csv"):
                     legacy_file = output_dir / legacy_name
                     if legacy_file.exists():
                         legacy_file.unlink()

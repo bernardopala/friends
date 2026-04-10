@@ -1,0 +1,316 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's, Chandler, Rachel, and Joey are there as Ross enters.]"
+dialogue,Ross,"Hey! I just got uh, my teacher evaluations! Check out what this one student wrote, ""I loved Dr. Geller’s class. Mind blowing lectures! Dr. Geller, you are definitely the hottie of the paleontology department!"""
+dialogue,Chandler,"Ahh, Hotties of the Paleontology Department, there’s a big selling calendar, eh?"
+dialogue,Rachel,Who wrote it?
+dialogue,Ross,"Oh, I wish I knew, but the evaluations are all anonymous."
+dialogue,Joey,"Oh hey, do you still have their final exams?"
+dialogue,Ross,Yeah.
+dialogue,Joey,"Oh, ‘cause you can just match the evaluation to the exam with the same handwriting and boom, there’s your admirer. (Ross is stunned.)"
+dialogue,Chandler,A hot girl’s at stake and all of the sudden he’s Rain Man.
+dialogue,Rachel,"Okay, wait a minute, wait a minute, why are we so sure that this is a girl?"
+dialogue,Ross,"It’s a girl! Anyway, it wou—it wouldn’t matter. Okay? Because I’m a teacher and she’s a student."
+dialogue,Chandler,"Oh, is that against the rules?"
+dialogue,Ross,"No, but it is frowned upon."
+dialogue,Chandler,I see.
+dialogue,Ross,"Besides, there’s a big age difference."
+dialogue,Joey,"Oh, well think of it like this, when you’re 90…"
+dialogue,Ross,I know when I’m 90 she’ll be like 80 and it won’t seem like such a big difference.
+dialogue,Joey,"No that’s not what I was going to say at all. No, what I was going to say is when you’re 90 you’ll still have the memory of what it was like to be with a 20-year-old."
+action,,Opening Credits
+heading,,"[Scene: Monica and Chandler's, Phoebe, Monica, and Chandler are eating breakfast as Joey enters.]"
+dialogue,Joey,Hey Chandler! Y’know that girl you went to college with who-who became a movie director?
+dialogue,Chandler,"Oh yeah, Dana Keystone. She was in my Movement class."
+dialogue,Phoebe,What’s a Movement class?
+dialogue,Monica,It’s Chandler’s way of pretending he didn’t take mime.
+dialogue,Joey,"Oh well listen, anyway she’s directing the new Al Pacino movie. You gotta get me an audition!"
+dialogue,Chandler,"Oh, I don’t know man. I haven’t talked to her in like ten years."
+dialogue,Joey,"No-no-no, please-please Chandler I-I-I would owe you so much!"
+dialogue,Chandler,"You do owe me so much. You owe me three thousand, four hundred…"
+dialogue,Joey,"Hey-hey dude, why are you changing the subject? Why? Will you make the call or what?"
+dialogue,Chandler,"Oh okay, I’ll-I’ll try."
+dialogue,Joey,"All right! Thanks! You’re the best! Now listen, the last day of auditions is Thursday. Okay? So I gotta get in there by Thursday. Okay? Just remember Thursday. Thursday. Can you remember Thursday?"
+dialogue,Chandler,"Yeah so, Tuesday?"
+dialogue,Joey,"(angrily) Thursday! Look if you need help remembering think of like this, the third day. All right? Monday, one day. Tuesday, two day. Wednesday, when? Huh? What day? Thursday! The third day! Okay?!"
+dialogue,Chandler,(sarcastically) Thank you.
+dialogue,Joey,Okay.
+dialogue,Rachel,(entering from the bathroom) Hey Mon? I’m gonna check my messages.
+dialogue,Chandler,You just thought of that in there?
+dialogue,Monica,"Yeah sure, nature called, she wanted to see who else did."
+action,,(Rachel dials her number.)
+dialogue,Rachel,"(on phone) Hello? (Shocked that someone answered.) Uh, Rachel. (To the gang.) Great, someone is in our apartment. Call the cops!"
+dialogue,Monica,You’re on the phone!
+dialogue,Rachel,"(on phone) Oh my God! Oh my God! Thank you! (Hangs up) That was the fire department, there was a fire at our place!"
+dialogue,Phoebe,Oh my God! How bad was it?
+dialogue,Rachel,"Well, he didn’t say, but it was a fire. I’m guessing not very good. Come on, we gotta go!"
+dialogue,Monica,Come on! (The girls all run out and Joey holds up Chandler by smiling.)
+dialogue,Chandler,What are you smiling about? What is so funny?
+dialogue,Joey,"The part I want to audition for is a fireman, this is so meant to be!"
+heading,,"[Scene: N.Y.U. Paleontology department, Ross is putting up the grades on the message board.]"
+dialogue,Burt,"(another professor) Wow! It looks like you were very generous with your grades this semester! (Ross frantically starts to change some as a female student, Elizabeth, approaches.)"
+dialogue,Elizabeth,Professor Geller?
+dialogue,Ross,(startled) Yeah?
+dialogue,Elizabeth,I wanted to say how much I enjoyed your class.
+dialogue,Ross,Oh thank you. Thanks very much. (Leans up against the board and on a thumbtack.) Ow! (He pulls away.)
+dialogue,Elizabeth,"Uh, I’m a little embarrassed about calling you a hottie on my evaluation…"
+dialogue,Ross,That was you?
+dialogue,Elizabeth,Yeah. I felt a little weird about it. You’re a teacher. I’m a student. But would you maybe want to go out with me sometime?
+dialogue,Ross,"Oh I, I don’t-I don’t think that would be the best idea."
+dialogue,Elizabeth,"Oh, because I was thinking, the semester’s over; you’re not my teacher anymore."
+dialogue,Ross,What time?
+dialogue,Elizabeth,"(checks her grade) Oh, y’know what? Forget it, you already gave me an A."
+dialogue,Ross,Gotcha. (Starts to leave.)
+dialogue,Elizabeth,I’m kidding!
+dialogue,Ross,"Oh! So-so seriously, what time?"
+heading,,"[Scene: Phoebe and Rachel's, everyone minus Ross are arriving to inspect the damage. The fire department is still there.]"
+dialogue,Phoebe,Coming through! (Has to dodge a fireman) Oh! Coming through! (Sees a cute one.) Oh! Hello! Hi! (Smiles then realizes) No! Right! Coming through!
+action,,(They start to look around seeing that the living room is undamaged.)
+dialogue,Monica,"Oh well, it’s not so bad."
+dialogue,Fireman #1,"Yeah, most of the damage is pretty mostly contained in the bedrooms."
+dialogue,Phoebe,Oh!
+dialogue,Rachel,My God! (They both run into the bedrooms.)
+dialogue,Joey,"(to the fireman) Hey buddy, do you think I can borrow your uniform this Thursday?"
+dialogue,Fireman #1,Excuse me?
+dialogue,Monica,Joey! He’s working! (To Chandler) You would look good in that.
+action,,(Phoebe and Rachel return)
+dialogue,Joey,"Oh, how bad is it?"
+dialogue,Phoebe,"Oh, it’s bad. It’s really bad. The only thing in there that isn’t burned is an ass. Which I do not remember buying!"
+dialogue,Chandler,How’s your room Rach?
+dialogue,Rachel,Everything’s ruined. My bed. My clothes. Look at my favorite blue sweater. (Hold it up.)
+dialogue,Monica,Isn’t that mine?
+dialogue,Rachel,Fine! I’m sorry for your loss! (Hands it back to her.)
+dialogue,Fireman #1,"So uh, you’re not gonna be able to live here for a while, you ladies have a place to stay?"
+dialogue,Rachel,"(stands up) Wow! Oh-okay, look pal, I am not in the mood to be hit on right now! But if you give me your number I will call you some other time."
+dialogue,Monica,"(pulling Rachel back down) Yes, they can stay with us."
+dialogue,Chandler,Have you figured out what started the fire Mr. Fireman?
+dialogue,Fireman #1,"Well uh, do either of you smoke?"
+dialogue,Phoebe,"No, not usually. But yeah, I could use one right now."
+dialogue,Fireman #1,"No-no-no, do you uh light candles? Burn incense?"
+dialogue,Phoebe,Yes! I do! All the time! I love them! Oh my God! I did it! It’s me! It’s me! I burned down the house! I burned down the house!
+dialogue,Rachel,"Okay Phoebe calm down, there’s no need to place blame. Okay? (To the fireman) I warned her about those candles."
+heading,,"[Scene: Monica and Chandler's, Chandler is on the phone as Joey enters.]"
+dialogue,Chandler,"God, it’s great to catch up! I can’t believe how long it’s been!"
+dialogue,Joey,"Chandler, is that… (Mimes someone using a movie camera and Chandler nods yes.)"
+dialogue,Chandler,(on phone) Oh that’s great! Good for you.
+dialogue,Joey,Hey-hey listen… (Chandler waves him away.)
+dialogue,Chandler,"Okay! So yeah, maybe we can get together umm… (Joey mimes throwing something in the air, catching it, rolling it out, putting it in an oven and cutting it.) Can you hold for one second please? (To Joey) What?!"
+dialogue,Joey,"When you’re off the phone, do you wanna get a pizza?"
+dialogue,Chandler,"(on phone) Hi! I’m back. (Goes to hang up the phone.) Yeah, that sounds great. (Listens) Okay. Well, we’ll do it then. (Listens) Okay, bye-bye. (He hangs up the phone and turns around to see Joey standing close to him and screams.)"
+dialogue,Joey,"Hey listen, so when’s-when’s my audition? I mean I know it’s Thursday, but what time?"
+action,,(Monica enters.)
+dialogue,Chandler,Hi.
+dialogue,Monica,Hey!
+dialogue,Chandler,(To Joey) We didn’t get to the audition. I’m gonna take her to coffee and then we’ll do it then.
+dialogue,Joey,Ah-ha!
+dialogue,Monica,"Wow! So, now you’re going on a date with this girl?"
+dialogue,Chandler,"Honey, it is not a date! I haven’t talked to her in ten years! You can’t just call up somebody you haven’t talked to in ten years and ask them for a favor. There are rules, y’know? You gotta, you got to put in some time."
+dialogue,Monica,"You’re right, I’m sorry. It’s not like you’re y’know, going out with an ex-girlfriend."
+dialogue,Chandler,"No, we only went out once."
+dialogue,Monica,You dated her!
+dialogue,Chandler,Not once!
+dialogue,Monica,"All right, well why don’t I go out with an ex-boyfriend and do Joey a favor?!"
+dialogue,Joey,"Hey, you wanna do Joey a favor, maybe you go out with Joey. (He turns around to see Chandler glaring at him.)"
+heading,,"[Scene: Central Perk, Chandler is having coffee with Dana.]"
+dialogue,Chandler,"(laughs) Oh that’s great, my friend Joey’s in the movie business."
+dialogue,Dana,Y’know who I ran into from school? Howie.
+dialogue,Chandler,(giggles) My friend’s name is Joey.
+dialogue,Dana,"Apparently Howie’s editing now. Yeah, he-he-he calls me up and asks me if he can edit my new movie. Can you believe that?! Y’know I-I-I haven’t spoken to him in like ten years and he asks me for a favor!"
+dialogue,Chandler,"Yeah, I’ve always hated that Howie."
+dialogue,Dana,"No, no ""How you doing?"" Man, I mean not even a cup of coffee first!"
+dialogue,Chandler,The nerve huh?
+dialogue,Dana,Yeah!
+dialogue,Chandler,Refill?
+heading,,"[Scene: Monica and Chandler's, Monica is about to debut Hotel Monica (formerly known as Rachel’s Room) to Phoebe and Rachel.]"
+dialogue,Monica,"Now, this is last minute so I want to apologize for the mess. Okay?"
+action,,"(They walk into a completely redecorated and repainted room. And of course, the room is immaculate. Only an obsessive-compulsive like Monica could find fault with the room.)"
+dialogue,Rachel,Oh my God! It sure didn’t look this way when I lived here.
+dialogue,Monica,"I know! Now look, there’s only one problem though. There’s only room for one, so I guess one of you will have to stay at Joey’s."
+dialogue,Phoebe,"Well, since the fire was kinda my fault I guess (To Rachel) you should get to stay here."
+dialogue,Rachel,"Hey! Hey-hey, now this was no one’s fault Pheebs. Okay? It was an accident."
+dialogue,Phoebe,"Well no, it was my fault so you should get the nice room."
+dialogue,Rachel,Okay! (She jumps on the bed.)
+dialogue,Monica,"So Rach! You’re the first guest at Hotel Monica! Umm, you’ll just have to tell me how you like your eggs in the morning. And I thought I would bring them to you, y’know, in bed. Oh, you have been through so much."
+dialogue,Rachel,I have.
+heading,,"[Scene: Joey's apartment, Joey is showing Phoebe around.]"
+dialogue,Joey,This right here is where I keep the pizza. (He points to the chair.) And uh that’s where the napkin is. (Points to the floor next to the chair.)
+dialogue,Phoebe,What’s that smell?
+dialogue,Joey,I know! (Shrugs his shoulders.)
+heading,,"[Scene: A street, Ross is walking with Elizabeth on their date.]"
+dialogue,Elizabeth,Oh please! It was such a big class! You never even noticed me!
+dialogue,Ross,"What? Of course I did! You uh, you sat next to Sleepy Sleeperson."
+dialogue,Elizabeth,Who?
+dialogue,Ross,"Oh uh, I had trouble remembering everyone’s name, so I-I kinda came up with nicknames. Like the guy on the other side of you was Smelly von Brownshirt."
+dialogue,Elizabeth,"Oh yeah. So umm, did you have a nickname for me?"
+dialogue,Ross,"Umm, no. No."
+dialogue,Elizabeth,Yes you did! What was it?
+dialogue,Ross,"Umm, it’s Cutie McPretty."
+dialogue,Elizabeth,Ohh that’s so sweet!
+dialogue,Ross,"Listen, I gotta tell ya, I-I’m having a great time! Y’know how before you said it might be weird, the whole student teacher thing, and to be frank I thought it would be too, but it’s not. I mean it’s not at all."
+dialogue,Burt,(exiting from a restaurant) Dr. Geller!
+dialogue,Ross,(pushing Elizabeth into a doorway) Burt!
+heading,,"[Scene: Phoebe and Rachel's, Phoebe and Rachel are cleaning up the mess.]"
+dialogue,Phoebe,So did you sleep well last night?
+dialogue,Rachel,I did.
+dialogue,Phoebe,Yeah?
+dialogue,Rachel,"I did, Monica was so sweet she left a little mint on my pillow."
+dialogue,Phoebe,Y’know what Joey left on my pillow?
+dialogue,Rachel,What?
+dialogue,Phoebe,Gum!
+dialogue,Fireman #2,"Well, we determined the cause of the fire."
+dialogue,Phoebe,"Yeah I know, it was my candle. My candle!"
+dialogue,Fireman #2,"No, there was an appliance left on in the bathroom. It’s looks like a curling iron."
+dialogue,Phoebe,I don’t use a curling iron.
+dialogue,Fireman #2,Well someone does.
+action,,(Phoebe looks at Rachel.)
+dialogue,Rachel,"Well, don’t look at me! My hair’s straight! Straight! Straight! Straight!"
+dialogue,Fireman #2,It could’ve been a hair straightener.
+dialogue,Rachel,Oh.
+heading,,"[Scene: Joey's apartment, Joey is now showing Rachel around.]"
+dialogue,Joey,This is where I keep the pizza. (It’s the same location as before.) And—Hey! Where did the napkin go?! (The napkin is not in it’s spot.)
+action,,Commercial Break
+heading,,"[Scene: Monica and Chandler's, Phoebe is reading and Monica runs over and turns on the lamp behind Phoebe.]"
+dialogue,Monica,Now there you go! I wouldn’t want my best guest to strain her eyes!
+dialogue,Phoebe,Thanks Monica!
+dialogue,Monica,Does that smell bother you?
+dialogue,Phoebe,"What the smell from Joey’s? No, I can hardly smell it over here."
+dialogue,Monica,"Well you let me know if you can, because y’know I can bake a pie to cover it."
+dialogue,Phoebe,"I can smell it a little, bake the pie."
+dialogue,Monica,Okay!
+dialogue,Phoebe,Okay.
+action,,(The phone rings and Monica answers it.)
+dialogue,Monica,"Hello? (Listens) Oh yes, one minute please. (To Phoebe) It’s for you. It’s the fire inspector."
+dialogue,Phoebe,Oh! (Takes the phone.) Hello? (Listens) Yeah this is Phoebe. (Listens) Really?!
+action,,"[Cut to Joey’s, he’s on the phone.]"
+dialogue,Joey,"(in a funny voice) Yeah, so it turns out that it wasn’t the hair straightener that started the fire. (Rachel prompts him on what to say next.) No-no, it was the candles. It’s very not good leaving candles unattended. In fact, one of the first things they teach you in fire school is… (Phoebe suddenly enters.) Uhh… Uhh… Okay. Well, I have to go now. (Phoebe leaves.)"
+heading,,"[Scene: Joey's apartment, Ross is telling Monica and Joey about his date with Elizabeth.]"
+dialogue,Ross,"We had such a great time! She’s-she’s incredible! I thought the-the age difference might be a problem, but it wasn’t. It wasn’t at all. Elizabeth is very mature for her age. (Joey makes the international sign for big boobies.) (To Monica) A concept lost on some people!"
+dialogue,Monica,So it’s okay to date a student.
+dialogue,Ross,"Well, not really. I mean technically it’s-it’s not against the rules or anything, but it is frowned upon. Especially by that professor we ran into last night, Judgey von Holierthanthou."
+dialogue,Monica,"Well Ross, you be careful now. You don’t want to get a reputation as y’know Professor McNailshisstudents."
+dialogue,Ross,Yeah. What-what should I do?
+dialogue,Joey,"Well Ross, it seems pretty clear. I mean what’s more important? What people think or how you feel, huh? Ross, you gotta follow your heart."
+dialogue,Monica,Joey that is so sweet.
+action,,(He turns his back to Monica and does the international sign for big boobies again.)
+dialogue,Chandler,(entering) Hey.
+dialogue,Joey,"Hey-hey-hey! So, how did it go with Dana? Any reason I should leave a block of time open say Thursday?"
+dialogue,Chandler,I couldn’t do it.
+dialogue,Joey,You couldn’t do it?!
+dialogue,Chandler,"Hey, relax I just need more time. We’re going to dinner tonight."
+dialogue,Monica,What?! You’re going out with her again!
+dialogue,Ross,Going out with who?
+dialogue,Chandler,"Uh, Dana Keystone from college."
+dialogue,Ross,Oh yeah! Wasn’t she uh… (Does the international sign for big boobies.)
+dialogue,Chandler,"No, that was Dana Caplin."
+action,,The Guys:
+dialogue,Monica,Joey! You didn’t even know her!
+dialogue,Joey,Ah whatever!
+heading,,"[Scene: A Restaurant, Chandler is having dinner with Dana.]"
+dialogue,Chandler,Great story again! The yarns that you weave! Woo-hoo-hoo!
+dialogue,Dana,"Y’know uh, actually I-I-I should get going."
+dialogue,Chandler,Oh no-no-no! Stay! Stay! Because you-you should you-you-you should stay!
+dialogue,Dana,"Wow. Oh, I am really flattered, but I just I don’t feel that way about you."
+dialogue,Chandler,"Oh no-no-no, that’s not—No-no-no!"
+dialogue,Dana,"I’m sorry Chandler, y’know you are such a sweet guy and I, I don’t want to hurt you. Oh, I wish there was something I can do to make you feel better."
+dialogue,Chandler,No-no—Really?!
+dialogue,Dana,Of course!
+dialogue,Chandler,"(breaking up) Well, it just hurts so bad. I uh…"
+dialogue,Dana,"Ohh, I’m sorry."
+dialogue,Chandler,Well maybe there is one thing you can do.
+dialogue,Dana,What?! Anything! Anything!
+dialogue,Chandler,"Well, I umm, I mean this is just off the top of my head now, umm but I have this friend. This actor friend and he would kill me if he thought I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?"
+dialogue,Dana,Absolutely! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?
+dialogue,Chandler,"Well, the heart wants what it wants. I’ll see you later. (He runs off and leaves her with the bill, which the waiter promptly delivers.)"
+heading,,"[Scene: Hotel Monica, Phoebe is on the bed playing her guitar as Monica enters.]"
+dialogue,Monica,Hey! How’s it goin’?
+dialogue,Phoebe,"Well, not much has changed in the last five minutes."
+dialogue,Monica,Yes it has! I made cookies!
+dialogue,Phoebe,Oh that’s all right. I’m still full from your homemade potato chips.
+dialogue,Monica,But you should eat them now because they’re hot from the oven.
+dialogue,Phoebe,Okay. (Reaches for one.)
+dialogue,Monica,"(pulling the plate back) Oh-ho! But not in here! Can’t eat ‘em in bed, remember? No crumbies!"
+dialogue,Phoebe,"(gritting her teeth) Okay, I’ll be out in a second."
+dialogue,Monica,Okay!
+action,,(Monica leaves and Phoebe closes the door behind her and tries to lock it.)
+dialogue,Monica,(opening the door) What are you doing?
+dialogue,Phoebe,That doesn’t lock does it?
+heading,,"[Scene: Joey's apartment, Joey and Rachel are eating spaghetti in the living room while watching TV and Rachel drops some on the floor.]"
+dialogue,Rachel,"Oh, Joey! Sorry!"
+dialogue,Joey,No that’s all right. Don’t worry about it.
+dialogue,Rachel,Oh but look! That’s gonna leave a stain!
+dialogue,Joey,Rach! Hey! It’s fine! You’re at Joey’s!
+dialogue,Rachel,Really?
+dialogue,Joey,Yeah! Look! (He throws some of his spaghetti on the floor.)
+dialogue,Rachel,I’ve never lived like this before.
+dialogue,Joey,I know.
+action,,(Rachel throws some of hers down.)
+dialogue,Joey,"All right, don’t waste it, I mean its still food. (He picks it up and eats it.)"
+heading,,"[Scene: Central Perk, Ross and Elizabeth are deciding what to do on their second date.]"
+dialogue,Ross,What do you want to do now? Huh? You wanna go get a drink?
+dialogue,Elizabeth,"Uhh, I can’t."
+dialogue,Ross,"Oh, you have some studying to do?"
+dialogue,Elizabeth,"No, I have some turning 21 to do."
+dialogue,Ross,"Y’know I remember when uh, when I was in college, we used to… (He sees some of his colleagues enter and puts his head on her lap.)"
+dialogue,Elizabeth,What are you doing?
+dialogue,Ross,"Nothing, I’m-I’m just, I’m so comfortable with you!"
+dialogue,Elizabeth,Do you not want to be seen with me?
+dialogue,Ross,"What? No! Of course, of course I do! Are-are they gone?"
+dialogue,Elizabeth,"Uh no, they’re still here but I think I’m about to leave."
+dialogue,Ross,"What?! No! No! Wait! You’re right, this is stupid. Who cares what people think? I mean, I mean we like each other right? There’s nothing wrong with that. Come on. (They get up and go over to the table where his colleagues are sitting.) Burt? Lydia? Mel? This is Elizabeth."
+dialogue,Elizabeth,Hi!
+dialogue,Lydia,Aren’t you in my Popular Culture class?
+dialogue,Ross,"That’s right Lydia, Elizabeth here is a student and uh, we’re dating. And you may frown upon that, but we’re not gonna hide it anymore."
+dialogue,Mel,You are so fired.
+dialogue,Ross,What?
+dialogue,Burt,They’re gonna fire you! You can’t date a student! It’s against the rules.
+dialogue,Ross,Really? Its not just frowned upon?
+heading,,"[Scene: Joey's apartment, Joey and Rachel are throwing huge spitballs at the entertainment center.]"
+dialogue,Rachel,I love it at Joey’s!
+dialogue,Joey,"Hey, here you go. (Hands her another one.)"
+dialogue,Chandler,"(entering, sees Rachel’s throw) Ni-hi-ice!"
+dialogue,Rachel,Thanks!
+dialogue,Chandler,"(To Joey) So, you busy Thursday?"
+dialogue,Joey,"Oh, very funny. I don’t know if you remember, but my audition was supposed to be Thursday. (Chandler doesn’t say anything until Joey figures it out.) You got me the audition?! Let’s hug it up! (They hug.)"
+dialogue,Chandler,Okay. Okay. (Joey puts him down.) What are you gonna do to me if you get the part?
+dialogue,Phoebe,(entering) Hey! Hi!
+dialogue,Rachel,Hi!
+dialogue,Phoebe,"(To Rachel) Listen umm, yeah okay, I need to talk to you!"
+dialogue,Rachel,Uh-huh.
+dialogue,Phoebe,"Now I know that they said that the umm, the hair straightener started the fire but I think I’m partly at fault. You see, I didn’t, I didn’t tell you but umm, but I-I had recently refilled the tissues and so y’know let’s just face it, that’s just kindling! So I think it’s better that I stay at Joey’s."
+dialogue,Rachel,"No, no-no-no. Phoebe, this was my fault and besides y’know what? I’m fine here."
+dialogue,Phoebe,"Okay. Oh umm, Chandler, Monica is looking for you."
+dialogue,Chandler,Really?
+dialogue,Phoebe,Yeah she said something about crumbies.
+dialogue,Chandler,No! No! No! I was so careful! (Runs out.)
+dialogue,Phoebe,"(To Rachel) Okay, you have to switch with me! Monica is driving me crazy!"
+dialogue,Joey,"That’s right, all the ladies want to stay at Joey’s."
+dialogue,Rachel,"No! No! Phoebe, come on! I don’t want to switch! Please come on! I can throw wet paper towels here!"
+dialogue,Phoebe,No but at Monica’s you can eat cookies over the sink!
+dialogue,Rachel,I know. I’m sorry.
+dialogue,Phoebe,All right fine! This looks like so much fun. (Examining the bowl of wet paper towels.)
+dialogue,Joey,Yeah.
+dialogue,Phoebe,"God, what a mess. (She grabs the bowl and heads for Monica’s.)"
+heading,,"[Scene: Ross's apartment, Ross is looking at his handbook. Elizabeth is also there.]"
+dialogue,Ross,Wow! It actually is in the handbook. I can’t date you or have a hot plate in my office. I can’t believe we have to stop seeing each other.
+dialogue,Elizabeth,For what it’s worth I did appreciate you standing up for me. It felt really nice. It kinda made me like you even more.
+dialogue,Ross,"I know, I know I really like you too. But we-we can’t date. It’s against the rules. It’s forbidden."
+dialogue,Elizabeth,Wow!
+dialogue,Ross,What?
+dialogue,Elizabeth,"Just hearing you describe it as forbidden, it’s really hot."
+dialogue,Ross,Really?
+dialogue,Elizabeth,Yeah.
+dialogue,Ross,"Well I-I-I don’t care how hot it is it’s-it’s uh, it’s wrong."
+dialogue,Elizabeth,Stop it! (She starts to get all worked up.)
+dialogue,Ross,(feeling it too) No! No! It’s wrong! It’s-it’s-it’s naughty. It’s taboo.
+dialogue,Elizabeth,Shut the book!
+action,,(They frantically start making out.)
+dialogue,Ross,Let’s also get a hot plate!
+action,,(They start making out again.)
+action,,Ending Credits
+heading,,"[Scene: Joey's apartment, Joey is eating pizza as Chandler enters.]"
+dialogue,Chandler,Hey!
+dialogue,Joey,Hey!
+dialogue,Chandler,So?!
+dialogue,Joey,So?
+dialogue,Chandler,It’s Thursday! How was the audition?!
+dialogue,Joey,"Wh? Monday, one day. Tuesday, two day. Wednesday, when huh what? Thurs—(He gasps in horror.) Oh! (Runs out and Chandler just shakes his head. After a second Joey runs back in to grab a piece of pizza and runs back out.)"
+action,,End

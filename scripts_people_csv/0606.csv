@@ -1,0 +1,290 @@
+script_element,character,text
+heading,,"[Scene: Chandler and Joey's, Joey is balancing a mini hockey stick on his hand as Chandler enters from his room carrying a bunch of bills.]"
+dialogue,Chandler,"(watches Joey for a moment) Okay! (Joey quickly moves the hockey stick so that he’s scratching his back with it.) Listen, I’m gonna be moving out so you will be in charge of paying the rent."
+dialogue,Joey,Right! And when is that due?
+dialogue,Chandler,First of the month.
+dialogue,Joey,And that’s every month?
+dialogue,Chandler,"No, just the months you actually want to live here."
+dialogue,Joey,Ahhh.
+dialogue,Chandler,"Okay, here is the phone bill. (Hands it to Joey.)"
+dialogue,Joey,(looking at it) Oh my God!!
+dialogue,Chandler,"That’s our phone number. Now look, I know I kinda sprung this whole me moving out on thing, so why don’t I just—why don’t I just cover you for a while?"
+dialogue,Joey,No-no! No way! Joey Tribbiani does not take charity…anymore.
+dialogue,Chandler,"It’s not charity, Joe…"
+dialogue,Joey,"No! Forget it! Okay—I mean thanks, but I’m done taking money from you. All right, I can take of myself. Now, what’s next? Come on."
+dialogue,Chandler,"Okay uh, here’s the electric bill. (Hands it to him.)"
+dialogue,Joey,This is how much we pay for electric?!!!
+dialogue,Chandler,"Uh, yeah."
+action,,(Joey runs over and shuts off the lights.)
+dialogue,Chandler,"So, we’ll do the rest of the bills later then?"
+action,,Opening Credits
+heading,,"[Scene: Monica and Rachel's, Chandler is talking to Phoebe about trying to give Joey some money.]"
+dialogue,Phoebe,So is Joey going to have to give up the apartment?
+dialogue,Chandler,"No, I hope not! I tried to offer him some money, but he wouldn’t take it."
+dialogue,Phoebe,"Well, how much do you think he needs?"
+dialogue,Chandler,"I figure that $1,500 would cover him for a few months, y’know? But I have to trick him into taking it so I won’t hurt his pride."
+dialogue,Phoebe,Why don’t you hire him as an actor? You could have him dress up and put on little skits. Whatever you want.
+dialogue,Chandler,Well that would help the pride thing.
+dialogue,Monica,(entering from her room) Hey!
+dialogue,Chandler,Hey! Wow! You look great! Wanna move in with me tomorrow?
+dialogue,Monica,(thinks) Okay.
+dialogue,Chandler,"Okay! (They kiss) So, what do you girls have planned for tonight?"
+dialogue,Monica,"Well, instead of being sad that tonight is my last night together with Rachel we thought we’d go out to dinner and celebrate the fact that Rachel is moving in with Phoebe."
+dialogue,Phoebe,"And also, my birthday."
+dialogue,Monica,It’s not your birthday.
+dialogue,Phoebe,What a mean thing to say! I would never tell you it’s not your birthday!
+action,,(Joey and Ross enter.)
+dialogue,Joey,Hey!
+dialogue,Ross,Hey!
+dialogue,Chandler,Hey!
+dialogue,Phoebe,Hey! So you guys have anything planned for the big last night?
+dialogue,Chandler,"Well, instead of just hanging out, we figure we’d do nothing."
+dialogue,Ross,"Whoa-whoa-whoa, Knicks season opener tonight. I thought maybe you guys would come over and watch it."
+dialogue,Joey,"I don’t know Ross, not if you’re gonna talk about how you gave up a career in basketball to become a paleontologist."
+dialogue,Ross,I did give up a career in basketball to become a paleontologist!
+dialogue,Rachel,"(entering from her room) Pheebs, I was wondering…"
+dialogue,Monica,You’re not dressed yet?! We’re supposed to start having fun in 15 minutes!
+dialogue,Rachel,Well and clearly not a minute sooner.
+dialogue,Monica,"Rachel, you are packed though right, I mean please tell me that you’re packed."
+dialogue,Rachel,Of course I packed! Monica relax! I just wanted to ask Phoebe her opinion on what I should wear tonight.
+dialogue,Phoebe,"My God, I can’t get a minute of peace around this place."
+action,,"[Cut to Rachel’s bedroom, Phoebe and her are entering. And it’s obvious that she’s not packed.]"
+dialogue,Phoebe,Oh my God! Monica’s just gonna kill you.
+dialogue,Rachel,"Yeah, yeah, I know."
+dialogue,Phoebe,"Well, what you’re wearing is fine for that."
+dialogue,Monica,"(entering) Rachel, I need to borrow— You’re not packed !!!! You’re not packed even a little bit!"
+dialogue,Rachel,Surprise!!
+dialogue,Monica,What?
+dialogue,Rachel,"No, no don’t get mad because look—this is what happened. So I-I started packing, then I realized, ""What am I doing? I am lousy at packing!"" Right? But you love packing! So, as a gift to you, on our last night, ta-da!"
+dialogue,Monica,"(grabs a bag of those Styrofoam peanuts) I’ll be coordinator! Oh my God! I’m so sorry, I didn’t get you anything! Okay, look everybody has to help! Okay? You can help, can’t you Phoebe?"
+dialogue,Phoebe,I have plans.
+dialogue,Monica,You’re plans were with us.
+dialogue,Phoebe,That’s right.
+dialogue,Monica,"All right, Chandler can make boxes, Ross can wrap, and Joey can lift things. Now Phoebe, go tell the guys they have to help out!"
+dialogue,Phoebe,Okay.
+dialogue,Monica,"Okay! (To Rachel) Oh my God, thank you!!"
+action,,"[Cut to living room, Phoebe enters and closes Rachel’s door behind her.]"
+dialogue,Phoebe,"Hurry! Monica’s gonna make you pack! She’s got jobs for everyone! Now, it’s too late for me, but save your selves! (The guys scramble for the door.)"
+dialogue,Monica,"(entering and interrupting the guy’s escape attempt) Okay! The movers will be here in 11 hours. Rachel has not packed. Now, everybody has to help! Chandler, we’re gonna start with…"
+dialogue,Chandler,"Oh nope, I-I have plans with Joey."
+dialogue,Monica,I thought you said you were going to do nothing.
+dialogue,Chandler,"Yes, but for the last time."
+dialogue,Monica,"Okay fine, now Ross…"
+dialogue,Ross,"Oh, but-but I can’t do it."
+dialogue,Monica,Why not?
+dialogue,Joey,(quietly) I’ve got Ben.
+dialogue,Ross,"Because, because I’ve got Ben."
+dialogue,Monica,"It’s almost 8 o’clock, it’s almost past his bedtime. Where-where is he?"
+dialogue,Chandler,He’s at a dinner party.
+dialogue,Monica,Is he really coming? Because I can see right into your apartment!
+dialogue,Ross,"Of course he is! What, do you think I’d just use my son as-as an excuse? What kind of father do you think I am?"
+dialogue,Monica,"All right, sorry. (Goes back to Rachel’s room.)"
+dialogue,Ross,(to the guys) I gotta go make a fake Ben.
+heading,,"[Scene: Chandler and Joey's, Joey is entering carrying two pizzas.]"
+dialogue,Joey,Here it is! Our last pizzas together as roommates.
+dialogue,Chandler,"Oh, I wish I’d know you were going to do that, I ordered Chinese."
+dialogue,Joey,"Oh that’s okay. Hey, actually in a way it’s kinda nice. Me, bringing the food of my ancestors, you, the food of yours!"
+action,,"(Chandler stares at him, dumbfounded, then finally agrees.)"
+dialogue,Chandler,"Say, Joe, I had a strange idea of what we could do for our last night. What do you say we play a little uh, foosball for money?"
+dialogue,Joey,"What, are you crazy? You haven’t beaten me once since my injury plagued ’97 season. It would be easier if you just give me your money."
+dialogue,Chandler,Yes it would. What do you say to $50?
+dialogue,Joey,"Okay, you’re on."
+dialogue,Chandler,"Okay, let’s play! The big game, Italy vs. China, apparently."
+action,,(They start playing.)
+heading,,"[Scene: Rachel’s bedroom, she’s in her closet bringing down her pair of roller blades from a top shelf.]"
+dialogue,Rachel,"Ohhhhhh, look it’s the roller blades."
+dialogue,Monica,(starting to cry) Oh God!
+dialogue,Rachel,You remember when we got these?
+dialogue,Monica,No.
+dialogue,Rachel,I guess you weren’t there. (They hug.)
+dialogue,Phoebe,"You guys, we said we were gonna have fun! Come on, hey, remember the time… (She starts laughing hysterically.) You don’t remember?"
+dialogue,Rachel,"I’m sorry Pheebs, I guess I’m just really said that I’m leaving."
+dialogue,Monica,I’m gonna miss you so much.
+dialogue,Phoebe,"Well, this doesn’t have to be so sad though. Y’know? Maybe instead of just thinking about how much you’re gonna miss each other, you should like think of the things you’re not gonna miss."
+dialogue,Monica,I don’t think there’s anything.
+dialogue,Phoebe,"Come on, there’s gotta be something."
+dialogue,Monica,"Nope, she’s perfect."
+dialogue,Rachel,I have one.
+dialogue,Phoebe,Good! Great! You can go first.
+dialogue,Rachel,"Uh well, I guess I’m not gonna miss the fact that you’re never allowed to move the phone pen. (Laughs. Monica lags behind the laugh a little bit.)"
+dialogue,Phoebe,"Good that’s a good one. Okay, Monica, anything? Y’know? Does Rachel move the phone pen?"
+dialogue,Monica,"Aw, sometimes. Always, actually."
+dialogue,Phoebe,"Okay, good. There you go. Doesn’t anyone feel better?"
+dialogue,Monica,Not just the phone pen. I never get my messages.
+dialogue,Rachel,You get your messages!
+dialogue,Monica,"Yeah, well I don’t think it really counts if you have to read them off the back of your hand after you fall asleep on the couch."
+dialogue,Rachel,"So-so, you missed a message from who? Chandler or your mom? Or Chandler? Or your mom?"
+dialogue,Phoebe,Great! It worked! No one’s sad.
+heading,,"[Scene: Chandler and Joey's, they are just finishing up another game of foosball.]"
+dialogue,Joey,"(scores) Yes! I win again! Ha-ha! That’s like 500 bucks you owe me! Whoo-ho-hoo! (Goes over to the fridge and starts opening and closing the door rapidly.) $500 that is a loooot of electricity! (By the way, there’s nothing in the fridge.) Whoo-ho-ho! (Notices the sparseness of the fridge.) I gotta buy some food."
+dialogue,Chandler,"Okay, give me a chance to win my money back. Okay? Sudden death, one goal, $1,000."
+dialogue,Joey,You serious?
+dialogue,Chandler,Oh yes!
+dialogue,Joey,"Okay, get ready to owe me!"
+dialogue,Chandler,Okay.
+dialogue,Joey,"Okay, here we go. Ready?"
+action,,"[In slow motion, as some haunty demonic music plays in the background, Joey throws the ball in, Chandler quits playing and goes for his Chinese food. Joey smacks the ball really hard, shooting it down the table. Chandler slowly takes a bite, the ball bounces off of the wall, heads back up the table, and scores the goal for Chandler.]"
+dialogue,Chandler,No! No! No! No—(Joey looks at him)—one can beat me.
+action,,"(In frustration, Joey kicks the table, breaking it.)"
+dialogue,Chandler,"See? Now, that’s why only the little fake men are supposed to do all the kicking."
+heading,,"[Scene: Monica and Rachel's, the phone rings and Monica answers it as Rachel and Phoebe move a box into the living room.]"
+dialogue,Monica,"Hello? (Listens) Oh, hi Ross! (To Rachel) See? Other people call me!"
+dialogue,Rachel,"Ooh, your brother. Score!"
+dialogue,Monica,(on phone) What’s up?
+dialogue,Ross,"Oh, I’m just over here with Ben. I thought we’d say hi."
+dialogue,Monica,"Oh, put him on!"
+dialogue,Ross,"Ben, say hi to Aunt Monica. (He holds the phone to the fake Ben he has created out of a pumpkin.) Oh, I guess he doesn’t feel like talking right now. He’s smiling though! Okay, talk to you later."
+heading,,"[Scene: Rachel’s bedroom, Rachel is entering carrying two glasses of wine. She gives one to Phoebe, keeps one, and completely ignores Monica.]"
+dialogue,Phoebe,"Yeah, I think it was better when you guys were sad. Hey, uh, remember the roller blades?"
+dialogue,Rachel,"You know what else I’m not gonna miss? ""I’m Monica. I wash the toilet 17 times a day. Even if people are on it!"""
+dialogue,Monica,"""Hi I’m Rachel, is my sweater too tight? No? Oh, I’d better wash it and shrink it!"""
+dialogue,Rachel,"""I’m Monica, I don’t get phone messages from interesting people. Ever!"""
+dialogue,Phoebe,Hey! I call her!
+dialogue,Monica,"""Oh my God, I love Ross! I hate Ross! I love Ross! I hate Ross!"""
+dialogue,Rachel,"""Oh my God, I can’t find a boyfriend! So I guess I’ll just stumble across the hall and sleep with the first guy I find in there!"""
+action,,"(Monica picks up one of those boxes of hair curling things, dumps it in a box, and storms out.)"
+dialogue,Phoebe,"Yeah, we should get a move on if we wanna make those dinner reservations. (Phoebe dumps a drawer full of makeup into a box.)"
+action,,Commercial Break
+heading,,"[Scene: Chandler and Joey's, Joey is examining the broken foosball table as Chandler enters from his room.]"
+dialogue,Chandler,Still broken?
+dialogue,Joey,"This sucks man! The last night you’re here and I lose the two most important things in my life, the foosball table and $500."
+dialogue,Chandler,"Well, there are other ways of winning back your money, how about a little uh, a little Blackjack? (Holds up a deck of cards.)"
+dialogue,Joey,"Nah, not my game."
+dialogue,Chandler,"Okay, uh, how about, how about—y’know what? We could play a new game. A new game, it’s fun."
+dialogue,Joey,"Well, what’s it called?"
+dialogue,Chandler,Cups.
+dialogue,Joey,I don’t know how to play Cups.
+dialogue,Chandler,"I’ll teach ya! Come on, come on, it’s really easy and really, really fun."
+dialogue,Joey,All right.
+dialogue,Chandler,"Okay, here you go. (He deals out two cards each.) I have two queens, what do you have?"
+dialogue,Joey,A two and a five.
+dialogue,Chandler,"Ho-ho, you win! 50 dollars!"
+dialogue,Joey,Really?!
+dialogue,Chandler,"Oh yeah! Okay, let’s play again. (He deals out two cards each again.) What do you got?"
+dialogue,Joey,A four and a nine.
+dialogue,Chandler,You’re kidding right?
+dialogue,Joey,No. Why?
+dialogue,Chandler,Well that’s a full cup! (Pays him again.)
+dialogue,Joey,Damn! I am good at Cups!
+heading,,"[Scene: Monica and Rachel's, Monica is whining to Phoebe about Rachel.]"
+dialogue,Monica,I’m not talking to her!
+dialogue,Phoebe,"Well, one of you has to take the first step! And it should be you, because she’s the one who’s leaving. It’s harder for her!"
+dialogue,Monica,"Well, maybe you’re right—She made fun of my phone pen!"
+dialogue,Phoebe,"I know, I took it hard too."
+action,,(Monica goes into Rachel’s room.)
+dialogue,Monica,"Listen Rachel, I feel really bad about—What are you doing? (She sees that Rachel is unpacking.)"
+dialogue,Rachel,I’m unpacking!
+dialogue,Monica,What?!
+dialogue,Rachel,"I’m not moving! (She re-hangs a picture, crookedly.) Is that picture straight?"
+dialogue,Monica,It needs to go about 20 blocks to the left!
+dialogue,Rachel,"Hey, y’know what? You’re the one who wants to make this big change and move in with Chandler! You should be the one to go! Why should I have to leave?!"
+dialogue,Monica,Because it’s my apartment!
+dialogue,Rachel,Well it’s mine too! What else you got?!
+dialogue,Monica,"How about, you’re moving!! (Grabs a bunch of clothes and throws them into a box. What follows is a brief sequence of Rachel unpacking and Monica packing the same stuff over and over again as Rachel chants ""No."" and Monica chants ""Yes."")"
+dialogue,Rachel,"Look! This is ridiculous. We should be packing you!! (She knocks over Monica, grabs a box, and runs into the kitchen.)"
+dialogue,Phoebe,"Hey, how are you guys doing?"
+dialogue,Rachel,Great! Monica’s moving!
+dialogue,Monica,(entering) I am not!
+dialogue,Rachel,Oh really?! Then how come all your stuff is in this box?! (Monica starts chasing Rachel around the table.)
+dialogue,Phoebe,"Okay, you guys. You guys I think I know what’s going on here. Okay, you guys… STOP!! (They stop.) I know that, I know that you’re acting mad because you think that it’ll make it easier to leave. But deep down you’re still really sad. Deep-deep down."
+dialogue,Monica,No Phoebe I am mad!
+dialogue,Phoebe,"Well, deep-deep-deep down!"
+dialogue,Rachel,"Yeah, I’m just mad!"
+dialogue,Phoebe,Then keep running. (They resume the chase.)
+heading,,"[Scene: Chandler and Joey's, they’re still playing Cups.]"
+dialogue,Chandler,You win.
+dialogue,Joey,"Well, what did you have?"
+dialogue,Chandler,"It doesn’t matter because nothing beats a three and a six. That my friend is D-Cup. Okay, now much have you won so far?"
+dialogue,Joey,"Uh, (counts the money) wow, 700."
+dialogue,Chandler,Not 700 exactly?
+dialogue,Joey,Yeah.
+dialogue,Chandler,Double it! (He does.)
+dialogue,Joey,What?
+dialogue,Chandler,"Well you see in Cups, once you get $700, you have to double it."
+dialogue,Joey,Really?
+dialogue,Chandler,"Hey, I didn’t make up the rules. Now, after you receive the doubling bonus, you get uh, one card. Now that one card could be worth $100 bringing your total to 1,500. (Joey gets excited.) Don’t get to excited because that’s not gonna happen unless you get—No way! (He takes the top card, which is the two of clubs. Of course, any card would’ve won. Chandler pays him.)"
+heading,,"[Scene: Monica and Rachel's, Monica carries a box out of Rachel’s room.]"
+dialogue,Monica,"Well, this is the last box of your clothes. I’m just gonna label it, ""What were you thinking?"""
+dialogue,Rachel,"Funny, because I was just gonna go across the hall and write that on Chandler."
+dialogue,Phoebe,"Hey you guys, I don’t mean to make things worse, but umm, I don’t want to live with Rachel anymore."
+action,,Monica and Rachel:
+dialogue,Phoebe,You’re just so mean to each other! And I don’t want to end up like that with Rachel. I still like you!
+dialogue,Rachel,"Well, Phoebe that’s fine because I’m not moving."
+dialogue,Monica,"Whoa-whoa-whoa, Phoebe you gotta take her! Y’know I-I-I said some really bad stuff about her, but y’know Rachel has some good qualities that make her a good roommate."
+dialogue,Rachel,Oh really? Like what Monica?
+dialogue,Monica,"Y’know she has 147,000 pairs of boots…"
+dialogue,Rachel,"Oh yeah, good start Mon."
+dialogue,Monica,She lets you borrow them.
+dialogue,Rachel,Yeah and you stretch ‘em out with your big old clown feet.
+dialogue,Monica,"Do you wanna live outside?! Because it’s gettin’ cold! (To Phoebe) She gets tons of catalogs and umm, she’ll fold down the pages of the things she thinks that I’d like."
+dialogue,Phoebe,What else?
+dialogue,Monica,"When I take a shower, she leaves me little notes on the mirror."
+dialogue,Rachel,"Yeah, I do. I-I do, do that."
+dialogue,Phoebe,That’s nice. I like having things to read in the bathroom.
+dialogue,Monica,"When I fall asleep on the couch after reading, she covers me over with a blanket."
+dialogue,Rachel,"Well y’know, I don’t want you to be cold."
+dialogue,Monica,"And when I told her that I was gonna be moving in with Chandler, she was really supportive. (To Rachel) (Starts to cry) You were so great. You made it so easy. And now you have to leave. And I have to live with a boy!! (They both break down in tears.)"
+dialogue,Rachel,"Oh, it’s gonna be fine."
+dialogue,Phoebe,"Okay Rachel, I can’t wait to live with you! And you know what we should do? Bring Monica and then we could all live there together! We’ll have so much fun!!"
+dialogue,Rachel,"But honey, I think she’s moving in with Chandler."
+dialogue,Phoebe,Oh that’s right. You’re still set on that?
+dialogue,Monica,Kinda. (She hugs Phoebe and looks out the window. She moves closer to it to get a better look.) Oh my God!
+action,,"[Cut to Ross’s apartment, he’s watching TV and eating some popcorn as the phone rings.]"
+dialogue,Ross,"(answering the phone) Hello? (Listens) Hey Mon, how’s the packing going? (Listens) Ben? He’s fine. Yeah, he’s right—Oh my God! (He looks over at the fake Ben and notices that the head has fallen off.) Get your head of your shirt there son! (He tries to push the pumpkin through the neck hole.) What? (Listens) Yeah, it’s a pumpkin. I’ll come pack."
+heading,,"[Scene: Chandler and Joey's, (Ohh, that’s the last time I’m ever gonna type that line. It’s just so sad.) Joey is entering, angrily.]"
+dialogue,Joey,Hey!
+dialogue,Chandler,What’s wrong?
+dialogue,Joey,"Ross and I were helping the girls pack, took a little break, I lost $1,500 to him in Cups!"
+dialogue,Chandler,Wh-How did you lose at Cups?!
+dialogue,Joey,"The same way you lost. I started out with a King and a Queen, bamn! Ross gets a 2 and a 3. Then I get a Jack and a King, boom! Ross gets a 4 and a 5! Ross was getting the Cup card, the D-Cup, the Sittin’ Down Bonus! Meanwhile, I didn’t even get half a cup! Nothin’!!"
+dialogue,Chandler,Oh man!!
+dialogue,Joey,"And he never played before either! Y’know what I think? I think beginner’s luck, very important in Cups."
+dialogue,Chandler,"All right, let’s play one more hand! One more!"
+dialogue,Joey,"No, no, no more! I cannot lose another dime! I’m serious this time! In-in fact, look, there’s a—I wanna give you something. And let me give it too you know before I pawn it for Cups money. (He rolls the big white dog over) Now, I want you to have the big white dog as a kinda of a, y’know, thank you for being such a great roommate."
+dialogue,Chandler,I can’t take the big white dog! You love it!
+dialogue,Joey,"It’s him, not it!"
+dialogue,Chandler,"No, but wait—what if I bought it from you, y’know? And your nice gesture would be giving it to me at a reasonable price, say (Gets choked up) $1,500?"
+dialogue,Joey,"Wait a second, I see what you’re trying to do here! You-you’re trying to give me money again!"
+dialogue,Chandler,When did I try to give you money?
+dialogue,Joey,"Over there! (Points to the couch) Before, with the bills! You tried to give some charity, I said ""No,"" you dropped it. Okay? Then we had a nice last night together, we had some fun, we gambled, nobody tried to give anybody any money! Now out of the blue, you start with the charity thing again!"
+dialogue,Chandler,I’m just trying to help you out! Okay? I wanna make sure that you’re okay.
+dialogue,Joey,"I will be okay! Look Chandler, you gotta get it out of your head that I can’t take care of myself. Okay? Look, I’m not gonna miss you helping me out with money. The only thing that I’m gonna miss…is you. And now the dog."
+heading,,"[Scene: Monica and Rachel's, (And that’s the last time for that line, no more Chandler and Joey’s or Monica and Rachel’s, ever!) Joey and Ross are carrying the last table of Rachel’s. Rachel follows slowly, but is stopped by Monica.]"
+dialogue,Monica,Hey. Call me when you get there. Okay?
+dialogue,Rachel,Okay.
+dialogue,Monica,I’m really gonna miss you.
+action,,(They hug.)
+dialogue,Rachel,Oh! I have your key. Here you go. (Hands it to Monica.)
+dialogue,Monica,Thanks.
+dialogue,Rachel,Yeah.
+action,,(Silence ensues.)
+dialogue,Rachel,"Oh God! This is silly, I’m gonna see you in a couple of hours! (They hug again.)"
+dialogue,Monica,Yeah.
+dialogue,Rachel,Bye house!
+action,,(They break the embrace.)
+dialogue,Rachel,Bye Mon.
+dialogue,Monica,Bye.
+action,,(Monica closes the door and slowly walks into Rachel’s old and now empty room.)
+dialogue,Chandler,(entering) Hey.
+dialogue,Monica,She really left.
+dialogue,Chandler,I know. (He kisses her.)
+dialogue,Monica,Thank you.
+dialogue,Chandler,No problem roomie. (She turns around and hugs him.)
+dialogue,Monica,Can I ask you a question?
+dialogue,Chandler,Sure!
+dialogue,Monica,What the hell is that dog doing here?! (She notices the dog sitting in the living room.)
+action,,"(And with that, an era ends as Chandler moves in with Monica as Rachel moves in with Phoebe. It ‘tis a sad and happy time for Friends.)"
+action,,Ending Credits
+heading,,"[Scene: Ross’s apartment, Chandler is trying to get Joey’s money back from Ross.]"
+dialogue,Chandler,I invented the game of Cups as a way to give Joey money.
+dialogue,Ross,And now you want that money back.
+dialogue,Chandler,Exactly.
+dialogue,Ross,"Chandler, what kind of an idiot do you take me for? (As he picks up the fake Ben.)"
+dialogue,Chandler,It’s not a real game! I made it up!
+dialogue,Ross,"I’m sorry you lost your money, but I won it fair and square."
+dialogue,Chandler,At a fake game!!
+dialogue,Ross,"Now, if you wanna try to make some of it back, I’d be glad to play you for it. But I should warn you, I am very good at Cups."
+dialogue,Chandler,Okay! Now I assume the Saucer card came up when you played last.
+dialogue,Ross,No.
+dialogue,Chandler,"Hmm, let’s see if it comes up this time. (He looks at his cards and shrugs.)"
+action,,End
