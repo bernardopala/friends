@@ -1,0 +1,316 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's, Monica is at the kitchen table and Chandler is in the living room.]"
+dialogue,Monica,Do you realize that four weeks from today we’re getting married? Four weeks baby!! Four weeks!!!
+dialogue,Chandler,Do you realize you get louder each week?
+dialogue,Monica,There’s still so much to do. Have you written your vows yet?
+dialogue,Chandler,"I figured I’d buy those. Pat, I’d like to buy a vow. (Laughs)"
+dialogue,Monica,"Sweetie, you know I have no sense of humor when it comes to the wedding."
+dialogue,Chandler,"Right. So uh, have you written yours yet?"
+dialogue,Monica,No! But I know exactly what I’m going to say.
+dialogue,Chandler,Do you happen to know what I’m going to say?
+dialogue,Monica,"(handing him a pad of paper and a pen) Let’s just do it right now. Okay? It won’t be hard. Just say what’s in your heart. (She goes back, sits down, and starts feverishly writing.)"
+dialogue,Chandler,"(watching in her) (in his head) <voiceover>Look at her go! She must love me more than I love her! What’s wrong with me? Ooh, don’t open that door</voiceover> ."
+action,,Opening Credits
+heading,,"[Scene: Joey and Rachel's, Chandler is getting help writing his vows from Joey and Ross.]"
+dialogue,Chandler,"(writing) Monica, there are no words… (To Joey and Ross) There are no words! This should not be this hard!"
+dialogue,Joey,"All right, uh… (To Ross) Oh hey, you’ve done this before Ross, well what did you say when you made up your vows?"
+dialogue,Ross,"Well with Carol, I promised never to love another woman until the day I die. She made no such promise."
+dialogue,Chandler,"I’m so pathetic! Monica knows what she wants to say! You should’ve seen her. Writing, writing, writing!"
+heading,,"[Scene: Monica and Chandler's, Monica has hit a writer’s block as Rachel and Phoebe enter.]"
+dialogue,Rachel,Monica what?
+dialogue,Phoebe,What?!
+dialogue,Rachel,What is the emergency?!
+dialogue,Monica,You have to help me! I’m supposed to be writing my vows and all I have is this! (Shows them what she’s been working on.)
+dialogue,Rachel,"Well, I like the pretty little drawing of you in the wedding dress."
+dialogue,Monica,Thank you.
+dialogue,Phoebe,"Yeah, except your breasts look kinda small. (Points.)"
+dialogue,Monica,Those are my eyes! Those are my breasts. (Points.)
+dialogue,Phoebe,Oh! Yeah! (Monica glares at her.)
+action,,[Cut to the guys.]
+dialogue,Ross,"Well, why don’t you just start with something simple. Like umm, Monica from the moment I met you, I knew I loved you."
+dialogue,Chandler,"Yeah, I’m not sure I can do that."
+action,,[Flashback to when Chandler was introduced to Monica in The One With The Thanksgiving Flashbacks.]
+dialogue,Ross,"...everyone, this is Chandler!"
+dialogue,Fat Monica,"Hi, I'm Ross's little sister."
+dialogue,Chandler,(seeing her) Okay.
+action,,[Cut to the girls.]
+dialogue,Rachel,"Okay. Okay. Okay. Umm, maybe you can start with, ""Chandler, even though we were friends; there was a part of me that always knew I wanted more."""
+action,,"[Flashback to The One With The Jellyfish, Chandler and Monica are lying on the beach.]"
+dialogue,Chandler,"All right, there’s a nuclear holocaust, I’m the last man on Earth. Would you go out with me?"
+dialogue,Monica,Ennnh.
+action,,[Cut back to the girls.]
+dialogue,Monica,"Ooh, are we allowed to lie in the vows?!"
+dialogue,Phoebe,Well maybe you don’t talk about your feelings back then. Maybe you just say something about y’know all the things that he’s taught you. Like… (They all try to think about one example and don’t succeed.) Or all the things you taught him.
+action,,"[Flashback to The One With Phoebe's Uterus, Monica is teaching Chandler how to turn a woman on. They're in Monica and Rachel's apartment and Monica has just drawn a diagram of a woman.]"
+dialogue,Monica,"Now everybody knows the basic erogenous zones. (She starts labelling them) You got one, two three, four (Chandler is shocked to find out there’s more than three), five, six, and seven!"
+dialogue,Chandler,(shocked) There are seven?! (Points to one) That’s one?
+dialogue,Monica,It’s kind of an important one!
+dialogue,Chandler,"Oh, y’know-y’know what, I was looking at it upside down."
+dialogue,Rachel,"Well, y’know, sometimes that helps. (She realises what that could’ve meant.)"
+dialogue,Monica,"All right. Umm, you could uh start out with a little 1, a 2, a 1-2-3, 3, 5, a 4, a 3-2, 2, a 2-4-6, 2-4-6, 4, (Rachel starts getting worked up) 2, 2, 4-7, 5-7, 6-7, 7 …7..…7…7-7-7-7-7-7-7-7-7-7-7-7…(mouths 7)! (They both lean back on the couch satisfied.)"
+action,,[Cut to the guys.]
+dialogue,Joey,"Oh, I got it! How about saying something like, ""Monica…"
+dialogue,Chandler,(writing) Monica…
+dialogue,Joey,"""…when I look back over our time together…"""
+dialogue,Chandler,(writes what Joey said and waits for him to go on) Yeah?
+dialogue,Joey,"Well, I can’t do everything! Look back over your time together."
+action,,[This starts a series of flashbacks beginning with Monica and Chandler in the waiting room in The One With the Birth.]
+dialogue,Phoebe,"Oh, look, twins. Hi, guys. Oh, cute, cute."
+dialogue,Monica,No fair. I don't even have one. How come they get two?
+dialogue,Chandler,You'll get one.
+dialogue,Monica,Oh yeah? When?
+dialogue,Chandler,"All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?"
+dialogue,Monica,Why won't I be married when I'm 40?
+dialogue,Chandler,"Oh, no, no. I just meant hypothetically."
+dialogue,Monica,"Ok, hypothetically, why won't I be married when I'm 40?"
+dialogue,Chandler,"No, no, no."
+dialogue,Monica,What is it? Is there something fundamentally unmarriable about me?
+dialogue,Chandler,"(trapped) Uh, uh."
+dialogue,Monica,Well?
+dialogue,Chandler,Dear God! This parachute is a knapsack! (throws himself over the back of the chair he was sitting in)
+action,,[Cut to Ross leaping into Chandler’s Hotel room in London in The One With Ross’s Wedding.]
+dialogue,Ross,"(Screaming) I’m getting married today!! Ahh, whoo-hoo!!(He runs back out the door.)"
+dialogue,Monica,(Comes up for below the covers and looks concerned.) Do you think he knew I was here? (Chandler quickly looks at Monica not knowing what to say.)
+action,,[Cut to Chandler opening the door to his and Joey’s apartment to reveal Monica standing there with a turkey on her head in The One With The Thanksgiving Flashbacks.]
+dialogue,Chandler,Nice try.
+dialogue,Monica,"Wait, wait, wait! (She puts a Shriner's hat on the turkey.)"
+dialogue,Chandler,"Look, Monica…"
+dialogue,Monica,"Look! (She puts a big, yellow pair of sunglasses on the bird.)"
+dialogue,Chandler,This is not going to work.
+dialogue,Monica,I bet this will work! (She starts dancing and Chandler cracks up.)
+dialogue,Chandler,You are so great! I love you!
+action,,(Monica stops suddenly and turns around slowly.)
+dialogue,Monica,What?
+dialogue,Chandler,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!"
+dialogue,Monica,You said you loved me! I can't believe this!
+dialogue,Chandler,No I didn't!
+dialogue,Monica,"Yes, you did!"
+dialogue,Chandler,No I didn't!
+dialogue,Monica,You love me!
+dialogue,Chandler,No I don't! Stop it! Stop it! Stop it! Stop it!
+action,,"(Joey walks in and sees Monica. He freaks out and runs back into the hallway, screaming.)"
+action,,[Cut to Chandler trying to hint to Monica that he wanted to move in with her in The One After Vegas.]
+dialogue,Chandler,"Y’know I was thinking, what if I uh, unpack here?"
+dialogue,Monica,Then all your stuff would be here.
+dialogue,Chandler,"Well, what if all my stuff was here?"
+dialogue,Monica,"Then you’d be going back and forth all the time, I mean it doesn’t make any sense."
+dialogue,Chandler,Okay. What if we lived together and you understand what I’m saying?
+action,,[Cut to Chandler entering his and Monica’s apartment alight with a thousand candles in The One With The Proposal.]
+action,,(He walks dejectedly into his apartment to find it lit with about a thousand candles and Monica standing in the living room.)
+dialogue,Monica,You wanted it to be a surprise.
+action,,(He turns to look at Joey who smiles slyly and closes the door leaving them alone.)
+dialogue,Chandler,Oh my God.
+action,,(Monica gets down on one knee.)
+dialogue,Monica,Chandler… In all my life… I never thought I would be so lucky. (Starting to cry.) As to…fall in love with my best…my best… There’s a reason why girls don’t do this!
+dialogue,Chandler,"Okay! (He joins her on one knee) Okay! Okay! I'll do it! Oh God, I thought… (Starting to cry, pauses) Wait a minute, I-I can do this. (Pause) I thought that it mattered what I said or where I said it. Then I realized the only thing that matters is that you, (Pause) you make me happier than I ever thought I could be. (Starting to cry again.) And if you’ll let me, I will spend the rest of my life trying to make you feel the same way. (Pause as he gets out the ring.) Monica, will you marry me?"
+dialogue,Monica,Yes.
+action,,(The crowd goes wild as he puts the ring on her finger. They hug and kiss this time as an engaged couple.)
+dialogue,Joey,(yelling through the door) Can we come it yet?! We’re dying out here!
+dialogue,Monica,"Come in! Come in! (Joey, Rachel, and Phoebe burst through the door.) We’re engaged!!!"
+action,,(Everyone screams and has a group hug.)
+action,,Commercial Break
+heading,,"[Scene: Central Perk, Phoebe and Rachel are on the couch as Joey and Ross enter.]"
+dialogue,Joey,Hey!
+dialogue,Ross,Hey!
+dialogue,Rachel,Hey!
+dialogue,Phoebe,Hey!
+dialogue,Rachel,"Hey, what have you guys been up to?"
+dialogue,Ross,"Oh, we were helping Chandler write his vows, but he kicked us out because Joey kept making inappropriate suggestions."
+dialogue,Joey,"How is ""Monica, I love your sweet ass,"" inappropriate?"
+dialogue,Ross,How’s Monica coming along with her vows?
+dialogue,Phoebe,"Well let’s just say its she’s lucky she has a sweet ass, ‘cause she’s not so good at the writing."
+dialogue,Ross,I can’t believe in four weeks they’re gonna be married!
+dialogue,Phoebe,Well let’s just hope it works. Y’know nine out of ten marriages end in divorce?
+dialogue,Ross,Phoebe that’s not true.
+dialogue,Phoebe,"Yeah, you’re right. How’s the Mrs.?"
+dialogue,Rachel,I can’t believe they’ve been together for three years.
+dialogue,Joey,(shocked) Has it been that long?!
+dialogue,Ross,"Believe me, it seems like less because they hid it from us for so long."
+action,,[Flashback to Joey interrupting a bath Monica and Chandler are sharing in The One With All The Kissing. Monica dives underwater as Joey opens the door.]
+action,,(They move into kiss but are interrupted by Joey knocking on the door.)
+dialogue,Joey,"Hey, it's me! I'm comin' in!"
+action,,(Monica quickly dives under the water as Joey enters. He looks a little shocked at what Chandler's doing.)
+dialogue,Chandler,"I've had a very long, hard day."
+dialogue,Joey,"Ahh, I'm gonna go get some chicken. Want some?"
+dialogue,Chandler,"Ahh, no thanks. No chicken, bye-bye then."
+dialogue,Joey,Okay.
+action,,(Joey leaves and Monica comes up for air.)
+dialogue,Chandler,"Are you okay? I'm so sorry, he wouldn't leave. He kept asking me about chicken."
+dialogue,Monica,Chicken? I could eat some chicken.
+dialogue,Chandler,Hey Joe!
+action,,(Monica goes back underwater as Joey re-enters.)
+dialogue,Chandler,"Yeah, can I get a 3-piece, some cole slaw, some beans, and a Coke —(Yelps in pain as Monica grabs him underwater)— Diet Coke ."
+action,,(Joey gives him a thumbs up and heads for the chicken.)
+action,,[Cut back to Central Perk.]
+dialogue,Rachel,I don’t know why they didn’t just tell us.
+dialogue,Joey,I know! I mean it’s not like we weren’t cool about it.
+action,,[This starts a series of flashbacks starting with Monica and Chandler forcing Joey to keep his new found knowledge of their secret relationship in Monica’s bedroom in The One With All the Kips.]
+dialogue,Joey,(To Chandler) You?! (To Monica) And-and you?!
+dialogue,Monica,"Yes, but you cannot tell anyone! No one knows!"
+dialogue,Joey,How?! When?!
+dialogue,Chandler,It happened in London.
+dialogue,Joey,IN LONDON!!!
+dialogue,Chandler,The reason we didn't tell anyone was because we didn't want to make a big deal out of it.
+dialogue,Joey,But it is a big deal!! I have to tell someone!
+action,,(They both grab him and stop him.)
+dialogue,Chandler,No-no-no-no-no! You can't!
+dialogue,Monica,"Please? Please?! We just don't want to deal with telling everyone, okay? Just promise you won't tell."
+action,,(Joey thinks it over.)
+dialogue,Joey,"All right! Man, this is unbelievable!"
+action,,[Cut to Rachel listening to a phone conversation between Chandler and Monica in The One With All the Resolutions.]
+dialogue,Monica,(on phone) I can't wait to be with you! I'll just tell Rachel I'm gonna be doing laundry for a couple of hours.
+dialogue,Chandler,"(on phone) Laundry. Huh. Is that my new nickname? (Rachel is absolutely stunned, she opens her mouth in absolute amazement.)"
+dialogue,Monica,"(on phone) Awww, y'know what your nickname is, Mr. Big…"
+dialogue,Rachel,Arghh!! (She quickly hangs up the phone and starts to pace around wondering what to do.)
+action,,[Cut to Phoebe in Ross’s new apartment looking at Monica and Chandler and what they’re about to do in The One Where Everybody Finds Out.]
+dialogue,Phoebe,"(looking out the window) Oh, look! There's Monica and Chandler! (Starts yelling.) Hey! Hey, you guys! Hey! (Chandler and Monica start taking each other's clothes off.) Ohh!! Ohh! Ahh-ahhh!!"
+dialogue,Rachel,What?!
+dialogue,Phoebe,(screaming) Ahhh!! Chandler and Monica!! Chandler and Monica!!
+dialogue,Rachel,Oh my God!
+dialogue,Phoebe,CHANDLER AND MONICA!!!!
+dialogue,Rachel,OH MY GOD!!!
+dialogue,Phoebe,OH!! MY EYES!!! MY EYES!!!!
+dialogue,Rachel,Phoebe!! Phoebe!! It's okay!! It's okay!!
+dialogue,Phoebe,NO! THEY'RE DOING IT!!!
+dialogue,Rachel,I KNOW!! I KNOW!! I KNOW!
+dialogue,Phoebe,YOU KNOW?!!!
+dialogue,Rachel,"Yes, I know! And Joey knows! But Ross doesn't know so you have to stop screaming!!"
+dialogue,Ross,(entering) What's going on?
+dialogue,Phoebe and Rachel,Ohhh!!!
+dialogue,Rachel,(trying to divert his attention from the window by jumping up and down) HI!! Hi!
+dialogue,Ross,What?! What?!
+dialogue,Rachel,"Nothing! Oh God, we're just so excited that you want to get this apartment!"
+dialogue,Ross,"Actually, it looks really good. (Turns towards the window and now Phoebe starts jumping to divert his attention.)"
+dialogue,Phoebe,(Screaming incoherently.) Get in here!!! (Motions to join her and Rachel.)
+action,,(Ross starts jumping and screaming incoherently and hops over and joins in on the group hug.)
+action,,"[Cut to later in that episode in Central Perk, a meeting with Phoebe, Rachel, and Joey where they discuss Chandler and Monica.]"
+dialogue,Phoebe,"Okay, so now they know that you know and they don't know that Rachel knows?"
+dialogue,Joey,"Yes, but y'know what? It doesn't matter who knows what. Now, enough of us know that we can just tell them that we know! Then all the lying and the secrets would finally be over!"
+dialogue,Phoebe,"Or, we could not tell them we know and have a little fun of our own"
+action,,"[Cut to later in that episode. Rachel and Phoebe are going to a movie from Monica and Chandler’s, and as Phoebe walks by Chandler she pinches him on the butt and exits.]"
+dialogue,Rachel,"All right honey, we'd better go if we wanna catch that movie."
+dialogue,Monica,Bye!
+dialogue,All,Bye!
+dialogue,Phoebe,Bye Chandler! (She walks up to him.) (Quietly.) I miss you already. (She pinches his butt.)
+dialogue,Chandler,"(after they've left) Okay, did you see that?! With the inappropriate and the pinching!!"
+dialogue,Monica,"Actually, I did!"
+dialogue,Chandler,"Okay, so now do you believe that she's attracted to me?"
+dialogue,Monica,"Ohhh, oh my God! Oh my God! She knows about us!"
+action,,[Cut to later in that episode. Monica and Chandler are confronting Joey in his apartment about Phoebe’s knowledge.]
+dialogue,Chandler,Phoebe knows about us!
+dialogue,Joey,Well I didn't tell them!
+dialogue,Monica,Them?! Who's them?
+dialogue,Joey,"Uhhh, Phoebe and Joey."
+dialogue,Monica,Joey!
+dialogue,Joey,And Rachel. I would've told you but they made me promise not to tell!
+dialogue,Monica,"Oh man, they think they are so slick messing with us! But see they don't know that we know that they know! So…"
+dialogue,Chandler,"Ahh yes, the messers become the messies!"
+action,,[Cut to later in that episode. Phoebe is telling Rachel in Monica and Chandler’s that Chandler wants to make a date with Phoebe.]
+dialogue,Phoebe,"I'll have to get back to you on that. Okay, bye! (Hangs up.) Oh my God! He wants me to come over and feel his bicep and more!"
+dialogue,Rachel,Are you kidding?!
+dialogue,Phoebe,No!
+dialogue,Rachel,"I can not believe he would do that to Mon—Whoa! (She stops suddenly and slowly turns to point at Joey. Joey is avoiding her eyes.) Joey, do they know that we know?"
+dialogue,Joey,No.
+dialogue,Rachel,Joey!
+dialogue,Joey,They know you know.
+dialogue,Rachel,"Ugh, I knew it! Oh I cannot believe those two!"
+dialogue,Phoebe,"God, they thought they can mess with us! They're trying to mess with us?! They don't know that we know they know we know! (Joey just shakes his head.) Joey, you can't say anything!"
+dialogue,Joey,I couldn't even if I wanted too.
+action,,"[Cut to later in that episode. Chandler is in his bathroom with Monica, and he’s panicking on how far Phoebe is pushing him.]"
+dialogue,Chandler,"Listen, this is totally getting out of hand! Okay? She wants me to put lotion on her!"
+dialogue,Monica,She's bluffing!
+dialogue,Chandler,"Look, she's not backing down! She went like this! (He does a little mimic of her dance.)"
+action,,[Cut to the hallway where Phoebe is conferring with Rachel.]
+dialogue,Phoebe,He's not backing down. He went to get lotion.
+dialogue,Joey,(entering the hall) Oh man! Aren't you guys done yet?!
+dialogue,Rachel,"Joey look, just look at it this way, the sooner Phoebe breaks Chandler the sooner this is all over and out in the open."
+dialogue,Joey,Ooh!
+dialogue,Rachel,Okay!
+dialogue,Joey,"I like that! (To Phoebe) Oh, okay! Show him your bra! He's afraid of bras! Can't work 'em! (He swiftly rips open the front of Phoebe's dress revealing her bra.)"
+dialogue,Phoebe,"Joey! (Examining the dress.) Wow, you didn’t rip off any buttons."
+dialogue,Joey,It's not my first time.
+action,,[Cut to the bathroom.]
+dialogue,Monica,You go back out there and you seduce her till she cracks!
+dialogue,Chandler,"Okay, give me a second! (Pause) Did you clean up in here?"
+dialogue,Monica,Of course.
+action,,[Cut back to the living room. Chandler slowly exits the bathroom and gets pushed from behind by Monica and sees Phoebe closing the apartment door.]
+dialogue,Chandler,"Oh, you're-you're going?"
+dialogue,Phoebe,"Umm, not without you, lover. (She slowly walks over to him and is showcasing her bra.) So, this is my bra."
+dialogue,Chandler,"(swallowing hard) It's very, very nice. Well, come here. I'm very happy were gonna have all the sex."
+dialogue,Phoebe,You should be. I'm very bendy. (Pause) I'm gonna kiss you now.
+dialogue,Chandler,Not if I kiss you first.
+action,,"(They move closer to together and Phoebe hesitantly puts her hand on Chandler's hip. He puts his hand on her left hip but then decides to put his hand on her left hip. Phoebe then grabs his butt. Chandler goes for her breast, but stops and puts his hand on her shoulder.)"
+dialogue,Phoebe,Ooh.
+dialogue,Chandler,"Well, I guess there's nothing left for us to do but-but kiss."
+dialogue,Phoebe,Here it comes. Our first kiss.
+action,,(They slowly and hesitantly move their lips together and kiss gently. Phoebe has her eyes wide open in shock and Chandler is squinting. He finally breaks the kiss after only a short while and pushes Phoebe away.)
+dialogue,Chandler,Okay! Okay! Okay! You win! You win!! I can't have sex with ya!
+dialogue,Phoebe,And why not?!
+dialogue,Chandler,Because I'm in love with Monica!!
+dialogue,Phoebe,You're-you're what?!
+action,,"(Monica comes out of the bathroom like a bolt, and Rachel and Joey both enter.)"
+dialogue,Chandler,"Love her! That's right, I…LOVE…HER!!! I love her!! (They walk together and hug.) I love you, Monica."
+dialogue,Monica,I love you too Chandler. (They kiss.)
+dialogue,Phoebe,"I just—I thought you guys were doing it, I didn't know you were in love!"
+dialogue,Joey,So that's it! It's over! Everybody knows!
+dialogue,Monica,"Well actually, Ross doesn't."
+dialogue,Chandler,"Yes, and we'd appreciate it if no one told him yet."
+action,,[Cut to later in that episode. Ross is showing his boss his new place and notices something in the window.]
+dialogue,Ross,(He notices something through the window.) No! No! Wh… What are you doing?!! (Dr. Ledbetter is slowly backing away.) GET OFF MY SISTER!!!!!!!!!!!!!
+heading,,"[Scene: Central Perk, Phoebe, Rachel, Joey and Ross are talking.]"
+dialogue,Phoebe,"Y’know, you’re friend’s getting married, it’s gotta change things."
+dialogue,Rachel,You really think it would be that different?
+dialogue,Phoebe,"How could it not be? I mean pretty soon they’re gonna be having kids, and then they’re just gonna be hanging out with other couples who have kids. And then maybe they’re gonna have to leave the city to be near a Volvo dealership."
+dialogue,Rachel,"Well, things change."
+dialogue,Joey,I don’t want them to move to a Volvo dealership!
+dialogue,Ross,It’ll be okay Joe.
+dialogue,Joey,"I’m sorry, I just…I like things the way they are."
+action,,"[Flashback to the gang in Central Perk in The One Where Nana Dies Twice, they’re all going through an old photo album.]"
+dialogue,Rachel,"Hey, who's this little naked guy?"
+dialogue,Ross,That little naked guy would be me.
+dialogue,Rachel,"Aww, look at the little thing."
+dialogue,Ross,"Yes, yes, fine, that is my penis. Can we be grown-ups now?"
+dialogue,Chandler,Who are those people?
+dialogue,Ross,Got me.
+dialogue,Monica,"Oh, that's Nana, right there in the middle. (Reads the back) 'Me and the gang at Java Joe's'."
+dialogue,Rachel,"Wow, Monica, you look just like your grandmother. How old was she there?"
+dialogue,Monica,"Let's see, 1939... yeah, 24, 25?"
+dialogue,Ross,Looks like a fun gang. (They all look at each other and smile)
+dialogue,Joey,"Ooh, look-look-look-look-look! I got Monica naked!"
+dialogue,Ross,"(looking) Nono, that would be me again."
+action,,"[Cut back to Central Perk, Monica and Chandler are entering.]"
+dialogue,Monica,"Hey, you guys!"
+dialogue,Phoebe,Hey.
+dialogue,Joey,Hey.
+dialogue,Chandler,What’s going on?
+dialogue,Rachel,"Well, we were just talkin’ about you guys gettin’ married and how great it is."
+dialogue,Joey,"Yeah, you can get a Volvo . If that’s what you really want."
+dialogue,Monica,Oh that’s so sweet.
+dialogue,Chandler,So we both finished our vows.
+dialogue,Phoebe,Oh!
+dialogue,Joey,Hey!
+dialogue,Rachel,"Oh, can we read them?"
+dialogue,Monica,"Yeah, I don’t hear Chandler’s and he doesn’t hear mine."
+dialogue,Rachel,Okay.
+dialogue,Phoebe,Okay.
+action,,(They spilt into their sexes and the girls read Monica’s and the guys read Chandler’s. The girls gasp and groan and the guys laugh hysterically.
+dialogue,Phoebe,"(To Monica) Oh, that’s beautiful."
+dialogue,Joey,(To Chandler) (laughing) Funny one! That’s good!
+dialogue,Rachel,"(To Monica) Monica, will-will you marry me?"
+action,,(Ross laughs.)
+dialogue,Joey,What? I don’t get it.
+action,,(Ross points to the explanation and he gets it.)
+dialogue,Ross,"(To Chandler) Oh man, this is hilarious."
+dialogue,Monica,Chandler!!
+dialogue,Chandler,"Don’t worry honey, we’ll make yours funnier."
+action,,Ending Credits
+heading,,"[Scene: Monica and Chandler's, Ross and Joey are reading Chandler’s new vows.]"
+dialogue,Chandler,"Okay, what do you guys think?"
+dialogue,Ross,(quietly) Dude!
+dialogue,Joey,(starting to cry) I have never known love like this.
+dialogue,Chandler,You really like it?
+dialogue,Ross,Dude! How-how did you write this?
+dialogue,Chandler,I stole Monica’s and changed the name.
+dialogue,Ross,You can’t do that!
+dialogue,Joey,If he goes first he can!
+action,,End

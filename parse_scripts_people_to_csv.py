@@ -760,6 +760,514 @@ def apply_episode_specific_fixes(
                 _element, _character, dialogue = fixed_rows[row_index]
                 fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
 
+    if episode_code == "07outtakes":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and normalize_spaces(row[1]).lower().replace("’", "'").startswith("transcriber's note")
+            )
+        ]
+
+    if episode_code == "0723":
+        blocked_dialogue_characters = {
+            "part i written by",
+            "part ii written by",
+            "parts i & ii transcribed by",
+        }
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and (
+                    normalize_spaces(row[1]).lower() in blocked_dialogue_characters
+                    or normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+                )
+            )
+        ]
+
+        if html_text:
+            malformed_cues = {
+                "Phoebe and Ross": r"(?is)<p[^>]*>\s*Phoebe and\s*<b>\s*Ross:\s*</b>\s*</b>\s*(.*?)</p>",
+            }
+
+            for cue, pattern in malformed_cues.items():
+                parsed_texts = []
+                for match in re.finditer(pattern, html_text):
+                    parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                    if parsed_text:
+                        parsed_texts.append(parsed_text)
+
+                if not parsed_texts:
+                    continue
+
+                target_indices = [
+                    idx
+                    for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                    if element in {"dialogue", "action"}
+                    and not character
+                    and normalize_spaces(dialogue) == f"{cue}:"
+                ]
+
+                for idx, parsed_text in zip(target_indices, parsed_texts):
+                    fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0722":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+            )
+        ]
+
+        fixed_rows = [
+            (element, "Waiter in Drag", dialogue)
+            if element == "dialogue" and character == "A Waiter in Drag"
+            else (element, character, dialogue)
+            for element, character, dialogue in fixed_rows
+        ]
+
+        if html_text:
+            malformed_cues = {
+                "Announcer": r"(?is)<p[^>]*>\s*Announcer:\s*</b>\s*(.*?)</p>",
+                "The Chorus Line": r"(?is)<p[^>]*>\s*The Chorus Line:\s*</b>\s*(.*?)</p>",
+            }
+
+            for cue, pattern in malformed_cues.items():
+                parsed_texts = []
+                for match in re.finditer(pattern, html_text):
+                    parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                    if parsed_text:
+                        parsed_texts.append(parsed_text)
+
+                if not parsed_texts:
+                    continue
+
+                target_indices = [
+                    idx
+                    for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                    if element in {"dialogue", "action"}
+                    and not character
+                    and normalize_spaces(dialogue) == f"{cue}:"
+                ]
+
+                for idx, parsed_text in zip(target_indices, parsed_texts):
+                    fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0721":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and normalize_spaces(row[1]).lower().startswith("episodes originally transcribed by")
+            )
+        ]
+
+        if html_text:
+            malformed_cues = {
+                "Ross": r"(?is)<p[^>]*>\s*Ross:\s*</b>\s*(.*?)</p>",
+                "Monica": r"(?is)<p[^>]*>\s*Monica:\s*</b>\s*(.*?)</p>",
+                "Phoebe and Rachel": r"(?is)<p[^>]*>\s*Phoebe and\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+            }
+
+            for cue, pattern in malformed_cues.items():
+                parsed_texts = []
+                for match in re.finditer(pattern, html_text):
+                    parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                    if parsed_text:
+                        parsed_texts.append(parsed_text)
+
+                if not parsed_texts:
+                    continue
+
+                target_indices = [
+                    idx
+                    for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                    if element in {"dialogue", "action"}
+                    and not character
+                    and normalize_spaces(dialogue) == f"{cue}:"
+                ]
+
+                for idx, parsed_text in zip(target_indices, parsed_texts):
+                    fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0719" and html_text:
+        malformed_cues = {
+            "Phoebe and Rachel": r"(?is)<p[^>]*>\s*Phoebe and\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+            "The Other Woman": r"(?is)<p[^>]*>\s*<b>\s*The Other Woman:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0718" and html_text:
+        malformed_cues = {
+            "The Cute Guy": r"(?is)<p[^>]*>\s*The Cute Guy:\s*</b>\s*(.*?)</p>",
+            "Announcer": r"(?is)<p[^>]*>\s*Announcer:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0717" and html_text:
+        malformed_cues = {
+            "The Woman": r"(?is)<p[^>]*>\s*The Woman:\s*</b>\s*(.*?)</p>",
+            "A Woman": r"(?is)<p[^>]*>\s*A Woman:\s*</b>\s*(.*?)</p>",
+            "Woman": r"(?is)<p[^>]*>\s*Woman:\s*</b>\s*(.*?)</p>",
+            "Joey and Ross": r"(?is)<p[^>]*>\s*Joey and\s*<b>\s*Ross:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0716" and html_text:
+        malformed_cues = {
+            "Monica and Chandler": r"(?is)<p[^>]*>\s*Monica and\s*<b>\s*Chandler:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0715" and html_text:
+        malformed_cues = {
+            "Rachel and Monica": r"(?is)<p[^>]*>\s*Rachel and\s*<b>\s*Monica:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Phoebe and Rachel": r"(?is)<p[^>]*>\s*Phoebe and\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Guy": r"(?is)<p[^>]*>\s*Guy:\s*</b>\s*(.*?)</p>",
+            "Monica and Chandler": r"(?is)<p[^>]*>\s*Monica and\s*<b>\s*Chandler:\s*</b>\s*</b>\s*(.*?)</p>",
+            "The Director": r"(?is)<p[^>]*>\s*The Director:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "action"
+                and normalize_spaces(row[2]).startswith("(Why was this the trailer?")
+            )
+        ]
+
+    if episode_code == "0712" and html_text:
+        malformed_cues = {
+            "Smoke Detector": r"(?is)<p[^>]*>\s*Smoke Detector:\s*</b>\s*(.*?)</p>",
+            "A Disembodied Voice": r"(?is)<p[^>]*>\s*A Disembodied Voice:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0711" and html_text:
+        malformed_cues = {
+            "The Woman": r"(?is)<p[^>]*>\s*The Woman:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0710" and html_text:
+        malformed_cues = {
+            "Rachel and Monica": r"(?is)<p[^>]*>\s*Rachel and\s*<b>\s*Monica:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Rachel and Joey": r"(?is)<p[^>]*>\s*Rachel and\s*<b>\s*Joey:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0709" and html_text:
+        malformed_cues = {
+            "The Knocker": r"(?is)<p[^>]*>\s*The Knocker:\s*</b>\s*(.*?)</p>",
+            "Joey and Chandler": r"(?is)<p[^>]*>\s*Joey and\s*<b>\s*Chandler:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0708" and html_text:
+        malformed_cues = {
+            "Joey, Rachel, and Phoebe": r"(?is)<p[^>]*>\s*Joey,\s*Rachel,\s*and\s*<b>\s*Phoebe:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Monica and Phoebe": r"(?is)<p[^>]*>\s*Monica and\s*<b>\s*Phoebe:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, text)
+
+    if episode_code == "0707" and html_text:
+        malformed_cues = {
+            "Joey’s Date": r"(?is)<p[^>]*>\s*Joey(?:&#146;|’|')s Date:\s*</b>\s*(.*?)</p>",
+            "The Colonel": r"(?is)<p[^>]*>\s*The Colonel:\s*</b>\s*(.*?)</p>",
+            "Phoebe and Rachel": r"(?is)<p[^>]*>\s*Phoebe and\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) in {f"{cue}:", f"{cue.replace('’', "'")}:"}
+            ]
+
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, text)
+
+    if episode_code == "0706" and html_text:
+        malformed_cues = {
+            "Woman": r"(?is)<p[^>]*>\s*Woman:\s*</b>\s*(.*?)</p>",
+            "Joey and Ross": r"(?is)<p[^>]*>\s*Joey and\s*<b>\s*Ross:\s*</b>\s*</b>\s*(.*?)</p>",
+            "Ross and Joey": r"(?is)<p[^>]*>\s*Ross and\s*<b>\s*Joey:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, text)
+
+    if episode_code == "0704" and html_text:
+        malformed_cues = {
+            "Monica and Phoebe": r"(?is)<p[^>]*>\s*Monica and\s*<b>\s*Phoebe:\s*</b>\s*</b>\s*(.*?)</p>",
+            "The Director": r"(?is)<p[^>]*>\s*The Director:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, text)
+
+    if episode_code == "0701":
+        for csv_line_number in {59, 60, 252, 253, 303, 304, 308}:
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
+
     if episode_code == "0624":
         blocked_dialogue_characters = {
             "part i written by",

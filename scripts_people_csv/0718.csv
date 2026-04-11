@@ -1,0 +1,246 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Phoebe and Monica are there as Joey is entering excitedly.]"
+dialogue,Joey,Hey! You guys! You’re not gonna believe this! I just got off the phone with my agent…
+dialogue,Phoebe,"Oh my God! (Joey looks at her.) I’m sorry, too soon. You go."
+dialogue,Joey,Okay. I got nominated for my part on Days of Our Lives !
+dialogue,Monica,Joey!
+dialogue,Phoebe,Good for you!
+dialogue,Monica,Congratulations! Wow! I can’t believe you’re nominated for an Emmy !
+dialogue,Joey,No-no.
+dialogue,Monica,Oh Soap Opera Digest award!
+dialogue,Joey,No! I’m up for a Soapie!
+dialogue,Monica,Honey? Is that something you’re making up?
+dialogue,Joey,"No, no, no! It’s real! And it has been since 1998. (Rachel returns from the bathroom.) Hey Rach! Rach! I’m up for a Soapie!"
+dialogue,Rachel,(gasps) Oh my God! Oh my God!! That is like the third most prestigious soap opera award there is!
+dialogue,Joey,"Thank you! Well, I guess now I know who I’m taking to the awards. (Points to Rachel.)"
+dialogue,Rachel,"Oh, stop that! Don’t kid about that! (Gasps) Will all the stars be there?"
+dialogue,Joey,Many are scheduled to appear.
+dialogue,Rachel,Oh my God! Oh my God! I can’t go! I’m gonna be too nervous!
+dialogue,Monica,"(to Joey) Okay, I’ll go!"
+dialogue,Rachel,No!! You are getting married! This is all I have.
+action,,Opening Credits
+heading,,"[Scene: N.Y.U, Ross is giving a lecture.]"
+dialogue,Ross,…and it was Ernst Muhlbrat who first hypothesized that the Velociraptor would expand it’s collar and emit a high pitched noise to frighten it’s predator. (A student raises his hand.) Yes Mr. Lewis?
+dialogue,Lewis,What kinda noise?
+dialogue,Ross,Just a high pitched intimidating noise.
+dialogue,Lewis,But like how?
+dialogue,Ross,"Well we-we don’t know for sure. But in my head it-it sounded something like this. (He makes a high pitched noise and Alan doesn’t know what to make of it.) Of course, this is just conjecture. Okay, that’s uh, that’s all for today. (Everyone starts to get up.) Uh Mr. Morse, can I see you for a moment?"
+dialogue,Morse,Yes sir.
+dialogue,Ross,"Mr. Morse I need to talk to you about your mid-term exam, I’m afraid I-I had to fail you."
+dialogue,Morse,(shocked) Why?!
+dialogue,Ross,Well you need 60% to pass…
+dialogue,Morse,What’d I get?
+dialogue,Ross,Seven.
+dialogue,Morse,That’s not so good.
+dialogue,Ross,No-no it’s not. What-what happened there Ned?
+dialogue,Morse,Well maybe you can cut me some slack. I’m sort of in love.
+dialogue,Ross,"Well I’m sorry but, that-that’s really not my problem."
+dialogue,Morse,I’m in love with you.
+dialogue,Ross,Well that brings me in the loop a little.
+dialogue,Morse,"You see, that’s why I did so bad on this test. I’m having a hard time concentrating. When you’re up there (Points to the podium) and you’re teaching and your face gets all serious…you look so good. (In a sexy voice) You wear that tight little turtleneck sweater…"
+dialogue,Ross,"Okay! (Walks away from him.) Umm, I uh, I’m your teacher. I’m sorry, you’re-you’re a student and I-and I like women. In spite of what may be written on the backs of some of these chairs."
+heading,,"[Scene: Central Perk, Monica and Phoebe are drinking coffee and Phoebe notices a cute guy checking them out.]"
+dialogue,Phoebe,Oh my God! That guy at the counter is totally checking you out!
+dialogue,Monica,"Really? (Looks.) My God, he’s really cute."
+dialogue,Phoebe,Go for it.
+dialogue,Monica,"Phoebe, I’m engaged!"
+dialogue,Phoebe,"I’m just saying, get his number just in case. But no Chandler is in an accident and can’t perform sexually and he would want you to take a lover to satisfy the needs that he can no longer fulfill."
+dialogue,The Cute Guy,(To Monica) Hi!
+dialogue,Monica,"Op, can I just tell you something? Very flattered but umm, I’m engaged. (Points to her ring.)"
+dialogue,The Cute Guy,"Wow! Uh, this is kind of embarrassing. I was actually coming over to talk to your friend."
+dialogue,Monica,Well you should be embarrassed. (Leaves.)
+dialogue,The Cute Guy,(To Phoebe) I thought you knew I was looking at you.
+dialogue,Phoebe,"I did, but that was really fun."
+heading,,"[Scene: Joey and Rachel's, Joey is sitting in the chair.]"
+dialogue,Joey,"(pretending to be an announcer) And the winner is…Joey Tribbiani! (He then gets excited and goes over to the counter to practice his acceptance speech using a bottle of maple syrup as the award.) Oh… Wow! I honestly never expected this. I uh, I didn’t prepare a speech. But umm, I’d like to thank (Rachel enters quietly) my parents, who’ve always been there for me. I’d also like to thank my friends, Chandler, Monica, Phoebe, Rachel…"
+dialogue,Rachel,I’m fourth! (Joey is startled.) Look at you with your little maple syrup award!
+dialogue,Joey,Yeah may-maybe you don’t tell anyone about this.
+dialogue,Rachel,"What? No! It’s not a big deal! I do that too, with my shampoo bottle."
+dialogue,Joey,Really?
+dialogue,Rachel,Yeah.
+dialogue,Joey,What award are you practicing for?
+dialogue,Rachel,"Grammy , Best New Artist."
+dialogue,Joey,"Oh, hey listen! The Soapie’s called today and I also get to present an award."
+dialogue,Rachel,Ohh that’s great!
+dialogue,Joey,Yeah!
+dialogue,Rachel,"So you’ll definitely get onstage, even if you don’t win."
+dialogue,Joey,(confused) What you-you don’t think I’m gonna win?
+dialogue,Rachel,"Well of course I do! But y’know, favorite returning character is a tough category Joey. I mean you’re up against the guy who survived his own cremation."
+dialogue,Joey,"Yeah. No-no I-I know I might not win, but it’s just…I’ve never even been nominated before! I want it so much."
+dialogue,Rachel,"Well Joey, you’ll probably get it. But you should probably your-your gracious loser face. Y’know when like the cameras are on you and you wanna look disappointed but also that your colleague deserved to win. Y’know? So it’s sorta like… (Does it, you’ll have to see it.)"
+dialogue,Joey,Hey! (Likes it.)
+dialogue,Rachel,Y’know?
+dialogue,Joey,You practice losing the Grammies too?
+dialogue,Rachel,"Oh no, at the Grammies I always win."
+dialogue,Joey,Ah.
+heading,,"[Scene: Monica’s Restaurant Kitchen, she’s cooking as Phoebe enters.]"
+dialogue,Phoebe,Oh hey!
+dialogue,Monica,Hey! How’d your date go with Jake?
+dialogue,Phoebe,"Oh, great! We couldn’t keep our eyes off each other all night and then every once and a while y’know, he’d kinda lean over and stroke my hair and touch my neck. (Does that to Monica.)"
+dialogue,Monica,"Okay, stop it Phoebe, you’re getting me all tingly."
+dialogue,Phoebe,"(laughs) All I could think of was y’know, ""Is he gonna kiss me? Is he gonna kiss me?"""
+dialogue,Monica,And did he?
+dialogue,Phoebe,"I’m a lady Monica, I don’t kiss and tell. But this hickey speaks for itself. (She starts to open up her blouse.)"
+dialogue,Monica,"Okay-okay, I got it. I got it."
+dialogue,Phoebe,I just like him so much that I just feel like I’ve had 10 drinks today and I’ve only had six.
+dialogue,Monica,"Oh, I haven’t had that feeling since I first started going out with Chandler. Wow, I’m never gonna have that feeling again am I?"
+dialogue,Phoebe,You sound like a guy.
+dialogue,Monica,"No, a guy would be saying, ""I’m never gonna get to sleep with anyone else."" Oh my God! I’m never gonna get to sleep with anyone else! I’ve been so busy planning the wedding that I forgot about all the things that I’d be giving up! I mean, I…I’m never gonna have a first kiss again."
+dialogue,Phoebe,You’ll have a last kiss.
+heading,,"[Scene: Joey and Rachel's, Ross is helping Joey with his tie.]"
+dialogue,Ross,Can I ask you something? Have you ever had a guy have a crush on you?
+dialogue,Joey,Is that why you wanted to tie my tie?
+dialogue,Ross,There’s this kid in my class who said he’s in love with me.
+dialogue,Joey,Whoa!
+dialogue,Rachel,(entering from her room) Whoa what?
+dialogue,Joey,Ross has a boyfriend.
+dialogue,Ross,I do-I do not have a boyfriend. There’s a guy in one of my classes who-who has a crush on me.
+dialogue,Rachel,Really?
+dialogue,Ross,"Yeah! I don’t know. I mean, last year Elizabeth now-now this kid. What-what-what-what is it?! Am I giving out some kind of…sexy professor vibe? (Rachel and Joey both look at him.)"
+dialogue,Rachel,Not right now.
+dialogue,Ross,It-it—The point is my natural charisma has made him fail his midterm.
+dialogue,Rachel,"Oh, see now I feel bad for the kid! I had a crush on a teacher once and it was so hard! Y’know you—I couldn’t concentrate and I blushed every time he looked at me. I mean come on, you remember what’s it’s like to be 19 and in love."
+dialogue,Ross,Yeah. I guess I can cut him some slack.
+dialogue,Rachel,Yeah.
+dialogue,Joey,How’d you get over that teacher?
+dialogue,Rachel,I didn’t. I got under him.
+dialogue,Joey,(To Ross) Problem solved.
+heading,,"[Scene: Central Perk, Phoebe is saying good-bye to her boyfriend Jake at the door to Central Perk.]"
+dialogue,Jake,Bye Phoebe.
+dialogue,Phoebe,Okay bye. (They kiss.)
+dialogue,Jake,All right. Bye. (Backs out the door.)
+dialogue,Phoebe,Bye! (Phoebe goes over and joins Monica on the couch.) We said good-bye at the door so as not to flaunt our new love.
+dialogue,Monica,"Phoebe, it’s okay. You don’t have to tip toe around me. I-I’ve been thinking about it and umm, y’know what? I’m okay about not having that new relationship feeling…"
+dialogue,Jake,(yelling through the window to Phoebe) I miss you already!!
+dialogue,Phoebe,(yelling back) I miss you too!!!! (He walks away.)
+dialogue,Monica,"See? That’s what I mean. I mean that , that’s great! But I wouldn’t trade in what I have for that. I mean I’m gonna be with Chandler for the rest of my life, and that’s what makes me happy. (Chandler approaches.) Hey sweetie, come here! Come sit down. Hey Phoebe and I were just talking about how our relationship is deep and meaningful. It really is don’t you think?"
+dialogue,Chandler,Oh totally! (Holds up his finger.) Pull my finger.
+heading,,"[Scene: The 2001 Soapie Awards, Joey’s category is up next and the presenter walks to the podium.]"
+dialogue,Announcer,Presenting the award for Favorite Returning Male Character is McKensize…
+action,,[Cut to Joey and Rachel’s table.]
+dialogue,Joey,(To Rachel) This is it! This is my category.
+dialogue,Rachel,I know! My God! Do you have your speech?
+dialogue,Joey,"Yeah, I got my speech!"
+dialogue,Rachel,Do you got your gracious loser face?
+dialogue,Joey,Yeah. (Does it.)
+dialogue,Rachel,"Now Joey remember, if you win you have to hug me! You hug me!"
+dialogue,Joey,Okay. Can I squeeze your ass?
+dialogue,Rachel,On TV?! Yeah!
+dialogue,Joey,‘Kay!
+action,,[Cut to the presenter.]
+dialogue,The Presenter,"…in the category of Favorite Returning Male Character the nominees are: John Wheeler from General Hospital (Applause), Gavin Grant from The Young and the Restless (Applause), Dunkin Harrington from Passions (Applause), and Joey Tribbiani from Days of Our Lives (Applause). And the Soapie goes to…(She opens the envelope)…Gavin Grant from The Young and the Restless !"
+dialogue,Joey,"What the?! (Joey pounds the table and starts yelling at Rachel, and which is drowned out by applause. Rachel is desperately trying to tell Joey that he’s on TV right now. He finally notices and he does his gracious loser face.)"
+action,,Commercial Break
+heading,,"[Scene: The 2001 Soapie Awards, the announcer is introducing the next presenter.]"
+dialogue,Announcer,Presenting the award for Favorite Supporting Actress is Joey Tribbiani from Days of Our Lives . (Applause as Joey angrily walks to the podium and eyes the trophy.)
+dialogue,Joey,"(angrily and monotone) Any one of the brilliant actresses nominated for this award tonight deserves to take it home. Unfortunately only one can. (Shakes his head in disgust.) The nominees for Best Supporting Actress are from Passions Erin Goff. (There is applause, which Joey disgustedly waits to dye out.) From One Life to Live Mary Loren Bishop (They start to applaud again, but Joey interrupts in with the rest of the nominees), from All My Children Sarah Mchann, and from Days of Our Lives Jessica Ashley. And the winner is…(Opens the envelope)…Jessica Ashley from Days of Our Lives . (Applause) Uh, unfortunately Jessica couldn’t be with us tonight so I’ll be accepting this award on her behalf. (Realizes something) And I’m sure that Jessica would like to thank my parents who always believed in me. She’d also like to thank my friends, Chandler, Monica, Ross, Phoebe, and Rachel who’s sittin’ right there! (Points at Rachel.) (The music starts and his microphone is turned off, this angers Joey again and he disgustedly exits.)"
+heading,,"[Scene: Joey and Rachel's, Joey and Rachel are entering.]"
+dialogue,Rachel,Joey! Why did we have to rush out of there so fast?!
+dialogue,Joey,"Rach we had to get out of there because, look what I won! (He whips out the award for Best Supporting Actress that he accepted for Jessica.)"
+dialogue,Rachel,Oh my God you stole her award!
+dialogue,Joey,"No-no! No, I’m accepting it on her behalf. (He puts it up above the TV to display it.)"
+dialogue,Rachel,Joey I don’t think you know what behalf means.
+dialogue,Joey,"Sure I do! It’s a verb! As in, ""I behalfin’ it!"""
+dialogue,Rachel,"Joey, you have got to take this back!"
+dialogue,Joey,But why?! I should’ve won one and I really want it and she didn’t even care enough to come to the thing! It could also be a Grammy .
+dialogue,Rachel,(looking at the award) No! Joey!
+dialogue,Joey,Come on Rach! No one saw me take it! There was a whole table full of ‘em.
+dialogue,Rachel,Do you really want an award you didn’t win?
+dialogue,Joey,"No! I want an award I did win! But nobody’s giving me any of those! Plus—Hey Rach, if-if I put it up there (Points to the TV) right? When people come over they’ll see it and they’ll think I won it."
+dialogue,Rachel,Joey is says Best Supporting Actress!
+dialogue,Joey,I can scratch that right off.
+dialogue,Rachel,"Joey no, this is wrong! You have to take it back, okay? You don’t want to win an award this way. You’re very talented. And someday you’re gonna win one of these for real and that one is gonna mean something."
+dialogue,Joey,All right!
+dialogue,Rachel,All right? (He sets the award down.) Thank you.
+dialogue,Joey,I’ll take it back tomorrow.
+dialogue,Rachel,Thank you.
+action,,(He goes into his room and closes the door. Rachel goes to pick it up and…)
+dialogue,Joey,(opening his door) If I can’t have it you can’t have it! (Rachel walks away angrily.)
+heading,,"[Scene: Ross’s Classroom, he is writing on the board and Alan is coming in to see him.]"
+dialogue,Lewis,Professor Geller?
+dialogue,Ross,"(turning towards him) Yes Mr. Lewis, how can I help you?"
+dialogue,Lewis,"I know I didn’t do well on my midterms and stuff but, I was kinda hoping you could change my grade."
+dialogue,Ross,And why exactly would I do that? (Goes back to writing on the board.)
+dialogue,Lewis,Because I’m in love with you.
+dialogue,Ross,(turning around and dragging the chalk down the board) What?!
+dialogue,Lewis,"Yeah, I’m all…in love with you and stuff. So could you change my grade?"
+dialogue,Ross,No!
+dialogue,Lewis,Well why not you changed Ned’s grade!
+dialogue,Ross,"Well that’s different! Okay? Because he, he was actually in love with me!"
+dialogue,Lewis,No he’s not! He’s totally yanking your chain! He’s done this with three other teachers!
+dialogue,Ross,What?
+dialogue,Lewis,He’s got a girlfriend!
+dialogue,Ross,I can’t believe someone would do that for a grade.
+dialogue,Lewis,I know! It’s awful. I love you.
+action,,(Ross glares at him.)
+heading,,"[Scene: Central Perk, Phoebe is sitting on the couch as Monica enters.]"
+dialogue,Monica,Have you seen Chandler?
+dialogue,Phoebe,No. Why?
+dialogue,Monica,‘Cause I just keeping thinking about all these things that I’m not gonna have and it’s freaking me out. I don’t know what to do about it.
+dialogue,Phoebe,"Okay, don’t sweat it. (Looking around her.) Chandler is nowhere around so go ahead get it out of your system. That guy’s cute. (Points to a guy sitting behind Monica.)"
+dialogue,Monica,Phoebe! Come on I’m serious! I just got to talk to him about all this.
+dialogue,Phoebe,No that is the last thing you want to do!
+dialogue,Monica,Why?
+dialogue,Phoebe,Because you’re marrying him!
+dialogue,Monica,You gotta help me out here Pheebs.
+dialogue,Phoebe,"All right, I’ve never been engaged and I’ve never really been married, but I can only tell you what my mother told me. Whenever you have doubts or fears or anxieties about a relationship, do not communicate them to your husband."
+dialogue,Monica,So I’m not supposed to share my doubts and fears with the guy I’m gonna spend the rest of my life with?
+dialogue,Phoebe,"That is correct! Yes, you’re supposed to take all of that stuff and put it in a little box in your mind and then lock it up tight."
+dialogue,Monica,Your mother told you this?
+dialogue,Phoebe,Yes!
+dialogue,Monica,The woman that got married a bunch of times and killed herself when you were 13?
+dialogue,Phoebe,Oh my God! You’re right! Go! (Monica starts to leave.) Go tell Chandler! Hurry before it’s too late! Wait no! (Monica stops.) Does this also mean putting out doesn’t get you love? (Monica is shocked.)
+heading,,"[Scene: Silvercup Studios, Joey and Rachel are there to give Jessica her award.]"
+dialogue,Rachel,I cannot believe I’m gonna meet Jessica Ashley!
+dialogue,Joey,Okay wait-wait p-please be cool! Okay? I work with this woman.
+dialogue,Rachel,"Okay, I’m totally cool! (She coolly knocks on the door)"
+dialogue,Jessica Ashley,Come in.
+action,,(The enter.)
+dialogue,Joey,Hey Jessica.
+dialogue,Rachel,(coolly) Hey Jess.
+dialogue,Joey,"Ah, this is my friend Rachel."
+dialogue,Jessica Ashley,Hi.
+dialogue,Rachel,‘Sup? (Joey glares at her.)
+dialogue,Joey,"Uh listen, here’s your Soapie. I accepted it for ya. (Hands it to her.)"
+dialogue,Jessica Ashley,(shocked) Oh my God! I won! Do you have any idea what this means?! (She rolls her eyes and throws it onto the couch.)
+dialogue,Joey,"Well, that-that-that’s it? You’re gonna, you’re gonna put it on your self or anything?"
+dialogue,Jessica Ashley,"No, I try to save that for real awards. Now, if you’ll excuse me. (She exits.)"
+dialogue,Joey,(To Rachel) Take it back?
+dialogue,Rachel,Absolutely.
+dialogue,Joey,"Y-y-yeah! (As they start to leave, Rachel pauses and steals a vase with flowers in it.) Yeah you do. (They exit.)"
+heading,,"[Scene: Monica and Chandler's, Monica is talking to Chandler.]"
+dialogue,Monica,"Honey, as we get closer to the wedding, is there anything that you would like to talk about or share?"
+dialogue,Chandler,"Okay. Well, I think the centerpieces are too big"
+dialogue,Monica,You’re wrong! The centerpieces are fine! Do you ever get scared at all?
+dialogue,Chandler,Kinda. They’re really big.
+dialogue,Monica,Doesn’t it ever just freak you out that-that you’re never gonna be with anybody new again?
+dialogue,Chandler,What?
+dialogue,Monica,"Just, I love you so much. Just…It’s just sometimes it bothers me that I’m never gonna have that feeling. Y’know when you meet someone for the first time and it’s new and exciting? Y’know that rush?"
+dialogue,Chandler,"No. No, see when I first meet somebody it’s uh it’s mostly panic, anxiety, and a great deal of sweating."
+dialogue,Monica,"Okay, but all right you’re a guy, does it not freak you that you’re never gonna sleep with anybody else?"
+dialogue,Chandler,"Sleeping with somebody new, anxiety, panic, and I’m afraid even more sweating."
+dialogue,Monica,Even with me?
+dialogue,Chandler,"I was dangerously dehydrated during the first six months of our relationship. (Monica laughs.) Look, for me the rush is knowing that we are gonna be together for the rest of our lives."
+dialogue,Monica,Really?
+dialogue,Chandler,"Well yeah! But now that I know that you’re having these thoughts, I’m back to panic, anxiety, and uh I’m definitely gonna need some kind of sports drink."
+dialogue,Monica,"Come here! Come here! (They hug.) Sweetie you don’t have to worry. No, besides y’know what? I’m gonna have a lot of new things with you. The first time we buy a house. Our first kid. Our first grandkid…"
+dialogue,Chandler,(hoarsely) Water! Water! Water!
+heading,,"[Scene: Ross’s classroom, he has just finished his lecture and the students are filing out.]"
+dialogue,Ross,"Uh Mr. Morse, can I speak to you for a moment?"
+dialogue,Morse,(walking up) That was a great lecture today. Did you get a little hair cut?
+dialogue,Ross,"Uh-hmm, yeah-yeah do you like it? Do-do you looove it? I just want you to know that I’m changing your grade back."
+dialogue,Morse,What?! Why?
+dialogue,Ross,‘Cause I know what you’re trying to pull here. Okay? It’s not gonna work.
+dialogue,Morse,I’m not trying to pull anything. Look I love you dude.
+dialogue,Ross,"Y’know what? I-I’m not even gonna talk about this. Okay? This little thing is over. I know you have a girlfriend! Okay—(Ned looks shocked)—Yeah! And I know about the other professors! How do you think that makes me feel Ned?! You used me! You don’t love me and you never did! (Ross turns around to make a grand exit but runs into two colleagues.) Ah Professor Winston, Professor Fredrickson, I’ll be right with you. (To Ned) Don’t make this worse and I’ll give you a C. (To the professors) Shall we? (They leave.)"
+action,,Ending Credits
+heading,,"[Scene: Joey and Rachel's, Phoebe is entering.]"
+dialogue,Phoebe,Rach?
+dialogue,Rachel,I’ll be out in a second.
+action,,(Phoebe notices the Soapie on the counter.)
+dialogue,Phoebe,Oh. (Picks it up.) It’s just so unexpected! I…I uh…Boy I’ll tell you it’s just such an honor to be nominated for a Nobel Prize and y’know to win one for a massage. Especially after having just won a Tony award for best actress in…
+dialogue,Rachel,"(entering from her room) Honey, we have to go. Our reservations are at 8:00."
+dialogue,Phoebe,…in Reservations at 8:00 by Neil Simon. (To an imaginary Neil Simon) Thank-thank you Neil. Thank you for the words. (Blows him a kiss.)
+dialogue,Rachel,"Okay honey, you can finish this later we’re gonna be late. We gotta go."
+dialogue,Phoebe,"Please, don’t play the music. Just uh one more. LIVE FROM NEW YORK! IT’S SATURDAY NIGHT!!"
+action,,End

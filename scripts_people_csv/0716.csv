@@ -1,0 +1,395 @@
+script_element,character,text
+heading,,"[Scene: Joey and Rachel's, Rachel is filing her nails as Ross and Ben enter.]"
+dialogue,Ross,Hi.
+dialogue,Rachel,Hi! Hi Ben!
+dialogue,Ben,Hi.
+dialogue,Ross,"Hi, we have a little bathroom emergency."
+dialogue,Rachel,"Oh, yeah go ahead."
+action,,"(Ben starts to go, but Ross stops him.)"
+dialogue,Ross,"Uh, before we do uh, are any of Joey’s special romance magazines in there?"
+dialogue,Rachel,No. No.
+dialogue,Ross,(to Ben) Okay! All clear!
+dialogue,Ben,(running to the bathroom) Thanks Phoebe!
+dialogue,Rachel,"Ben, its Rachel! (He closes the door.) But whatever."
+dialogue,Ross,(to Ben) Everything okay in there?
+dialogue,Ben,Don’t talk to me now!
+dialogue,Rachel,"Awww, just like his daddy."
+dialogue,Ross,Hey listen can you do me a big favor? The dean’s office just called and said there was an urgent meeting. Can you watch Ben for like an hour?
+dialogue,Rachel,What-what about Monica?
+dialogue,Ross,"Oh, she isn’t home."
+dialogue,Rachel,"(nervous) So it would just be, me alone?"
+dialogue,Ross,"Well, Ben would be there."
+dialogue,Rachel,Huh umm…
+dialogue,Ross,What’s the matter?
+dialogue,Rachel,"Well that—y’know it’s just uh, I’ve never done that before. Me and him alone."
+dialogue,Ross,"Rach, he’s not an ex-con."
+dialogue,Rachel,"Okay. Okay. Okay. Uh, what do I, what do I do with him?"
+dialogue,Ross,I don’t know! Just-just talk to him-entertain him and keep him alive.
+dialogue,Rachel,Okay.
+dialogue,Ross,"Okay. (Ben enters) Ben? Come here. All right, I’m gonna leave you here with Aunt Rachel for about an hour. Okay? Are you gonna be okay?"
+dialogue,Rachel,Yeah I think so.
+dialogue,Ross,(To Rachel) I wasn’t talking to you.
+dialogue,Ben,I’ll be okay.
+dialogue,Ross,"Okay, I’ll see you soon buddy. (He hugs and kisses him.) Be back in an hour."
+dialogue,Ben,Bye dad.
+dialogue,Rachel,"Bye. (Ross exits.) Ahhh… (Silence) So this is fun, huh?"
+dialogue,Ben,Not really.
+dialogue,Rachel,"Okay. Uh, want something-want something to drink?"
+dialogue,Ben,Okay.
+dialogue,Rachel,Uh great! How do you feel about Diet Coke ?
+dialogue,Ben,I’m not allowed to have soda.
+dialogue,Rachel,Okay. Well that’s pretty much all that we have—Oh! Oh! Have you ever had a virgin margarita? (Holds up a bottle of margarita mix.)
+dialogue,Ben,What’s a virgin?
+dialogue,Rachel,Water it is.
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Monica and Chandler are talking. Joey and Phoebe are getting coffee.]"
+dialogue,Monica,What about the second minister we meet with? I kinda liked him.
+dialogue,Chandler,You mean the spitter?
+dialogue,Monica,Come on! It wasn’t that bad!
+dialogue,Chandler,Easy for you to say; you’ll be wearing a veil.
+dialogue,Monica,"All right, what about the third guy?"
+dialogue,Chandler,You mean the guy who kept staring at your chest?
+dialogue,Monica,Can you blame him?
+dialogue,Chandler,"Sorry, I just don’t like the idea of when I say, ""I do,"" he’s thinking, ""Yeah, I’d do her too!"""
+dialogue,Monica,Well then we still have a problem.
+dialogue,Chandler,Yeah!
+dialogue,Phoebe,(returning with Joey) With what?
+dialogue,Monica,"Well, we’re trying to find someone to perform our wedding and they’re all either boring or annoying or y’know, can’t stop staring at the ladies. (Points to her chest.)"
+action,,(Joey nods his approval.)
+dialogue,Phoebe,Oo! You should have one of us do it!
+dialogue,Monica,"Phoebe, we’re getting married , married; not sixth grade married."
+dialogue,Phoebe,No! No! It’s-it’s uh a real thing! Anyone can get ordained on the Internet and perform like weddings and stuff!
+dialogue,Monica,Are you serious?
+dialogue,Phoebe,Yes! A friend of mine did it and it’s totally legal!
+dialogue,Joey,I call it!!
+dialogue,Phoebe,What?! No! It was my idea!
+dialogue,Chandler,Guys thank you very much but neither of you is marrying us.
+dialogue,Joey,Does calling it not mean anything anymore?!
+dialogue,Chandler,"We are going to have a legitimate member of the clergy! And when I say legitimate I mean, gay and in control of his saliva!"
+heading,,"[Scene: Joey and Rachel's, Rachel and Ben are sitting on the couch bored out of their minds.]"
+dialogue,Rachel,"Ben y’know when uh, when you were a baby, you and I used to hang out all the time. ‘Cause I was, I was your daddy’s girlfriend."
+dialogue,Ben,But you’re not anymore!
+dialogue,Rachel,"No, I’m not."
+dialogue,Ben,‘Cause you guys were on a break.
+dialogue,Rachel,"Hey! We were not on a—Okay. That’s fine! Fine. Y’know what Ben? One day when you are a lot older I am going to tell you that entire story over a pitcher of real margaritas, okay?"
+dialogue,Ben,When’s my daddy coming back?
+dialogue,Rachel,"(checks her watch) Fifty-two minutes. (Pause) So no-no brothers and sisters, huh? That must be nice. You don’t have to share stuff."
+dialogue,Ben,Sharing is good.
+dialogue,Rachel,"Oh, you’re one of those . But y’know what? I have two sisters of my own and we just-just tortured each other."
+dialogue,Ben,Really? Like how?
+dialogue,Rachel,"Well y’know, we would umm, repeat everything the other said, or uh, we’d jump out of closets to scare each other, or switch the sugar for the salt so they’d put salt on their cereal."
+dialogue,Ben,(laughs) That’s a good one.
+dialogue,Rachel,Yeah? You like that one?
+dialogue,Ben,"Yeah, you’re funny."
+dialogue,Rachel,"I’m funny? Oh thank God! Well hey, I’ve got a ton of these! Umm, oh hear—Do you want a good one? Here’s a good one. Umm, you uh, you take a quarter, take a quarter and, and you blacken the edge. Right? (Does so.) And then you say to person, I bet you can’t roll this quarter from your forehead to your chin without it leaving your face. And then when they do it, they’re left with a big black pencil line right down the center of their face."
+dialogue,Ben,Can I do it to you?
+dialogue,Rachel,"Yeah, I-I-I-I’m funny Ben, but I’m not stupid. Okay?"
+heading,,"[Scene: Monica and Chandler's, Monica and Chandler are eating lunch as Joey enters.]"
+dialogue,Joey,"So, did you uh, find anyone to marry you guys yet?"
+dialogue,Chandler,"No, but Horny for Monica Minister called, wanting to know if we were still together."
+dialogue,Monica,We’re never gonna find anybody.
+dialogue,Joey,Well then let me do it!
+dialogue,Chandler,Joe…
+dialogue,Joey,"No-no-no! Look, I’ve been thinking about it. I’m an actor right? So I won’t get nervous talking in front of people."
+dialogue,Monica,Joey look it’s really sweet…
+dialogue,Joey,"No-no-no-no look no! I won’t spit, and I won’t stare at Monica’s breasts! Y’know? Everyone knows I’m an ass man!"
+dialogue,Monica,That is true.
+dialogue,Joey,"Yeah and the most important thing is that it won’t be some like, stranger up there who barely knows you. It’ll be me! And I swear I’ll do a really good job. Plus, y’know I love you guys and-and it would really mean a lot to me."
+dialogue,Chandler,"(To Monica) Y’know, we haven’t found anybody else."
+dialogue,Monica,It might be kinda cool.
+dialogue,Joey,So I can do it?
+dialogue,Chandler,Yeah you can do it.
+dialogue,Joey,"All right!!! Okay!! All right! Okay-okay, I gotta get started on my speech! Oh, wait a minute, Internet ministers can still have sex right?"
+dialogue,Chandler,Yeah.
+dialogue,Joey,Okay.
+action,,(Phoebe enters slowly.)
+dialogue,Monica,"Hey Pheebs, how’s it going?"
+dialogue,Phoebe,"Oh, I have a headache. A horrible headache!"
+dialogue,Monica,"Oh, I’m sorry. Can I get you something?"
+dialogue,Phoebe,"Oh my God, you’ve got to stop chattering!"
+dialogue,Monica,"Here, take a couple of these. (She gets up to grab a couple of pills.)"
+dialogue,Phoebe,What is it?
+dialogue,Monica,It’s Hexadrin.
+dialogue,Phoebe,"Oh no, I don’t believe in Western medicine. No, if you just apply pressure to these points right here. (She’s pinching the bit of skin between her right thumb and forefinger with her left hand.) Then your hand starts to hurt and you still have a headache, so thanks. (Takes the pills.)"
+dialogue,Monica,"Okay, while we’re waiting for these pills to kick in, I’m gonna sit you down on the couch. Come on. (Phoebe gets up and goes with her.) Get some nice soft pillows under your head, I’m gonna turn the TV on and you can watch whatever you want. And I’m—Sit down—(She sits down on the couch)—gonna make you some tea. And then, I’m gonna rub your feet."
+dialogue,Phoebe,Oh.
+dialogue,Joey,"Oh! My head! Oh! (He’s sitting on the chair, lies back, and puts his feet up for Monica to rub.) Oh!"
+heading,,"[Scene: Joey and Rachel's, Rachel is reading and there is knock on the door which she answers.]"
+dialogue,Rachel,Coming.
+action,,(She opens the door to reveal Ross with a pencil mark from his forehead to his chin.)
+dialogue,Ross,I have a bone to pick with you.
+dialogue,Rachel,Uh-oh.
+dialogue,Ross,Yes! Ben learned a little trick.
+dialogue,Rachel,Oh yeah? Did he pull the old… (She is waving her hand up and down her face. She’s thinking about the pencil mark.)
+dialogue,Ross,That’s right! That’s right! Saran Wrap on the toilet seat so the pee goes everywhere!
+dialogue,Rachel,Oh that.
+dialogue,Ross,Yeah that! You know I hate practical jokes! They’re mean and they’re stupid and-and I don’t want my son learning them!
+dialogue,Rachel,"Oh, come on! Saran Wrap on the toilet seat, you don’t think that’s just a little funny?!"
+dialogue,Ross,"I was barefoot. Now tell me, the toilet thing is the only thing you taught him right?"
+dialogue,Rachel,(looking at his mark) Yes.
+heading,,"[Scene: Central Perk, Phoebe, Chandler, and Monica are there.]"
+dialogue,Phoebe,It’s amazing! My headache is completely gone! What are those pills called?
+dialogue,Monica,Hexadrin. (She gets the box out of her purse.)
+dialogue,Phoebe,"Oh, I love you Hexadrin! (She kisses the box.) Oh look! It comes with a story! (She pulls out the instructions and side affects paper.)"
+dialogue,Monica,"No Phoebe, those are like the side affects and stuff."
+dialogue,Phoebe,Say what?
+dialogue,Monica,"Y’know, the possible side affects."
+dialogue,Phoebe,"Oh my God! (Starts reading them.) Dizziness, nervousness, drowsiness, facial swelling, nausea, headache—Headache. Vomiting, stomach bleeding, liver damage! Now okay, I don’t recall any of this coming up when you gave me these little death capsules! Oh I’m sorry, extra strength death capsules!"
+dialogue,Monica,"Phoebe, relax none of that stuff ever happens! They just put it on there for legal reasons!"
+dialogue,Phoebe,Why?
+dialogue,Monica,In case it happens.
+dialogue,Joey,(entering) Hey!
+dialogue,Chandler,Hey!
+dialogue,Joey,Say hello to Reverend Joey Tribbiani! (Holds up the piece of paper bearing the proof of his ordination.)
+dialogue,Chandler,Hey!
+dialogue,Monica,You did it! You got ordained?!
+dialogue,Joey,"Yeah, I just got off the Internet! Man, there is a lot of porn out there!"
+dialogue,Chandler,Our minister…
+dialogue,Phoebe,I have liver damage. Ow! Oh! (She grabs the left side of her torso.)
+dialogue,Monica,"Phoebe, your liver is right here. (She points to the right side of her torso.)"
+dialogue,Phoebe,"Okay, then I must be disoriented."
+dialogue,Joey,"Anyway, I started working on what I’m going to say for the ceremony, do you wanna hear it?"
+dialogue,Chandler,Okay.
+dialogue,Monica,Yeah!
+dialogue,Joey,"Now-now, listen this is just a first draft so… (Starts to read the piece of paper he brought.) ""We are gathered here today on this joyous occasion to celebrate the special love that Monica and Chandler share."" (Monica and Chandler like it so far.) Eh? (He continues reading.) ""It is a love based on giving and receiving. As well as having and sharing. And the love that they give and have is shared and received. And through this having and giving and sharing and receiving."" (Phoebe nods her approval.) ""We too can share and love and have and receive."""
+dialogue,Chandler,(To Monica) Should we call the spitter?
+action,,Commercial Break
+heading,,"[Scene: Carol and Susan’s, there is a knock on the door and Carol opens it to reveal Rachel.]"
+dialogue,Carol,Hey Rachel! (The camera cuts to her face and we see that Ben pulled the quarter trick with her as well.)
+dialogue,Rachel,Hi!
+dialogue,Carol,What a nice surprise! What are you doing here?
+dialogue,Rachel,"Well y’know I was just in the neighborhood and I passed by your building and I thought to myself, ""What’s up with Carol and sweet, little Ben?"""
+dialogue,Carol,Can I ask what—Come on in.
+dialogue,Rachel,Okay.
+dialogue,Carol,"Umm uh, I’ll make some coffee and we can uh, chat."
+dialogue,Rachel,"I’d love that. I would loooove… (Carol goes to make the coffee and she sits down.) So uh, so where is sweet little Ben? I would love to have a little..."
+dialogue,Ben,(jumping up from behind her chair) Gotcha!! (Rachel jumps up startled.)
+dialogue,Rachel,"I found him! (To Ben) Very funny, come here! (She sits down on the coffee table and Ben walks up.) That is exactly why I’ve come here to talk to you okay?"
+dialogue,Carol,"(from the kitchen) Rach, do you want some sugar in your coffee?"
+dialogue,Rachel,"Yes oh—(To Ben)—Do I want sugar in my coffee? (Ben nods no.) No, just some milk would be good Carol. Thanks. (To Ben) Okay, do you remember all that stuff I taught you yesterday?"
+dialogue,Ben,(mimicking her) Remember all that stuff I taught you yesterday?
+dialogue,Rachel,Don’t do that.
+dialogue,Ben,Don’t do that.
+dialogue,Rachel,"Seriously, your dad doesn’t like pranks."
+dialogue,Ben,"Seriously, your dad doesn’t like pranks."
+dialogue,Rachel,Oh damnit!
+dialogue,Ben,Oh damnit!
+dialogue,Rachel,No! Don’t say that! Don’t say that!
+dialogue,Ben,Damnit!
+dialogue,Rachel,No don’t! Go back to repeating!
+dialogue,Ben,Damnit!
+dialogue,Rachel,Oh crap!
+dialogue,Ben,Oh crap!
+heading,,"[Scene: Monica and Chandler's, Phoebe, Joey, Chandler, and Monica are returning from Central Perk.]"
+dialogue,Phoebe,I feel like my face is swelling. (To Monica) Is my face swelling?
+dialogue,Monica,"Phoebe, your face is fine! Come on, none of this stuff is going to happen to you! Stop being such a baby!"
+dialogue,Phoebe,"Oh, interesting you should call me that! Now that I may never have one! (Holds up the warning label.)"
+dialogue,Joey,"Okay you guys, I got a little more written. Are you ready?"
+dialogue,Chandler,Yeah. O-okay.
+dialogue,Joey,"(reading) ""When I think of the love that these two givers and receivers share, I can not help but envy the lifetime ahead of having and loving and giving and…"" And then I can’t think of a good word for right here. (He points to the stop on the paper where he left off.)"
+dialogue,Monica,How about receiving?
+dialogue,Joey,Yes!
+dialogue,Chandler,"See Joe, not that that’s not grrreat! But, one of the cool things about having somebody we know perform the ceremony is that it can be about us! Y’know, it can be more personal. You can tell stories about us!"
+dialogue,Joey,"Ooh, like the time you and I went to Atlantic City and I made you laugh so hard you threw up your whole steak?! Remember?"
+dialogue,Chandler,"No, not us… (Motions Joey and him.) Us! (Motions Monica and him.)"
+dialogue,Monica,"I gotcha. Sorry. (To Monica) So, did you ever make him throw up a whole anything?"
+dialogue,Phoebe,Did you ever feed him a poison capsule that made him bleed from the eyes?
+dialogue,Monica,It doesn’t say that!
+dialogue,Phoebe,Oh! Suddenly somebody knows all about the side affects!
+dialogue,Chandler,"See Joe, we want you to tell stories but y’know, romantic stories. Nice stories."
+dialogue,Joey,"Oh. Okay. Ooh! Ooh! Okay, maybe I’ll talk about London! Y’know when you two hooked up! Only, only I won’t say hooked up. I’ll say, ""Began their beautiful journey…"""
+dialogue,Monica,There you go!
+dialogue,Joey,"""…by doin’ it."""
+dialogue,Chandler,Joe?
+dialogue,Joey,"Okay. All right. Umm, so uh, so how did it happen? Did your eyes meet across the room? And then the next thing y’know you’re in the bathtub together and she’s feeding you strawberries?"
+dialogue,Chandler,Isn’t that what happened with you and the bride’s maid?
+dialogue,Joey,Yeah!! I call that London style.
+dialogue,Monica,"No that is not what happened with us. Well, I was umm, I was really sad that night because this guy that I was Ross’s mom."
+dialogue,Joey,Oh.
+dialogue,Monica,"And then Chandler was, was really sweet and he consoled me. And well we drank too much…"
+dialogue,Joey,Yeah baby!
+dialogue,Chandler,And I was a perfect gentleman and I walked her to her hotel room and said goodnight.
+dialogue,Joey,Oh.
+dialogue,Chandler,But then later that night…
+dialogue,Joey,Yeah baby!
+action,,"[Cut to London, Chandler’s hotel room. He is getting ready for bed by doing push-ups. One push-up. Just as he gets under the covers, there’s a knock on the door.]"
+dialogue,Chandler,(answering the door) Hey!
+dialogue,Monica,(standing outside) Cute PJ’s! You’re really livin’ it up here in London huh?
+dialogue,Chandler,Well I was… I was exactly expecting company after…(He looks at his watch.) 9:15.
+dialogue,Monica,(entering) Is Joey here?
+dialogue,Chandler,"Well, last time I saw him he was heading out the door with the bride’s maid and a bucket of strawberries. So uh, you’re not still upset about what that guy told ya are ya?"
+dialogue,Monica,Wouldn’t you be?
+dialogue,Chandler,"Well, look it’s been a really emotional time y’know, and you’ve had a lot to drink. And you’ve just got to let that go okay? I mean you were the most beautiful in the room tonight!"
+dialogue,Monica,Really?
+dialogue,Chandler,You kidding? You’re the most beautiful woman in most rooms… (She jumps up and kisses him.) (Breaking the kiss.) Whoa! Whoa! Whoa! What’s going on? You and I just made out! You and I are making out?
+dialogue,Monica,"Well, not anymore."
+dialogue,Chandler,But we don’t do that.
+dialogue,Monica,"I know, I just thought it would be fun."
+dialogue,Chandler,How drunk are you?
+dialogue,Monica,Drunk enough to know that I want to do this. Not so drunk that you should feel guilty about taking advantage.
+dialogue,Chandler,(thinks) That’s the perfect amount!
+dialogue,Monica,Okay!
+action,,"(They run to the bed, sit down, and start making out again.)"
+dialogue,Monica,(breaking the kiss) Y’know what’s weird?
+dialogue,Chandler,What?
+dialogue,Monica,This doesn’t feel weird!
+dialogue,Chandler,I know.
+dialogue,Monica,You’re a really good kisser.
+dialogue,Chandler,"Well, I have kissed over four women. (They kiss again.) Do you wanna get under the covers?"
+dialogue,Monica,Hm-hmm!
+dialogue,Chandler,Okay!
+action,,(They do so and they take off their clothes.)
+dialogue,Monica,Wow! You are really fast!
+dialogue,Chandler,It bodes well for me that speed impresses you.
+dialogue,Monica,We’re gonna see each other naked.
+dialogue,Chandler,Yep!
+dialogue,Monica,Do you wanna do it at the same time?
+dialogue,Chandler,Count of three?
+dialogue,Monica,One!
+dialogue,Chandler,Two!
+dialogue,Monica,Two!
+dialogue,Monica and Chandler,"Three! (They lift up the covers and check each other out, then come back up with silly grins on their faces.)"
+dialogue,Chandler,Well I think it’s safe to say that our friendship is effectively ruined.
+dialogue,Monica,"Eh, we weren’t that close anyway!"
+dialogue,Chandler,Eh!
+action,,"(They start making out again, and it takes Joey trying to enter to stop them.)"
+dialogue,Chandler,Joey! Joey! Joey! J-J-Joey-Joey-J-Joey! (Monica hides under the covers as Joey enters. Remember?)
+dialogue,Joey,Hey!
+dialogue,Chandler,Hey Joe! I was just watching a movie-e-e… (Notices that the TV is turned off.)
+dialogue,Joey,"Oh, dude I’m so sorry!"
+dialogue,Chandler,No! No! No!
+dialogue,Joey,"Hey no-no-no-no! It’s cool! It’s cool! I-I’ll only be a second, I’m still with my bride’s maid, I just—Where are those condoms you brought?"
+dialogue,Chandler,They’re in my bag over there. (Points.)
+dialogue,Joey,Ah. (Joey walks to Chandler’s bag by getting as far away from Chandler’s bed as possible.)
+dialogue,Chandler,"Uh, could you leave me one?"
+dialogue,Joey,(pause) For just you?
+dialogue,Chandler,Yeah.
+dialogue,Joey,"Hey listen, why don’t you come downstairs with me? There’s some really nice girls down there."
+dialogue,Chandler,No I-I-I’m fine.
+dialogue,Joey,"All right, here you go buddy. (He tosses him one.) Go nuts. (Exits.)"
+action,,[Cut back to Monica and Chandler telling Phoebe and Joey the story.]
+dialogue,Joey,"That’s what that was?! ‘Cause that other thing? I thought you were on to something, but it did nothing for me."
+dialogue,Monica,"Okay, can we change the topic? Because it’s really doing nothing for me."
+dialogue,Joey,Oh… (To Chandler) Can you imagine if I hadn’t left you that last one? You two might’ve never gotten together. Ooh-ooh! Could you imagine if I sent that hooker up to the room like I was gonna?! It’s like it was in the stars!
+dialogue,Phoebe,"Yeah, it’s totally meant to be. (To Monica) Tell him who you originally wanted to hook up with that night."
+dialogue,Monica,What?!
+dialogue,Chandler,What?
+dialogue,Phoebe,(To Joey) What?!
+dialogue,Chandler,Who did you originally want to hook up with?
+dialogue,Monica,"Okay, fine but please don’t be upset! Okay? I was really depressed okay? And really drunk! I just wanted something stupid and meaningless. I just wanted…just sex. So, when I…went to your room that night…I was actually looking…for Joey. (Joey smiles.)"
+dialogue,Joey,Yeah baby! (Chandler glares at him.) No baby!
+action,,Commercial Break
+heading,,"[Scene: Monica and Chandler's, scene continued from earlier.]"
+dialogue,Chandler,(To Monica) So you came to the room looking for Joey? Did you ever in-intend on telling me about this?
+dialogue,Monica,No because it-it didn’t seem important.
+dialogue,Chandler,"Oh, it’s not important? It’s not important?! If it wasn’t for a bride’s maid you’d be marrying him (Points to Joey) not me!"
+dialogue,Monica,Noo!! The point is that is was you that was there that night! It is you that I am marrying! It is you that I feel in love with!
+dialogue,Joey,And it is a love that is based on having and giving and receiv—(Shuts up on Monica’s glare.)
+dialogue,Chandler,I don’t believe it. The most romantic night of my life and I’m runner up.
+dialogue,Monica,"Chandler, please! Do you know how unbelievably glad I am that Joey was not there that night?!"
+dialogue,Joey,"Hey! (Monica turns and looks at him) Now I’m a man of the cloth, but I still have feelings!"
+dialogue,Chandler,(To Joey) Look there is no way you’re doing this wedding now. Okay?
+dialogue,Joey,"What?! That’s not fair! It’s not my fault! I was off with my bride’s maid! And who’s to say I would’ve even said yes?! (To Monica) I mean I would’ve said yes. Chandler look y-y-you are making way to big a deal out of this, all right? Look, everything worked out okay!"
+dialogue,Chandler,"Okay, it’s just weird! Okay? I don’t want to be standing their saying my vows and then having the mental image of you and Monica! I-I-I need…I don’t know what I need. I need a walk."
+dialogue,Monica,"Wait Chandler come on, let’s—it’s not a big deal!"
+dialogue,Chandler,"It is to me. You wanted to sleep with Batman , and instead you had to settle for Robin . (Walks out and slams the door.)"
+dialogue,Joey,This is crazy.
+dialogue,Phoebe,I know! Robin is so gay!
+heading,,"[Scene: Carol and Susan’s, Rachel is talking with Ben.]"
+dialogue,Rachel,So now what have we agreed?
+dialogue,Ben,No more pranks.
+dialogue,Rachel,And-and what else?
+dialogue,Ben,That you and daddy were not on a break.
+dialogue,Rachel,Very good.
+action,,(There’s a knock on the door and Ross enters.)
+dialogue,Ross,Rachel! What are you doing here?
+dialogue,Rachel,I’m just visiting my good friend Carol.
+dialogue,Ross,Your good friend?
+dialogue,Rachel,Yeah!
+dialogue,Ross,What’s her last name?
+dialogue,Rachel,Carol…Lesbian?
+dialogue,Ross,"Nice. And by the way that uh, that line down my face?"
+dialogue,Rachel,What line?
+dialogue,Ross,"Wh-wh-what line? The line that prompted a student in my last class of the day to say uh, (In a college frat boy voice) ""Dude, don’t you ever was your face?"""
+dialogue,Rachel,"All right, I’m sorry. I’m sorry I didn’t tell you but you were so mad already!"
+dialogue,Ross,Of course I was mad! I told you I-I hate this stuff! Okay? It-it’s not funny!
+dialogue,Carol,(entering from the kitchen) Hey Ross!
+dialogue,Ross,Hi.
+dialogue,Carol,What’s not funny?
+dialogue,Ross,Practical jokes.
+dialogue,Carol,Oh I…I think they’re funny.
+dialogue,Ross,You have a line down your face.
+dialogue,Carol,What? (Goes and checks.)
+dialogue,Rachel,"Okay, maybe they are not funny to you…"
+dialogue,Carol,(yelling from the bathroom) Oh my God!
+dialogue,Rachel,Or Carol! But they’re funny to kids and who is it hurting?!
+dialogue,Ross,"Uh, y’know what? I’ll tell you who it hurts! It hurts the kid who has all his clothes stolen in gym class so he has to go to the principal’s office wearing nothing but a catcher’s mitt!"
+dialogue,Rachel,"That was you ?! We heard about you in Junior High! Did you really just shake your fist in the air and shout, ""I will be revenged?!"""
+dialogue,Ross,"I will be! Listen, I don’t want you teaching my son that stuff anymore. Okay?"
+dialogue,Rachel,"Fine. Fine, but I’ll have you know that once I taught him that stuff he called me Fun Aunt Rachel. And I loved being Fun Aunt Rachel but I’ll go back to being Boring and Uncomfortable Aunt Rachel if that’s what you want!"
+dialogue,Ross,"No that’s not what I want. Uh, I’m glad you guys were bonding but I…"
+dialogue,Rachel,"Look he doesn’t have any brothers or sisters, somebody’s gonna have to teach him this stuff! And I haven’t taught him anything that a normal 6-year-old doesn’t know anyway!"
+dialogue,Ben,(yelling from off camera) Crap!!
+dialogue,Rachel,I gotta go! (Runs out.)
+heading,,"[Scene: Central Perk, Chandler is sulking on the couch as Joey enters to talk with him.]"
+dialogue,Joey,Hey.
+dialogue,Chandler,Hey. Do you want this scone? (Holds up his plate) It came for me but it would probably rather sleep with you!
+dialogue,Joey,"Chandler, come on nothing even happened!"
+dialogue,Chandler,"Look Joe, I know you wanted to do the wedding…"
+dialogue,Joey,"No-hey-no! If you don’t want me to do it, I except that. I don’t care about that. I just…I don’t want you to be upset."
+dialogue,Chandler,How can I not be upset? Okay? I finally fall in love with this fantastic woman and it turns out that she wanted you first!
+dialogue,Joey,"Yeah for like a half an hour one night! Chandler, she wants you for the rest of her life! You’re so lucky! Look what I missed out on by not being there! Although you know what? It could never have worked like you guys did, ‘cause you guys are perfect for each other. Y’know, we look at you and-and we see you together and it just…it-it fits. Y’know? And you just know it’s gonna last forever."
+dialogue,Chandler,That’s what you should say.
+dialogue,Joey,What?
+dialogue,Chandler,When you’re marrying us; that’s what you should say.
+dialogue,Joey,Really? I can do it?
+dialogue,Chandler,I’d love it if you would do it.
+dialogue,Joey,Hey! (They hug.)
+dialogue,Chandler,But those are the words! Those exact words!
+dialogue,Joey,"Well I don’t know remember exactly but, it’s-it’s pretty much about having and giving and sharing and receiving."
+heading,,"[Scene: Joey and Rachel's, Rachel is in the kitchen as Ross and Ben are entering.]"
+dialogue,Ross,Hey!
+dialogue,Rachel,Hey!
+dialogue,Ross,"Hey I’m sorry to do this to you again but uh, is there any way you can look after Ben for a little bit? I-I’ve got this meeting at school. And-and he-he asked for his uh, ‘Fun Aunt’ Rachel, so…"
+dialogue,Rachel,"Ohhh! Well of course I will watch him! We have fun, don’t we Ben? (He nods yes.)"
+dialogue,Ross,"Okay, I’ll see you later pal."
+action,,(Ross turns to leave.)
+dialogue,Rachel,"Ohh, okay. (Ross has a sign on his back that reads ‘Poop.’) Wh—Ah-ha! (Ross stops and turns.) Wait a minute. Uh Ben, I can’t do it."
+dialogue,Ross,What?
+dialogue,Rachel,"I can’t let him go out that way, he’s got a meeting. (To Ross) You’ve got something here on your back."
+dialogue,Ross,What? (She takes the sign off and hands it to him.) That’s great. That is great. (Crumples up the paper and throws it down in anger.) What did we just finish talking about Ben?!
+dialogue,Rachel,Oh I…
+dialogue,Ben,What did we just finish talking about Ben?!
+dialogue,Ross,"All right, that’s it! (He runs over to Ben, but he runs past him and out the door.) Come—you—no! You are in big trouble young man!"
+dialogue,Rachel,No! Wait! Come on!
+action,,"[Cut to the hallway, Ben runs upstairs with Ross in pursuit.]"
+dialogue,Ross,"Wait! No! Ben, come here! I am not kidding!"
+dialogue,Rachel,No you guys… (She walks out into the hallway.)
+dialogue,Ross,I-I-am—(Suddenly Ross starts screaming and comes falling down the stairs landing just in front of Rachel.)
+dialogue,Rachel,EHHHHHHHHHHH!!!!!!! My God!!!!!!!!!!! Oh my God!!!!!!! (She runs over to him and finds that it was a dummy and that she had been had.)
+heading,,"[Scene: Central Perk, Chandler and Monica are entering. Phoebe and Joey are sitting on the couch.]"
+dialogue,Joey,Hey!
+dialogue,Monica,Hey-hey.
+dialogue,Joey,So are guys doing okay?
+dialogue,Chandler,"Yeah, we talked and Monica made me see that I over reacted a little bit and some things in life are more important."
+dialogue,Monica,Yeah baby! (Phoebe and Joey nod.)
+dialogue,Phoebe,"I’m really glad you guys are okay but, I just keep thinking what would happen if-if you two (Points to Monica and Joey) actually had hooked up."
+heading,,"[Scene: Monica and Joey’s, Monica is cooking.]"
+dialogue,Monica,Honey! Dinner’s ready!
+action,,"(Joey, whose new diet is working out great, he looks like he only weighs 375 down from 420 enters from the bedroom.)"
+dialogue,Fat Joey,What’s my little chef got for me tonight?
+dialogue,Monica,Your favorite!
+dialogue,Joey,"Ho-ho-ho, (pausing for a rest next to the fridge) fried stuff with cheese!"
+dialogue,Monica,Yep! And lot’s of it!
+dialogue,Fat Joey,Thanks sweetheart. Give me a little sugar here. (They kiss.) Okay.
+action,,(Joey sits down.)
+dialogue,Monica,"Okay, in we go."
+action,,(Monica gets behind him and in combination with his sliding the chair forward and her pushing with her leg manages to get up to the table.)
+dialogue,Fat Joey,Here we go! Here we go! Here we go! (Groans and picks up a piece of food.) How you doin’?
+action,,Ending Credits
+heading,,"[Scene: Central Perk, Joey is getting Phoebe some coffee.]"
+dialogue,Joey,Here you go.
+dialogue,Phoebe,(still reading the label) Oh my God! This is a six-hour pill! (Checks her watch) That’s it! I’m out of the woods! Ohh! What a relief!
+dialogue,Joey,Good for you!
+dialogue,Phoebe,"Oh, it’s like huge weight has been lifted! ‘Cause look, (reads the side affects) no hair loss, not a rash, no hives, I’m just so happy! Because no shortness of breath, no temporary euphoria—Oh."
+action,,End

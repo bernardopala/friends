@@ -1,0 +1,309 @@
+script_element,character,text
+heading,,"[Scene: Monica, Chandler, and Phoebe's, Chandler, Joey, Rachel, and Phoebe are standing around the table drinking champagne as Ross enters.]"
+dialogue,Ross,"Hey, what’s going on?"
+dialogue,Chandler,Hey.
+dialogue,Ross,"I found a note on my door, ""Come to Monica’s quick, bring champagne and a Three Musketeers bar."""
+dialogue,Joey,(grabbing the candy bar) Yeah I’ll take that.
+dialogue,Ross,What’s up?
+dialogue,Chandler,Monica and I are engaged.
+dialogue,Ross,Oh my God. (Hugs Chandler.) Congratulations.
+dialogue,Chandler,Thanks.
+dialogue,Ross,Where is she?
+action,,[Cut to Monica out on the balcony.]
+dialogue,Monica,(yelling at the top of her lungs) I’m engaged!!!!!! I’m engaged!!!!
+action,,[Cut back inside.]
+dialogue,Joey,"Yeah, she’s been out there for twenty minutes, I’m surprised you didn’t hear her on the way over."
+dialogue,Ross,"Oh, I thought it was just a kid yelling, ""I’m gay! I’m gay!"" Can I bring her in?"
+dialogue,Phoebe,"Oh no, let her stay out there. It’s sweet."
+action,,[Cut to Monica.]
+dialogue,Monica,"I’m getting married!!!! I’m gonna be a bride!!!! (Someone else yells at her.) No, I will not shut up because I’m engaged! (He yells again.) Ohh, big talk! Huh, why don’t you come over here and say that to me?! Huh, buddy?! Yeah, my fiancee will kick your ass! (Chandler starts to look worried.) Come on, apartment 20! Apartment 20!"
+action,,[Cut back inside.]
+dialogue,Chandler,"(To Ross) Okay, you get her in here. (To Joey) You bolt the door. I’ll be in the closet."
+action,,Opening Credits
+heading,,"[Scene: Monica, Chandler, and Phoebe's, continued from earlier, everyone is now in the living room drinking champagne.]"
+dialogue,Monica,"Okay! Wait-wait-wait! Shhh! (Bangs on her class with a spoon to make a toast.) Okay, umm, I just wanna say that…I love you guys so-so much and-and thank you for being here on my special night. (Chandler clears his throat.) Our special night. I mean it just wouldn’t be my—our-our night, if you all weren’t here to celebrate with me—us—Damnit!"
+dialogue,Chandler,"It’s okay, I want this to be your night too. (Raises his class.) To Monica."
+dialogue,Monica,"Awww, come on—wait—stop it. Okay, to Monica."
+dialogue,Chandler,To Monica!
+action,,"(They all say to Monica, clink their glasses, and drink.)"
+dialogue,Phoebe,"So have you decided on a band for the wedding? Because, y’know, I’m kinda musical."
+dialogue,Rachel,"Yeah Pheebs, honey, she just got engaged a couple of hours ago. I doubt she’s even had time to…"
+dialogue,Phoebe,"Well speaking of chiming in, remember the time you burned down my apartment?"
+dialogue,Rachel,"(To Monica) Yeah, you’re on your own."
+dialogue,Monica,Y’know what we should do? We should all get dressed up and go to have champagne at The Plaza .
+action,,(They all agree and start to go and get ready.)
+dialogue,Joey,"But I-I-I can’t stay too long, I gotta get up early for a commercial audition tomorrow and I gotta look good. I’m supposed to be playing a 19-year-old. (Everyone stops in their tracks upon hearing this.) What?"
+dialogue,Chandler,"So when you said, ""Get up early,"" did you mean 1986?"
+dialogue,Joey,You guys don’t think I look 19?
+action,,(A brief silence ensues.)
+dialogue,Phoebe,"Oh, 19! We thought you said 90!"
+action,,(They all politely laugh and stop just as quickly.)
+dialogue,Monica,"Okay everybody, let’s go! Let’s go!"
+dialogue,Rachel,Okay.
+dialogue,Chandler,Okay.
+action,,(They all leave and Joey comes back in quickly.)
+dialogue,Joey,"(To Phoebe) Hey, is uh the rest of my candy bar around here?"
+dialogue,Phoebe,"Oh honey no, you ate it all."
+dialogue,Joey,I was afraid of that.
+action,,(Walks out and after he closes the door Phoebe turns around and takes a bite out of what is left of his candy bar.)
+heading,,"[Scene: Monica and Chandler’s bedroom, they’re getting ready.]"
+dialogue,Monica,(looking at her hand) Y’know what shoes would look great with this ring? Diamond shoes! (Sees Chandler sitting on the bed.) You’re not getting dressed. (Chandler quietly folds over the comforter on the bed making a spot for her.)
+dialogue,Chandler,Know what I mean?
+dialogue,Monica,"Yeah, but I don’t think we have time."
+dialogue,Chandler,There’s gonna be a wedding. You’re gonna be the bride. Two hundred people are going to be looking at you in a clean white dress.
+dialogue,Monica,(lustily) Let’s do it! (She kisses him and they fall back onto the bed.)
+heading,,"[Scene: Monica, Chandler, and Phoebe's, time lapse, Chandler is fully dressed and slowly walking out of the bedroom with a distressed look on his face.]"
+dialogue,Monica,"(chasing after him) Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, don’t worry about it!"
+dialogue,Chandler,"(motioning with his hands) I’m not worried, I’m uh, I’m fascinated. Y’know it’s like uh, Biology! Which is funny because in high school I uh, I-I failed Biology and tonight Biology failed me. (Exits as Phoebe enters from her room with her guitar.)"
+dialogue,Phoebe,"Check it out. Okay, I can play this when the guests are coming in. Okay. (Singing)"
+singing,Phoebe,"""First time I met Chandler, I thought he was gay."
+singing,Phoebe,"But here I am singing on his wedding day!"""
+dialogue,Monica,Phoebe!
+dialogue,Phoebe,"If you would’ve let me finish, it goes on to say that he’s probably not gay."
+heading,,"[Scene: Joey and Rachel's, Chandler is looking at the foosball table.]"
+dialogue,Chandler,"Sure, you guys don’t have this problem, you’re made of wood. (Rachel comes out of the bathroom) Hey!"
+dialogue,Rachel,Hey!
+dialogue,Chandler,You look great!
+dialogue,Rachel,"(quietly) Oh, thanks."
+dialogue,Chandler,You okay over there?
+dialogue,Rachel,"I don’t know, y’know? I feel a little umm… No, y’know what? Nevermind, I’m gonna be fine."
+dialogue,Chandler,"Oh, don’t worry about it I mean you probably were tired, you had a lot of champagne, it happens to everybody."
+action,,[Rachel exits into the hallway just as Ross is coming up the stairs.]
+dialogue,Ross,Hey!
+dialogue,Rachel,Hi!
+dialogue,Ross,Wow! Happy Monica’s night!
+dialogue,Rachel,"Well thank you, you too."
+dialogue,Ross,Thanks.
+dialogue,Rachel,"Hey, do you believe this? Do you believe they are actually getting married?"
+dialogue,Ross,Well sure. But I get married all the time so…
+dialogue,Rachel,Ohh…
+dialogue,Ross,You okay?
+dialogue,Rachel,"Yeah, I guess. I-I… I mean, do-do you think we’re ever gonna have that?"
+dialogue,Ross,"You mean, we—you and me?"
+dialogue,Rachel,"Oh no-no-no-no-no, no, no! We, you with someone and me with someone."
+dialogue,Ross,"Oh good, you scared me for a minute."
+dialogue,Rachel,Shake it off.
+dialogue,Ross,"I mean—no, it’s just ‘cause, it’s just ’cause you and I were like a nightmare. (Screams.) No, but there was some good times."
+dialogue,Rachel,"No, absolutely. Y’know like it was umm…"
+dialogue,Ross,Surely you can think of something good.
+dialogue,Rachel,"Yeah, just give me a minute! (Thinking) Oh well, yes, I can think of one good thing."
+dialogue,Ross,What?
+dialogue,Rachel,"Well you uh, you were always really good at the uh, at the uh the stuff."
+dialogue,Ross,Yeah? I was good at the stuff huh?
+dialogue,Rachel,"Uh-hmm, uh-hmm, yeah, yeah, I really liked your hands."
+dialogue,Ross,My hands?
+dialogue,Rachel,Yeah.
+dialogue,Ross,Yeah?
+dialogue,Rachel,Uh-huh.
+dialogue,Ross,"(to his hands) Way to go guys. Y’know, you-you were really good at the stuff too."
+dialogue,Rachel,"Oh, I know. Hey, y’know what we never did? (Ross looks at her.) Oh no, not that. (Ross nods okay.) We uh, we never had bonus night!"
+dialogue,Ross,A what?
+dialogue,Rachel,"Y’know, bonus night. Y’know, when two people break up but they get back together for just one night."
+dialogue,Ross,"One night, just-just sex. No strings attached?"
+dialogue,Rachel,"Yeah-yeah, we never had that,"
+dialogue,Ross,No.
+action,,[Silence.]
+dialogue,Ross,"Okay, this is getting a little crazy. I mean, I’m-I’m sure it would be amazing but I…gotta say I really-really don’t think it would be a good idea. Y’know? I really, really…don’t."
+heading,,"[Scene: Joey and Rachel's, Chandler is playing Playstation , Crash Team Racing to be exact (he’s in last on Hot Air Skyway to be more exact) as Joey enters from his room desperately trying to look like a 19-year-old. He’s got the wool cap, he’s got the cut-off Knicks jersey over the faded T-shirt, and he’s got the whole pants-around-the-knees-showing-off-the-boxers thing that rich, white, suburban kids have adopted in a desperate and extremely futile attempt to try to look like they’re from the inner-city.]"
+dialogue,Joey,‘Sup? ‘Sup dude?
+dialogue,Chandler,"(putting his hands up) Take whatever you want, just please don’t hurt me."
+dialogue,Joey,"So you’re playing a little Playstation , huh? That’s whack! Playstation is whack! ‘Sup with the whack Playstation , ‘sup?! Huh? Come on, am I 19 or what?!"
+dialogue,Chandler,"Yes, on a scale from 1 to 10, 10 being the dumbest a person can look, you are definitely 19."
+dialogue,Joey,"Come on man, really how old?!"
+dialogue,Chandler,"Young! You’re a man-child okay?! Now go get changed because everybody’s ready and please, oh please, keep my underwear!"
+dialogue,Joey,Wow thanks! (He goes into his bedroom and closes the door.)
+dialogue,Chandler,Joe?
+dialogue,Joey,Yeah!
+dialogue,Chandler,"Uhh, you’ve had a lot of sex right?"
+dialogue,Joey,"When? Today? Some, not a lot."
+dialogue,Chandler,"Well, it’s just the reason that I’m asking is because I kind of eh, uh, I was unable to—I mean I really wanted too, but I couldn’t…. There huh—hmm, there-there was an incident."
+dialogue,Joey,"Don’t worry about that man, that happens."
+dialogue,Chandler,It’s happened to you?
+dialogue,Joey,Yeah! Once.
+dialogue,Chandler,"Well, what’d you do?"
+dialogue,Joey,I did it anyway.
+heading,,"[Scene: Monica, Chandler, and Phoebe's, Monica is in the living room and Phoebe is in her room.]"
+dialogue,Monica,Phoebe! Come on! Let’s go! (Knocks on her door.) Come on! (Phoebe enters with guitar and not ready to go.) Why aren’t you dressed yet?!
+dialogue,Phoebe,"I’m sorry, but I just wrote the best dance song for your wedding. Check this out. (Gets ready to play.)"
+dialogue,Monica,"(grabs the guitar away from her) No, Phoebe, I’ll tell you what, if you get ready now I’ll let you play it at the wedding."
+dialogue,Phoebe,"Really?! Oh that’s so exciting! Thank you! Thanks Mon! Oh but Mon, if you touch my guitar again I’ll have to pound on you for a little bit."
+dialogue,Monica,"Fair enough, now go get ready!"
+dialogue,Phoebe,Okay. (She goes to get ready.)
+dialogue,Monica,"I’ll get everybody else (Does so), finally we can start celebrating my—(She gasps and is stopped by the sight of Ross and Rachel making out in the hall.) I’m sorry, uh apparently I’ve opened the door to the past."
+action,,Commercial Break
+heading,,"[Scene: Monica, Chandler, and Phoebe's, continued from before the commercial break. Monica is walking into the apartment followed by Ross and Rachel.]"
+dialogue,Ross,"Okay, Monica. Mon, uh what-what you just saw…"
+dialogue,Monica,"(interrupting) Can I ask you just a little question, huh? Why tonight?"
+dialogue,Rachel,What?
+dialogue,Monica,"See, I’ve been waiting my whole life to be engaged, and unlike some people I’m only planning on doing this once. So, uh y’know, maybe this is selfish and I’m sorry about it, but I was kinda hoping tonight could just be about that."
+dialogue,Rachel,"Oh honey, but it is just about…"
+dialogue,Ross,It is! It is!
+dialogue,Monica,No it’s not! No! No! Now it’s about you and Ross getting back together!
+dialogue,Rachel,What?!
+dialogue,Monica,"See yeah umm, you kinda stole my thunder!"
+dialogue,Ross,Okay! Ho-ho! We did not steal your thunder because we are not getting back together!
+dialogue,Rachel,Yeah. No. And you know what? Nobody even saw!
+dialogue,Ross,Yeah!
+dialogue,Monica,That’s true.
+dialogue,Rachel,Honey I swear it we just kissed.
+dialogue,Ross,It was just a kiss. (Phoebe enters and overhears this.)
+dialogue,Phoebe,"You guys kissed!!!!! What does this mean?!! Are you, are you getting back together?! Can I sing at your wedding?"
+dialogue,Monica,Thunder being stolen!!
+dialogue,Rachel,"Okay come on Phoebe, it’s nothing! Monica, come on!"
+dialogue,Ross,Look let’s not make a big deal out of this! It was a one time thing. It doesn’t even matter!
+action,,(Chandler and Joey enter and overhear that.)
+dialogue,Joey,Oh my God! I cannot believe you guys are talking about this! The problems in the bedroom are between the man and the woman!!! All right?!! Now Chandler is doing the best he can!!
+dialogue,Chandler,(angrily) I don’t think that’s what they were talking about Joe!!
+dialogue,Phoebe,"What a great night, Chandler can’t do it, these guys kissed… (Points to Ross and Rachel.)"
+dialogue,Joey,What?
+dialogue,Chandler,What?!
+dialogue,Joey,You guys kissed! Oh my—this is huge!
+dialogue,Rachel,No!
+dialogue,Ross,Oh no!
+dialogue,Rachel,"No-no, it’s really not huge."
+dialogue,Ross,And; people thinking it’s huge has led Monica to believe that we are stealing her thunder. (To Monica) Which we are not!
+dialogue,Monica,"Well, we’re still talking about it, aren’t we?"
+dialogue,Phoebe,"Well yeah, that and Chandler’s problem."
+dialogue,Joey,"Monica-Monica-Monica-Monica, listen-listen, listen, listen, would-would it make you feel better if we all stop talking about Ross and Rachel."
+dialogue,Monica,Yes that would be lovely.
+dialogue,Joey,"You got it. Okay. Now, I can pass for 19 right?!"
+dialogue,Chandler,"Yes, you can pass for 19."
+dialogue,Joey,Really?
+dialogue,Chandler,Yes!
+dialogue,Joey,Seriously?
+dialogue,Chandler,"Seriously? Seriously, no! You can play your own age which is 31!"
+dialogue,Joey,(gasps) I’m 30!
+dialogue,Rachel,"Joey, you are not! You’re 31."
+dialogue,Joey,(realizes) Aww crap!
+dialogue,Phoebe,"Okay, so The Plaza ! Okay, we’ll get us some Mai Thai’s, (To Chandler) maybe no more for you though."
+dialogue,Monica,"Y’know what? I-I think that umm, I don’t feel like going to The Plaza ."
+dialogue,Phoebe,Why?!
+dialogue,Rachel,"Honey, Monica, this is ridiculous! Look…"
+dialogue,Monica,"No-no, I-I really don’t want to talk about it! I don’t! (To Rachel) Especially with you. (Goes into her room.)"
+dialogue,Joey,"Psss, that is whack!"
+action,,"[Time lapse, Phoebe is playing the guitar for Joey.]"
+dialogue,Phoebe,"(she’s strumming something) Yeah? (Joey nods yes.) Okay, I think I’ll play it at the wedding."
+dialogue,Joey,"Yeah! Well, I think we’ll see if they actually let you play. Huh? I mean they tell you anything you want to hear like-like, ""You look 19,"" and then they just take it away like-like, ""No you don’t."""
+dialogue,Phoebe,"Well, I don’t think Monica is gonna take this away."
+dialogue,Joey,Wouldn’t she?
+dialogue,Phoebe,Would she?
+dialogue,Joey,Would she? (He smells something and gasps as he realizes what it is.) You ate my candy bar!
+heading,,"[Scene: Rachel’s bedroom, she’s pacing as Ross knocks on her door and opens it a little to stick his hands in.]"
+dialogue,Ross,Guess who? (Enters fully.)
+dialogue,Rachel,Hey.
+dialogue,Ross,"Hey, I just realized we kinda let some stuff up in the air…"
+dialogue,Rachel,"What do you think Monica mean when she said she didn’t want to talk, especially with me? I mean, why not especially you and me? We were both out there kissing."
+dialogue,Ross,Still thinking about it huh?
+dialogue,Rachel,"Come on! Serious-ser-ser-seriously, what did she mean by that? (Mimicking Monica.) Especially you!"
+dialogue,Ross,"(loosening his tie) Oh, who cares?"
+dialogue,Rachel,I care!
+dialogue,Ross,(tightening his tie) And so do I.
+dialogue,Rachel,"Y’know what, I-I have to go talk to her, would you let me just get changed?"
+dialogue,Ross,Okay. Sure. (Sits down on her bed.)
+dialogue,Rachel,Am I going to let you watch me undress?
+dialogue,Ross,(sitting up) No! (Exits.)
+heading,,"[Scene: Monica and Chandler’s bedroom, they are both getting undressed.]"
+dialogue,Monica,"I can’t believe her, y’know it’s just—it’s so typical."
+dialogue,Chandler,"Now Monica, I know you’re upset, but don’t forget. There is going to be a wedding, you are going to throw the bouquet, and then there’s going to be a honeymoon, maybe in Paris."
+dialogue,Monica,Paris?
+dialogue,Chandler,We will take a moonlit walk on the Rue de la (mumbles something).
+dialogue,Monica,Keep talking.
+dialogue,Chandler,"Then we will sprinkle rose pedals on the bed and make love. Not just because it’s romantic, but because I can!"
+dialogue,Monica,I love you!
+action,,(They start making out and both start to feel something growing below the belt line.)
+dialogue,Monica,"(in a French accent) Bonjour, monsieur."
+dialogue,Chandler,"Okay, don’t say anything, you might scare it away."
+action,,(There is a knock on the door.)
+dialogue,Chandler,"It’s Paris, who knows we’re here!"
+dialogue,Monica,"(opening the door) Hi Pheebs, what’s up? (She enters.)"
+dialogue,Phoebe,"Okay, you said I could sing at your wedding so, I’m just gonna need a small deposit."
+dialogue,Monica,What?!
+dialogue,Phoebe,"Y’know, just some good faith money to hold the date."
+dialogue,Chandler,"Pheebs, we’re not giving you a deposit for our wedding!"
+dialogue,Phoebe,"Oh, I see. (Exits angrily.)"
+action,,"[Cut to the living room, Joey is eating a sandwich.)"
+dialogue,Joey,"They break your heart, don’t they?"
+dialogue,Phoebe,"Y’know, I don’t really their permission."
+dialogue,Joey,"Yeah! If you wanna sing at their wedding, well you sing at their wedding!"
+dialogue,Phoebe,"Yeah! And if you wanna look 19, then you… You gotta do something about your eyes."
+dialogue,Joey,What?! What’s wrong with my eyes.
+dialogue,Phoebe,They give you away! There’s just-there’s just too much wisdom in there. (Joey nods in agreement.) Just put some tea bags on there for like 15 minutes.
+dialogue,Joey,And that’ll get rid of my wisdom?
+dialogue,Phoebe,Maybe just 10 minutes for you.
+action,,"[Cut back to Monica and Chandler’s room, they are making out again as there’s another knock on the door.]"
+dialogue,Chandler,"Oh, give her the deposit! Give her the ring! I don’t care!"
+action,,(Monica opens the door to Ross and Rachel.)
+dialogue,Monica,Yes.
+dialogue,Rachel,"Monica, what did you mean before when you said you didn’t want to talk to anyone, especially me?"
+dialogue,Chandler,"What a great apology! (To Monica) And you accept! Okay, bye-bye!"
+dialogue,Rachel,"No-no, seriously-seriously, what was the especially me part about?"
+dialogue,Monica,"Well, let’s just say it’s not the first time you’ve stolen my thunder."
+dialogue,Rachel,What?!
+dialogue,Ross,"(To Rachel) Hey, here’s a thought."
+action,,(Rachel ignores him and follows Monica into the kitchen.)
+dialogue,Rachel,"Monica, what are you talking about?"
+dialogue,Monica,"My Sweet Sixteen! Remember, you went to third base with my cousin Charlie."
+dialogue,Chandler,"(entering) Ahh, third base."
+dialogue,Monica,It’s all everybody at the party could talk about!
+dialogue,Rachel,"Monica, y’know what? The only reason I did that was because your party was so boring!"
+dialogue,Monica,(gasps) We had a characturist!
+dialogue,Rachel,Oh!!
+dialogue,Phoebe,"(singing, angrily)"
+singing,Phoebe,""" Whenever I get married, guess who won’t get to sing?"
+singing,Phoebe,"Somebody named Geller ! And somebody else named Bing !"""
+action,,(Exits.)
+dialogue,Rachel,"Monica, your Sweet Sixteen was like a million years ago."
+dialogue,Monica,"And yet, here we are doing it again."
+dialogue,Rachel,"Ugh, Monica I don’t want to steal your stupid thunder!"
+dialogue,Monica,Oh please! Why else would you have made out with Ross?!
+dialogue,Ross,Got me. (He shows of his hands.)
+dialogue,Rachel,"All right, easy mimey, the moment has passed, it ain’t gonna happen!"
+dialogue,Monica,I just thought it would be nice if I could have just this one night!
+dialogue,Rachel,"I swear, I never wanted any part of your night!"
+dialogue,Monica,"Oh, is that why you did it the secret hallway where nobody ever goes?!"
+dialogue,Ross,"Uh, Rachel, I’ve been thinking. I don’t think us getting together tonight is such a good idea. I’m calling it off."
+dialogue,Chandler,(To Ross) Why to save your dignity my man.
+dialogue,Rachel,"(ignoring them) Monica, why? Why would I ever want to take away from your night?"
+dialogue,Monica,"I don’t know! I don’t—maybe you’re feeling a little resentful. Maybe ah, maybe you thought you’d get married first! Maybe you can’t stand the fact that your formally fat friend is getting married before you!"
+dialogue,Rachel,"Oh wow. That—y’know what? That is so unfair. Y’know what? Now I want to steal your thunder! Come on Ross, let’s go have sex!"
+action,,"(Ross tries to dismiss it by making that sound, but decides to go for it and follows Rachel.)"
+dialogue,Monica,(yelling after them) I can’t believe you’re gonna have sex on my engagement night!!
+dialogue,Chandler,"Well, somebody should. (Monica glares at him.)"
+action,,[Cut to Rachel’s bedroom.]
+dialogue,Ross,"Look uh, if we’re gonna do this…"
+dialogue,Rachel,"We’re not gonna do this, all right? She’s just gonna think that we’re doin’ it."
+dialogue,Ross,"Oh, I see, so everybody wins."
+action,,(There’s a knock on the door.)
+dialogue,Rachel,Who is it?
+dialogue,Monica,"(outside the door) It’s Monica, open up!"
+dialogue,Rachel,"Okay well Ross! Stop it please! Wait a minute! (Motions for him to follow her lead, but he angrily shakes his head no. So she pokes him.)"
+dialogue,Ross,Oww!
+dialogue,Rachel,"Yeah, you like that baby? (Monica bursts in followed by Chandler.) May we help you?"
+dialogue,Monica,"I just wanted to say that I hope you do have sex tonight and I hope that you guys get back together, but I must warn you, the night that you announce your engagement I’m going to announce that I’m pregnant!"
+dialogue,Chandler,How is that ever going to happen?!
+dialogue,Rachel,"All right Monica, do you want to know why I was with Ross tonight?!"
+dialogue,Monica,I know why!
+dialogue,Rachel,No you don’t know why!
+dialogue,Monica,Okay! Why?!
+dialogue,Rachel,Because! Because I was sad.
+dialogue,Monica,What do you mean?
+dialogue,Rachel,"Look, I am so…so happy for you guys, but you getting married just reminds me of the fact that I’m not. I’m not even close. And I don’t know, maybe I just wanted to make myself feel better. And I know that that’s dumb, but oh my God you were so depressed when Ross got married that you slept with Chandler!"
+action,,(Ross looks at Chandler.)
+dialogue,Chandler,"(To Ross) I don’t care, she slept with me."
+dialogue,Rachel,"Anyway sweetie, I am, I’m so sorry I ruined your night."
+dialogue,Monica,(starting to cry) I’m sorry I almost made you sleep with Ross. (They hug.)
+dialogue,Ross,"(deadpan) Well, I’m going to take off. (To Chandler) Congratulations man."
+dialogue,Chandler,Thanks.
+dialogue,Ross,"(at the door) And uh, Rachel."
+dialogue,Rachel,Yeah.
+dialogue,Ross,"What can I say, you missed your chance. From now on the only person who’s going to enjoy these bad boys (holds up his hands) is me. (Quickly realizes what he said and exits disgustedly.)"
+action,,Ending Credits
+heading,,"[Scene: Monica, Chandler, and Phoebe's, Phoebe is singing outside Monica and Chandler’s door.]"
+dialogue,Phoebe,(singing)
+singing,Phoebe,"""We thought Phoebe would leave, but she just stayed and stayed."
+singing,Phoebe,"That’s right, I’m here all night, and Chandler will never get l…"""
+dialogue,Chandler,"(interrupting her just in time) Hey! Here’s a dollar, consider it a deposit. Please sing at our wedding."
+dialogue,Phoebe,Oh thank you.
+dialogue,Chandler,Okay. (Goes back to bed.)
+singing,Phoebe,"Now… (Starts singing again) "" Who will perform the ceremony! Who will perform the cer —(Chandler enters and grabs her guitar and closes the door behind him)—Oh—oh! All right, I’ll pound on him in the morning."
+action,,End

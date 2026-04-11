@@ -1,0 +1,305 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's, Phoebe, Monica, and Rachel are sitting around the kitchen table as Ross enters.]"
+dialogue,Ross,Hey!
+dialogue,Monica,Hey!
+dialogue,Ross,"Hey uh Mon, I saw the Porsche parked out front, can I get the keys? Thought I’d take that bad boy out for a little spin."
+dialogue,Rachel,"Wait a minute! (To Monica) You let Ross drive the Porsche and when I ask you, you say you’re the only one who’s allowed to drive it."
+dialogue,Monica,"Yeah, well he’s my brother! And plus he drives so slow he could never hurt it."
+dialogue,Ross,It’s a car Monica! Not a rocket ship!
+dialogue,Monica,Whatever Ross! Just replace the bulbs in the brake lights after you’re done.
+dialogue,Joey,(entering) Hey!
+dialogue,Ross,Hey!
+dialogue,Phoebe,Hey!
+dialogue,Joey,"Saw the Porsche out there Mon, lookin’ good. When do I get to take that baby out again?"
+dialogue,Rachel,(shocked) You let Joey drive it?!
+dialogue,Phoebe,"I’ve never driven it! Okay? Not once! Okay once. Okay, I drive it all the time."
+dialogue,Monica,"Nice work everybody! So much for the y’know, ""You can drive it, but don’t tell Rachel"" plan!"
+dialogue,Rachel,Wow! I can’t believe you lied to me.
+dialogue,Phoebe,"Okay, I can fix this! Okay Monica, Rachel thinks all you can talk about is the wedding. (Rachel glares at her.)"
+dialogue,Monica,"Great! Well Rachel, the reason why I won’t let you drive the Porsche is because you’re a terrible driver. There! That wasn’t about the wedding."
+dialogue,Ross,Look Rach if-if you want to go for a ride in the Porsche I’ll be glad to take you for a quick spin around the block.
+dialogue,Joey,"Yeah, you got a couple hours?"
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Rachel is there as Ross enters with his all his hair sticking straight up.]"
+dialogue,Ross,Whew! That was a brisk ride!
+dialogue,Rachel,Take the top down did ya?
+dialogue,Ross,Only way to fly.
+action,,(Rachel laughs.)
+dialogue,Rachel,Come on Ross give me the keys! Monica does not know what she’s talking about! I am an excellent driver!
+dialogue,Ross,You’re fast and irresponsible. That adds up to a bad driver.
+dialogue,Rachel,"Well in High School, that added up to head cheerleader."
+action,,(A woman walks by and smiles at Ross’s hair.)
+dialogue,Ross,Did you see the look that girl just gave me? Huh? She must’ve seen me cruising in the bad boy.
+dialogue,Rachel,I think she’s checking out your beehive Ross.
+dialogue,Ross,What?! (Checks his hair.) Give-give me a brush.
+dialogue,Rachel,Gimme the keys!
+dialogue,Ross,No way!
+dialogue,Rachel,Well no brush!
+dialogue,Ross,"Fine! Y’know what? It doesn’t matter, because, if I remember correctly, there is a comb on the floor of the bathroom."
+action,,(He goes to the bathroom and after he leaves Rachel goes through his coat and grabs the keys along with a $20 bill. The woman from before watches her do this.)
+dialogue,Rachel,(to the woman) Alimony. (Runs outside.)
+heading,,"[Scene: Monica and Chandler's, Monica and Phoebe are counting the invitations as Chandler exits from the bathroom.]"
+dialogue,Monica,"Chandler, we still haven’t gotten an RSVP from your dad."
+dialogue,Chandler,"Oh! Right. Umm, maybe that’s because I didn’t send him an invitation."
+dialogue,Monica,Chandler! He’s your father; he should be at the wedding.
+dialogue,Chandler,I don’t even know the man. Okay? We’re not the close. I haven’t seen him in years.
+dialogue,Monica,Well what are you gonna do when he finds out he wasn’t even asked?!
+dialogue,Chandler,"Well he doesn’t have to know! It’s not like we run in the same circles. I hang out with you guys, and he stars in a drag show in Vegas."
+dialogue,Phoebe,"Ooh, I think I wanna trade circles."
+dialogue,Chandler,"Trust me, you don’t want him there either. Okay? Nobody is gonna be staring at the bride when the father of the groom is wearing a back-less dress."
+dialogue,Monica,So what! As long as he’s not wearing a white dress and a veil I don’t care.
+dialogue,Phoebe,"Okay, I think I need to do some shopping. (Gets up and leaves.)"
+heading,,"[Scene: A Street, Rachel is throwing her coat into the Porsche and getting in.]"
+dialogue,Rachel,"Ahhh! (Gets in.) Ooh, nice!"
+action,,(Suddenly from out of nowhere Ross dives onto the hood.)
+dialogue,Rachel,My God!
+dialogue,Ross,What do you think you’re doing?!
+dialogue,Rachel,Just washing the windshield. (She turns on the wipers forcing Ross off of the hood.)
+dialogue,Ross,There is no way I am letting you drive this car! So why don’t you just hand over the keys?
+dialogue,Rachel,Oh.
+dialogue,Ross,No ah-ah-ah! Do not start this car! (She starts the car.) Okay! Okay! I will give you twenty bucks if you get out of this car right now! (He looks for the twenty Rachel stole and doesn’t find it.)
+dialogue,Rachel,"Look Ross, if you’re so freaked out, just get in the car!"
+dialogue,Ross,With you?! Yeah right!
+dialogue,Rachel,All right. (She starts off.)
+dialogue,Ross,"(grabbing the car) Okay! Okay! Okay! (He gets in, but into the back seat.)"
+dialogue,Rachel,What are you doing?! Get in the front!
+dialogue,Ross,In the death seat?!!
+dialogue,Rachel,Oh my…
+action,,(They drive off.)
+heading,,"[Scene: Central Perk, Joey and Phoebe are on the couch as a man enters.]"
+dialogue,Man,Hey guys!
+dialogue,Joey,Hey!
+dialogue,Phoebe,Hey sweetie!
+dialogue,Man,Ready to go?
+dialogue,Phoebe,"Yeah! Sure! Ooh, I left my purse up at Monica’s. I’ll be right back. (She goes to get it.)"
+dialogue,Man,(stopping her) Wait a minute!
+dialogue,Phoebe,What? (He leans in to kiss her.) Oh. (They kiss and Phoebe pauses.) Ooh. (Pause) Whoa! That one kept going. (Exits.)
+dialogue,Joey,So! You and Phoebe huh? How long have you been going out?
+dialogue,Man,Over a month.
+dialogue,Joey,"Wow! Maybe uh, maybe you and I ought to get to know each other a little better."
+dialogue,Man,"Sure, I’d like that."
+dialogue,Joey,"So uh, what’s your name?"
+dialogue,Man,(laughs) Its Jake.
+dialogue,Joey,"Joey. (They shake hands.) Hey Jake, do you like the Knicks?"
+dialogue,Jake,"Yeah, big fan."
+dialogue,Joey,Me too! There’s a game on Tuesday do you wanna go?
+dialogue,Jake,"Yeah that would be great! Let me make sure I’m not doing anything Tuesday. (He bends over to open his bag, when he does so his pants slide down his butt revealing a pink lace secret.)"
+heading,,"[Scene: Monica and Chandler's, Monica is entering from the bedroom carrying two bags of luggage.]"
+dialogue,Monica,Here! (She sets a bag down in front of him.)
+dialogue,Chandler,What’s this?
+dialogue,Monica,It’s your suitcase. We’re going to Las Vegas.
+dialogue,Chandler,Are you serious?! I mean like eloping?! No more stupid wedding stuff?! No more these flowers or these flowers or these flowers—Think of the money we’ll save!! (Monica just looks at him.) We’re not eloping. I love the flowers. Can our wedding be bigger please?
+dialogue,Monica,"We’re going to Las Vegas to see your dad. It’s time you two talked, and I want to get to know my father-in-law."
+dialogue,Chandler,Y’know we already went over this and I won!
+dialogue,Monica,"No you didn’t. Oh and honey just so you know, now that you’re marrying me, you don’t get to win anymore."
+dialogue,Chandler,Look forget it okay? I don’t want to go. I don’t want to see him. I don’t wanna.
+dialogue,Monica,"Chandler, look I-I know that your dad embarrassed you. I know…"
+dialogue,Chandler,"No-no all kids are embarrassed by their parents, you’d have to come up with a whole new word for what I went through. When I was in High School, he used to come to all of my swim meets dressed as a different Hollywood starlet. Y’know it’s hard enough to be fourteen. You’re skinny. You’re wearing speedoes—That your mom promised that you would grow into! And you look up into the stands and there’s your dad cheering you on dressed as Carmen Miranda. We was wearing a headdress with real fruit that he will later hand out to your friends as a healthy snack!"
+dialogue,Monica,"Hey, the point is that he was at everyone of your swim meets and he was there cheering you on! Okay? That’s a, that’s a pretty great dad."
+dialogue,Chandler,He had sex with Mr. Girabaldi!
+dialogue,Monica,Who’s Mr. Girabaldi?
+dialogue,Chandler,Does it matter?!
+dialogue,Monica,"Chandler, you’re not fourteen anymore. Okay? Maybe it’s time that you let that stuff go. If your father’s not at your wedding…you’re gonna regret it for the rest of your life."
+dialogue,Chandler,"Yeah o-okay, but I’m just doing this for you."
+dialogue,Monica,Yes!
+dialogue,Chandler,So I really never get to win anymore?
+dialogue,Monica,How much did ever really win before?
+heading,,"[Scene: Central Perk, Phoebe is there as Joey enters.]"
+dialogue,Joey,Pheebs!
+dialogue,Phoebe,Hey!
+dialogue,Joey,"Listen, you know how uh, when you’re wearing pants and you lean forward I check out your underwear?"
+dialogue,Phoebe,Yeah!
+dialogue,Joey,"Well, when Jake did it I saw that…he was wearing women’s underwear!"
+dialogue,Phoebe,I know. They were mine.
+dialogue,Joey,"Oh. (Laughs.) No! No wait, that’s weird!"
+dialogue,Phoebe,"No, it’s not! We were just goofing around and I dared him to try them on."
+dialogue,Joey,That’s weird!
+dialogue,Phoebe,I’m wearing his briefs right now.
+dialogue,Joey,That’s…kinda hot.
+dialogue,Phoebe,I think so too. And that little flap? Great for holding my lipstick.
+dialogue,Joey,"Yeah, I wouldn’t know about that."
+dialogue,Phoebe,And! Y’know what Jake says? That women’s underwear is actually more comfortable. And he loves the way the silk feels against his skin.
+dialogue,Joey,"Yeah well next thing you know, he’ll be telling you that your high heels are good for his posture!"
+dialogue,Phoebe,There is nothing wrong with Jake! Okay? He is all man! I’m thinking even more than you.
+dialogue,Joey,"Oh yeah, he looked like a real lumberjack in those pink laceys."
+dialogue,Phoebe,I’m just saying that only a man completely secure with his masculinity could walk around in women’s underwear! I don’t think you could ever do that.
+dialogue,Joey,Hey! I am secure with my masculinity.
+dialogue,Phoebe,Okay whatever.
+dialogue,Joey,You’ve seen my huge stack of porn right? (Phoebe nods.)
+heading,,"[Scene: The Porsche, Rachel is driving along a highway and Ross has finally moved to the death seat and is terrified.]"
+dialogue,Rachel,God. I forgot how much I love driving. I have got to get my license renewed.
+dialogue,Ross,(shocked) You don’t have a valid driver’s license—Okay that is it! Pull over right now!
+dialogue,Rachel,Oh Ross you’re so tense! You just gotta relax okay? Just need to relax all right? Just need to relax… (She takes her hands off of the wheel.)
+dialogue,Ross,(grabbing the wheel) What-what are you doing?! Are you—Okay that’s not funny! Just stop horsing around!
+dialogue,Rachel,I am not horsing around okay? I am Porsching around.
+action,,(Suddenly a siren goes off behind them.)
+dialogue,Rachel,Uh-oh. (She starts to pull over.)
+dialogue,Ross,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble."
+dialogue,Rachel,Really? You think so?
+dialogue,Ross,I was talking to myself! You’re going down!
+heading,,"[Scene: Joey and Rachel's, Joey is walking from the bathroom to his bedroom and walks past a pile of Rachel’s laundry, which just happens to include a selection of panties. He stops, goes back to the basket, looks for Rachel, picks up a lavender thong, and heads for his bedroom. However, he decides he doesn’t like his selection and goes back this time picking up a red low-cut silk brief and heads for his room, flexing along the way to prove his masculinity.]"
+heading,,"[Scene: Las Vegas, we have the typical glamour shots of Vegas and the strip before we arrive at 4 Queens bar, where Chandler and Monica are sitting at a table waiting for the show to start."
+dialogue,Waiter in Drag,(to Chandler and Monica) Has someone taken your order yet?
+dialogue,Monica,"Uh oh yeah, she did. Uh, he did. (To Chandler) She? (To the waiter) I’m-I’m sorry I’m new. I don’t…"
+dialogue,Waiter in Drag,(To Chandler) Hm-mmm?
+dialogue,Chandler,"Yeah, I just ordered a beer! (Pounds the table.)"
+dialogue,Waiter in Drag,You’re straight. I get it. (Walks away.)
+dialogue,Monica,I still say that if we had called your dad we coulda gotten better seats.
+dialogue,Chandler,No! No! I don’t want him to know we’re yet! I’m not sure I’m ready for that. And besides he’s not gonna be too happy to see me either.
+dialogue,Monica,Why not?!
+dialogue,Chandler,"I don’t know if I’ve told you this, but he’s kinda tried to get in contact with me a lot over the last few years"
+dialogue,Monica,What?!
+dialogue,Chandler,"Yeah, he’s made phone calls, written letters, he even came to New York, but I always said I was too busy to see him. Y’know it’s all very Cats in the Cradle —I don’t want to get into it. (The show starts.) Here we go."
+dialogue,Announcer,Ladies and gentlemen please welcome the incomparable Helena Handbasket!
+action,,(There’s applause as Helena turns around and it’s Kathleen Turner.)
+dialogue,Helena,Hello darlings.
+dialogue,Chandler,And there’s daddy!
+action,,Commercial Break
+heading,,"[Scene: The Porsche, they have pulled over and are awaiting the cop to come talk to them.]"
+dialogue,Rachel,"Okay. Switch places with me! Switch places with me! Come on! I’ll go under, you go over!"
+dialogue,Ross,"Yeah, I’ll get right on that."
+dialogue,Rachel,Oh come on Ross!! (She tries to switch places with him and goes under his leg.)
+dialogue,Ross,"No Rach! Come on! No-no! Yeah, I’m sure we won’t get arrested for this."
+action,,(She sits back up as the policeman approaches. She undoes her top button.)
+dialogue,Rachel,"(sexily) Hi officer, was I going a little too fast?"
+dialogue,Ross,Oh my God.
+dialogue,Policeman,Can I see your license please?
+dialogue,Rachel,"Oh yes, absolutely! Y’know, it’s weird uh, but I had a dream last night where I was stopped by a policeman. And then he uh…well I probably shouldn’t tell you the rest."
+dialogue,Policeman,Your license?
+dialogue,Rachel,"(handing it to him) Yes. Here you go Officer uh, Handsome."
+dialogue,Policeman,That’s Hanson.
+dialogue,Rachel,"Oops sorry, my mistake."
+dialogue,Ross,Dear Lord!!
+dialogue,Policeman,Wow!
+dialogue,Ross,Here it comes.
+dialogue,Policeman,This is a great picture.
+dialogue,Rachel,"Really?! You think so? Y’know, I had just rolled out of bed."
+dialogue,Policeman,Yeah? Well you look phenomenal.
+dialogue,Ross,"Well she should, it was taken ten years ago!"
+dialogue,Rachel,Y’know you’re-you’re probably wondering about the old date on there.
+dialogue,Policeman,Yes I am.
+dialogue,Rachel,Yeah.
+dialogue,Policeman,"You’re an Aquarius, huh?"
+dialogue,Rachel,I bet you’re a Gemini.
+dialogue,Policeman,Nope.
+dialogue,Rachel,Taurus?
+dialogue,Policeman,Nope.
+dialogue,Rachel,Virgo?
+dialogue,Policeman,Nope.
+dialogue,Rachel,Sagittarius?
+dialogue,Policeman,Yep.
+dialogue,Rachel,"I knew it! I knew it, ahh…."
+dialogue,Policeman,Well I tell you what…
+dialogue,Rachel,Yeah?
+dialogue,Policeman,You’re not gonna speed anymore right?
+dialogue,Rachel,I won’t speed.
+dialogue,Policeman,And you promise you’ll get this taken care of right away?
+dialogue,Rachel,I promise.
+dialogue,Policeman,And in the meantime you better let him drive. Does he have a license?
+dialogue,Rachel,Yeah!
+dialogue,Policeman,Can he handle the stick?
+dialogue,Rachel,Oh well…
+dialogue,Ross,I can handle the stick!!
+heading,,"[Scene: 4 Queens Club, Helena Handbasket is singing.]"
+dialogue,Helena,I feel pretty. Oh so pretty. I feel pretty and witty and …(She holds the mike out to the audience.)
+dialogue,All,Gay!
+dialogue,Monica,That can’t be your father.
+dialogue,Chandler,"Believe me, I’ve been saying that for years. Oh my God!"
+dialogue,Monica,What?
+dialogue,Chandler,That’s Mr. Girabaldi playing the piano.
+dialogue,Helena,(singing) For I’m loved by a pretty wonderful boy ! (Applause.) Hello! And welcome to the show. I see some of our regulars in the audience. And a couple of irregulars. (He starts going into the audience.)
+dialogue,Chandler,He’s coming into the audience. He’s coming into the audience.
+dialogue,Monica,Relax! You’ll be fine. (Chandler exhales and turns off the table light.) Oh much better. You’re invisible now.
+dialogue,Helena,(standing at a table and asking the guy sitting there) Where are you from?
+dialogue,Guy,Bakersfield.
+dialogue,Helena,I’m sorry? (Holds out the mike.)
+dialogue,Guy,Bakersfield!
+dialogue,Helena,No-no I heard! I’m just sorry.
+dialogue,Chandler,It can’t happen like this. Okay? I’ll meet you back at the hotel.
+action,,"(He gets up to walk out, but Helena spots and stops him.)"
+dialogue,Helena,"(to Chandler’s back) Oh look, a standing ovation already! So early in the show. Oh turn around honey; let me see your pretty face. (He slowly turns around. Helena recognizes him.)"
+dialogue,Monica,"Can we have our drinks please?! Waiter—Uh, tress!"
+heading,,"[Scene: Central Perk, Phoebe is sitting on the couch as Joey enters strutting.]"
+dialogue,Joey,Hey Pheebs! (He sits down next to her.)
+dialogue,Phoebe,Hey!
+dialogue,Joey,"Check it out. (He turns around, pulls down his pants, and shows Phoebe that he’s got panties on.) How much of a man am I?!"
+dialogue,Phoebe,Wow! Nice! Manly and also kind of a slut.
+dialogue,Joey,"Y’know, I’m beginning to see what Jake was talking about."
+dialogue,Phoebe,Uh-huh.
+dialogue,Joey,The silk? Feels really good!
+dialogue,Phoebe,Huh.
+dialogue,Joey,Yeah! And-and things aren’t as…smashed down as I thought they were gonna be.
+dialogue,Phoebe,That’s great Joe!
+dialogue,Joey,Yeah! And you have so many more choices than you do with men’s underwear!
+dialogue,Phoebe,Uh-huh.
+dialogue,Joey,"Bikini, French cut, thong! And-and the fabrics! You’ve got cotton, silk, lace! And y’know what I’ve always wondered about?"
+dialogue,Phoebe,Hmm?
+dialogue,Joey,Pantyhose! Y’know? They way they start at your toe and go all the way up to here… (He mimed that and stops when he realized he went to far.) I should go take these off shouldn’t I?
+dialogue,Phoebe,I think it’s important that you do.
+action,,(Joey agrees and heads to take them off.)
+heading,,"[Scene: 4 Queens Club, scene continued from earlier.]"
+dialogue,Helena,So what’s your name?
+dialogue,Chandler,(resigning himself to his fate) Chandler. (He quickly sits down.)
+dialogue,Helena,Chandler? What an unusual name! You must’ve had terribly fasc inating parents.
+dialogue,Chandler,"Oh, they’re a hoot."
+dialogue,Helena,(To Monica) And who is your friend?
+dialogue,Monica,I’m-I’m Monica.
+dialogue,Helena,Monica! Where are you from?
+dialogue,Monica,New York.
+dialogue,Helena,"I’m not very fond of New York. Queens I like. (Noticing Monica’s ring.) Ooh, what is this sparkle something! (Shows the audience who woos.) Honey! Huh?"
+dialogue,Chandler,Actually Monica and I are engaged.
+dialogue,Helena,Really?! Congratulations. When’s the big day?
+dialogue,Monica,(looks at Chandler) In…in two weeks.
+dialogue,Helena,"(disappointed) I see. Well, I wish you both a life time of happiness. (To a bald guy.) So you’re bald?"
+dialogue,Chandler,Wait! Wait! We’d really love it if you could be there.
+dialogue,Helena,We? (Looks at Monica who nods.)
+dialogue,Chandler,"I know it would make me happy, ma’am."
+dialogue,Helena,Well I wouldn’t miss it for the world. Oh! I’m getting all misty here! You’d think I was having my legs waxed or something. (Goes back on stage.)
+dialogue,Monica,(To Chandler) You okay?
+dialogue,Chandler,Yeah. Thanks for making me do this.
+dialogue,Helena,"Before we go on with the show, I just want to say to the bride and groom how lucky they are to have found each other. In every life, a little rain must fall. Fortunately, in my life… (Four guys wearing rubber boots, shorts, hats, and nothing else carrying umbrellas run onto the stage.) (Singing) It’s raining men!"
+dialogue,The Chorus Line,Hallelujah!
+dialogue,Helena,It’s raining men!
+dialogue,The Chorus Line,Amen !
+dialogue,Chandler,(To Monica) When I was growing up I…played the one on the far left.
+heading,,"[Scene: The Porsche, cars are whizzing by and honking their horns on both sides very quickly as Ross creeps along.]"
+dialogue,Rachel,Remind me to introduce you to someone!
+dialogue,Ross,Who?
+dialogue,Rachel,Fourth gear!!
+action,,(Suddenly a siren goes off.)
+dialogue,Ross,What?! What does he want?! I wasn’t doing anything!
+dialogue,Rachel,Well maybe he saw your hand slip briefly from the ten and two o’clock position.
+dialogue,Ross,Maybe it’s uh Sergeant Sagittarius coming back to flirt some more! (They pull over.)
+dialogue,Rachel,It’s a different guy!
+action,,(The policeman walks up.)
+dialogue,Ross,Good evening officer.
+dialogue,Policeman,Do you know how fast you were traveling back there?
+dialogue,Ross,"Ah no. I don’t, but it could not have been more than sixty."
+dialogue,Policeman,You’re right. It was 37. (Rachel laughs.)
+dialogue,Ross,I mean you’re not gonna give me a-a ticket for driving too slow are ya?
+dialogue,Policeman,That’s right.
+action,,(There’s a pause as Ross gets suddenly flirtatious.)
+dialogue,Ross,Y’know of-officer I uh…I had the weirdest dream last night…
+dialogue,Rachel,Oh my God!
+dialogue,Policeman,Your license please.
+dialogue,Ross,(laughs) You don’t-you don’t want to hear about my dream Officer…Pretty?
+dialogue,Policeman,It’s Petty. (He grabs Ross’s license.) I’ll be right back with your ticket. (Walks back to his car.)
+dialogue,Rachel,(pause) You have a son!
+dialogue,Ross,I know. I know.
+action,,Ending Credits
+heading,,"[Scene: Central Perk, Joey is returning from having removed Rachel’s panties.]"
+dialogue,Phoebe,Feel better?
+dialogue,Joey,"Yeah! Much! Listen uh, not that I’m y’know insecure about my manhood or anything y’know, but I think I need to hook up with a woman like right now."
+dialogue,Phoebe,"Yeah, I understand."
+dialogue,Joey,Yeah! Okay! (He notices a beautiful woman sitting behind the couch and goes to talk to her.) Hey! Hi!
+dialogue,Woman,Hi!
+dialogue,Joey,"Y’know, you look familiar. Do I know you from somewhere?"
+dialogue,Woman,I don’t think so.
+dialogue,Joey,Oh! Maybe it’s because I’m on television. I’m an actor on Days of Our Lives .
+dialogue,Woman,Wow!
+dialogue,Joey,Yeah.
+dialogue,Woman,Really?!
+dialogue,Joey,Hm-mmm.
+dialogue,Waitress,(to the woman) $4.50 please.
+dialogue,Joey,"Oh, let me get this. (He takes out his wallet, but the panties come with it. The woman and waitress are shocked.) (Realizing) (To the woman) These are for you."
+action,,End

@@ -1,0 +1,281 @@
+script_element,character,text
+heading,,"[Scene: Central Park, Ross is teaching Ben how to ride a bike. Chandler, Monica, and Phoebe are they also.]"
+dialogue,Ben,(on the bike) I’m ready!
+dialogue,Ross,You sure?
+dialogue,Ben,Uh-huh!
+dialogue,Chandler,"Okay, let me just straighten out your helmet there. (Does so.)"
+dialogue,Ben,(To Chandler) Thanks daddy.
+dialogue,Ross,"No-no, one daddy, two mommies . All right, it’s all yours. (Ross pushes him off.)"
+dialogue,Chandler,Okay. Okay.
+dialogue,Ross,Yes! Yes! Yes!! (Everyone stands and claps.)
+dialogue,Phoebe,"His first big kid’s bike, this is so exciting!"
+dialogue,Monica,"Oh yeah, I remember mine! Ohh, it was my sixth birthday, my dad took me to the park, I got it, and…it bent."
+dialogue,Ross,Yeah.
+dialogue,Phoebe,I never had a bike of my own.
+dialogue,Ross,(shocked) What?!
+dialogue,Phoebe,"Well, we didn’t have a lot of money. But the girl across the street had the best bike! It was pink and it had rainbow colored tassels hanging off the handle grips, and-and-and a bell and this big , white wicker basket with those plastic daisies stuck on."
+dialogue,Chandler,That sounds like my first bike. (They all turn and look at him.) My dad gave me his old one.
+dialogue,Ross,Ohh.
+dialogue,Monica,Did the girl ever let you ride it?
+dialogue,Phoebe,No! But she gave me the box that it came in. It had a picture of the bike on the front. (They’re all speechless) So I would sit on it and my step-dad would drag me around the backyard.
+dialogue,Ross,That is so unfair!
+dialogue,Phoebe,"Not really, I got to drag him around too! (They all nod, ""Oh."")"
+action,,Opening Credits
+heading,,"[Scene: Monica, Chandler, and Phoebe's, Monica is cooking, Joey is eating, and Chandler is entering from the bedroom.]"
+dialogue,Chandler,Hey! What are you guys doing?
+dialogue,Joey,Hey.
+dialogue,Monica,Making holiday candy for the neighbors.
+dialogue,Chandler,"I’m sorry, who?"
+dialogue,Monica,I’m gonna hang this basket (Points to the one sitting on the table) on the door and when the neighbors walk by they can all take a piece.
+dialogue,Chandler,But we don’t know the neighbors.
+dialogue,Joey,"I do. There’s uh, let’s see, Guy With a Mustache, Smokes-A-Lot Lady, Some Kids I’ve Seen, and A Red-haired Guy Who Does Not Like To Be Called Rusty."
+dialogue,Monica,See? This is exactly why I’m making this candy. We can learn their names and get to know our neighbors.
+dialogue,Chandler,Wouldn’t it be easier if we just moved?
+dialogue,Rachel,"(entering, happily) Gooood morning!!"
+dialogue,Chandler,"Eh, somebody’s in a good mood!"
+dialogue,Rachel,"Well, why shouldn’t I be? I have great friends! I have a wonderful job!"
+dialogue,Monica,Where you can make out with your assistant.
+dialogue,Rachel,"Come on, it’s not a big deal! We stayed up all night coming up with a plan so that us dating will not be a problem."
+dialogue,Monica,"Oh yeah, what’s the plan?"
+dialogue,Rachel,(pauses as she thinks and exhales loudly) We… We are not… …going to let it… be a problem.
+dialogue,Monica,Wow! It took you all night to come up with that plan?!
+dialogue,Rachel,"Well y’know, we did other stuff too. (Joey and Chandler start to giggle.)"
+dialogue,Monica,Did you two…
+dialogue,Rachel,"Oh Monica come on, y’know I don’t sleep with guys on the first date!"
+dialogue,Monica,"Matt Guire, Mark Lynn, Ben Wire…"
+dialogue,Rachel,Anymore!!
+dialogue,Monica,Okay.
+heading,,"[Scene: Rachel’s Office, she’s at her desk while the mailman delivers her mail and calls Tag in.]"
+dialogue,Rachel,"Hi. Tag, I have a conference call today is that correct?"
+dialogue,Tag,"Yes, at 4:00."
+dialogue,Rachel,"Okay, thank you. That’ll be all. (The mail guy leaves and Tag starts to follow, but Rachel stops him.) (Excitedly) Wait! Wait! (Rushes over and closes the office-door.) Did you see that? That mail guy had no idea there was something going on between us. (They kiss.)"
+dialogue,Tag,I’d better get back to my desk.
+dialogue,Rachel,"Okay, you hard worker! I’ll remember to put that in your evaluation."
+dialogue,Tag,My what?
+dialogue,Rachel,"Well, you’ve been here for two months now and your boss is required to hand in a performance evaluation. But y’know, there is one thing that I have yet to evaluate. (She turns around and sweeps the stuff off of her desk and hops up onto it.)"
+dialogue,Tag,Are you serious?
+dialogue,Rachel,"No, I’ve just always wanted to do that. Can you help me clean this up?"
+heading,,"[Scene: The Hallway, Monica and Chandler are returning and Monica finds her basket is empty.]"
+dialogue,Monica,"The basket is totally empty! My God, the neighbors ate all the candy!"
+dialogue,Chandler,"Well, either that or uh…(Motions towards Joey’s door.)"
+dialogue,Monica,Joey!!
+action,,"(She storms into his apartment to find him with a towel around his shoulders, a bowl on his head, and Phoebe with scissors in her hand.)"
+dialogue,Joey,Yeah?
+dialogue,Monica,Did you eat all the neighbor candy?!
+dialogue,Joey,"Uh well yeah, that was the plan, but by the time I got to it there was only a couple of pieces left!"
+dialogue,Phoebe,"Yeah, and they’ve been coming by all day. They love it!"
+dialogue,Monica,They love my candy? Oh man!!! I’ve gotta go make more!! (Starts to do so.)
+dialogue,Joey,"Hey Mon, you might wanna make some more lasagna too, because something might’ve happened to a huge chunk of it."
+action,,(Ross enters.)
+dialogue,Monica,Ross! The neighbors ate all my candy!!
+dialogue,Ross,"Mine stole my newspaper! It’s like a crime wave!! (Monica runs to make more candy.) Pheebs, you uh, you got a second."
+dialogue,Phoebe,Sure!
+dialogue,Ross,"Yeah, ever since you uh, told me that story about that bike I-I couldn’t stop thinking about it. I mean, everyone should have a-a first bike, so…"
+action,,(He goes out into the hall and re-enters with a bike exactly like the one Phoebe described earlier.)
+dialogue,Phoebe,(gasps) Oh my God Ross!!
+dialogue,Ross,You like it?
+dialogue,Phoebe,I love it!!
+dialogue,Ross,Yeah?
+dialogue,Phoebe,Ohh!! Ohh!! And I love you!
+dialogue,Ross,Ahh.
+dialogue,Phoebe,Not that way! But the bike brought you a lot closer!
+dialogue,Ross,"Ah! (She hugs him.) Well uh-uh, t-take it downstairs, y’know give it a test ride."
+dialogue,Phoebe,Okay! Oh my God! My first bike! Thank you for the best present I’ve ever gotten.
+dialogue,Ross,(stunned at the complement) You’re welcome.
+dialogue,Phoebe,"(starts to leave, but stops) Oh and Chandler’s about to cry."
+dialogue,Chandler,(about to cry) Am not!
+heading,,"[Scene: Monica, Chandler, and Phoebe's, the middle of the night, there is someone knocking on the door and Monica and Chandler get up to answer it.]"
+dialogue,Monica,(turning a light on) Who is that?!
+dialogue,Chandler,"Don’t worry, I’m brave! I am brave! I…I am brave! (They get to the door and Monica goes to open it.) No-no-no-no!! (He stops her.) (Through the door.) Can you tell me who is there please?"
+dialogue,The Knocker,"My name is Gary, I live upstairs."
+action,,(Monica opens the door.)
+dialogue,Gary,Hi!
+dialogue,Monica,Hi. Do you know what time it is?
+dialogue,Gary,It’s candy time! My roommate says that they taste like little drops of heaven.
+dialogue,Monica,Oh please! (To Chandler) Did you hear that? Little drops of heaven.
+dialogue,Chandler,(laughs) 4:00 A.M.
+dialogue,Gary,"So, can I get some candy?"
+dialogue,Chandler,"I am sorry, but some of us have to get up early and go to work! (Monica looks at him) (To Monica) He does not know that I am not some of us."
+dialogue,Monica,"Umm, listen I am sorry, but I’ll put some out first thing in the morning."
+dialogue,Gary,"Well okay, I’ll swing by later. Do you live in this building?"
+dialogue,Monica,Um-hmm.
+dialogue,Gary,(looking at Monica.) Mm! Seems like I would’ve remembered you!
+dialogue,Chandler,Mm! Night Gar’! (Monica closes the door.)
+heading,,"[Scene: Rachel’s Office, she’s slinking out to where Tag works and checks to make sure no one is coming.]"
+dialogue,Rachel,(hugging him) So did you read your evaluation yet?
+dialogue,Tag,No! It was marked confidential I just sent it down to Human Resources.
+dialogue,Rachel,"(worried) Okay please, you’re kidding right?! I wrote that one as a joke for you!"
+dialogue,Tag,A joke they would appreciate?
+dialogue,Rachel,I’m thinkin’ no.
+dialogue,Tag,What did you say?!
+dialogue,Rachel,"Umm, I said I thought you were a good kisser, and uh, and that I like your tiney-tiny touchie."
+dialogue,Tag,"No, not my touchie."
+dialogue,Rachel,"Well, it gets worse. When asked if you take initiative I wrote, ""Yes, he was able to unhook my bra with minimal supervision,"" and under Problems with Performance I wrote, ""Dear God, I hope not,"" and then uh, then I drew a little smiley face, and then a small pornographic sketch."
+heading,,"[Scene: Central Perk, Joey, Monica, Ross, and Chandler are watching Phoebe polish the daisies on her bike outside.]"
+dialogue,Monica,"Ross! That is so sweet of you to get Phoebe that bike! When I heard the story, I almost cried."
+dialogue,Joey,Almost cried huh? Hear that Chandler? Almost cried!
+dialogue,Chandler,"Hey, you cry every time somebody talks about Titanic !"
+dialogue,Joey,(about to cry) Those two only had each other!
+dialogue,Ross,Phoebe really likes the bike huh?
+dialogue,Monica,"Oh yeah! I saw her walkin’ it down the street the other day. She had uh, these flowers in the basket. It was so cute."
+dialogue,Joey,"Yeah, I saw her this morning walkin’ it by the park."
+dialogue,Ross,"Wait a minute, she was walking the bike? Both times?"
+action,,"[Cut to outside, they’re going to talk to Phoebe about walking the bike.]"
+dialogue,Joey,Hey Pheebs?
+dialogue,Phoebe,Oh hi!
+dialogue,Chandler,Hey! So are you enjoying the bike?
+dialogue,Phoebe,"Ohh, uh-huh so much!"
+dialogue,Ross,Pheebs you uh…you do know how to ride a bike don’t you?
+dialogue,Phoebe,Of course!
+dialogue,Monica,"Umm, can we see you ride it?"
+dialogue,Phoebe,"Okay. (The gang is giggles then Phoebe gets the bike out of the rack, gets on, pushes off, rolls a few feet, and falls over.) See?"
+action,,Commercial Break
+heading,,"[Scene: Monica, Chandler, and Phoebe's, Monica is making candy while Chandler and Rachel are taste testing and Joey is on the couch doodling.]"
+dialogue,Monica,"See, this is why I told you never get involved with your assistant! And here is no such thing as keeping secrets when it comes to affairs. (To Chandler) Did you hear that Chandler? No such thing!"
+dialogue,Chandler,(with his mouth full) What happened? I’m just eating candy.
+dialogue,Rachel,"Maybe it’s not as bad as I think. Y’know, maybe they didn’t take it the way I meant it."
+dialogue,Chandler,"Absolutely! Y’know, because touchie can mean both ass and good worker."
+dialogue,Rachel,"Ugh, I just gotta get the thing back!"
+dialogue,Joey,Hey Rach?
+dialogue,Rachel,Yeah?
+dialogue,Joey,That sketch you mentioned? Might it have looked a little something like this? (He shows her what he’s been drawing.)
+dialogue,Rachel,Oh my God! Joey!
+dialogue,Chandler,What is the matter with you?
+dialogue,Rachel,Ugh!
+dialogue,Joey,"Boy I tell ya, this little talent came in handy before I could afford porn."
+action,,(There is a knock on the door and Monica answers it. There is a woman standing there.)
+dialogue,The Woman,"Hi! I’m sorry, I know it’s after hours but I really need candy."
+dialogue,Monica,"I’m sorry, I can’t help you. See? (Points to her new sign.) Rules are rules."
+dialogue,The Woman,"Please! I have people coming from out of town today! And, I told them all about your candy!"
+dialogue,Monica,"No kidding, out of towners huh? What did you tell ‘em?"
+dialogue,The Woman,I told ‘em your candy is absolutely indescribable!
+dialogue,Monica,"Some people have been saying its y’know little drops of heaven, but whatever."
+dialogue,The Woman,"Please, can’t you help me out?"
+dialogue,Joey,"(watching the discussion) Hey Chandler, do we know that lady?"
+dialogue,Chandler,"Maybe, isn’t she the woman who lives below you and has sex really loud?"
+dialogue,Monica,"(still talking to the woman) All right, I’ll do it just this once! But you can’t tell anybody!"
+dialogue,The Woman,"(exasperatedly) Yes! Yes! Please, just give it to me!"
+dialogue,Joey and Chandler,"Yeah, that’s her."
+dialogue,The Woman,(after Monica gives her the candy) Thank you.
+dialogue,Monica,(closing the door) It’s unbelievable! I-I can’t believe that sign didn’t work!
+dialogue,Chandler,Y’know what would work?
+dialogue,Monica,Hmm?
+dialogue,Chandler,Stop making candy!
+dialogue,Monica,But they like it!
+dialogue,Chandler,You mean they like you.
+dialogue,Monica,Maybe.
+dialogue,Chandler,Is that why you became a chef? So that people would like you?
+dialogue,Monica,"Oh, you really want to talk about getting people to like you huh, funny man? (Joey laughs but stops when Chandler turns to glare at him.)"
+heading,,"[Scene: Central Park, Ross is teaching Phoebe how to ride her bike.]"
+dialogue,Ross,"Okay, now just remember everything I taught you and you’ll be fine. Okay? Here we go. Ready…Set…"
+dialogue,Phoebe,"(hopping off the bike) Wait! This seat is really uncomfortable! Yeah, maybe before we start we should just get another one. Perhaps, like an airplane seat—or a beanbag chair!"
+dialogue,Ross,"Phoebe, you can’t get out of this! Okay? You have to learn how to ride a bike!"
+dialogue,Phoebe,Why? Why do I have to learn?
+dialogue,Ross,Well…In-in case of emergency.
+dialogue,Phoebe,What kind of an emergency?
+dialogue,Ross,"Well let there—what if a man comes along and puts a gun to your head and says, ""You ride this bike or I’ll sh…I’ll shoot you."""
+dialogue,Phoebe,"Okay, I would ring the bell to distract him and then I would knock the gun out of his hand with a Chinese throwing star."
+dialogue,Ross,"Okay, Phoebe just-just get-get on the bike and—Hey! I’ll hold you up and-and push you. Okay?"
+dialogue,Phoebe,You won’t let go?
+dialogue,Ross,No!
+dialogue,Phoebe,Swear?!
+dialogue,Ross,I swear!
+dialogue,Phoebe,(thinks it over) Okay.
+dialogue,Ross,"Come on. (She gets on the bike.) All right, here we go. All right? (They start.)"
+dialogue,Phoebe,All right.
+dialogue,Ross,All right. Feel good?
+dialogue,Phoebe,Well…
+dialogue,Ross,"All right, try pedaling."
+dialogue,Phoebe,Okay. (Does so.)
+dialogue,Ross,"That’s it, your doing great."
+dialogue,Phoebe,Okay.
+dialogue,Ross,Doing great! Yes-yes-yes! Take control! Yes!
+dialogue,Phoebe,Weee!!! (Ross pushes her and lets go.)
+dialogue,Ross,Yes!! Yes!!! (He starts clapping and Phoebe turns around to look at him and falls off the bike.)
+dialogue,Phoebe,Oh! Oh! Oh no!! You swore!
+dialogue,Ross,I-I just thought you were doing so well. I…
+dialogue,Phoebe,I am shocked! Shocked!! (She storms off leaving Ross to defend himself from the angry looks from onlookers.)
+dialogue,Ross,It’s a legitimate learning technique. (Looking around and seeing the woman behind him glaring at him.) Wow!
+heading,,"[Scene: Monica, Chandler, and Phoebe's, Monica is making candy like mad as Ross enters.]"
+dialogue,Ross,"Hey, there’s uh, some people outside, askin’ about candy."
+dialogue,Monica,"Well, they’re just gonna have to wait aren’t they? I’ve only got two hands!!"
+dialogue,Ross,Need some help?
+dialogue,Monica,No! You don’t know the system! There’ll be nobody messing with the system!
+dialogue,Ross,"By the way, the week before your wedding you may not see a lot of me. (She glares at him and he quickly makes his way to Phoebe’s room.)"
+action,,"[Cut to Phoebe’s room, Phoebe has put her helmet on one of her teddy bears and is playing around with it. Ross knocks and pokes his head in the door.]"
+dialogue,Phoebe,"(seeing him) Oh, hello liar."
+dialogue,Ross,"(entering) Look, I-I’m really sorry I let go of the bike."
+dialogue,Phoebe,I could’ve been killed I hope you know!
+dialogue,Ross,"I know. I know. But, can we please try it again? Huh? I mean, you were so close Phoebe!"
+dialogue,Phoebe,"Well, I would love to but…the bike got stolen and the police have no suspects. (Ross just happens to have his hand on a sheet that is covering something that suspiciously looks like a bike.)"
+dialogue,Ross,Phoebe.
+dialogue,Phoebe,What?! (Ross rings the bell.) What the hell?!
+dialogue,Ross,"All right, y’know what? If you are not going to learn how to ride this bike then I’m sorry, I’m just gonna have to take it back."
+dialogue,Phoebe,What?! Why?!
+dialogue,Ross,"Because! Because, it-it-it’s… It’d be like you having this guitar (Points to hers) and-and never playing it. Okay, this guitar wants to be played! And-and this bike wants to be ridden and-and if you don’t ride it you-you’re-you’re killing its spirit! (Pause) The bike is dying."
+dialogue,Phoebe,"All right. If you care enough to make up that load of crap, okay."
+dialogue,Ross,Great! Great! (He runs to the door.) You’re making the bike very happy.
+dialogue,Phoebe,(sarcastically) Okay Ross! (Ross exits and she says quietly to the bike) Please don’t die!
+heading,,"[Scene: Rachel’s office, Tag and her are planning how to get the review back.]"
+dialogue,Rachel,"Okay, I think we can get the evaluation back before they see it, but we’re gonna have to get into Mr. Zelner’s office. Now, he doesn’t get in until 10, so he’s no problem, but his assistant, Betty, she comes in early to eat her breakfast at her desk."
+dialogue,Tag,That’s kinda sad.
+dialogue,Rachel,"Yeah, well Betty’s kinda sad. Which is why I believe I can lure her away with these chocolates. (Holding up the box of chocolates.) Now, while I distract her, you get in the office."
+dialogue,Tag,Got it!
+dialogue,Rachel,Let’s roll!
+action,,(They start towards the door but are stopped when Mr. Zelner enters.)
+dialogue,Mr. Zelner,"Hello Rachel, you uh, got a minute?"
+dialogue,Rachel,"(worried and shocked) Yeah, sure Mr. Zelner, for you anything—minute. Okay. Fine. (To Tag) Abort the plan, abort the plan. (She start to usher Tag out.)"
+dialogue,Mr. Zelner,"Uh actually, I’d like to speak with both of you."
+dialogue,Rachel,"Okay. Uh, well can we, can we get you anything Mr. Zelner? Maybe some chocolates? (Holds up the box.)"
+dialogue,Mr. Zelner,"Umm, no. Thanks, but I’ll give these to Betty. (Rachel glances at Tag to say, ""See?"") So I read your evaluation of Tag, or to use his full name, Tag Sweetcheeks Jones. Is something going on with you two?"
+dialogue,Rachel,"(laughs) Oh my God. Can you imagine if there was?! I mean, (getting serious) what would happen exactly."
+dialogue,Mr. Zelner,"Well, I’d be forced to file a report. I’d have to consult with the legal department, and your future at the company would be in jeopardy."
+dialogue,Rachel,Well…
+dialogue,Tag,"(interrupting) Uh Mr. Zelner, I’m the one who filled in that evaluation."
+dialogue,Rachel,Oh no-no-no…
+dialogue,Tag,"(interrupting again) Yeah-yeah-yeah-yeah-yeah, I thought it would be funny."
+dialogue,Mr. Zelner,You wrote that you have a cute touchie?
+dialogue,Tag,"(pause) Yes. I have a weird sense of humor, and I’m kinda strangely proud of my butt."
+dialogue,Mr. Zelner,"It’s kind of a risky joke Tag, and what is-what is this drawing I can’t figure out what this is?"
+dialogue,Rachel,You’re lookin’ at it upside down—y’know what? (Grabs the evaluation and throws it out.) It doesn’t matter.
+dialogue,Mr. Zelner,"Yeah, it’s not like I don’t have a sense of humor, huh? Hell, I even enjoy a naughty limerick now and then. But there’s a time and a place, huh?! Unless you uh, have a limerick right now? (They both nod no.) No? Okay, well uh, you’ve (Grabs the chocolates.) got my fax number. (Exits.)"
+dialogue,Rachel,Whoa! I can’t believe you did that. That was really sweet.
+dialogue,Tag,"No, don’t worry about it."
+dialogue,Rachel,"No, you could’ve lost your job."
+dialogue,Tag,"Are you kidding me?! With a cute butt like this, I’d find work."
+dialogue,Rachel,Thank you! You’re great! (They kiss.)
+dialogue,Tag,Y’know what?
+dialogue,Rachel,What?
+dialogue,Tag,"I feel great. (Rachel laughs) In fact! (Walks over to her desk, sweeps its contents onto the floor and Rachel just glares at him.) What?"
+dialogue,Rachel,I… It just—it took me so long to get that desk organized.
+dialogue,Tag,"Oh, I’m sorry. (He bends over to pick the stuff up.)"
+dialogue,Rachel,(looking at his butt) There it is. (They hug.)
+heading,,"[Scene: The Hallway, Chandler is returning from work to see the hallway jammed full of people waiting outside their door.]"
+dialogue,Chandler,(asking a man leaning against the wall) What is going on?
+dialogue,The Man,We’re waiting for the candy. (Yelling at the door.) Bring out the candy!
+dialogue,Joey,Yeah lady! Give us candy!!
+dialogue,Chandler,Joey!
+dialogue,Joey,What’s up buddy?
+dialogue,Chandler,What are you doing?
+dialogue,Joey,Waiting for candy.
+dialogue,Chandler,"Get in here! (They head for the door and Chandler sees Smokes-A-Lot Lady standing next to the door and smoking, to her) Hey, and you can not smoke in here! (Takes the cigarette and takes a drag for himself.) (Exhaling in ecstasy) Merry Christmas."
+dialogue,Monica,"(opening the door and frantically) Okay, guys! The candy is coming; I just need another 15 minutes for the chocolate to cool!"
+dialogue,All,We want candy! We want candy now! (And other general commotion sounds.)
+dialogue,Chandler,"All right everybody! Just be quiet! Be quiet! Be quiet!! Pipe-pipe-pipe down! (They settle down) What is the matter with you people?! This woman was trying to do a nice thing for you. She was making candy so she could try to get to know all of you, and I’ll bet that not one of you can tell me her name! Am I right?"
+dialogue,The Man,(from earlier) Candy Lady?
+dialogue,Chandler,No not (imitating) Candy Lady.
+dialogue,Joey,"(stepping in and knocking the man over) Hey, if we know it can we have candy?!!"
+dialogue,Chandler,"All right, y’know what? Forget it, all of you forget it! You’ve ruined it! Go home! You’ve ruined it! You’ve ruined it!"
+dialogue,Joey,"That’s right, it’s all ruined! You guys ruined everything! You ruined it! (Steps into the apartment and Chandler closes the door.) (Joey struts over to the candy and starts eating it.)"
+dialogue,Monica,(To Chandler) Thank you.
+dialogue,Chandler,You’re welcome. (They kiss.)
+dialogue,Monica,Did you smoke?
+dialogue,Chandler,No! Smokes-A-Lot Lady blew smoke directly into my mouth. Eh-uh—are you okay?
+dialogue,Monica,"I’m fine now, but it was really scary there for a while. I mean, someone slipped a-a threatening note under the door."
+dialogue,Joey,"(with his mouth full) Oh yeah, sorry about that. Mob mentality or whatever, I don’t know… (Grabs the note.)"
+action,,Ending Credits
+heading,,"[Scene: Central Park, Phoebe is now riding her bike with ease and stops in front of Ross. They both giggle.]"
+dialogue,Phoebe,I can’t believe it! I did it! I rode a bike! I never thought I’d be able to do that! Thank you Ross.
+dialogue,Ross,"Oh hey, don’t thank me, thank yourself. You’re the one who faced her fears and ultimately overcame them."
+dialogue,Phoebe,"Don’t be so corny Ross, it’s not an after-school special. (She rides off and the camera pans down to reveal two shiny, silver training wheels firmly attached.)"
+action,,End
