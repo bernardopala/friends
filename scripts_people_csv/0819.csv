@@ -1,0 +1,320 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's, everyone except Phoebe is there as Rachel enters carrying a magazine.]"
+dialogue,Rachel,Hi!
+dialogue,Ross,Hey!
+dialogue,Monica,Hey!
+dialogue,Rachel,"So, I’m in my apartment doing the Soap Opera Digest crossword puzzle, and guess who the clue is for three down. (She hands the magazine to Joey.)"
+dialogue,Joey,"(reading) Three down, Days Of Our Lives star blank Tribbiani. That’s me!! I’m blank!!"
+dialogue,Monica,How cool is this?! We know three down! I’m touching three down! (She has her hand on his shoulder.)
+dialogue,Joey,Yeah you are baby.
+dialogue,Monica,"Three down knows I’m married, what’s three down doin’?"
+dialogue,Rachel,So did they call you to tell you your name’s gonna be in this?
+dialogue,Joey,"No. They really like me over there. They want to do a big profile on me, but I said no."
+dialogue,Ross,Why’d you say no?
+dialogue,Joey,"Remember what happened the last time I did an interview for them? I said I write a lot of my own lines, and then the writers got mad and made my character fall down the elevator shaft. So who knows what I might say this time."
+dialogue,Chandler,If only there was something in your head to control the things you say. (Joey nods his agreement.)
+dialogue,Rachel,"Oh, come on Joey! You will totally keep it in check this time, and plus y’know the publicity would be really good for your career! And you deserve that! And if you do the interview you can mention, oh I don’t know, gal pal Rachel Green?"
+dialogue,Chandler,Is that gal pal spelled L-O-S-E-R?
+dialogue,Rachel,"Okay, don’t listen to him. Please?"
+dialogue,Joey,"Fine! All right, I’ll do it. But hey! You guys have to be at the next table so you can stop me if I y’know, start to say something stupid."
+dialogue,Ross,"Just then or-or all the time, ‘cause we-we have jobs y’know."
+dialogue,Rachel,"Come on! We will be there for you the whole time! Just remember gal pal Rachel Green. (Excited) Ha-ha! I’m gonna be in Soap Opera Digest ! And not just in the dumb crossword puzzle. (Looks at Joey.) Seriously, proud of you."
+dialogue,Joey,Yeah.
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Joey is there for his interview and everyone but Phoebe are hiding on the couch.]"
+dialogue,The Interviewer,I really appreciate you taking the time to do this.
+dialogue,Joey,"Oh, not at all. Happy to do it."
+action,,[Cut to the rest of the gang sitting low on the couch and craning their necks to watch the interview.]
+dialogue,Monica,(To Chandler) You think we’re being obvious?
+dialogue,Chandler,"No, we’re just four people with neck problems. You talk like this. (Out of the sides of their mouths.)"
+action,,[Cut to the interview.]
+dialogue,The Interviewer,(To Joey) Y’know I think its great you wanted to meet here. Y’know when most people hear the magazine is paying for it they want to go to a big fancy restaurant.
+dialogue,Joey,"(laughs) Actually, I didn’t know the magazine was paying for it. Wouldn’t have mattered, I’m doing this for the fans, not for the free food."
+dialogue,Gunther,Can I get you anything?
+dialogue,The Interviewer,"Umm, I’ll have a cup of coffee."
+dialogue,Joey,And I’ll have all the muffins.
+action,,[Cut to the gang.]
+dialogue,Phoebe,(entering) Hey!
+dialogue,Ross,Shhh! We’re not talking.
+dialogue,Phoebe,Oh. Finally! Oh. (Sits back in relief.)
+action,,[Cut to the interview.]
+dialogue,The Interviewer,"So, according to your bio, you’ve done quite a bit of work before Days of Our Lives . Anything you’re particularly proud of?"
+action,,"[This starts a series of flashbacks; the first one is from Episode 106: The One With The Butt, Joey is in a play called Freud!.]"
+dialogue,Joey,(He goes into a song and dance number)
+singing,Joey,"All you want is a dingle,"
+singing,Joey,"What you envy's a schwang,"
+singing,Joey,"A thing through which you can tinkle,"
+singing,Joey,"Or play with, or simply let hang..."
+action,,"[The next one is from Episode 304: The One With The Metaphorical Tunnel, Joey is on Amazing Discoveries.]"
+dialogue,Host,"Folks, has this ever happened to you. You go to the refrigerator to get a nice glass of milk, (Joey is in the background struggling to open a cartoon of milk) and these darn cartons are so flingin'-flangin' hard to open."
+dialogue,Joey,"Oh, you said it Mike. (Rips open the carton and spills milk on the counter) Aw! There's got to be a better way!"
+dialogue,Mike,And there is Kevin.
+action,,[Cut forward.]
+dialogue,Mike,"This is the first time he’s ever used this product, he's never used this product before, you're gonna see how easy this is to do. (To Kevin) Go ahead. ('Kevin' starts using the product, it is a spout that you jab into a paper milk carton so that you don't have to rip it open.) This works with any milk carton."
+dialogue,Joey,"(finishing installing the Milk Master 2000) Wow, it is easy. (Starts to poor the milk) Now, I can have milk everyday."
+action,,(The crowd ahhs.)
+action,,"[The next one is from Episode 322: The One With The Screamer, it’s the end of Joey’s play.]"
+dialogue,Lauren,So this is it? Victor?
+dialogue,Joey,"Yeah, I guess it is. And so… I’m gonna get on this spaceship, (Smoke starts pouring in from the ceiling, and a ladder comes down, with flashing, colored lights on the side of it) and I’m gonna go to Blargon 7 in search of alternative fuels. But when I return, 200 years from now, you’ll be long gone. But I won’t have aged at all. (Gets on the ladder) So you tell your great-great-granddaughter to look me up, because Adrienne… baby…I’m gonna want to meet her."
+action,,"(The ladder retracts, taking Joey up into the spaceship for his voyage to Blargon 7.)"
+action,,"[The next one is from Episode 204: The One With Phoebe’s Husband, when everyone including Julie is watching Joey in his porno.]"
+dialogue,Joey,"Shh, OK, here I come, here I come. See I'm comin' to fix the copier, I can't get to the copier, I'm thinkin' what do I do, what do I do…so I just watch 'em have sex. And then I say, wait, here's my line, (Joey from TV) you know that's bad for the paper tray ."
+dialogue,Chandler,Nice work my friend.
+dialogue,Joey,"Thank you. Wait-wait-wait-wait, you see me again. Hang on, the guy's butt's blockin' me. There I am, there I am, there I am, there I am, there I am…"
+action,,[Cut to the interview.]
+dialogue,Joey,"Well, there are so many things, it’s hard to pick just one."
+action,,[Cut to the gang.]
+dialogue,Phoebe,"I’m gonna get some coffee, anyone want anything?"
+dialogue,Rachel,"Oh yeah, I’d actually love a blueberry muffin and a chamomile tea."
+dialogue,Ross,"Uh, double latte, extra foam."
+dialogue,Chandler,And a bagel with only…
+dialogue,Phoebe,(interrupting him) I was just being polite!
+action,,[Cut to the interview.]
+dialogue,The Interviewer,"Okay, how about when you’re not working. What do you do in your spare time?"
+action,,"[This starts another series of flashbacks about Joey’s hobbies. The first one is from Episode 703: The One With Phoebe’s Cookies, Rachel is teaching Joey how to sail his boat, the Mr. Bowmont.]"
+dialogue,Joey,(drinking a beer) Look at this clown! Just because he’s got a bigger boat he thinks he can take up the whole river. (Yelling) Get out of the way jackass! (To Rachel) Who names their boat Coast Guard anyway?
+dialogue,Rachel,That is the Coast Guard.
+dialogue,Joey,What are they doing out here? The coast’s all the way over there. (Points to the coast.)
+action,,"[The next one is from Episode 603: The One With Ross’s Denial, Joey is amazing Phoebe and Monica by holding his breath.]"
+dialogue,Chandler,(entering) Hey!
+dialogue,Phoebe,Hey! Check it out! This is unbelievable! Joey has been holding his breath for almost four minutes!
+action,,"(We see Joey who has puffed up his cheeks and Chandler nonchalantly reaches down and pinches Joey’s nose shut. In a few seconds, Joey has to move because he’s now forced to actually hold his breath.)"
+dialogue,Joey,(To Chandler) Dude! What are yo—you trying to kill me?!
+action,,[The next one is from Episode 507: The One Where Ross Moves In.]
+heading,,"[Scene: Chandler and Joey's and Ross's, Chandler is entering and when he closes the door Joey pops his head out of the fort like before, but this time he's wearing a cowboy hat.]"
+dialogue,Chandler,"Well, I see you've had a very productive day. Don't you think the cowboy hat is a little much?"
+dialogue,Ross,"(popping up behind Joey wearing an Indian headdress) Come on, it's fun!"
+dialogue,Chandler,All right! (He joins them in the fort and comes up putting on a bonnet.) Isn't this a woman's hat?
+dialogue,Joey,"Dude, stop talking crazy and make us some tea!"
+action,,(Chandler does so.)
+action,,"[The next one is from Episode 417: The One With The Free Porn, Chandler and Joey are lamenting the fact that every beautiful woman they see doesn’t want to have sex right then and there like in porn.]"
+dialogue,Chandler,"Y’know what, we have to turn off the porn."
+dialogue,Joey,I think you’re right.
+action,,(Goes over and picks up the remote.)
+dialogue,Chandler,"All right, ready?"
+dialogue,Joey,One.
+dialogue,Chandler,Two.
+dialogue,Both,Three.
+action,,(Chandler turns off the porn and sets the remote down.)
+dialogue,Joey,That’s kinda nice.
+dialogue,Chandler,"Yeah, that’s kinda a relief."
+dialogue,Joey,Yeah.
+action,,(Pause.)
+dialogue,Chandler,You wanna see if we still have it?
+dialogue,Joey,Yeah.
+action,,(Chandler turns on the TV and…)
+dialogue,Chandler,FREE PORN!!!
+dialogue,Joey,Yeah!!
+dialogue,Chandler,We have free porn here!!!
+action,,[Cut to the interview.]
+dialogue,Joey,"In my spare time I uh, read to the blind. And I’m also a mento for the kids.(The gang shake their heads.) Y’know a mento, a role model. (Chandler bites his fist to keep from talking.)"
+dialogue,The Interviewer,A mento…
+dialogue,Joey,Right.
+dialogue,The Interviewer,Like the candy?
+dialogue,Joey,"Matter of fact, I do."
+action,,(Chandler tries to jump over the couch but everyone stops him.)
+dialogue,The Interviewer,"Well umm, another thing our readers always want to know is how our soap stars stay in such great shape. Do you have some kind of fitness regime?"
+dialogue,Joey,"Uh, we stars just try to eat right and get lots of exercise."
+action,,"[Another set of flashbacks begin with Episode 521: The One With The Ball, Joey and Ross are throwing a ball around.]"
+dialogue,Joey,"Wow! You realize that we've been throwing this ball, without dropping it, for like an hour?"
+dialogue,Ross,Are you serious?!
+dialogue,Joey,Yeah. I realized it about a half-hour ago but I didn't want to say anything 'cause I didn't want to jinx it.
+dialogue,Ross,Wow! We are pretty good at this!
+dialogue,Joey,Yeah!
+dialogue,Ross,Hey! We totally forgot about lunch!
+dialogue,Joey,"Oh, I-I, I think that's the first time I ever missed a meal! (Checks his pants.) Yeah, my pants are a little loose!"
+action,,[The next one is from Episode 604: The One Where Joey Loses His Insurance.]
+heading,,"[Scene: Chandler and Joey's, Chandler enters to find Joey lying in the fetus position on the floor.]"
+dialogue,Chandler,What’s wrong with you?
+dialogue,Joey,"Nothing! Well, I-I got this blinding pain in my stomach when I was lifting weights before, then I uh passed out and uh, haven’t been able to stand up since. But um, I don’t think it’s anything serious."
+dialogue,Chandler,This sounds like a hernia. You have to—you-you—Go to the doctor!
+dialogue,Joey,"No way! ‘Kay look, if I have to go to the doctor for anything it’s gonna be for this thing sticking out of my stomach! (Rolls over and shows Chandler.) Why did I have to start working out again? (Looks at the weights he was using.) Damn you 15s!"
+action,,"[The next one is from Episode 609: The One Where Ross Got High, Rachel is describing her desert to Joey and Ross.]"
+dialogue,Rachel,"It’s a trifle. It’s got all of these layers. First there’s a layer of ladyfingers, then a layer of jam, then custard, which I made from scratch. [Joey and Ross make impressed faces] Then raspberries, more ladyfingers, then beef sautéed with peas and onions, [Joey and Ross look like something’s wrong.] then a little more custard, and then bananas, and then I just put some whipped cream on top!"
+action,,"[Time lapse, Ross and Joey are eating Rachel’s disaster.]"
+dialogue,Ross,It tastes like feet!
+dialogue,Joey,I like it.
+dialogue,Ross,It tastes like feet!
+dialogue,Joey,What’s not to like? Custard? Good. Jam? Good. Meat? Goooooood.
+action,,[The next one is from Episode 619: The One With Joey’s Fridge.]
+heading,,"[Scene: Joey and Rachel's apartment, Chandler is entering to find Joey bingeing on the food from the fridge. Joey isn’t doing all that well.]"
+dialogue,Joey,"The fridge broke. I have to eat everything. Cold cuts, ice cream, limes—Hey, what was in that brown jar?"
+dialogue,Chandler,That’s still in there?!
+dialogue,Joey,Not anymore.
+action,,[The next one is from Episode 711: The One With All the Cheesecakes.]
+heading,,"[Scene: The Hallway, Chandler and Rachel are on their knees with forks trying to salvage what they can of the cheesecake off of the floor.]"
+dialogue,Rachel,Oh! Yay! Look! There’s a piece that doesn’t have floor on it!
+dialogue,Chandler,Stick to your side!
+dialogue,Rachel,"Hey, come on now!"
+action,,(Joey finishes climbing the stairs and sees them. Chandler and Rachel both stop and look up at him. Joey sits down on the step.)
+dialogue,Joey,"(pulls out a fork) All right, what are we havin’? (Starts digging in.)"
+action,,[Cut to the interview.]
+dialogue,Joey,"Uhh, I don’t believe in these crazy diets y’know, just everything in moderation."
+dialogue,Gunther,Your muffins. (Sets down a huge plate of muffins in front of Joey.)
+dialogue,Joey,I’ll take those to go. (To the interviewer) For the kids.
+dialogue,The Interviewer,"Oh, I know what I wanted to ask you. You were on the show years ago and then they killed you off. What happened there?"
+dialogue,Joey,"It was so stupid, I said some stuff in an interview that I shouldn’t have said. But believe me, that’s not gonna happen today."
+dialogue,The Interviewer,"Understood. So, what’d you say back then?"
+dialogue,Joey,"Well, I said that I… (The gang jumps up and interrupts him.)"
+action,,Commercial Break
+heading,,"[Scene: Central Perk, continued from earlier.]"
+dialogue,Joey,"You guys, this is Shelley, she’s interviewing me for Soap Opera Digest , and Shelley, this are my friends…"
+dialogue,Rachel,"(interrupting him) Hi! I’m gal pal Rachel Green, and if you want the dirt, I’m the one you come too. This might be Joey’s baby (rubbing her stomach), who knows? I’m just kidding—Seriously, (leans into the cassette recorder Shelley is using) gal pal Rachel Green."
+dialogue,Ross,(leaning into the recorder as well) Who just lost the respect of her unborn child.
+dialogue,The Interviewer,"Umm, I’m gonna just go get this warmed up. (She takes her coffee mug up to the counter.)"
+dialogue,Joey,Okay.
+dialogue,Monica,Joey! You’re doing great!
+dialogue,Ross,"Yeah, so far nothing stupid."
+dialogue,Chandler,Mento?
+dialogue,Joey,No thanks.
+dialogue,The Interviewer,"(returning) So, as Joey’s friends, is there anything that you guys think our readers ought to know?"
+dialogue,Ross,"Uh no, no just-just that he is a great guy."
+dialogue,Rachel,"(scoffs at him) Yeah, that’s gonna get you into Soap Opera Digest . Well I…(leans into the microphone again)…I would just like to say that Joey truly has enriched the days of our lives."
+dialogue,Phoebe,"Umm, I…I just think you don’t expect someone so hot to be so sweet."
+dialogue,The Interviewer,Oh! I like that. What’s your name?
+dialogue,Phoebe,"Umm, Phoebe Buffay."
+dialogue,The Interviewer,How do you spell that? So we can get it right.
+dialogue,Phoebe,"Oh okay, it’s P as in Phoebe, H as in hoebe, O as in oebe, E as in ebe, B as in bee-bee and E as in (In an Australian accent) ‘Ello there mate!"
+dialogue,The Interviewer,"Great! Well, it was nice meeting all of you."
+dialogue,Ross,"Yeah, you too."
+dialogue,Rachel,You too!
+dialogue,Chandler,Thanks.
+dialogue,Monica,Bye. (They resume their previous positions.)
+dialogue,The Interviewer,"So it seems like you have a lot of friends, who would you say is your best friend?"
+action,,"[They gang all lean back to listen better, and this starts another series of flashbacks. The first one is from Episode 214: The One With The Prom Video, Rachel has just found the bracelet that Joey gave Chandler, which is after he bought one to replace it.]"
+dialogue,Joey,How come you have two?
+dialogue,Chandler,Well this one's for you.
+dialogue,Joey,Get out.
+dialogue,Chandler,"No, I can't. No-no, listen, I, I know how much this means to you and I also know that this is about more than just jewelry, (Puts bracelet on Joey) it's about you and me and the fact that we're (Reading bracelet) best buds."
+dialogue,Joey,"Wow, is this friendship? I think so. Check it out, we're bracelet buddies."
+dialogue,Chandler,That's what they'll call us.
+action,,[The next one is from Episode 618: The One Where Ross Dates A Student.]
+heading,,"[Scene: Joey's apartment, Joey and Rachel are eating spaghetti in the living room while watching TV and Rachel drops some on the floor.]"
+dialogue,Rachel,"Oh, Joey! Sorry!"
+dialogue,Joey,No that’s all right. Don’t worry about it.
+dialogue,Rachel,Oh but look! That’s gonna leave a stain!
+dialogue,Joey,Rach! Hey! It’s fine! You’re at Joey’s!
+dialogue,Rachel,Really?
+dialogue,Joey,Yeah! Look! (He throws some of his spaghetti on the floor.)
+dialogue,Rachel,I’ve never lived like this before.
+dialogue,Joey,I know.
+action,,(Rachel throws some of hers down.)
+dialogue,Joey,"All right, don’t waste it, I mean its still food. (He picks it up and eats it.)"
+action,,"[The next one is from Episode 224: The One With Barry And Mindy’s Wedding, Joey has to kiss a guy in an audition and has been trying to find one to practice with.]"
+heading,,"[Scene: Chandler and Joey's, Joey is reading a script as Ross enters]"
+dialogue,Ross,"All right I've been feeling incredibly guilty about this, because I wanna be a good friend, and damnit I am a good friend. So just, just shut up and close your eyes (kisses Joey)."
+dialogue,Joey,"Wow, you are a good friend, 'course the audition was this morning, and I didn't get it. But that was a hell of a kiss. Rachel is a very lucky girl."
+action,,"[The next one is from Episode 512: The One With Chandler’s Work Laugh, Joey and Phoebe are betting on who will reach the treat the fastest, the chick or the duck.]"
+dialogue,Joey,"All right. Let's get the contestants out of their isolation booths. (He removes the waste bucket that's over the duck and the laundry basket that's over the chicken.) And they're off! (He puts his foot in front of the chick, stopping it from moving.)"
+dialogue,Phoebe,Get your foot off my contestant! Judge!
+dialogue,Joey,"Judge rules, no violation."
+dialogue,Phoebe,Ohhh.
+dialogue,Joey,And the duck gets the Nutter-Butter!
+dialogue,Phoebe,"(turning from Ross.) No!! Hey-hey that's not a Nutter-Butter, that's just an old Wonton!"
+dialogue,Joey,"Judge rules, Nutter-Butter."
+dialogue,Phoebe,"Ohh, tough call."
+dialogue,Joey,Yeah.
+action,,"[The next one is from Episode 401: The One With The Jellyfish, where Monica, Joey, and Chandler are relating that tragic day they spent on the beach.]"
+dialogue,Joey,I’d seen this thing on The Discovery Channel ...
+dialogue,Ross,Are you kidding?
+dialogue,Phoebe and Rachel,Ewwww!!
+dialogue,Monica,"You can’t say that!! You-you don’t know!! I mean I thought I was gonna pass out from the pain! Anyway I-I tried, but I-I couldn’t...bend that way. So... (Looks at Joey.)"
+dialogue,"Phoebe, Ross, and Rachel",(turning to look at Joey) Ewwww!!
+dialogue,Joey,"That’s right I stepped up! She’s my friend and she needed help! And if I had too, I’d pee on anyone of you!"
+action,,[Cut to the interview.]
+dialogue,Joey,"Umm, no. No best friend, no. Just a lot of close friends."
+dialogue,The Interviewer,"So umm, now back to the show. How does it feel to have a huge gay fan base?"
+dialogue,Joey,Really? Me? Wow! I don’t even know any huge gay people!
+action,,[Cut to the gang.]
+dialogue,Chandler,It hurts me. It physically hurts me.
+action,,[Cut to the interview.]
+dialogue,The Interviewer,"Now, off the record, you’re not…"
+action,,[Another group of flashbacks begin with Episode 513: The One With Joey’s Bag. Joey is carrying the bag and has entered Central Perk to the amusement of Ross and Chandler.]
+dialogue,Joey,"What? Are you referring to my man's bag? At first, I thought it just looked good, but it's practical too. Check it out! It's got compartments for all your stuff! Your wallet! Your keys! Your address book!"
+dialogue,Ross,Your make-up!
+action,,"[The next one is from Episode 712: The One Where They’re Up All Night, Joey and Ross are deciding how to climb down the final part of the fire escape.]"
+dialogue,Ross,Okay. Now-now-now should I climb down your front so we’re face to face or-or should I climb down your back so we’re-we’re butt to face.
+dialogue,Joey,I think face to face.
+dialogue,Ross,I would say that.
+dialogue,Joey,"Face to face, yeah!"
+dialogue,Ross,"Okay, here I go."
+dialogue,Joey,All right.
+action,,(Ross steps onto the bottom rung of the ladder and then steps on Joey’s chest.)
+dialogue,Joey,(grunting) Oh my… How much do you weigh Ross?!
+dialogue,Ross,"I prefer not to answer that right now, I’m still carrying a little holiday weight."
+action,,"(Ross continues to climb down. He puts his other foot further down on Joey’s torso, but that doesn’t work very well and he’s forced to wrap his legs around Joey. Which then forces Joey to get a nice and close view of Ross’s crotch.)"
+dialogue,Joey,"Y’know, when we talked about face to face, I don’t think we thought it all the way through."
+action,,[The next one is from Episode 722: The One With Chandler’s Dad.]
+heading,,"[Scene: Central Perk, Phoebe is sitting on the couch as Joey enters strutting.]"
+dialogue,Joey,Hey Pheebs! (He sits down next to her.)
+dialogue,Phoebe,Hey!
+dialogue,Joey,"Check it out. (He turns around, pulls down his pants, and shows Phoebe that he’s got panties on.) How much of a man am I?!"
+dialogue,Phoebe,Wow! Nice! Manly and also kind of a slut.
+action,,"[The next one is from Episode 608: The One With Ross’s Teeth, Chandler is accusing Joey of becoming less of a man.]"
+dialogue,Chandler,You’re turning into a woman.
+dialogue,Joey,No I’m not. Why would you say that? That’s just mean.
+dialogue,Chandler,Now I’ve upset you? What did I say?
+dialogue,Joey,"It’s not what you said. It’s the way you said it… Oh My God, I’m a woman!!!"
+action,,[The next one is from Episode 706: The One With The Nap Partners.]
+heading,,"[Scene: Joey and Rachel's, Joey and Ross are napping together again and both wake up at the same time.]"
+dialogue,Joey,Great nap.
+dialogue,Ross,It really was.
+action,,(Suddenly Rachel clears her throat and the camera cuts to the rest of the gang staring at them. Needless to say Joey and Ross are shocked and slowly turn their heads to see the gang.)
+action,,[Cut to the interview.]
+dialogue,Joey,"Uh me? Gay? No! No. No, but I have a number of close friends who are. (Chandler and Ross look at each other.)"
+dialogue,The Interviewer,"So, let’s talk about women. I’m sure our female readers will be interested to know about your romantic life."
+action,,"[Another series of flashbacks begins with Episode 413: The One With Rachel’s Crush, Joey is telling Rachel and Phoebe how he picks up women.]"
+dialogue,Joey,"Oh-oh-oh-oh, how I do it is, I look a woman up and down and say, ""Hey, how you doin’?"""
+dialogue,Phoebe,"Oh, please!"
+dialogue,Joey,"(to Phoebe) Hey, how you doin’?"
+action,,"(Phoebe looks at him, and then giggles and looks away.)"
+action,,[The next one is from Episode 605: The One With Joey's Porsche.]
+heading,,"[Scene: The street, Joey is messing with a car cover and still wearing the Porsche stuff. This guy playing street football catches a pass next to the car cover Joey is fooling around with.]"
+dialogue,Joey,Hey! How you doin’?
+dialogue,Woman,(to her friend) He has the most amazing Porsche under there!
+dialogue,Joey,"I’d love to show ya, but I just tucked her in. She’s sleeping. (The women both laugh) Hey uh, would you two girls like to go for a drink? (Just then the same guy with the football dives to make a catch, lands on the car cover, and collapses it. It turns out that Joey set up a bunch of boxes to make it look like a Porsche.)"
+action,,"[The next one is from Episode 613: The One With Rachel’s Sister, Chandler has just opened the door to reveal a woman standing there.]"
+dialogue,Woman,"Hi, is Rachel here? I’m her sister."
+dialogue,Rachel,"Oh my God, Jill!"
+dialogue,Jill,"Oh my God, Rachel!"
+action,,(They run and hug each other.)
+dialogue,Chandler,"Oh my God, introduce us!"
+dialogue,Rachel,This is Chandler. (Points at him.)
+dialogue,Jill,Hi!
+dialogue,Rachel,And you know Monica and Ross!
+dialogue,Ross,Hi Jill.
+dialogue,Rachel,"And that’s Phoebe (points), and that’s Joey."
+dialogue,Joey,"Hey, (in the Joey voice) how you doin’?"
+dialogue,Rachel,Don’t!! (Joey backs away frightened.)
+action,,"[The final one is from Episode 607: The One Where Phoebe Runs, Joey has been trying to repel Janice and sees it’s not working to his liking so he’s confronting her about the sexual tension.]"
+dialogue,Janine,"No! I mean you're a really nice guy and I'm happy to be your roommate and your friend, I'm just y'know, I just don't feel that way about you."
+dialogue,Joey,"Oh! I see what happened. It's because I was trying to repel you. Right? Believe me, you'd feel a lot different if I turned it on."
+dialogue,Janine,I don't think so.
+dialogue,Joey,"Oh, I do. (Gives her the Joey-love look.) How you doin?"
+dialogue,Janine,I'm okay.
+dialogue,Joey,What?!?! Oh dear God!
+action,,[Cut to the interview.]
+dialogue,Joey,Not much to tell there I’m really shy.
+action,,(The gang is confused.)
+dialogue,The Interviewer,"So, that’s it. I guess that’s all I need. Thank you so much. I think they will be running this in the beginning of next month."
+dialogue,Joey,Oh great! Great! Thank you. (They shake hands.)
+dialogue,The Interviewer,Bye.
+dialogue,Joey,Bye-bye. (The interviewer leaves and he sits down with the rest of the gang.) I did it!
+dialogue,Rachel,Yeah!
+dialogue,Ross,Amazing! Amazing!
+dialogue,The Interviewer,"(returning) Oh wait! I almost forgot. We have to ask everybody this. Other than Days of Our Lives , what’s your favorite soap opera?"
+dialogue,Joey,"Oh, I don’t watch soap operas. Excuse me, I have a life, y’know?"
+action,,(The gang is disappointed.)
+dialogue,The Interviewer,Thank you. The readers at Soap Opera Digest will be happy to hear that.
+dialogue,Joey,"Oh, good to know. (The interviewer leaves.) So close!"
+action,,Closing Credits
+heading,,"[Scene: Monica and Chandler's, everyone is reading Joey’s interview.]"
+dialogue,Rachel,Wow! I can’t believe they didn’t put it in the part where you said you didn’t watch soap operas.
+dialogue,Joey,"Yeah, I called the lady about that. I told her I was just joking. She was pretty nice about that."
+dialogue,Monica,You slept with her didn’t you?
+dialogue,Joey,"Little bit, yeah."
+dialogue,Ross,Wow! This picture of you sure is steamy.
+dialogue,Joey,"Oh yeah, that’s just a little something for my huge gay fan base. (Winks at him.)"
+dialogue,Ross,Did you just wink at me?
+dialogue,Joey,"Hey, you’re the one that loves the picture."
+action,,End

@@ -1,0 +1,305 @@
+script_element,character,text
+heading,,"[Scene: The Hallway, Chandler and Monica are returning from their honeymoon.]"
+dialogue,Chandler,"Wait. Before we go in, I just want you to know I love you. I had a great time on our honeymoon, and I can’t wait to go in there and spend the rest of our life together."
+dialogue,Monica,You’re really sticking with the shell necklace huh? (Points to necklace of shells he’s wearing.)
+action,,(Joey and Phoebe burst forth from his apartment.)
+dialogue,Phoebe,Hi!
+dialogue,Joey,Hey! You’re back! (Hugs and kisses all around.)
+dialogue,Monica,Hi sweetie!
+dialogue,Phoebe,Come on in!
+action,,(They grab the luggage and drag it into Joey and Rachel’s forcing Monica and Chandler to follow.)
+dialogue,Phoebe,So how was the honeymoon?
+dialogue,Monica,"Oh, so much fun. But the best part is, we met this incredible couple on the way back."
+dialogue,Phoebe,That was the best part? (To Chandler) Good honeymooning tiger.
+dialogue,Monica,"No, they were really cool. They were on their honeymoon too!"
+dialogue,Chandler,"They’re terrific, and they live right here in the city."
+dialogue,Monica,"Yeah, can we go call them? Is it too soon to call? I wanna call."
+dialogue,Chandler,"I’m sorry, we’re just kinda excited because we finally have a couple to hang out with."
+dialogue,Monica,I know.
+dialogue,Joey,"A couple? Like two people? Like (points to himself) one (points to Phoebe), two people?"
+dialogue,Monica,This is different! Greg and Jenny are in a relationship.
+dialogue,Phoebe,"Oh, Greg and Jenny yuck! (Angrily) Hi Greg, I’m Chandler this is Monica. Hi Monica, this is Jenny. Hi Jenny. Hi Greg."
+dialogue,Chandler,"Listen, they are really great. If you just got a chance…"
+dialogue,Joey,Y’know what? Why don’t you just give us our souvenirs and get the hell out of here?
+dialogue,Chandler,We really…didn’t get a chance to…
+dialogue,Phoebe,You have got to be kidding me!
+dialogue,Monica,We didn’t get anything for anyone.
+dialogue,Joey,Hm-mm! Yeah nice necklace!
+dialogue,Monica,That you can have.
+action,,Opening Credits
+heading,,"[Scene: Monica and Chandler's, Ross and Rachel are entering with the rest of the gang already inside.]"
+dialogue,Rachel,Hi!
+dialogue,All,Hey!
+dialogue,Ross,Hello!
+dialogue,Rachel,Welcome home.
+dialogue,Ross,"So, how was the honeymoon?"
+dialogue,Monica,It was great! It was great! How about you?! I mean you’re having a baby!
+dialogue,Rachel,Oh! Look! I have a sonogram picture!
+dialogue,Monica,Oh great! (Shows them the picture.)
+dialogue,Chandler,Ross! It’s got your wavy black lines!
+dialogue,Monica,"All right, so now that Ross knows can you tell us y’know how it happened? I mean, when did it happen? How many times did it happen?"
+dialogue,Phoebe,Monica! That’s not right! Start with where.
+action,,(Rachel looks at Ross and gets his approval.)
+dialogue,Rachel,"Well it happened about six weeks ago, and uh I had just got home from work and Ross was already there ‘cause I guess he had been hanging out with Joey."
+dialogue,Joey,You’re welcome buddy.
+dialogue,Ross,"(glaring at him) Yeah, thanks. (Joey nods no problem.)"
+dialogue,Rachel,"And so I had a lot of work to do so Ross, nice guy that he is, offered to help me out. And then we had a little wine, we got to talking, and the next thing you know out of nowhere Ross comes on to me."
+dialogue,Ross,(laughs) Umm that’s…that’s a little misleading.
+dialogue,Rachel,What is?
+dialogue,Ross,The lie you just told.
+dialogue,Rachel,That-that you came on to me?
+dialogue,Ross,There’s the one!
+dialogue,Rachel,"But you did! I mean, let’s be honest."
+dialogue,Ross,"Yes let’s. Y’know what? Uh, it’s-it’s not important. What is important is that, is that we’re having a baby. And it’s not—Doesn’t matter who came on to who."
+dialogue,Joey,Whom. (Everyone looks at him shocked.) That’s right.
+dialogue,Rachel,You know you kissed me first.
+dialogue,Ross,What? What?! You were begging me to kiss you! You-you-you were sending me signals all over the place!
+dialogue,Rachel,I was sending you signals?
+dialogue,Ross,Yeah!
+dialogue,Rachel,"Oh please. Okay, anyone in this room think that I would send Ross begging symbols, please show of hands. (Ross raises his hand and no one else.)"
+dialogue,Ross,Y’know what?! It doesn’t matter! It doesn’t matter what you believe! What matters is what happened!
+dialogue,Rachel,"Okay. So these signals Ross, explain this to me, ‘cause maybe I need to be more careful. I mean, am I sending you these signals right now?"
+dialogue,Ross,"Y’know what? Y’know what? Rachel, just-just drop it."
+dialogue,Rachel,"No please, show me how I begged you!"
+dialogue,Ross,"I can show you, I have it on videotape! (Stunned silence) It’s an expression."
+action,,Commercial Break
+heading,,"[Scene: Monica and Chandler's, time has lapsed, Phoebe, Joey, Chandler, and Monica are sitting at the kitchen table.]"
+dialogue,Phoebe,I can’t believe he taped the two of them having sex!
+dialogue,Joey,Yeah! You gotta tell a girl before you tape her. Such a rookie mistake.
+dialogue,Chandler,Y’know who has a great video camera?
+dialogue,Phoebe,(nasally) Greg and Jenny?
+dialogue,Monica,Do you still wanna call ‘em? I wanna call ‘em.
+dialogue,Chandler,Let’s call ‘em.
+dialogue,Joey,Yeah! Ask them if they brought their friends any souvenirs!
+action,,(Monica goes over and dials their number.)
+dialogue,Monica,(on phone) Hello? (Listens) Eighth street deli?
+dialogue,Joey,"Hey, hang up! You get food poisoning just talkin’ to that place."
+dialogue,Monica,"(on phone) Uh sorry, wrong number. (Hangs up)"
+dialogue,Chandler,Here you go. (Shows her the number again.)
+dialogue,Monica,(on phone) Hello? (Listens) (To All) It’s the deli again!
+dialogue,Joey,All right! I’ll have a sandwich!
+dialogue,Monica,(hangs up) I don’t think this number’s right!
+action,,(Joey and Phoebe laugh.)
+dialogue,Chandler,What?
+dialogue,Phoebe,You got fake numbered.
+dialogue,Monica,What?! People don’t do that!
+dialogue,Joey,Oh I think we do.
+dialogue,Monica,They gave us a fake number? Why? Why would they do that?
+dialogue,Chandler,"I don’t know! You were a delight to talk to. You asked all those insightful, great questions."
+dialogue,Monica,"And you’ve never been funnier. Joke, joke, joke, you were a hoot!"
+dialogue,Joey,"Y’know what? Don’t worry about it, you still got me and Phoebe."
+dialogue,Phoebe,"Excuse me, I don’t want Greg and Jenny’s rejects."
+dialogue,Ross,(entering) Rachel won’t talk to me! She won’t even open the door!
+dialogue,Phoebe,"Hmm, I wonder why. Pervert!"
+dialogue,Ross,"Okay, listen I am not a pervert!"
+dialogue,Phoebe,"That’s like the pervert motto! Yeah! Yeah! They have you raise your right hand, put your left hand down your pants, and repeat that!"
+dialogue,Ross,"Filming Rachel is not something I planned. Okay look, here’s what happened, and Joey you-you can back me up on this. All right, about-about a month and a half ago I came to you with a problem? Umm, a personal thing."
+dialogue,Joey,Personal thing? What personal thing? I don’t know.
+dialogue,Ross,About…about sex? (Joey looks at him confused) That I hadn’t had sex in months?
+dialogue,Joey,(laughs) Yeah I knew what you were talkin’ about.
+action,,Six Weeks Earlier
+heading,,"[Scene: Joey and Rachel's, Joey is reading a cereal box as Ross enters wearing the red sweater.]"
+dialogue,Ross,Hey!
+dialogue,Joey,Hey.
+dialogue,Ross,"Do you have a minute? I’d like to talk to you about something I’m, I’m really uncomfortable talking about."
+dialogue,Joey,"Sure. What? About uh, you showering with your mom?"
+dialogue,Ross,"I actually had a topic in mind! I’m, I’m kinda going through a dry spell, sex wise."
+dialogue,Joey,"Whoa, for like months?"
+dialogue,Ross,"Five to be lying, six."
+dialogue,Joey,Six months? Whoa that’s rough.
+dialogue,Ross,"Well, I mean it’s not all bad. I’m learning to appreciate the uh, smaller things in life. Like the sound of a bird and the color of the sky."
+dialogue,Joey,The sky’s blue Ross and I had sex yesterday!
+dialogue,Ross,"Please, help me! I have a date tonight. It has to go well okay—I’m scared for my health!"
+dialogue,Joey,"Okay. Okay. Umm…Ooh! Oh-oh, I got something. It’s this story I came up with, very romantic. I swear any woman that hears it; they’re like putty."
+dialogue,Ross,Really? Well then tell it to me.
+dialogue,Joey,"Okay. Now you’re gonna want to have sex with me when you hear it, but you have to remember it is just the story."
+dialogue,Ross,(sarcastic) I’ll try to control myself.
+dialogue,Joey,"Okay. (Clears throat) Years ago, when I was backpacking across Western Europe…"
+dialogue,Ross,(laughs) You were backpacking across Western Europe?
+dialogue,Joey,Have a nice six more months Ross! (Starts to leave.)
+dialogue,Ross,"(stopping him) Okay! Okay! Okay. I’m sorry. Please, please, you were in Western Europe and?"
+dialogue,Joey,"I was just outside Barcelona hiking in the foothills of Mount Tibidabo. I was at the end of this path and I came to a clearing and there was a lake, very secluded. And there were tall trees all around. (Whispering) It was dead silent. Gorgeous. (Softly) And across the lake I saw…a beautiful woman…bathing herself…but she was crying…"
+dialogue,Ross,(intently listening) Why?
+heading,,"[Scene: Ross's Apartment, Ross is on his date with Kristen and they’re drinking wine.]"
+dialogue,Kristen,"Umm, this is great wine."
+dialogue,Ross,"It’s from France…In Europe…Western Europe. Y’know umm, a few years ago I actually was backpacking across Western Europe."
+dialogue,Kristen,Really?
+dialogue,Ross,"Uh-hmm—Wait! It gets better. Um, yeah I was in Barcelona."
+dialogue,Kristen,I studied for a year in Barcelona. (Ross is stunned and worried.)
+dialogue,Ross,"Anyway, umm so I was um, I was hiking…"
+dialogue,Kristen,I love hiking!
+dialogue,Ross,(whines) Oh that’s great! I was hiking along the foothills of Mount Tibidaybo…
+dialogue,Kristen,I think its Tibidabo.
+dialogue,Ross,Okay! Do you wanna tell the story?!
+heading,,"[Scene: Joey and Rachel's, Joey is standing at the counter as Ross enters.]"
+dialogue,Joey,Whoa! What are you doing here? How did your date go?
+dialogue,Ross,Great! I’m across the street having sex with her right now. Your story sucks!
+dialogue,Joey,"Hey! Look, if it didn’t work it’s because you didn’t tell it right! Show me how you did it."
+dialogue,Ross,"No! No, I don’t…don’t want to."
+dialogue,Joey,How long since you’ve seen a girl naked?
+dialogue,Ross,I was backpacking across Western Europe.
+dialogue,Joey,I’m not feeling it.
+dialogue,Ross,"I was just outside Barcelona, hiking…"
+dialogue,Joey,No! No! No Ross! I’m not hot! Are you hot?
+dialogue,Ross,It’s been six months! I’m always hot!
+dialogue,Joey,"Well you’re not selling the story! It’s like; it’s like you don’t believe it! Look, I gotta go. I got a date, but try this. Do what I do when I’m preparing for an audition. Okay? I’ll set you up with my video camera and you can record yourself and-and see what you’re doing wrong."
+dialogue,Ross,I’ll try that.
+dialogue,Joey,"All right now… All right, you’re all set up. You’re good to go. Just hit record. All right?"
+dialogue,Ross,Thanks.
+dialogue,Joey,Good luck.
+dialogue,Ross,Thanks. And-and hey Joe?
+dialogue,Joey,Yeah?
+dialogue,Ross,"Listen, if you ever have any problem with the ladies you know I’ll help you out."
+dialogue,Joey,(trying not to laugh) That means a lot to me man. (Exits.)
+action,,"(Ross pours himself a glass of wine, hits record, and sits down in front of the camera.)"
+dialogue,Ross,Hello! Can I get you anything? Huh? Lens cleaner? Your battery okay? (Rachel bursts in carrying two boxes and Ross jumps up.) Rachel!
+dialogue,Rachel,Oh Ross!
+dialogue,Ross,Hi!
+dialogue,Rachel,Thank God you’re here! You have to help me! Were you just talking to yourself?
+dialogue,Ross,"That’s less embarrassing, yes. Yes I was."
+action,,"(They sit down on the couch, which is in front of the still recording camera.)"
+dialogue,Ross,"(voiceover) So when she came in, I got distracted and totally forgot about the camera. [Cut back to the present day.] It kept rolling and recorded everything."
+action,,(Pause)
+dialogue,Chandler,"Yeah, we’re gonna need to see that tape. (They rest of them agree.)"
+dialogue,Monica,"Yeah, definitely."
+dialogue,Ross,What a great idea! That will get Rachel to forgive me!
+dialogue,Joey,Y’know what? This is not fair to her. Let’s just forget the tape!
+dialogue,Ross,"Thank you. (Joey mouths to Ross, ""You’ll show me right?"") No!"
+dialogue,Joey,"You’re right. (Mouths, ""I know you’ll show me, right?)"
+dialogue,Ross,Joey! No!
+dialogue,Joey,"Loud and clear! (Mouths, ""You’ll show me,"" and nods.)"
+action,,(Ross storms out.)
+heading,,"[Scene: Monica and Chandler's, Monica, Chandler, Joey, and Phoebe are now sitting in the living room.]"
+dialogue,Monica,I still don't get why Greg and Jenny would give us a fake number.
+dialogue,Joey,"Y’know, if they knew what they were doing they probably didn’t give you real names either."
+dialogue,Monica,"Okay, maybe people give out fake numbers, but they don’t give out fake names."
+dialogue,Joey,"Oh yeah? (To Phoebe) Hi, Ken Adams, nice to meet you."
+dialogue,Phoebe,Regina Philange. (Ken and Regina shake hands.)
+dialogue,Chandler,"I still don’t get it, we didn’t do anything wrong."
+dialogue,Monica,"I know! Although, you did tell an awful lot of jokes."
+dialogue,Chandler,I thought you said those jokes were funny. Joke! Joke! Joke!
+dialogue,Monica,(rolling her head from side to side) Joke. Joke. Blah! Blah! (Joey and Phoebe laugh.)
+dialogue,Chandler,Well maybe it was all of your questions.
+dialogue,Monica,What about my questions?
+dialogue,Chandler,"The sheer volume, it was like flying with the Riddler!"
+dialogue,Monica,"Oh, I’m sorry. Was that another joke?"
+dialogue,Chandler,(angrily) Was that another question?
+dialogue,Rachel,(entering) Hey! Is Ross still here?
+dialogue,Joey,"Uh no Rach, he’s gone. But listen, he told us what happened and it does, it sounds like an honest mistake."
+dialogue,Rachel,"Oh really? Well how would you like it if I had sex with you and I taped it? (Joey smiles luridly) Oh forget it! (Ross enters.) Oh there he is now, the father of my child, the porn king of the west village."
+dialogue,Ross,"Look, it was accident! Okay? I-I feel bad that it happened, but I swear, I didn’t even watch it! Anyway, here. (He takes the tape out of his coat pocket.) I thought you might be more comfortable destroying it yourself. (Tosses her the tape.)"
+dialogue,Rachel,Thank you. (She sets it on the floor and is about to stomp on it with her shoe when the rest of the gang jumps up and yells simultaneously.) What? (They all yell again.) You don’t want to see this do you?
+dialogue,Monica,Hell yeah!!!
+dialogue,Rachel,I am not gonna show you this!
+dialogue,Phoebe,"No! Not the sex part, just the stuff leading up to it."
+dialogue,Ross,"Forget it, she’s destroying it."
+dialogue,Phoebe,"Okay fine! Fine! We’ll just have to think of some other way to put the whole ‘Who came onto who,’ thing to rest! Come on now, think!!"
+dialogue,Ross,"Look, forget it Phoebe. Okay? It’s Rachel’s tape and she can do whatever she wants with it. And she wants to destroy it. So, end of story."
+dialogue,Rachel,I wanna see it.
+dialogue,Ross,What?!
+dialogue,Rachel,"Clearly you don’t want people to see this tape. Now I don’t want people to see this tape either, but you so badly don’t people to see it makes me want to see it. You see?"
+dialogue,Joey,(confused) Are we watchin’ the tape or not?!
+dialogue,Ross,I don’t want people to see it for your sake.
+dialogue,Rachel,"Ahh, I don’t believe you. I think you don’t want them to see you begging me. (Goes to put the tape in the VCR)"
+dialogue,Ross,"Rachel, please…"
+dialogue,Rachel,"Ah, a little preview!"
+dialogue,Ross,"Fine. Fine, but I want the record to show that I tried to take the high road, because in about five minutes I’m gonna be saying…(He laughs and points at Rachel sarcastically.)"
+action,,(They both sit down.)
+dialogue,Rachel,"Okay, here we go. (Pushes play.)"
+dialogue,Ross,(on tape) Hello! Can I get you anything?
+dialogue,Joey,(To Phoebe) I’m so happy!
+action,,Commercial Break
+heading,,"[Scene: Monica and Chandler's, the scene is continued from earlier.]"
+dialogue,Rachel,"(on tape) Oh, thank God you’re here! You have to help me! Were you just talking to yourself?"
+dialogue,Rachel,There I am.
+dialogue,Phoebe,You’re gonna get pregnant.
+dialogue,Rachel,"(on tape) I screwed up so bad, I told Monica that I would stuff and send all these wedding invitations like weeks ago and I-I…"
+dialogue,Ross,(on tape) You didn’t do it?
+dialogue,Rachel,(on tape) I-I know—I had put them in…in-in my desk at work and I completely forgot about them until today.
+action,,(Chandler is shocked and Rachel gets scared of Monica very quickly.)
+dialogue,Monica,(taking Rachel’s hand) Sweetie okay. It’s okay. Everybody made it to the wedding. I’m fine.
+dialogue,Rachel,Kinda hurtin’ my hand though.
+dialogue,Monica,I know.
+dialogue,Rachel,"(on tape) (Ross hands her a glass of wine) I cannot believe that I did this. Especially after Monica just went on and on and on about it! (Mimicking Monica) ""Okay Rachel! Here are the invitations Rachel! Now be very careful Rachel! Please, drinking no liquids around the invitations Rachel!"" (She tilts her wine glass above and moves it back and forth across the invitations) Whoa oh! Oh-oh-oh! Oh…oh-oh-oh…"
+action,,(Rachel hits fast forward. Monica is completely shocked.)
+dialogue,Chandler,Did you do it on our invitations?!
+dialogue,Ross,(pause) Not on the ones we sent out.
+dialogue,Chandler,"So, just the ones gave back to us and we had framed! (Slams the framed invitation down onto the table.)"
+action,,(Rachel stops fast forwarding.)
+dialogue,Rachel,(on tape) Can you believe this is already happening? I mean it seems like yesterday they just got engaged.
+dialogue,Ross,"(on tape) I know. Hey remember…remember the night they got engaged? How uh, you and I almost…"
+dialogue,Rachel,"(on tape) Oh, I remember how we almost. Do you think we would’ve gone through with it? Y’know, if we hadn’t gotten caught. Do you think we would’ve done it?"
+dialogue,Ross,"(on tape) I mean I…I know I wanted to. I just, I just wasn’t sure if you wanted to."
+dialogue,Rachel,(on tape) Oh I wanted to.
+action,,(Ross and Rachel trade looks while watching the tape.)
+dialogue,Ross,(on tape) So we…we both wanted to.
+dialogue,Rachel,(on tape) Interesting.
+dialogue,Ross,"(on tape) Yeah. (Pause) Anyway umm, it probably worked out for the best."
+dialogue,Rachel,"(on tape) Oh yeah, sure."
+dialogue,Rachel,"Okay, in about ten seconds you’re gonna see him kiss me."
+dialogue,Ross,And in about five seconds you’re gonna see why.
+dialogue,Rachel,(on tape) Ross did I ever tell you about the time that I went backpacking through Western Europe?
+action,,(Joey’s shocked and everyone else looks at Rachel.)
+dialogue,Rachel,"Okay, get ready to see some beggin’!"
+dialogue,Phoebe,"Oh, you came on to Ross!"
+dialogue,Rachel,What?!
+dialogue,Ross,Now I’m so happy.
+dialogue,Rachel,What are you talking about?!
+dialogue,Monica,You used the Europe story!
+dialogue,Chandler,That’s the magic story you use when you wanna have sex!
+dialogue,Rachel,How do you know about that story?!
+dialogue,Joey,How do you know about that story?!
+dialogue,Rachel,I heard it from my friend Irene who heard it from some guy!
+dialogue,Joey,(raises his hand) Some guy!! (Points to himself.)
+dialogue,Rachel,"No. No, she told me his name was Ken Adams."
+dialogue,Joey,(raises his hand and points to himself again) Ken Adams!!
+heading,,"[Scene: Joey and Rachel's, Rachel is looking at the tape sitting on the counter as Ross enters.]"
+dialogue,Ross,Hi.
+dialogue,Rachel,"So uh, apparently people are familiar with the Europe story?"
+dialogue,Ross,"Yeah. Listen about that, the whole uh, who came on to who thing really doesn’t matter. I mean, I think it would’ve happened either way. I mean if you hadn’t initiated it I-I-I know I would’ve."
+dialogue,Rachel,It was an amazing night.
+dialogue,Ross,It was. It was an amazing night.
+action,,(Pause)
+dialogue,Rachel,You think it looked amazing?
+dialogue,Ross,I uh… I don’t know. I mean I…I honestly didn’t watch it.
+dialogue,Rachel,"Yeah, me neither. Yet…"
+dialogue,Ross,Uhhhhhh…that-that may be weird.
+dialogue,Rachel,"Yeah, it would be really weird."
+action,,(Ross grabs the tape and heads for the VCR as Rachel goes over and puts the chain on the door and locks it.)
+dialogue,Ross,Good luck.
+dialogue,Rachel,Good luck to you.
+action,,(Ross pushes play.)
+dialogue,Ross,Mind if I mute?
+dialogue,Rachel,Oh please. (He does so.)
+dialogue,Ross,"Oh, oh there go the clothes."
+dialogue,Rachel,You are undressing very quickly.
+dialogue,Ross,"Six months Rachel, six months."
+dialogue,Ross and Rachel,Ah. (Pause) Oh.
+dialogue,Ross,Hey. We-we look…we look pretty good.
+dialogue,Rachel,That’s what I was gonna say.
+dialogue,Ross,Oh nice tan!
+dialogue,Rachel,Thank you! I had just gone to the beach that weekend.
+dialogue,Ross,Ah….
+dialogue,Rachel,Have you been working out?
+dialogue,Ross,I have been working out.
+dialogue,Rachel,"Really? Wow, this is so much better than I…"
+dialogue,Ross and Rachel,Ohh! Ew!
+dialogue,Ross,Oh that’s not pretty.
+dialogue,Rachel,Oh! Oh!
+dialogue,Ross,No!
+dialogue,Rachel,Oh God!
+dialogue,Ross,Oh no!
+dialogue,Rachel,"Oh, make it stop!"
+dialogue,Ross,Oh no!!
+dialogue,Rachel,Make it stop!!
+dialogue,Ross,No!!
+dialogue,Rachel,Have to make it stop!!
+dialogue,Ross,No!!!
+action,,(They both get out of the chair and run for the VCR.)
+action,,Closing Credits
+heading,,"[Scene: Monica and Chandler's, Monica and Chandler have gone through the phone book and found Greg and Jenny’s number which Monica has just dialed.]"
+dialogue,Monica,"(on phone) Hello Greg? (Listens) Hi, this is Monica from the plane? Listen, the number that you gave me 853-5… (Listens) (To Chandler) That is their old number! Jenny’s been giving it out since they moved!"
+dialogue,Chandler,Jenny! That is so Jenny!
+dialogue,Monica,"(on phone) Hey listen umm, how would you like to get together? Say next Saturday? (Listens) Okay, how about Sunday? (Listens) Okay umm, the week after that? (Listens) The week after that? (Listens) Y’know what Greg? Y’know what? We are good, interesting, funny people with good questions and if you and your precious Jenny can’t see that then… (Listens) January 15 th ? (Chandler dances.) We’ll see you then! (Listens) Okay!"
+action,,(She hangs up the phone and they hug.)
+action,,End

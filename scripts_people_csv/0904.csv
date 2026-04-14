@@ -1,0 +1,224 @@
+script_element,character,text
+heading,,[Scene: Ross is in Central Perk. Phoebe comes in.]
+dialogue,Phoebe,Oh hey Ross oh I'm so glad someone's here could you zip me up?
+dialogue,Ross,Sure.
+dialogue,Phoebe,Thank you. Can you believe no-one between my apartment and here offered to do that for me?
+dialogue,Ross,"People (shakes head, they sit) so why you all dressed up."
+dialogue,Phoebe,Oh umm Mike's picking me up for a date.
+dialogue,Ross,"Oh yea now um how is that going, is it getting serious?"
+dialogue,Phoebe,"Oh I dunno I dunno, you know I mean I like him but am I ready to take my grade a loins off the meat market."
+dialogue,Ross,"You know I really admire your whole dating attitude, it's so healthy I'm always like is this moving to fast? Is this moving to slow? Where's this going?"
+dialogue,Phoebe,Yea you know you are a bit of a drama queen.
+dialogue,Ross,"But you, your so much better off you just go from guy to guy having fun and never worrying that it terns into anything serious."
+dialogue,Phoebe,"I wouldn't say never, you know there's that guy (pause) well what about (pause) ok well there's gotta be someone."
+dialogue,Ross,There isn't that's what I'm saying. (All happy)
+dialogue,Phoebe,Oh my god you're right.
+dialogue,Ross,I know and yet here you are all ready for the next date.
+dialogue,Phoebe,"I can't believe I never realized this before, I'm in my thirty's and never been in a long-term relationship oh my god (starts crying) what's wrong with me."
+dialogue,Ross,"No, no, no there's nothing wrong with you I mean you don't strike me as the type of person that wants to get married anyway."
+dialogue,Phoebe,I wanna get married (grabs a tissue)
+dialogue,Ross,"Please don't cry because of me pheebs I don't know what I'm talking about, I've been divorced three times."
+dialogue,Phoebe,"Least you've been married, OH MY GOD! I wanna trade lives with Ross (cries more)"
+dialogue,Mike,Phoebe (comes in smiling then sees Phoebe crying) what's wrong?
+dialogue,Phoebe,"Nothing, I'm excited about our date, Mike this is Ross Geller this is Mike Haaaaa (starts crying)"
+dialogue,Ross,I'm sorry I didn't catch.
+dialogue,Mike,Its Mike Hanagen
+dialogue,Ross,Oh Ross Geller
+dialogue,Mike,"Hey, so are you sure your ready to go."
+dialogue,Phoebe,Uh huh (terns to Ross) how do I look (all her make up has gone everywhere)
+dialogue,Ross,Do you have a compact in your purse?
+dialogue,Phoebe,(goes to cry) No
+dialogue,Ross,You look great.
+action,,Opening Credits
+heading,,[Scene: Monica enters Central Perk.]
+dialogue,Monica,Hey Joey
+dialogue,Joey,"Hey, this girl won't turn around and I can't tell whether she's hot or not, what do you think?"
+dialogue,Monica,Joey I am not going to objectify woman with you (looks at the woman) but if her face is as nice as her ass woah mamma.
+dialogue,Joey,"Alright thanks, Oh hey have you talked to Chandler?"
+dialogue,Monica,Yeah he has to stay in Tulsa this weekend
+dialogue,Joey,How come?
+dialogue,Monica,"He has to work, there's some rush on the big (pause, thinks) ah damn it one of these days I'm really gonna have to start listening when he talks about his job."
+dialogue,Joey,Oh why don't you fly out there and surprise him.
+dialogue,Monica,Maybe I will go (thinks) yea will have a second honeymoon at the Tulsa romana.
+dialogue,Joey,Oh and you know what you should bring the black see-through teddy with the attached garters. (Nods)
+dialogue,Monica,How do you know I have one of those?
+dialogue,Joey,Didn't till just now.
+action,,(Monica goes to the back and Joey looks at the girl)
+dialogue,Joey,Hot not hot (she turns around) Hot!
+dialogue,Hayley,Excuse me?
+dialogue,Joey,I said I think you're hot and now I'm embarrassed.
+dialogue,Hayley,Oh I thought you said Hi.
+dialogue,Joey,"That would've been better, I'll try that Hi I'm Joey."
+dialogue,Hayley,I'm Hayley.
+dialogue,Joey,Look I don't usually ask out women that I meet in coffeehouses
+dialogue,Gunther,HA!
+dialogue,Joey,(turns round) gesundheit
+dialogue,Hayley,I would love to go out with you.
+dialogue,Joey,"Really, great, did I actually ask you?"
+dialogue,Hayley,"No that's just where you were going I just figured that I'd help you out, you don't seem like the kind of guy that does this very a lot."
+dialogue,Gunther,HA!
+dialogue,Joey,"(turns round again) seriously Gunther you should see someone about that cold, if it gets much worse you could DIE! (Gunther looks scared)"
+heading,,[Scene: Ross is at Phoebe's.]
+dialogue,Ross,So how'd the date go?
+dialogue,Phoebe,Well it was awful every time I thought about what you said I started crying.
+dialogue,Ross,So he hasn't called?
+dialogue,Phoebe,Would you call this girl? (Puts on a crying act) thanks-fo-r-a-love-ly-even-ing
+dialogue,Ross,Now I feel terrible this is all my fault.
+dialogue,Phoebe,"Well you not what you should feel terrible about, this could have been my serious guy he was sweet and smart and funny. Do you know how hard it is to meet a guy like that?"
+dialogue,Ross,We are a rare breed.
+heading,,[Scene: Joey is back at Hayleys apartment.]
+dialogue,Hayley,What a great dinner.
+dialogue,Joey,Yeah and hey thanks again for letting me having that last piece of cake at the restaurant.
+dialogue,Hayley,"(laughs) your welcome again, I'm gonna make some coffee can I get you anything?"
+dialogue,Joey,Do you have any cake?
+action,,"(Hayley laughs and goes into the kitchen thinking it's a joke, Joey doesn't see what's so funny about it)"
+dialogue,Joey,"<voiceover>So this is going pretty good. dinner was nice, got a lot in common.<oiceover> (Sees a magazine) <voiceover>Victoria's secret huh we even like the same books.<oiceover> (Walks over to a painting on the wall) <voiceover>Oh now there's a scary painting. wait a minute I think I've been scared by that painting before.<oiceover> (Looks around) <voiceover>You know what this whole place look familiar I have definitely been in this apartment I know I've seen this weird plant before<oiceover> (it's a cactus and he touch's it) <voiceover>AWCH! It did that the last time. Oh my god, I've gone out with this girl before yeah we had sex on this couch and then on that chair and no. no we didn't do it hear which is weird because it seems like a perfectly good place.<oiceover>"
+dialogue,Joey,(bends down to see and the cactus pricks him in the ass) AWCH! That's why.
+heading,,[Scene: Ross goes to see Mike to explain about Phoebe.]
+dialogue,Ross,"(He knocks at the door, Mike opens it) Hey Mike sorry to just drop by like this, can I come in?"
+dialogue,Mike,Sure (looks confused) who are you?
+dialogue,Ross,"I'm Ross, Phoebe's friend from the coffeehouse."
+dialogue,Mike,Oh.
+dialogue,Ross,"Yeah I really, really need to talk to you about something."
+dialogue,Mike,"Ok, unless you're not gonna try to get me to join a cult are you?"
+dialogue,Ross,(laughs) No
+dialogue,Mike,Oh it's just you have that look (shuts the front door)
+dialogue,Ross,Damn super cuts!
+dialogue,Mike,What's up is Phoebe ok?
+dialogue,Ross,"Oh no yeah, no Phoebe is great, but umm I'm an idiot look right before you guys went out I accidentally got her all upset."
+dialogue,Mike,That's why she was weird.
+dialogue,Ross,"Yes, yeah I said something stupid about her never having had a serious relationship, but you should know she is so much fun, a wonderful person please don't blow her off."
+dialogue,Mike,"I'm not blowing her off, I actually just got off the phone with her, were going out tomorrow night, I mean I hope that's ok with you stranger from the coffee house."
+dialogue,Ross,Well then I didn't need to bother you or the four other Mike Hanagens I bothered.
+dialogue,Mike,Hey wait wait wait wait wait! Is that true what you said Phoebe's never had a serious relationship?
+dialogue,Ross,Of course she has. if she'd never had a serious relationship I'd go round broadcasting it like some unstoppable moron.
+dialogue,Mike,But you did say it
+dialogue,Ross,"Yes, yes I did. and I will also say what I'm about to say Vis-à-vis the following Phoebe has never had a serious relationship since her. super-serious relationship with. Vicrum."
+dialogue,Mike,Vicrum?
+dialogue,Ross,WHAT THAT'S A REAL NAME!
+heading,,[Scene: Chandler arrives home from work.]
+dialogue,Chandler,"(enters singing) Oklahoma where the wind comes sweeping down the plane, STOP IT! Why couldn't they have sent me to Texas? 7 o clock maybe I'll hit the gym (sits down) who am I kidding pay-per-view porn."
+action,,[Cuts to Monica (She's just arrived outside his room she fixes a bent photo hanging on the wall then sprays mint in her mouth and enter)]
+dialogue,Chandler,DO NOT DISTURB DO NOT DISTURB!
+dialogue,Monica,(smiles)
+dialogue,Monica,Is everything all right?
+dialogue,Chandler,"Everything's great, just watching some regular television there, what a pleasant surprise. (She hugs him, and she knows what he was doing so she looks at the TV and sees sharks swimming around thinking Chandler was giving himself a treat to sharks.)"
+dialogue,Monica,I'm gonna go freshen up ok
+dialogue,Chandler,Ok honey. that was close.
+action,,[Cut to Rachel (Phone ringing)]
+dialogue,Rachel,Hello
+dialogue,Monica,Hey Rach its me ok I just got the Chandler's room and I caught him molesting himself.
+dialogue,Rachel,Oh that couldn't have been pretty. but you know guys do that.
+dialogue,Monica,Yea well the weird part is... he was getting off to a shark attack show!
+dialogue,Rachel,Nooooooooo!
+dialogue,Monica,Yes! Chandler Watches Shark Porn!
+action,,Commercial Break
+heading,,"[Scene: Rachel is at Monica's, talking about Chandler & him watching ""Shark Porn"".]"
+dialogue,Rachel,Well watching sharks? Are you sure that's what he was doing?
+dialogue,Monica,"Do you know how many times I've seen him jump up like that, believe me I know what he was doing."
+dialogue,Rachel,Man sharks. I always knew there was something weird about that dude. But you promised to love him no matter what.
+dialogue,Monica,What means if he gets like a disease or kills someone. not if he gets his jollys to jaws!
+dialogue,Rachel,"Ah! You know what honey guys are just different, they like things that we can't understand, you know I once dated this guy who wanted to pretend he was an archeologist and I was a naughty cave woman that he unfroze from a block of ice."
+dialogue,Monica,Eww are you talking about my bother.
+dialogue,Rachel,Yeah I didn't disguise that very well did i.
+dialogue,Joey,(enters) Hey
+dialogue,Rachel,(sits down) Hi
+dialogue,Joey,Listen to this... I went out with this girl last night and half way through our date I realized I already slept with her.
+action,,(Monica makes a strange face and sits down)
+dialogue,Rachel,So basically you've slept with all the woman in New York and now you're just going around again.
+dialogue,Joey,Well that's not even the weird part. I don't think she remembered sleeping with me.
+dialogue,Monica,But you don't remember sleeping with her.
+dialogue,Joey,"Yeah but she should remember sleeping with me I am very memorable, you guys know."
+dialogue,Rachel,"What, how do we know, we never slept with you."
+dialogue,Joey,And who's fault is that.
+dialogue,Monica,"What's the big deal, you forgot, she forgot, maybe you were having an off night"
+dialogue,Joey,HEY! I never have an off night ok although sometimes when I'm a little bloated I don't feel very sexy BUT EVEN THEN I'M BETTER THEN MOST!
+dialogue,Monica,Honey why don't you just let it go and ask her out again.
+dialogue,Rachel,"Yeah your both so slutty you don't even remember who you've slept with, you're made for each other."
+dialogue,Joey,Interesting. all right I'll go out with her again and try to get past it (reaches for the chips) OH SALT BLOATY!
+dialogue,Monica,"Joey, Joey."
+dialogue,Joey,What?
+dialogue,Monica,You don't think sharks are sexy do you?
+dialogue,Joey,No. (Pause) wait a minute what was the little mermaid?
+action,,"(Monica just looks at him, and Rachel wants to laugh)"
+heading,,[Scene: Phoebe's at her apartment waiting for Mike Ross comes over.]
+dialogue,Phoebe,It's open.
+dialogue,Ross,Hey!
+dialogue,Phoebe,HEY! Mike called were going out again! YAY! YAY! (She dances around with happiness)
+dialogue,Ross,"YAY! (He continues the happiness with her by dancing around) quick thing, I went to talk to Mike."
+dialogue,Phoebe,What? Wha-wha-wha-did you do ROSS!
+dialogue,Ross,"Oh boy you got mad at that part. I went over there to tell him how great you are but you know me BLAH, BLAH, BLAH, and I ended up telling him that."
+dialogue,Phoebe,WHAT!
+dialogue,Ross,Umm. that you had a six year long relationship with a guy named Vicrum.
+dialogue,Phoebe,WHAT! WHY?
+dialogue,Ross,Well he seemed to bum hard that you'd never been in a serious relationship.
+dialogue,Phoebe,(Walks towards Ross) If you hadn't just had a baby with my best friend I swear to Lucifer a raber dog would be feasting on your danglers RIGHT NOW!
+dialogue,Ross,"Well Phoebe, I think you'll feel better when you know a little bit about Vicrum, His a Kite designer (He makes a wow face) and he used to date Oprah. (He makes another wow face)"
+dialogue,Phoebe,"I'm not going along with some lie you made Ross, No I'm just gonna be honest with him."
+dialogue,Ross,Good yeah just be honest with him.
+dialogue,Phoebe,"Yeah I've nothing to be ashamed of ok so I haven't been in a relationship that lasted longer then a month. Ok I haven't had a real boyfriend you know if he can't handle that he can leave. which he will and that's ok. so I'll just be alone forever you know alright I'll be. it'll be fine. it'll be fine. I'll go walking tours with widows and lesbians. Oh (takes a deep breath and sits down, knock on the door)"
+dialogue,Ross,I'll get it
+dialogue,Phoebe,Ok
+dialogue,Mike,"(Ross opens the door) You know I'm trying to think of the last time I opened a door and you weren't there, Phoebe are you ok? (She has her hands over her mouth)"
+dialogue,Phoebe,"Uh huh yeah (stands up) there's just something umm, there's something you should know (Pause) Vicrum just called."
+heading,,[Scene: Joey is back at Hayley's place after there date.]
+dialogue,Hayley,"So it was kind of a shock after 25 years of marriage my parents, a perfect couple getting divorced, I kinda took it the hardest cause I was the youngest."
+dialogue,Joey,"Uh huh, sure, yeah. How can you not remember me?"
+dialogue,Hayley,What?
+dialogue,Joey,How could you not remember that we slept together?
+dialogue,Hayley,What! When?
+dialogue,Joey,I dunno!
+dialogue,Hayley,"I really, really think I would remember sleeping with you"
+dialogue,Joey,"Come on, come on, search your brain all right. it was (thinks) a certain amount of time ago, I was here you were here, we had sex (starts pointing out the places) here, here, here NOT there. Anything?"
+dialogue,Hayley,No it's not ringing any bells.
+dialogue,Joey,My god woman! How many people do you have to had been with not to remember any of this?
+dialogue,Hayley's roommate,Hey Hayley you've really gotta fix that doorknob. Joey!
+dialogue,Joey,"Ooooooooooh, I slept with you! And you obviously remember me Hey! I still got it. (Turns back to Hayley) so were good. (She just glares at him) I'll let myself out."
+heading,,"[Scene: Phoebe is sitting with Mike, explaining about Vicrum.]"
+dialogue,Phoebe,".and I said Vicrum you can't just call every time you get lonely you know, you, you gave up that right when you slept with Rachel."
+dialogue,Mike,But Rachel I thought she just had a baby with Ross
+dialogue,Phoebe,Yeah well (pause) yeah you know Emma's birth certificate might say Geller but her eyes say Mookurgee.
+dialogue,Mike,That is so wrong and on top of that his a glue sniffer.
+dialogue,Phoebe,I know but he call's and my heart goes to him. You know that bastard is one smooth talking free lance kite designer.
+dialogue,Mike,"I just think there's somebody better out there for you, (pause) I mean I'm not saying me but. maybe me."
+dialogue,Phoebe,Oh.
+dialogue,Mike,"And you don't have to worry about glue sniffing with me. although I do smell the occasional magic marker, yeah ah anyway I just think I can make you happy."
+dialogue,Phoebe,Ok I can't do this.
+dialogue,Mike,What's wrong?
+dialogue,Phoebe,"Well there is no Vicrum, Ross made him up because I never really have been in a long-term relationship, I've never lived with a guy, and I've never even celebrated an anniversary so. (Pause) if that's too weird for you and you wanna leave I totally understand. In fact I'll close my eye's make it less awkward (She sits with her eyes closed and Mike kisses her, Phoebe opens her eyes and like a little child says.) You kissed me."
+dialogue,Mike,Uh huh
+dialogue,Phoebe,So you don't think I'm a total freak
+dialogue,Mike,No. well look can I think your weird and also cool for telling me the truth and also wanna kiss you.
+dialogue,Phoebe,"I guess so, can I. can I think it's cool that you kiss me and also wanna kiss you again (they get closer to kiss and Phoebe pulls back) and umm, be a little concerned about the magic markers."
+dialogue,Mike,Definitely
+dialogue,Ross,"(They kiss and the phone rings and machine picks it up, its Ross putting on an accent pretending to be Vicrum) This is Vicrum."
+heading,,[Scene: Chandler arrives home and Monica's got a video of Sharks ready for Chandler.]
+dialogue,Chandler,Hi honey I'm home!
+dialogue,Monica,"Hi, how was your flight? (She hugs him)"
+dialogue,Chandler,Oh it was great.
+dialogue,Monica,"Here why don't you sit down, get yourself comfortable because I. (Monica shows him the tape then puts it in) have a little surprise for you."
+dialogue,Chandler,"Well, well, well it must be five in Tulsa because it's six o clock IN NY.C!"
+dialogue,Monica,Ok (sits down next to him) This is how much I love you. (She presses play then puts her arm around Chandler's neck.)
+dialogue,Chandler,(Chandler looking confused) Honey why am I watching a bunch of sharks swimming around.
+dialogue,Monica,Is this not the good part? Do you want me to fast forward to something a little toothier.
+dialogue,Chandler,No I'm not quite sure you got the right movie that's all.
+dialogue,Monica,"Oh well this is the only one they had at our video store, but they did have something called crocodile killers. Or does it always have to be sharks?"
+dialogue,Chandler,Does what always have to be sharks.
+dialogue,Monica,"Honey look we can do something else, do you want me to get into the tub and thrash."
+dialogue,Chandler,What's going on?
+dialogue,Monica,"Sweetie it's ok, I still love you, let me be a part of this."
+dialogue,Chandler,Let ME be a part of this!
+dialogue,Monica,I saw what you were doing in Tulsa. angry sharks turn you on!
+dialogue,Chandler,No they don't
+dialogue,Monica,Then why were you watching them and giving YOURSELF a treat.
+dialogue,Chandler,"OH MY GOD! When you came in I switched the channel, I was just watching regular porn"
+dialogue,Monica,Really?
+dialogue,Chandler,Yeah just some good old fashion girl on girl American action.
+dialogue,Monica,I cannot tell you how happy that makes me! (They hug)
+dialogue,Chandler,"You are an amazing wife. (Monica shrugs) No really you're amazing you were actually gonna do this for me, I mean where do you find the strength and understanding over something like that."
+dialogue,Monica,"Im very, very drunk right now."
+action,,"(They hug, Scene fades to black)"
+heading,,[Scene: Phoebe is in central-perk with Joey telling him what Ross said t her at the beginning.]
+dialogue,Joey,"(looks at a girl walk in) see ordinarily I would talk to her, but my confidence is shaken did I sleep with her? Did I not sleep with her?"
+dialogue,Phoebe,"You know maybe this is a wake up call, about your whole dating attitude. Your in your thirty's and you've never had a serious relationship and you have never been in a long term relationship, here you go from woman to woman, meaningless experience to meaningless experience never even worrying that it doesn't tern into anything serious."
+dialogue,Joey,Your right! I love my life! (He gets up to go and speak to the girl and he turns back and sits down) I actually did sleep with her.

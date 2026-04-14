@@ -1,0 +1,319 @@
+script_element,character,text
+heading,,"[Scene: The Wedding Hall, Monica and Chandler have just said ""I do,"" and the photographer is taking the required pictures. First of Monica, Chandler, Ross and Joey.]"
+dialogue,Photographer,Great. (Takes a picture.) Great! Just give me a sec to change film.
+dialogue,Monica,Okay.
+dialogue,Ross,"(To Monica) Okay, I know I’m not supposed to know, but I do. And I’m so excited for you!"
+dialogue,Joey,What? What’s going on?
+dialogue,Ross,Monica’s pregnant!
+dialogue,Joey,Oh my God! Is that why you guys had to get married?!
+dialogue,Monica,Guys! I’m not pregnant.
+dialogue,Joey,Ah. (To Chandler) Slow swimmers? (Chandler looks at him.)
+dialogue,Ross,What?! What do you mean? You-you-you’re not pregnant?
+dialogue,Monica,You didn’t tell anybody I was did you?!
+dialogue,Ross,No! (Pause) I’ll be right back. (Exits.)
+dialogue,Photographer,Now why don’t we get a shot of just Monica and the bloody soldier.
+dialogue,Monica,"(To Joey) Oh, about that. Joey, you have to change before the party."
+dialogue,Joey,I can’t! I-I don’t have any other clothes here.
+dialogue,Monica,Find some! Please! Anything that doesn’t say I-I died tragically in France. (Joey leaves to find clothes.)
+dialogue,Photographer,Well then why don’t we see the bride and the groom and the bridemaids.
+dialogue,Phoebe,"Okay. (Phoebe and Rachel join Monica and Chandler on the altar.) Hey Mon, why did you tell the guys you weren’t pregnant?"
+dialogue,Monica,Because I’m not.
+dialogue,Phoebe,"We found your test in the trash, if you’re not pregnant—(She sees Rachel shaking her head)—It’s because I am."
+action,,"(Flash, the photographer takes a picture of Monica and Chandler’s stunned faces.)"
+dialogue,Chandler,What?! What are you talking about?
+dialogue,Monica,What are you talking about?
+dialogue,Phoebe,"Yes, I…I am with child. (Flash) And I didn’t want to say anything because it’s your day; I didn’t want to steal your thunder."
+dialogue,Monica,Wait a minute! So you told people I was pregnant?! (Flash) Does this look like a conversation that I want to remember?!
+dialogue,Chandler,Who’s the father?
+dialogue,Monica,Yeah!
+dialogue,Phoebe,I can’t say.
+dialogue,Monica,Why?!
+dialogue,Chandler,Why not?
+dialogue,Phoebe,I can’t say because he’s famous.
+dialogue,Rachel,"Oh my God, who is it?! (Phoebe rolls her eyes.)"
+dialogue,Monica,"Phoebe, come on, you have to tell us."
+dialogue,Phoebe,"Okay, okay. It’s James Brolin. James Brolin is the father of my baby."
+dialogue,Chandler,As in Barbara Streisand’s husband James Brolin?
+dialogue,Phoebe,What?! Well he never said that to me!
+action,,Opening Credits
+heading,,"[Scene: The Wedding Hall, continued from earlier.]"
+dialogue,Photographer,Why don’t we have Monica step away and we’ll get Chandler and the bridemaids.
+dialogue,Phoebe,How about just the bridemaids?
+dialogue,Chandler,Y’know I am the groom right? I was told it was kinda big deal.
+dialogue,Phoebe,It is.
+dialogue,Rachel,For you. (Chandler leaves.)
+dialogue,Phoebe,Oh my God!
+dialogue,Rachel,"Oh, thank you for doing that. I just can’t deal with this just quite yet."
+dialogue,Phoebe,So instead you told me Monica was pregnant.
+dialogue,Rachel,"You said that she was, I just didn’t disagree with you."
+dialogue,Phoebe,Sneaky.
+dialogue,Rachel,Oh yeah.
+dialogue,Photographer,Smile ladies.
+dialogue,Rachel,Oh! (They smile and the picture is taken.) Oh by the way?
+dialogue,Phoebe,Uh-hmm.
+dialogue,Rachel,James Brolin?
+dialogue,Phoebe,"Oh, I know. I could only think of two names, him and Ed Begley Jr. and then I remembered he’s gay."
+dialogue,Rachel,Ed Begley Jr. is not gay.
+dialogue,Phoebe,(intrigued) Really?!
+heading,,"[Scene: The Reception Hall, the party is in full swing.]"
+dialogue,Bandleader,"Thank you very much! Ladies and gentlemen, it gives me great pleasure to introduce to you for the very first time, Mr. and Mrs. Chandler Bing!"
+action,,(They enter.)
+dialogue,Chandler,Before we go out there I’ve got a present for ya.
+dialogue,Monica,"Honey, I’m going to put my hand in your pocket!"
+dialogue,Chandler,No?
+dialogue,Monica,No.
+dialogue,Chandler,I’ve been taking dancing lessons.
+dialogue,Monica,What?!
+dialogue,Chandler,"Yeah, the last six weeks. I wanted this to be a moment you will never forget."
+dialogue,Monica,Oh that is so sweet!
+dialogue,Chandler,So? Would you care to join me in our first dance as husband and wife?
+dialogue,Monica,Yes.
+action,,(They walk onto the dance floor and Chandler slips and almost falls.)
+dialogue,Monica,What’s the matter?
+dialogue,Chandler,"I don’t know, it’s these new shoes, they’re all slippery."
+dialogue,Monica,"Well, are you going to be able to do this?"
+dialogue,Chandler,Not well.
+action,,(They start dancing and Chandler starts slipping around.)
+dialogue,Monica,"Well, the good news is, I don’t think anyone’s looking at us."
+action,,[Cut to Phoebe and Rachel at their table.]
+dialogue,Phoebe,"So, are you ready to talk about it?"
+dialogue,Rachel,No.
+action,,(Pause)
+dialogue,Phoebe,Now?
+dialogue,Rachel,No!
+dialogue,Phoebe,"Okay, we’ll talk about something else then."
+dialogue,Rachel,Thank you.
+dialogue,Phoebe,Who’s the father?!
+dialogue,Rachel,"Ugh! Look honey y’know what? I haven’t told him yet, so until I do I don’t think I should tell anybody else."
+dialogue,Phoebe,Yeah. That’s fine. That’s fair. Is it Tag?
+dialogue,Rachel,Phoebe!!
+dialogue,Phoebe,"Okay, I’m sorry. I’ll stop."
+dialogue,Rachel,Okay.
+dialogue,Phoebe,"Is it Ross? It’s Ross isn’t it—Oh my God, it’s Joey!"
+dialogue,Rachel,"Honey, stop it! I am not going to tell you until I tell him."
+dialogue,Phoebe,Ah-hah! At least we know it’s a him.
+action,,[Cut to Joey entering wearing a preppy tennis outfit.]
+dialogue,Monica,(seeing him) Oh sweet Lord.
+dialogue,Joey,"I’m sorry! Okay? I went down to the gift shop and it’s either this or a bathrobe! Look, what’s more important, the way I’m dressed or me being with you on your special day?"
+dialogue,Monica,"Honey, I’m not even going to pretend I was listening. (Sees someone else.) Hey! Hey! (Goes over to that person.)"
+action,,"[Cut to the hallway outside the room, Ross is going to see which table he’s at and sees a beautiful woman doing the same thing.]"
+dialogue,Ross,"Hi. I’m uh, I’m Ross. I don’t, I don’t believe we’ve met. I’m Monica’s older brother."
+dialogue,Woman,"Oh hi, I’m, I’m Mona from her restaurant."
+dialogue,Ross,"Oh! Hello uh, Mona from her restaurant. (He uses his card to mouth those words.) (Pause) Mona, wow what a, what a beautiful name."
+dialogue,Mona,You think so? I’ve always kinda hated it.
+dialogue,Ross,"Aw come on, Mona Lisa?"
+dialogue,Mona,Uh-huh.
+dialogue,Ross,"Mona umm…Clickclocken. The famous botanist? Huh? Oh no she’s uh—well she’s dead now. No, supposedly she was once quite the hottie of the plant world."
+dialogue,Mona,Really?! Well see? I never knew about her.
+dialogue,Ross,"Linda Clickclocken. (Pause) So what uh, what-what table are you at? (She shows him.) Oh, uh me too."
+dialogue,Mona,Oh good. Now there’ll be someone there who likes my name.
+dialogue,Ross,"(sexily) Yes there will. (Mona leaves and Ross tries to find the same table.) Oh guess what, Molly Gilbert you’ve just been bumped up to table one. And if it’s all right with you I’m gonna take your place at table six—Martin Clickclocken."
+action,,[Cut back inside to Joey giving a beautiful woman a tennis lesson by standing behind her.]
+dialogue,Joey,"That’s better, now just bend your arms a little more. There you go. Okay, look straight ahead. Now this time I want you to really put your ass into it. (They do a practice swing and she really puts her ass into it.)"
+action,,"[Cut to Chandler sitting down near Joey as his mom walks over. His birth mother, not the mother who recently visited one of those clinics in Sweden.]"
+dialogue,Mrs. Bing,"Chandler darling! Look, my date has finally arrived. I’d like you to meet Dennis Phillips."
+dialogue,Dennis Phillips,Congratulations.
+dialogue,Chandler,Thank you.
+dialogue,Mrs. Bing,Dennis is a dear old friend and a fantastic lover.
+dialogue,Chandler,Bravo Dennis thanks for pleasing my mother so.
+dialogue,Dennis Phillips,"Oh, I’m so sorry I missed the ceremony, I was stuck at auditions."
+dialogue,Mrs. Bing,"Oh yes, Dennis is directing a new Broadway show."
+dialogue,Joey,"I don’t believe we’ve met, Joey Tribbiani."
+dialogue,Dennis Phillips,Dennis Phillips
+dialogue,Joey,"Wow, I’ve admired your work for years. You-you’ve done some really amazing stuff."
+dialogue,Dennis Phillips,"Oh, thank you. Well if you’ll excuse me, I’m gonna go get myself a drink. Be back in a moment. (Walks away.)"
+dialogue,Joey,Wow Dennis Phillips! That’s great! How did you guys meet?
+dialogue,Mrs. Bing,"Well, it’s a funny story."
+dialogue,Chandler,Funny: ha-ha or funny: (Mimes blowing his brain out.)
+action,,[Time lapse. The band is finishing another song.]
+dialogue,Bandleader,"Thank you, thank you very much. If everyone will please take your seats, dinner will be served."
+action,,(Ross starts looking for table six and finds out that it’s the kid’s table. He sees Mona sitting at another table.)
+dialogue,Ross,"Hey! Uh, I thought, I thought you were at table six."
+dialogue,Mona,"No, nine. (Shows him the card again.)"
+dialogue,Ross,"Oh see, before you uh, when you showed it to me you-you held it that way (he turns her hand upside down) which uh, which was misleading. Well I’m… (He goes at sits down at his new table and the kids stare at him.) Hello."
+action,,"[Cut to the hallway, Chandler is putting tape on the bottom of his shoes.]"
+dialogue,Joey,"Chandler. Will you see if your mom can give my resume to Dennis Phillips? ‘Cause if I can get in a Broadway show then I would’ve done it all, film, television, and theater. The only think left would be radio, and that’s just for ugly people."
+dialogue,Chandler,What size shoes do you wear?
+dialogue,Joey,"Uh, eleven, eleven and a half."
+dialogue,Chandler,"Great, because my shoes are giving me a little problem on the dance floor, can I borrow the boots from your costume?"
+dialogue,Joey,"Uh, I don’t even really know where I left those. Sorry."
+dialogue,Chandler,(looking at Joey’s feet) Those aren’t eleven and a half.
+dialogue,Joey,"Okay fine! I’m a seven! All right, I have surprisingly small feet. But the rest of me is good, I’ll show ya!"
+action,,[Cut to Monica and Rachel at their table.]
+dialogue,Monica,Can you believe Phoebe got pregnant?!
+dialogue,Rachel,Oh y’know what honey? Let’s not talk about that right now?
+dialogue,Monica,This is so huge.
+dialogue,Rachel,"Sure, but come on, as big as your wedding?"
+dialogue,Monica,Of course not nothing is. Between me and you…
+dialogue,Rachel,Yeah.
+dialogue,Monica,…in this day and age how dumb do you have to be to get pregnant?
+dialogue,Rachel,"Hey! Y’know, sometimes you can do everything right, everyone can wear everything they’re supposed to wear, and one of those little guys just gets through!"
+dialogue,Monica,How?
+dialogue,Rachel,I don’t know! Maybe they have tools.
+dialogue,Monica,"Well I-I talked to and uh, she’s definitely going to have this baby. Y’know, she said she was gonna raise it on her own."
+dialogue,Rachel,"Well, maybe that’s, maybe that’s really brave."
+dialogue,Monica,Maybe. I just hope she realizes how hard it’s gonna be.
+dialogue,Rachel,Maybe she hasn’t really thought it through that well.
+dialogue,Monica,"Well, there’s a lot to think about. I mean, how is she, how is she going to handle this financially? How is she going to juggle work? Does she realize she’s not going to have a date again for the next eighteen years?"
+dialogue,Rachel,(starting to cry) I don’t know.
+dialogue,Monica,Are you okay?
+dialogue,Rachel,Uh-hmm. I’m just thinking about Phoebe; poor knocked up Phoebe.
+dialogue,Waiter,Champagne?
+dialogue,Rachel,"Oh yes! Thank you very much! (She grabs a glass, takes a sip, and realizes what she just did. She then tries to spit the champagne back into the glass without Monica noticing. It doesn’t work.) Oh that’s-that’s actually how the French drink it."
+action,,(Monica gasps.)
+action,,Commercial Break
+heading,,"[Scene: continued from earlier, only now Phoebe joins them.]"
+dialogue,Phoebe,"Well, I just got off the phone with my lover, James Brolin…"
+dialogue,Monica,Oh really?!
+dialogue,Phoebe,"Yes, and apparently he is married to some singer, but he said he would leave her for me. And I said, ""James, James Brolin, are you sure?"" James Brolin said…"
+dialogue,Monica,(interrupting) Rachel’s really the one who’s pregnant.
+dialogue,Phoebe,(shocked) What?! (deadpan) Why bother?
+dialogue,Monica,How do you feel?
+dialogue,Rachel,I don’t know. I don’t know how I feel. This is all happening so fast. I have to make all these decisions that I don’t want to make. (Takes another sip of champagne and spits it back out) Somebody just take this away from me!!
+dialogue,Phoebe,Calm down. Maybe you’re not pregnant.
+dialogue,Rachel,What?!
+dialogue,Phoebe,"When I got pregnant with the triplets, I took that test like three times just to make sure."
+dialogue,Monica,Yes! Maybe it’s a false positive. Are you sure you peed on the stick right?
+dialogue,Rachel,How many ways are there to do that?
+dialogue,Phoebe,"I’m-I’m just saying, don’t freak out until you’re a hundred percent sure."
+dialogue,Rachel,"All right, I’ll-I’ll take it again when I get home."
+dialogue,Monica,"You-you gotta take it now. Come on, do it as a present to me."
+dialogue,Rachel,Okay. Thank you.
+dialogue,Monica,Okay.
+dialogue,Phoebe,I’ll run out and get you one.
+dialogue,Rachel,"Oh, you guys are so great."
+dialogue,Monica,"Oh, wait a minute! Who’s is the father?!"
+dialogue,Phoebe,"Oh no, she won’t tell us."
+dialogue,Monica,"Oh, come on it’s my wedding! That can be my present."
+dialogue,Rachel,"Wh—Hey, I just gave you peeing on a stick."
+dialogue,Phoebe,See? This is why you register.
+action,,[Cut to Ross at the kiddie table. He reaches for something and a fart noise emanates which causes the kids to laugh.]
+dialogue,Ross,"It was the chair again! Okay? I’m not doing it! It what—look, I don’t—y’know what—eh-eh… (He walks away and goes over to Mona.) Hi."
+dialogue,Mona,Hi!
+dialogue,Ross,"Umm, would you like to dance?"
+dialogue,Mona,Sure.
+dialogue,Ross,Yeah?
+dialogue,Mona,Yeah.
+dialogue,Ross,Oh great! (They get up to dance and Ross is interrupted by a little girl.)
+dialogue,Little Girl,Dr. Geller?
+dialogue,Ross,"I wasn’t farting! (To Mona) Uh, a little game from our table. (To the little girl) Yes?"
+dialogue,Little Girl,"Dr. Geller, will you dance with me?"
+dialogue,Ross,"Oh umm, well uh, maybe-maybe later. Right now, I’m about to dance with this lady."
+dialogue,Little Girl,Okay. (She drops her head in disappointment and walks away.)
+dialogue,Mona,Ohhhh!
+dialogue,Ross,"Uh, unless! Unless, uh this lady wouldn’t mind letting you go first."
+dialogue,Mona,I’d be happy to. (To Ross) You are very sweet.
+dialogue,Ross,"Yes I-I am. In fact umm hey, why don’t we try it my special way? You can dance on my feet."
+dialogue,Little Girl,Sure!
+dialogue,Ross,Yeah? Hop on. (They start dancing and Mona sits down.) Is the pretty lady looking?
+dialogue,Little Girl,Uh-huh.
+dialogue,Ross,Keep dancing.
+action,,[Cut to Chandler in the hallway practicing dancing and is doing it very well.]
+dialogue,Chandler,And the world will never know.
+dialogue,Joey,Hey! Did you talk to Dennis about me yet?
+dialogue,Chandler,"Yes, I told him how talented you were. I told him all about Days Of Our Lives ."
+dialogue,Joey,No-no! No! No! You don’t tell a Broadway guy that! Now he just thinks I’m a soap actor.
+dialogue,Chandler,But you’re not just a soap actor. You are a soap actor with freakishly tiny feet.
+dialogue,Joey,Hey!
+action,,[Joey walks back inside just as Ross’s dance is finishing.]
+dialogue,Little Girl,Thank you.
+dialogue,Ross,"No-no, thank you Miranda."
+dialogue,Little Girl,Melinda!
+dialogue,Ross,All right. (Walks over to Mona.)
+dialogue,Mona,How cute was that?
+dialogue,Ross,"Oh-oh, were you, were you watching?"
+action,,(Another little girl walks over to him.)
+dialogue,Second Girl,Can I go next?
+dialogue,Ross,What? Of course you can! Hop on!
+dialogue,Mona,"Okay, but I get to hop on after her. (Ross bites the air in response.)"
+dialogue,Ross,I am so gonna score.
+dialogue,Second Girl,What?
+dialogue,Ross,I like your bow.
+action,,"[Behind them, Joey goes up to the bandleader and interrupts the song.]"
+dialogue,Joey,"(clinks his glass) I’d like to propose a toast. To Monica and Chandler, the greatest couple in the world. And my best friends. Now, my when I first found out they were getting married I was, I was a little angry. I was like, (overly angry) ""Why God? Why? How can you take them away from me?!"" But then I thought back over all our memories together, some happy memories. (Does a fake laugh.) And-and there was some sad memories. (Starts to break down and cry.) I’m sorry. And-and some scared memories—Whoa! (He jumps back, startled.) Eh? And then, and then I realized I’ll always be their friend, their friend who can speak in many dialects and has training in stage combat and is willing to do partial nudity. (Starts to walk away, but realizes something.) Oh! To the happy couple!"
+action,,"[Time Lapse, the interrupted song is finishing.]"
+dialogue,Bandleader,Thank you.
+dialogue,Ross,(to the second girl) That was very nice Ashley.
+dialogue,Ashley,Can we do it again?
+dialogue,Ross,No-no. (Walks over to Mona again.)
+dialogue,Mona,"So, is it my turn now?"
+action,,(A large little fat girl walks over.)
+dialogue,Fat Girl,I’m next!
+dialogue,Ross,Oh! (Recoils in horror.)
+dialogue,Mona,"Uh, that’s okay. You can dance with her first."
+dialogue,Ross,"Oh, you-you sure? (She nods yes.) Okay. (To the girl) Okay. So what’s uh, what’s your name."
+dialogue,Fat Girl,Gert!
+dialogue,Ross,"That’s, that’s pretty. (They start to dance and Gert tries to step on Ross’s feet, but he pulls them out of harm’s way.) Whoa! Whoa! Whoa! What are you doing there Gert?"
+dialogue,Gert,Dancing on your feet! Like the other girls did it.
+dialogue,Ross,Okay. (Swallows hard.) Hop on Gert. (She does and Ross winces in pain.)
+dialogue,Gert,Why aren’t you moving your feet?
+dialogue,Ross,I’m trying. (He strains to move his feet.)
+dialogue,Gert,Faster! You’re not going fast enough!
+dialogue,Ross,Maybe I should stand on your feet! (Gert’s shocked and Ross realizes what he said and tries to brush it off.)
+action,,[Cut to Joey going over to talk to Dennis Phillips.]
+dialogue,Joey,"So did you uh, happen to catch my toast up there?"
+dialogue,Dennis Phillips,"Oh my God, that was for my benefit?"
+dialogue,Joey,"Well, I’d like to think there was something for everyone. Look, I know you’re casting for this new show…"
+dialogue,Dennis Phillips,"Look umm Joey, I-I don’t think you’re quite right for this project."
+dialogue,Joey,"Oh, see that’s where you’re wrong. Whatever it is I can do it. And if didn’t see it up there, just-just try me."
+dialogue,Dennis Phillips,It’s an all Chinese cast. Can you be Chinese?
+dialogue,Joey,"Well I’m not proud of this, but… (He turns around and starts to mess with his eyelids.)"
+dialogue,Dennis Phillips,Oh my God! No-no-no! Please! Please! Don’t-don’t-don’t!
+action,,[Cut to Monica walking up to Chandler.]
+dialogue,Monica,"Hey, are you ready to get back on the dance floor?"
+dialogue,Chandler,Did it turn into sand?
+dialogue,Monica,"Ohh come on, I love this song! Come on, you’ll be fine. (She starts to walk towards the floor.)"
+dialogue,Chandler,"(sliding up behind her) No. No, I won’t. Do you know why I took all those lessons? See, for the first time I didn’t want you to be embarrassed to be seen on the dance floor with some clumsy idiot."
+dialogue,Monica,"Oh sweetie, you can never embarrass me. (Chandler grunts.) Okay, you can easily embarrass me. But come on, it doesn’t matter. All right? I married you! So I want to dance on my wedding night with my husband. Come on. (They go onto the floor.) Just try not to move your feet at all. (Chandler starts to get into the groove and bust a move.) There you go."
+action,,(Mr. Geller dances over.)
+dialogue,Mr. Geller,"Chandler, I’m gonna have you arrested."
+dialogue,Chandler,Why?
+dialogue,Mr. Geller,You stole my moves. (He starts to dance like Chandler was and Chandler stops.)
+heading,,"[Scene: The Women’s Restroom, Rachel and Phoebe are waiting for the outcome of Rachel’s second test.]"
+dialogue,Rachel,How much longer?
+dialogue,Phoebe,30 seconds.
+dialogue,Rachel,"30 seconds, okay."
+dialogue,Monica,"(entering) Did I miss it? (Phoebe nods no.) Rachel, I-I want you to know that, if it’s positive, we’re gonna…"
+dialogue,Rachel,Oh I know. I know. (They hug.)
+dialogue,Phoebe,It’s time.
+action,,(Another woman starts to enter.)
+dialogue,The Girls,No!! (The woman backs out.)
+dialogue,Monica,Go ahead Rach.
+action,,(She goes over to look.)
+dialogue,Rachel,"Oh wait! Y’know what? I can’t, I can’t look at it. I can’t. Somebody else tell me, somebody tell me."
+dialogue,Phoebe,Okay.
+dialogue,Rachel,Okay.
+dialogue,Phoebe,"Umm, it’s negative."
+dialogue,Rachel,What?
+dialogue,Phoebe,It’s negative.
+dialogue,Rachel,"Oh. Oh. Well there you go. Whew! (Pause) That is—that’s great—that is really great-great news. (Pause) Y’know ‘cause the whole not being ready and kinda the financial aspects, all that. Whew. Wow, this is so just the way it was supposed to be. (Starts to cry.) God."
+dialogue,Monica,"Well… Well, great."
+dialogue,Phoebe,Here. (Gives Rachel a tissue.)
+dialogue,Rachel,Thanks. (Crying) God this is so stupid! (Pause) How could I be upset over something I never had? It’s negative?
+dialogue,Phoebe,"No, it’s positive."
+dialogue,Rachel,What?!
+dialogue,Phoebe,"It’s-it’s not negative, it’s positive."
+dialogue,Rachel,Are you sure?
+dialogue,Phoebe,"Well yeah, I lied before."
+dialogue,Rachel,Oh!
+dialogue,Monica,Oh God…
+dialogue,Phoebe,Now you know how you really feel about it.
+dialogue,Rachel,"Oh-oh, that’s a risky little game!"
+dialogue,Monica,Are you really gonna do this?
+dialogue,Rachel,Yeah. I’m gonna have a baby. I’m gonna have a baby. I’m gonna have a baby! (They all hug.)
+dialogue,Phoebe,With who?
+dialogue,Rachel,"Ah, it’s still not the time."
+action,,Dedicated to the People of New York City
+action,,Closing Credits
+heading,,"[Scene: The Reception, Joey is helping Ross walk after Gert got through with him and Mona is looking on concerned.]"
+dialogue,Ross,I just didn’t see the fast song coming.
+dialogue,Joey,"Shh. Shh. Don’t try to talk, we’ll get you up to your room, we’ll soak your feet, you’ll be okay."
+dialogue,Ross,"Oh, thank you."
+dialogue,Mona,That is so sweet!
+dialogue,Joey,Yeah.
+dialogue,Mona,"No, I mean it. There are so few genuinely nice guys out there."
+dialogue,Joey,"Tell me about it, I feel like I’m holding down the fort all by myself."
+dialogue,Mona,It’s Joey right?
+dialogue,Joey,Yeah.
+dialogue,Ross,Wait a minute! No! I’m the nice one! I’m the one who danced with the kids all night! How…How small are your feet?! (They all look down.)
+action,,End

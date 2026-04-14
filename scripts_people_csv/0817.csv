@@ -1,0 +1,249 @@
+script_element,character,text
+heading,,"[Scene: The Hallway, Rachel walks up the stairs and knocks on Joey’s door.]"
+dialogue,Rachel,Joey? Are you in there?
+action,,"[Cut to inside Monica and Chandler’s, Monica, Chandler and Joey are eating breakfast.]"
+dialogue,Joey,(hearing Rachel and jumping up with his plate) Oh God! That’s Rachel!
+dialogue,Monica,"Joey, you have to talk to her!"
+dialogue,Joey,"No-no, I can’t! I can’t! Not after the other night, it’s just it’s…too weird, okay? Don’t tell her I’m here! (Turns to run to the bathroom and his bagel falls off the plate onto the floor.) Don’t eat that! (Runs to the bathroom as Rachel enters.)"
+dialogue,Rachel,Hey!
+dialogue,Chandler,Hey!
+dialogue,Monica,Hey Rachel!
+dialogue,Rachel,Is Joey here?
+dialogue,Chandler,I don’t see him. (To Monica) Do you see him?
+dialogue,Monica,I don’t see him. Hey! Maybe he’s in the sugar bowl! (Opens the sugar bowl) Joey? Nope! (Closes the sugar bowl and they both laugh.)
+dialogue,Rachel,"Well, at least you make each other laugh."
+dialogue,Monica,What’s up?
+dialogue,Rachel,"Well, I haven’t seen him since that night that he told me how he y’know… I don’t know, I think he’s avoiding me. Why is that bagel on the floor?"
+dialogue,Monica,We were playing a game.
+dialogue,Rachel,"Ew, was Chandler naked? Sort of like a, like a ring toss kind of situation?"
+dialogue,Monica,Sure.
+dialogue,Chandler,What?! No! No!
+dialogue,Rachel,"All right. Well listen, if you see Joey will you just tell him uh…tell him I miss him. (Exits and Joey enters.)"
+dialogue,Monica,"(To Joey) Okay, did you hear that?"
+dialogue,Joey,"Yeah, a naked bagel game? (Picks up his dropped bagel.) (To Chandler) Dude, I don’t know. That’s a pretty small hole."
+dialogue,Monica,"Honey, you gotta talk to her."
+dialogue,Joey,I can’t! Y’know? You guys don’t know what it’s like to put yourself out there like that and just get shot down.
+dialogue,Chandler,"(incredulous) I don’t know what that’s like?! Up until I was 25 I thought the only response to, ""I love you,"" was, ""Oh crap!"""
+dialogue,Monica,"Hello? No rejection? I got shot down at fat camp! Boy, kids are mean when they’re hungry."
+dialogue,Joey,"All right so, so what do I do?"
+dialogue,Monica,"This is Rachel. I mean, what are you gonna do, never going to talk to her again? I mean I know it’s weird, it’s awkward, but you gotta at least try."
+dialogue,Joey,Yeah. Okay. (Goes to take a bite out of the previously mentioned bagel.) Whoa! (Stops.) I almost forgot this was on your…
+dialogue,Chandler,(interrupting him) We didn’t play it!!
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Phoebe is holding a book as she, Rachel, and Monica drink some tea as Chandler looks on.]"
+dialogue,Phoebe,"Okay, so when you’re done with your tea I’ll look at your leaves and tell you your fortune."
+dialogue,Chandler,I didn’t know you read tea leaves.
+dialogue,Phoebe,"Oh yeah, I’ve done it for years. I actually stopped because I was so accurate. Y’know, and-and y’know, one of the great joys of life is it’s-it’s wondrous unpredictability. Y’know? And also tea tends to give me the trots."
+dialogue,Monica,"Okay, I’m done. Read mine."
+dialogue,Phoebe,"Okay. (Looks at the leaves.) Ooh, I see a ladder. (Checks the book) Which can mean either a promotion or a violent death."
+dialogue,Monica,(stunned) I-I’m the head chef. I-I can’t get promoted.
+dialogue,Phoebe,"Uh-hmm. Uh-hmm, who’s next?"
+dialogue,Rachel,"Okay, I’m done. Do mine."
+dialogue,Phoebe,"Okay. (Reads the leaves) Umm, oh! Okay, I see a circle."
+dialogue,Rachel,Ah.
+dialogue,Phoebe,Oh! (Checking the book) Which can either mean you’re having a baby or you’re gonna make a scientific discovery!
+dialogue,Rachel,"Well, I have been spending a lot of time in the lab."
+dialogue,Chandler,What does yours say Pheebs?
+dialogue,Phoebe,"Umm… Wow, all right. (Checks the book.) Wow! Yay! Ooh, I’m gonna meet a guy! And really soon! And he’s gonna be the man of my dreams. Probably not the guy I had a dream about last night. (Points at Chandler.)"
+dialogue,Ross,"(entering) Hey! Has anyone seen my shirt? It’s a button down, like a, like a faded salmon?"
+dialogue,Monica,You mean your pink shirt?
+dialogue,Ross,Faded salmon color.
+dialogue,Monica,"No, I-I haven’t seen your pink shirt."
+dialogue,Ross,Great! Great. Then I must’ve left it at Mona’s. I knew it!
+dialogue,Chandler,"Well, I’m sure you get another one at Ann Taylor’s ."
+dialogue,Ross,That’s my favorite shirt! Okay? I love that shirt!
+dialogue,Rachel,Well just ask Mona to give it back!
+dialogue,Ross,"I don’t know. I mean I-I guess I could. It’s just that we didn’t really end things such good terms. And if I go over there I’d be ignoring the one thing she asked me to do when we broke up, jump up my own ass and die. (Walks away.)"
+dialogue,Phoebe,"(noticing a guy sitting by the green post looking at her) Oh wait a second you guys…for the last couple weeks I’ve been that guy everywhere I go. We take the same bus. We go to the same bookstore, the same dry cleaners; maybe he’s the tea guy. (He gets up to leave, and smiles at Phoebe.)"
+dialogue,Chandler,"Phoebe, did you see that?! He totally checked you out! He is so cute! (Looking at his tea.) Mine has a picture of The Village People , what does that mean?"
+action,,(Joey enters.)
+dialogue,Rachel,Hi!
+dialogue,Joey,Hey.
+action,,"(He slowly walks to the other side of the couch and sits down at the table, an awkward silence follows.)"
+dialogue,Rachel,Hi.
+dialogue,Joey,Hi.
+action,,(More awkward silence.)
+dialogue,Monica,Tea gives Phoebe the trots.
+heading,,"[Scene: Monica and Chandler's, Chandler is cooking as Rachel paces nervously.]"
+dialogue,Rachel,"So I thought Joey and I would be okay once we hung out, but it’s not even like we know how to be with each other anymore."
+dialogue,Chandler,"I know it’s tough now, but things will get better."
+dialogue,Rachel,"How do you know that? What if it just gets worse and worse and worse, to the point where we can’t even be in the same room with each other?!"
+dialogue,Chandler,"I’m not great at the advice, can I interest you in a sarcastic comment? Some cheese?"
+dialogue,Monica,"Honey, what is the Bruce Springsteen CD in the Kat Stevens case?"
+dialogue,Chandler,Let’s just say if I can’t find the right CD case I just put it in the nearest one.
+dialogue,Monica,"Okay, where is the Kat Stevens CD?"
+dialogue,Chandler,In the James Taylor case.
+dialogue,Monica,Where is the James Taylor CD?
+dialogue,Chandler,"Honey, I’m gonna save you some time, 200 CDs, not one of them in the right case."
+dialogue,Monica,"Okay. No need to panic. Deep breathes everyone. Okay umm uh, we’re just gonna have to spend some time and put the CDs in the right cases."
+dialogue,Chandler,"Well, if we’re gonna do that we should come up with some kind of order. Y’know alphabetically or by genre?"
+dialogue,Monica,"Hmm, I don’t know. We really have to talk this through."
+dialogue,Rachel,Oh my God!! You guys have such problems!! I feel so terrible for you!
+dialogue,Monica,"Okay, I-I’m sorry. You and Joey, your both focusing on this uncomfortable thing, what you need to do is to change the subject. Next time you see him try to get him talking about something else."
+dialogue,Rachel,Oh yeah. That makes sense.
+dialogue,Monica,"Yeah, like I don’t know, maybe you have a work problem that you need his advice on."
+dialogue,Rachel,"Ooh, I can do that."
+dialogue,Monica,"Good. (To Chandler) Uh honey, the Miami Vice soundtrack? Really?"
+dialogue,Chandler,They were just giving those away at the store (off Monica’s look) in exchange for money.
+dialogue,Joey,(entering) Hey!
+dialogue,Rachel,Hi.
+dialogue,Monica,"Uh I really don’t know what to tell you Rach, I really don’t. I mean, maybe Joey can help you out with your, with your big work problem."
+dialogue,Rachel,What?
+dialogue,Monica,"Yeah Joey she’s…Rachel’s got this really big work problem, and it is a head scratcher. Wow! (To Chandler) Y’know what, if we’re gonna make dinner we’re gonna have to leave. Yeah. (She and Chandler exit.)"
+dialogue,Joey,"So you uh, have a…big work problem?"
+dialogue,Rachel,Yeah it’s umm… Yeah it’s uh… It-it’s y’know—It’s nothing.
+dialogue,Joey,"Huh. Okay. (Awkward silence.) So uh, I think I’m gonna take off."
+dialogue,Rachel,Yeah—No wait! Joey no wait it is. It’s something. It’s-it’s umm…it’s my boss.
+dialogue,Joey,Yeah?
+dialogue,Rachel,"Yeah, and umm my baby."
+dialogue,Joey,Yeah?
+dialogue,Rachel,My boss wants to buy my baby!
+dialogue,Joey,What?! Oh my-oh my God!
+dialogue,Rachel,"I know I told you, it’s a really big problem."
+dialogue,Joey,What he wants to buy your baby?!
+dialogue,Rachel,Can you believe that?!
+dialogue,Joey,That’s crazy!
+dialogue,Rachel,That’s what I told him!
+dialogue,Joey,"Okay, how did this even happen?"
+dialogue,Rachel,"Well I’ll tell ya! (Pause) See uh my-my boss and his wife—They-they can’t have children. So umm, and that—we were at the Christmas party, and he got drunk, and he said to me, ""Rachel, I want to buy your baby."""
+dialogue,Joey,Man! When you said it was a problem about your boss and the baby I figured it was something about maternity leave.
+dialogue,Rachel,Ohh! Yeah! (Pause) Yeah that-that would’ve been a much simpler problem.
+heading,,"[Scene: A newsstand, Phoebe is looking at a magazine as the guy from before walks by and picks up a newspaper.]"
+dialogue,Phoebe,Oh hello.
+dialogue,Guy,"Oh, it’s you. I see you everywhere. I’m Jim, Jim Nelson."
+dialogue,Phoebe,"Oh Jim, Jim Nelson I’m Phoebe, Phoebe Buffay. We certainly have been seeing a lot of each other lately."
+dialogue,Jim,"We have. Maybe we’ll be seeing each other at dinner tomorrow night, say around 8 o’clock?"
+dialogue,Phoebe,"Well, maybe we will. (Starts to walk away.) Oh! (She turns around and the exchange information.)"
+heading,,"[Scene: Outside Mona’s Apartment, Ross is knocking on the door.]"
+dialogue,Ross,"Mona? (There’s no answer, so he starts to leave but remembers where her extra key is. He reaches atop a hall light just outside her door and grabs the key. He looks at in triumph as the pain from it being hot moves along his nervous system to his brain, and when it arrives his brain orders his hand to drop the hot key and his mouth to squeal in pain. After dropping the key he pulls his shirtsleeve over his hand and uses the key to open the door and enter Mona’s apartment.) Okay, if I were a salmon shirt, where would I be? (He hears a key in the door and as it opens he dives behind the couch.)"
+dialogue,Mona,"(entering, with her date) I am so sorry I spilled wine all over your shirt."
+dialogue,Mona's Date,"Oh, it’s okay."
+dialogue,Mona,"No, it’s still wet. Y’know what? Let me get it out before it sets. Ooh, I have something you can wear. Here. (Hands him Ross’s shirt.)"
+dialogue,Mona's Date,"Oh umm, I-I don’t know if I want to wear a woman’s shirt."
+dialogue,Mona,No-no that’s a man’s shirt.
+dialogue,Mona's Date,"It’s awfully pink. (Ross mouths, ""It’s salmon!"")"
+heading,,"[Scene: Monica and Chandler's, Monica and Chandler are sorting their CDs.]"
+dialogue,Chandler,"Oh my God, honey we are so meant to be together. We both have copies of the Annie soundtrack."
+dialogue,Monica,"Honey, both yours."
+dialogue,Rachel,(entering) Hey! Great advice on that Joey thing!
+dialogue,Monica,Yeah? The work problem?
+dialogue,Rachel,Oh it was perfect! I mean it really felt like he was my friend again.
+dialogue,Chandler,What problem did you tell him you had?
+dialogue,Rachel,"Oh that’s not important. The point is, I really—I think everything’s gonna be okay."
+heading,,"[Scene: Mr. Zelner’s Office, he’s in a meeting as Joey bursts in.]"
+dialogue,Mr. Zelner,May I help you?
+dialogue,Joey,Do you think you can just buy my friends baby?!
+action,,Commercial Break
+heading,,"[Scene: A restaurant, Phoebe and Jim are on their date.]"
+dialogue,Phoebe,Isn’t it funny how we kept running into each other? It’s as if someone really wants us to be together.
+dialogue,Jim,Someone does. Me.
+dialogue,Phoebe,"Oh, witty banter. Well done."
+dialogue,Jim,"So, tell me a little bit about yourself."
+dialogue,Phoebe,"Oh okay, well I’m a masseuse, and I used to work at this place…"
+dialogue,Jim,Do you like to party?
+dialogue,Phoebe,"I-I-I like, I like parties."
+dialogue,Jim,"You’re wild, aren’t ya?"
+dialogue,Phoebe,"Yeah I guess, a little."
+dialogue,Jim,"It ain’t no thing, I’m wild too."
+dialogue,Phoebe,"(a little freaked out) So! Umm, anyway I-I lived in New York, someone wildly I guess, for umm—Well since I was fourteen."
+dialogue,Jim,I’m sorry. I’m staring. It’s just that you have the most beautiful eyes.
+dialogue,Phoebe,Oh stop it.
+dialogue,Jim,And your breasts! Hmm!!!
+dialogue,Phoebe,"Okay. Umm look, you’re coming on a little strong. But I’m going to give you the benefit of the doubt, because it seems the universe really wants to be together. So, why don’t we just start over okay? And you can just tell me about yourself."
+dialogue,Jim,All right.
+dialogue,Phoebe,Okay.
+dialogue,Jim,"I write erotic novels, for children."
+dialogue,Phoebe,What?!
+dialogue,Jim,They’re wildly unpopular.
+dialogue,Phoebe,Oh my God!
+dialogue,Jim,"Oh also, you might be interested to know that I have a Ph.D."
+dialogue,Phoebe,Wow! You do?
+dialogue,Jim,"Yeah, (looks at his crotch) a Pretty Huge…"
+dialogue,Phoebe,All right. (Gets up and walks out.)
+heading,,"[Scene: Monica and Chandler's, Monica, Chandler, and now Rachel are organizing CDs.]"
+dialogue,Chandler,"(singing) The sun’ll come out…tomorrow! Bet …your bottom dollar that tomorrow … (The girls start laughing, and in a deep voice) …there’ll be sun ."
+dialogue,Joey,(entering) Hey!
+dialogue,Rachel,"Hey! Oh Joey, honey listen, thank you for talking to my yesterday about that thing with my boss. That really meant a lot."
+dialogue,Joey,"Not a problem. Oh, and just so you know, that guy’s not going to be bothering you about that baby thing anymore."
+dialogue,Rachel,(worried) What?
+dialogue,Joey,Let’s just say I took care of it.
+dialogue,Rachel,"Whoa-whoa-whoa, let’s say more!"
+dialogue,Joey,"Don’t worry! Don’t worry. I just told him, very nicely, ""You don’t go buying people’s babies, so back off!!"""
+dialogue,Rachel,What?!
+dialogue,Chandler and Monica,What?!
+dialogue,Rachel,"No! No, no-no-no Joey he doesn’t want to buy my baby! I made that up!"
+dialogue,Joey,What?! Why?!
+dialogue,Rachel,So that we would have something to talk about! So it wouldn’t be awkward!
+dialogue,Joey,And you couldn’t think of anything else?!
+dialogue,Monica,You said your boss wants to buy your baby?!
+dialogue,Rachel,(To Joey) I can’t believe that you yelled at my boss! I’m-I’m gonna lose my job! What am I going to do?!
+dialogue,Chandler,You can always sell your baby.
+dialogue,Rachel,"Oh Joey, I can’t believe you brought my boss into this! I’m gonna get fired!"
+dialogue,Joey,You lied to me!
+dialogue,Rachel,"Well, she told me too! (Points to Monica and Joey glares at her.)"
+dialogue,Monica,Chandler has two copies of Annie !
+heading,,"[Scene: Mona’s Apartment, she and her date are making out as Ross flips through a magazine while lying behind the couch and sees something that he likes. Meanwhile, Mona’s date takes off Ross’s shirt and Mona throws it on the floor. While they start making out again, Ross tries to pull the rug the shirt is on over to him, but while he does that he moves the coffee table and it bumps into the couch.]"
+dialogue,Mona,(seeing Ross) Oh my God! Ross!!!
+dialogue,Ross,Hello!!
+dialogue,Mona,"Ross, what are you doing?!"
+dialogue,Ross,Not touching myself if that makes anyone less uncomfortable.
+heading,,"[Scene: Mr. Zelner’s Office, Rachel is knocking on the door.]"
+dialogue,Rachel,Morning. You wanted to see me?
+dialogue,Mr. Zelner,"Please, come in. Have a seat. (She does so.)"
+dialogue,Rachel,Okay look Mr. Zelner…
+dialogue,Mr. Zelner,Oh I think it’s best that I speak first.
+dialogue,Rachel,Yeah. (Motions for him to continue.)
+dialogue,Mr. Zelner,I’ve asked Lee from human resources to be here as a witness to our conversation.
+dialogue,Rachel,Oh God.
+dialogue,Mr. Zelner,"If I in any way implied that I wanted to buy your baby…I am sorry. Okay? Last week when I asked you when your due date was uh, I certainly did not mean that I felt that I was due your baby. Yeah, I want to be very clear that I understand that its your baby, and it is not mine to purchase."
+dialogue,Rachel,"Well, as long as we are clear about that. (Exits smugly.)"
+heading,,"[Scene: A Street, Phoebe and Monica are walking down it.]"
+dialogue,Phoebe,Oh there it is.
+dialogue,Monica,That’s not your regular dry cleaners.
+dialogue,Phoebe,"I know, but that creep that I went on that date with goes to there so I have to find a new one. I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store…"
+dialogue,Monica,What?!
+dialogue,Phoebe,A new grocery store. The universe said I was going to meet a nice guy and that’s what they gave me? (Looks up) When I get up there I’m going to kick some ass.
+dialogue,Monica,"Don’t worry Phoebe, you’re gonna meet someone. If I can meet a great guy, so can you."
+dialogue,Phoebe,"Yeah, we both can. And we both will."
+action,,(They enter the dry cleaners.)
+dialogue,Phoebe,"Oh, you didn’t have to come in with me."
+dialogue,Monica,Are you kidding? This is where they get out stains! Okay? This is like Disneyland for me. I’m-I’m gonna be over here watching the dance of the clean shirts. (She points to and walks over to the electric clothes rack they have.)
+dialogue,Phoebe,Okay.
+action,,"(A guy enters that looks suspiciously like Alec Baldwin from The Hunt for Red October , Pearl Harbor , and Beetlejuice .)"
+dialogue,Guy,"(To Phoebe) Oh, excuse me! I think you dropped s…(looks at Phoebe.) Wow!"
+dialogue,Phoebe,What?
+dialogue,Guy,"I’m sorry, it’s just that you’re so incredibly beautiful."
+dialogue,Phoebe,"Oh yeah well, I’m sorry about that too, but what are you going to do?"
+dialogue,Guy,"I hope you don’t think I’m crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?"
+dialogue,Phoebe,A little. (She turns around and looks up.) (To the universe) Now you’re talking.
+dialogue,Guy,Would you like to go out and have a cup of coffee?
+dialogue,Phoebe,I-I-I’d love to. Let me just tell my friend.
+dialogue,Monica,"(to the clerk) Ooh, an ink stain! Hey, can I watch how you get this out?"
+dialogue,Phoebe,(looking around) She must’ve left.
+heading,,"[Scene: Monica and Chandler's, Chandler is watching Joey pace nervously as Rachel enters.]"
+dialogue,Rachel,Hi.
+dialogue,Joey,So? What-what-what happened?
+dialogue,Rachel,It’s all gonna be okay. They’re just so happy that I’m not suing them that they gave me one extra month paid maternity leave. So long as I understand that the money should not construed as a down payment on this or any other child I should bear.
+dialogue,Chandler,"Wow, Ralph Lauren is really going out of there way to show they’re not in the baby buying business."
+dialogue,Rachel,"Chandler, can you give us a minute?"
+dialogue,Chandler,"Oh I’m sorry, you’re kicking me out of my own living room?"
+dialogue,Rachel,Yeah.
+dialogue,Chandler,I’ll be in there. (Goes into the bedroom.)
+dialogue,Rachel,"Joey, I’m really sorry that I lied to you. I was just trying to make things…"
+dialogue,Joey,I know. I know.
+dialogue,Rachel,"It kinda worked. I mean y’know, I don’t know about you buy I haven’t thought about our thing since all this."
+dialogue,Joey,"Hey you’re right. Yeah, it’s kinda been like us again a little bit."
+dialogue,Rachel,Yeah I know! I miss that.
+dialogue,Joey,Me too. I mean I…haven’t thought at all about how I put myself out there and said all that stuff and how you didn’t feel the same way about me and-and how it was really awkward.
+action,,(Awkward silence.)
+dialogue,Rachel,My gynecologist tried to kill me.
+action,,Closing Credits
+heading,,"[Scene: Ross and Rachel's, Ross is ordering something over the phone from a catalog.]"
+dialogue,Ross,"(on phone) Item J437-A, color: winterberry. (There’s a knock on the door as he hangs up the phone. He answers it to Mona.) Hi umm, listen come here, come in. (She does so.) I’m so-so sorry about yesterday. I-I’m really sorry. It’s just that I… (He picks up the pink shirt.)"
+dialogue,Mona,"(interrupting him) Listen Ross, you don’t have to apologize. I understand why you were there."
+dialogue,Ross,You do?
+dialogue,Mona,"Yeah, you still have feelings for me. And-and to be honest, I-I still have feelings for you. And I wish that we can work it out Ross, but we can’t. It’s too complicated with you and Rachel and the baby, I-I just… It just wasn’t meant to be."
+dialogue,Ross,(faking starting to cry) Oh God you’re right.
+dialogue,Mona,"Ross, we…we have to be strong. Okay, I-I’m gonna go. (She picks up the shirt Ross has just set down.) Can I? To remember you?"
+dialogue,Ross,(laughs) No. (Takes the shirt back.)
+action,,End

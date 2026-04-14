@@ -1,0 +1,340 @@
+script_element,character,text
+heading,,"[Scene: Central Perk. Charlie, Joey and Rachel are on the couches]"
+dialogue,Charlie,(while Joey's giving her a massage) Oh! That feels sooo good!
+dialogue,Rachel,"(speaking to herself and reading Cosmopolitan) Oh, lucky me! Coffee and a live sex show!"
+dialogue,Charlie,"I'm sorry, what?"
+dialogue,Rachel,"Oh... Oh, I'm sorry! I'm not... I was just-I was just reading to Emma."
+dialogue,Charlie,From... Cosmo??
+dialogue,Rachel,"Yeah, yeah... It's... ""climax your way to better skin""."
+dialogue,Charlie,"(to Joey) So, I have to go shopping today, which is my least favourite thing, I'm soo bad at picking out clothes!"
+dialogue,Joey,"So you need someone who knows fashion, to tell you what looks good."
+dialogue,Rachel,"(hiding herself behind the magazine and whispering) Not me, not me, not me, not me, not me!"
+dialogue,Joey,Oh hey Rach!
+dialogue,Rachel,Yeah...
+dialogue,Joey,Maybe you could take Charlie shopping.
+dialogue,Rachel,"Oh, well..."
+dialogue,Charlie,I'm sure you have better things to do.
+dialogue,Joey,"Are you kidding? Rachel loves to shop! And she has great taste! Yeah, she's the one who taught me, you don't wear white after labour day and that you always, always, always have to put on underwear when you're trying on clothes."
+dialogue,Charlie,"If you have the time, I'd really appreciate the help."
+dialogue,Rachel,"Ok, uh-uh... Let's-Let's shop!!"
+dialogue,Joey,"(to Charlie) Ok, you're gonna come back with some very classy clothes... (aside to Rachel)... and some slutty lingerie, SLUTTY!"
+dialogue,Phoebe,"(entering and talking on mobile phone) Ok, great! All right, bye! (she hangs up) Pain in the ass!! (she looks at the others, then back at the phone) That's off, right?"
+dialogue,Joey,"What's the matter, Pheebs?"
+dialogue,Phoebe,"Oh... Mike's sister just invited me to a party tonight, he's gonna be there. And she was like ""Oh, don't worry! I asked him. He's totally ok with seeing you!"". So now I have to go so he'll think that I'm totally ok with seeing him!"
+dialogue,Rachel,"Which you're not, because you've totally hung up on him!"
+dialogue,Phoebe,Exactly!
+dialogue,Rachel,And you're gonna want him to eat his heart out so you're gonna have to look fabulous!
+dialogue,Phoebe,"(after a short pause) I didn't even think about that! (pause) Aaargh, sexual politics!!"
+dialogue,Rachel,"Hey Pheebs, I'm-I'm taking Charlie shopping, why don't you come and I'll help you find something."
+dialogue,Phoebe,"Ok, that'll be great!"
+dialogue,Joey,"Oh, ain't that nice? The three of you trying on slutty lingerie together."
+dialogue,Rachel,That's not what we're gonna do!
+dialogue,Joey,"Why would you ruin it, who was that hurtin'?"
+action,,Opening Credits
+heading,,[Scene: Doctor Connelly's office]
+dialogue,Chandler,(looking at the picture of the female reproductive system) Wow! Fortunately she has a very pretty face!
+dialogue,Monica,"Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!"
+dialogue,Chandler,"Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!!"
+dialogue,Doctor Connelly,(entering) Hi there.
+dialogue,Chandler,Hi.
+dialogue,Monica,Hi.
+dialogue,Doctor Connelly,I'm sorry there wasn't better news from your test last week but I wanted to talk to you about your options.
+dialogue,Monica,Ok.
+dialogue,Doctor Connelly,"Above all, even though your chances of conceiving through natural means aren't great, you never know! So, keep having sex on a regular basis."
+dialogue,Chandler,"Oh, DAMN IT!"
+action,,(Dr. Connelly glares at Chandler)
+dialogue,Monica,"Don't worry, after a while he'll tune it out."
+dialogue,Doctor Connelly,"Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor."
+dialogue,Monica,(long pause) Ok.
+dialogue,Doctor Connelly,"And, of course, if you feel that neither of those is right for you, you can always adopt."
+dialogue,Chandler,"Is that a hint? Because we love you Doctor Connelly but we don't think we'd want you to be our child! (Dr. Connelly glares at him) Wow, talking about an inhospitable environment!"
+heading,,[Scene: Central Perk. Joey and Charlie on the couch. Rachel enters]
+dialogue,Rachel,"Hi! Ok, you're ready to go pick up Phoebe and go shopping?"
+dialogue,Charlie,"Oh, yeah! Let's do it!"
+dialogue,Joey,"(to Charlie) Alright, have a good time. (they kiss)"
+dialogue,Rachel,Not gonna find any clothes in there!
+dialogue,Ross,"(entering) Hey, you guys!"
+dialogue,Rachel,Hi.
+dialogue,Ross,Guess who's up for keynote speaker at the National Paleontology Conference?
+dialogue,Charlie,Umh... Kurts Baley?
+dialogue,Ross,"Yeah, right! What was last time he met a submission deadline for an abstract (he and Charlie laugh, then Joey starts laughing too without any reason) Well, why are you laughing?"
+dialogue,Joey,"Just... seeing what it'd be like to be a paleontologist... it's fun, yeah!"
+dialogue,Charlie,So you're up for keynote speaker! Who's making the decisions?
+dialogue,Ross,"Professor Sherman, yeah. I've a meeting with him today."
+dialogue,Charlie,He's a pretty tough guy to impress.
+dialogue,Ross,"Yeah, well... I think I know how to dazzle him."
+dialogue,Rachel,"Oh... you're not gonna do a magic trick, are ya?"
+dialogue,Ross,"Tsz... NO! (he goes to sit down, dropping a multicoloured silk streamer off his sleeve)."
+dialogue,Chandler,(entering) Hey guys!
+dialogue,Ross,"Wait a minute, you guys. Oh, I wanna ask you something. I-I I may get to speak at this paleontology convention and if I do, I'd love for you guys to come and hear me."
+dialogue,Chandler,"I think I can safely say that we all have family issues, work stuff and/or are sick."
+dialogue,Ross,It's in Barbados.
+dialogue,Chandler,But you come first!
+dialogue,Rachel,I'm there!
+dialogue,Charlie,"We'll see you, guys! (she goes)"
+dialogue,Joey,Bye.
+dialogue,Rachel,"Bye, see ya. (she goes)"
+dialogue,Chandler,(sitting down on the couch) Ok.
+dialogue,Joey,"All right, so. How did it go at the fertility clinic?"
+dialogue,Chandler,Not as much fun as last time. Apparently you only get porn if you're giving a sperm sample.
+dialogue,Ross,So-so what did the doctor say?
+dialogue,Chandler,"Well... there's surrogacy, but Monica has dreamt her whole life of carrying a child, she has felt that watching a surrogate would be... too hard for her."
+dialogue,Joey,So you're ruling out surrogacy?
+dialogue,Chandler,Yeah.
+dialogue,Joey,"So, I don't have to learn what that means?"
+dialogue,Chandler,"Aside from adoption the only other choice is insemination, so... we're talking about sperm donors."
+dialogue,Joey,"Enough said, I'm there for you man. Where is she, upstairs?"
+dialogue,Chandler,(stopping Joey) ah-ha!
+dialogue,Ross,How do you feel about all this?
+dialogue,Chandler,I wish there was an easier way for us to have a child but I don't think there is one.
+dialogue,Joey,"Come on Ross, be a good guy. Step up and do it!"
+dialogue,Ross,(puzzled) What?
+action,,(Joey moves close to Ross and whispers something in his ear)
+dialogue,Ross,(looking astonished) What? NO! I am not going to give them Ben!
+heading,,"[Scene: Professor Sherman's office, Ross is relating to Professor Sherman]"
+dialogue,Ross,The data we are receiving from MRI scans and DNA testing of these fossils are - are staggering.
+dialogue,Professor Sherman,Mmm-mm.
+dialogue,Ross,"(reading from a notepad) I mean, we've been accepting Leakey's dates as a given, but if they're off by even a hundred thousand years or so then you can - you can just throw most of our assumptions, you know, right in the trash. (he throws the notepad in the waste bin) So-so what I am saying is - is is that (he picks the notepad back from the waste bin) is that the repercussions could be huge! I mean, not just in palaeontology, but if-if you think about it, in evolutionary biology, uh, genetics, geology, uh, I mean, truly the mind boggles!"
+action,,"(Turns to look at Professor Sherman, only to discover that he is sleeping)"
+dialogue,Ross,"Oh, that's not what you want..."
+heading,,"[Scene: Shop, Rachel, Charlie and Phoebe walk in]"
+dialogue,Shop assistant,(to a girl) Incentive For Men?
+dialogue,Phoebe,"Oh, I'll take some of that."
+dialogue,Rachel,"Pheebs, that's for men!"
+dialogue,Phoebe,"No, I know, this way when I go to the party later Mike will know I am over him cause I'm gonna smell like another guy. (to the shop assistant) Yeah."
+action,,(The shop assistant sprays the perfume on Phoebe's neck)
+dialogue,Phoebe,"Ok. Oh good, I'm dating a Russian cab driver. (to the shop assistant). Seriously does anyone buy this? I smell like beets!"
+dialogue,Charlie,"(to Rachel) So, you know what, I really like those jackets with the shoulder pads on them. Where do you think those would be?"
+dialogue,Rachel,"On Melanie Griffith in ""Working girl"". I think what you want is over here."
+dialogue,Charlie,"See, I told you I needed someone! Oh, you know, by the way, as a ""thank you"", I would really love to take you out."
+dialogue,Rachel,Really?
+dialogue,Charlie,"Yeah! Actually Joey and I are going to the movies tonight, wanna come?"
+dialogue,Rachel,"Oh, I can't. Because I-I've seen them."
+dialogue,Charlie,You've seen all the movies...
+dialogue,Rachel,"Yeah! I'm a big fan! Of the movies, you know. Motion pictures. The Talkies!"
+dialogue,Phoebe,"(picks up a dress) Hey Rach, will you come with me to a dressing room?"
+dialogue,Rachel,Sure!
+dialogue,Phoebe,Ok!
+dialogue,Charlie,"Wha, you know, maybe we can do something else!"
+dialogue,Rachel,You know that depends on what it is! I've done a lot of stuff.
+action,,(Phoebe and Rachel go off to the dressing rooms. They enter one and close the curtain.)
+dialogue,Phoebe,"So what were you doing out there, do you not like Charlie?"
+dialogue,Rachel,"She's ok, I just don't get a really good vibe from her!"
+dialogue,Phoebe,Why?
+dialogue,Rachel,"I don't know, you know, just the way she waltzed in here all smart, and tall! You know, and just swept Joey off his feet... I mean, nobody else has a chance!"
+dialogue,Phoebe,Who else?
+dialogue,Rachel,"Anybody! You, me, you know, Monica's mom..."
+dialogue,Phoebe,You like Joey?
+dialogue,Rachel,"Shhhhh! Phoebe! All right, look. I have a little thing for him."
+dialogue,Phoebe,(whispering) Oh my God!
+dialogue,Rachel,"It's just physical and I have it totally under control! Ok? It's just, when I see them together, sometimes I just get a little jealous!"
+dialogue,Phoebe,"Uh, wow! Isn't it ironic that he liked you and now you like him?"
+dialogue,Rachel,"(annoyed) Oh, I get it!"
+dialogue,Phoebe,"Oh well, as long as it is under control, you know, you can't do anything about it, he's already dating her, and she is a nice person, that wouldn't be right."
+dialogue,Rachel,"I know, I know, so it is just not a big deal."
+dialogue,Phoebe,Yeah.
+dialogue,Rachel,So can we keep this between us?
+dialogue,Phoebe,Sure!
+dialogue,Rachel,"Ok, great, because I gotta get out of here, the smell of beets is killing me!"
+dialogue,Phoebe,Oh.
+action,,(Rachel opens the curtains and sees Charlie coming out from the dressing room just next to theirs)
+dialogue,Phoebe,Any chance Charlie has a deaf twin?
+heading,,"[Scene: Monica's apartment, Chandler walks in with a friend of his while Monica is putting fruit in a bowl.]"
+dialogue,Monica,Hi honey!
+dialogue,Chandler,"Hey! Look I brought a friend for dinner, this is Zack, from work!"
+dialogue,Monica,"Oh, of course, it's so nice to see you again, Zack!"
+dialogue,Zack,(shaking Monica's hand) You too.
+dialogue,Chandler,"You guys haven't actually met before, but, boy! You're both polite! (pause) Go to have a seat Zack, and I'll get you a beer."
+dialogue,Monica,I got it.
+dialogue,Zack,Thanks.
+dialogue,Chandler,"(to Mon) So, Zack's pretty nice, uh?"
+dialogue,Monica,"Yeah, I guess."
+dialogue,Chandler,"So, how would you like to have a baby that's half yours and half his!"
+dialogue,Monica,(turns around and she's quite shocked) Excuse me?
+dialogue,Chandler,"Well, we're talking about sperm donors and Zack may be the guy! I mean, look, he's intelligent, he's healthy, he's athletic, I mean, he is ""spermtastic""!"
+dialogue,Monica,"Chandler, this is crazy! What did you even say to him! ""Come up, meet my wife! Give us your sperm""!"
+dialogue,Chandler,"No, I invited him to dinner so you could get a chance to get to know him! I mean, if we go through a sperm bank you never meet the guy, get to check him out."
+dialogue,Monica,Chandler!
+dialogue,Chandler,"I'm telling you, he's great! I mean, even if my sperm worked fine, I'd think he'd be the way to go!"
+dialogue,Monica,I'm not going to be a part of this! You can't just bring some random guy at home and expect him to be our sperm donor!
+dialogue,Chandler,Ok!
+dialogue,Monica,Uh!
+dialogue,Chandler,(bringing the beer to Zack) Zack!
+dialogue,Zack,Thanks! Do you have a coaster? I don't wanna make a ring.
+action,,(Monica hears that and is suddenly very interested in Zack)
+dialogue,Monica,"Tell me about yourself, Zack!"
+heading,,"[Scene: Shop, Phoebe and Rachel are talking in front of the dressing room]"
+dialogue,Rachel,"Oh, God, do you think she heard? It would be so bad if she heard!"
+dialogue,Phoebe,"Well, maybe she didn't hear! Ok I'm gonna go into that dressing room, you stay in here and I'll talk and see if you can hear me."
+dialogue,Rachel,"Ok, great!"
+action,,(Phoebe moves in the dressing room from which Charlie went out)
+dialogue,Rachel,"Oh, thank God I can't hear a word that you're saying!"
+dialogue,Phoebe,(sticks her head out) I didn't say anything yet!
+dialogue,Rachel,"(sticks her head out too) Well, get back in there and talk!"
+dialogue,Phoebe,(goes back in) I'm Rachel. It's so annoying when I put Emma on the phone to talk with my friends.
+dialogue,Rachel,(comes out again) What!?
+dialogue,Phoebe,"(comes out too) Well, some things are just hard to say to your face."
+dialogue,Rachel,"Ok well, I heard that! Which means that she heard it too!"
+dialogue,Phoebe,Ooh! We have a problem.
+dialogue,Rachel,Oh! What are we gonna do?
+action,,(A strange woman sticks her head out from a third changing cubicle to the far right)
+dialogue,Stranger,Just be honest with her.
+dialogue,Rachel,Oh my God!
+dialogue,Stranger,And it is annoying when parents put their baby on the phone...
+dialogue,Rachel,(yelling at the stranger) Alright! Enough out of you!
+heading,,[Scene: Joey's apartment. Joey is sitting on his bed and the phone rings]
+dialogue,Joey,Hello?
+dialogue,Ross,"Joey! Hey, I need to talk to Charlie. Is she there?"
+dialogue,Joey,No. no... eh... she went shopping with Rachel. Why? What's up?
+dialogue,Ross,I'm meeting with professor Sherman about my being the keynote speaker...
+dialogue,Joey,Oh! How's it going?
+dialogue,Ross,"It could be better! He, uhm... he fell asleep!"
+dialogue,Joey,What!? But I already bought my ticket to Bermuda!
+dialogue,Ross,Barbados.
+dialogue,Joey,"Fine, I'll rent a car and drive...! Ross, you have to get that job!"
+dialogue,Ross,What am I supposed to do? He's out cold! In fact he was just talking in his sleep before and evidently he wants someone named Fran to spank him harder.
+dialogue,Joey,"Well, just wake him up!"
+dialogue,Ross,"I can't! If he realizes that I'm the one that put him to sleep, I won't get the job!"
+dialogue,Joey,"Uh! That's a tough one. Oh! Wait a minute, this happened to me before! Yeah, I was auditioning for a play and the producer fell asleep and... (pause) no wait a minute... it was me who fell asleep... Yeah I mean hey, Shakespeare, how about a chase scene once in a while!?"
+heading,,"[Scene: Chandler and Monica's apartement. Chandler and the guest are in the living room, Monica in the kitchen]"
+dialogue,Monica,Hey guys! Dinner's ready!
+dialogue,Zack,Oh! I'm gonna go wash up first. (Chandler points him the bathroom) Thanks!
+dialogue,Chandler,"So what do you think? I want that guys genes for my kid! Those eyes, those cheeckbones!"
+dialogue,Monica,"Ok, there's enthusiastic and there's just plain gay !!"
+dialogue,Chandler,You don't like him.
+dialogue,Monica,I think he is fine! It's just that we don't know anything real about him... we should get more information.
+dialogue,Chandler,Alright! Just follow my lead!
+action,,(Zack comes out of the bathroom. They all sit down at the table.)
+dialogue,Zack,You guys have such a great place here.
+dialogue,Chandler,"Oh! Thanks, I'm crazy about our place. Hey! speaking of crazy... do you have a history of mental illness in the family?"
+dialogue,Zack,Uhm... no. Although I did have an uncle who voted for Dukakis.
+dialogue,Chandler,(very seriously) That's really not the kind of thing we are looking for Zack.
+dialogue,Zack,"(looking very puzzled) Okaaay... so eh... so tell me, how did you guys meet."
+dialogue,Monica,"Oh, friends first, drunk in London, you know the story. I've got a better question for you: Do you or any of your blood relatives have diabetes?"
+dialogue,Zack,"(after a pause, very confused) No..."
+dialogue,Monica,"Eh... Heart Disease, Alzheimers, gout?"
+dialogue,Zack,"You guys don't have people for dinner a lot, huh?"
+dialogue,Monica,We're just making conversation. (Chandler makes an agreeing-sound)
+dialogue,Zack,Ok. I heard a joke today. It's pretty funny...
+dialogue,Chandler,"You know what's not funny? Male Pattern Baldness (Monica stretches her neck to look behind Zack's head and then gives Chandler an ""ok"" sign)"
+dialogue,Zack,"Ok listen, you guys have shown a lot of interest in me tonight and I'm flattered and... and quite frankly a little frightened. Can we just talk about something else?"
+dialogue,Monica & Chandler,Sure! Alright...
+dialogue,Zack,Ravioli's delicious!
+dialogue,Chandler,I noticed you were enjoying that Ravioli with a beautiful set of teeth. Did you have braces as a child?
+dialogue,Zack,No I didn't.
+dialogue,Monica,Yess!! (M & C high-five and Zack looks confused again)
+dialogue,Chandler,(Proceeding with his dinner) We're teeth people Zack!
+heading,,[Scene: In the store. Rachel and Phoebe returning from the changing rooms]
+dialogue,Rachel,Alright! Let's just do it. Let's just go over there and see if she heard.
+dialogue,Phoebe,Good plan.
+dialogue,Rachel,Ok. (Phoebe starts to walk in the opposite direction though. Rachel sees and follows her) Wha...? where? Where are you going?
+dialogue,Phoebe,"Oh! I'm sorry Rachel, I don't have time for your childish games, ok? I still have to go find something incredible to wear so I can beat Mike at ""who's more over who""! (at which she walks away)"
+dialogue,Rachel,"(to Charlie) Hey, hi! Hey, where've you been?"
+dialogue,Charlie,Oh! trying on clothes.
+dialogue,Rachel,"(pretends to be stunned) Oh! Wi... in the dres... in the dressing room!? Well, that's so weird! Phoebe and I were just trying on clothes in the dressing room. God it's just such a small world!"
+dialogue,Charlie,(smiling) Rachel... I heard you guys whispering.
+dialogue,Rachel,"Oh God. You did. You heard. Ok, listen, let me explain."
+dialogue,Charlie,No! There's nothing to explain. I heard you. Phoebe likes Joey.
+dialogue,Rachel,(after a pause) Yeah.
+dialogue,Charlie,"It's just that... I don't understand it... I mean, Phoebe likes Joey and then she comes here to buy a dress to impress another guy...?"
+dialogue,Rachel,"Yeah! That's Phoebe. That's Phoebe. You know, she just wants them all! It's like she's a nympho!"
+dialogue,Charlie,Wow!
+dialogue,Rachel,Yeah...
+dialogue,Charlie,"You know, by the way. I heard you tell her not to do anything. Thanks for sticking up for me. You are such a nice person."
+dialogue,Rachel,(Looks ashamed) I try...
+heading,,"[Scene: Prof. Sherman's office. Sherman is still asleep on his chair, blocking the door.]"
+action,,"(Ross takes his suitcase and tries to get out but ends up falling on Prof. Sherman's laps, thereby waking him up)"
+dialogue,Ross,(To the still half asleep Professor) Oh my God! You really want me to be the keynote speaker? Thank you! (hugs him whilst still on his lap)
+dialogue,Prof. Sherman,(confused) You're welcome. (Ross hugs him again)
+heading,,"[Scene: Central Perk. Joey is sitting on the sofa, eating a cookie.]"
+action,,"(Phoebe walks in wearing a fancy, revealing dress, and stands before Joey)"
+dialogue,Joey,(impressed) Wow! You look... (drops the cookie)... stop-eating hot! Which is like the highest level of hotness!
+dialogue,Phoebe,Are you sure? Because I'm really dreading going to this party.
+dialogue,Joey,Then don't go!
+dialogue,Phoebe,"Mike knows I'm coming, and if I don't show up he'll think it's because of him! And I don't want to lose face! That's a very serious thing in my culture."
+dialogue,Joey,"Alright, then you go to that party and you pretend to be over Mike. And afterward you come to my place and I'll get you good and drunk!"
+dialogue,Phoebe,"You got it! Ok. But not on the wine that you made, ok, because I just don't want to go back to the Emergency Room."
+action,,(Joey gives Phoebe a thumbs up. Phoebe walks out)
+heading,,[Scene: Outside Central Perk.]
+dialogue,Phoebe,David?
+action,,(David the scientist guy is standing at the news-stand)
+dialogue,David,Phoebe! Hi!
+dialogue,Phoebe,Oh my God! (they hug)
+dialogue,David,"Wow, you look unbelievable."
+dialogue,Phoebe,Yeah. What-what are you doing here?
+dialogue,David,"Well, I'm back from Minsk... permanently."
+dialogue,Phoebe,What happened?
+dialogue,David,"Well, remember how I was trying to achieve the positronic distillation of subatomic particles?"
+dialogue,Phoebe,Yeah?
+dialogue,David,"Well, after eight years of research I discovered that it can't be done."
+dialogue,Phoebe,"Well, it's great that you're back! How are you?"
+dialogue,David,"Good, good, life is good..."
+dialogue,Phoebe,Good!
+dialogue,David,"Ah well, I-I'm seeing someone."
+dialogue,Phoebe,"(disappointed) Oh, good for you."
+dialogue,David,"She's also a scientist, so she's very smart and pretty and... well, it's actually because of you, really, that we're together, I mean, I saw what you had with that Mike guy, and I just said ""Boy, I want that""."
+dialogue,Phoebe,Mike and I broke up.
+dialogue,David,"You're kidding me. Because I'm not seeing anybody, I've just totally made that up."
+dialogue,Phoebe,Really?
+dialogue,David,"Yeah, I don't know why, I'm sorry, I guess I just didn't want to lose face."
+dialogue,Phoebe,"I understand. Yeah. Ok so then ok, so we're both living in New York, not seeing anyone. That's so not like us!"
+dialogue,David,"Yeah, I know. Well... this is probably a stupid question, seeing that you look like that, but do you have some place that you need to be right now?"
+dialogue,Phoebe,Well... (pause) no.
+dialogue,David,Do you wanna get a drink?
+dialogue,Phoebe,I'd love to.
+dialogue,David,Great.
+dialogue,Phoebe,Ok. (they walk away together)
+dialogue,David,Do you smell beets?
+dialogue,Phoebe,"Oh, got it, stay upwind of me."
+action,,(Charlie and Rachel arrive. They see David and Phoebe leave)
+dialogue,Charlie,"Hey, there's Phoebe! Is that Mike she's with?"
+dialogue,Rachel,"No, that's David."
+dialogue,Charlie,There's a third guy?
+dialogue,Rachel,(disapprovingly) Tip of the iceberg.
+action,,[Cut to Monica and Chandler's]
+dialogue,Zack,"I'm gonna take off now. You're gonna let me go home, aren't you?"
+dialogue,Chandler,You sure you don't wanna stick around a little longer?
+dialogue,Zack,"No, no, I should get home, I'm kinda tired."
+dialogue,Chandler,"Are you just tired now or are you always tired, 'cause that could be a sign of clinical depression."
+dialogue,Zack,No it's just tiring having to figure out the age at which all my grandparents died. I'll see you tomorrow.
+dialogue,Chandler,Ok.
+action,,(Zack leaves)
+dialogue,Chandler,I think we've found our sperm!
+dialogue,Monica,Does seem pretty perfect.
+dialogue,Chandler,"Yeah, you think so, well? Should I ask him?"
+dialogue,Monica,(pause) No.
+dialogue,Chandler,"Why not, just because his great-grandmother was obese, our kids are gonna get that from you anyway!"
+dialogue,Monica,"No, that's not it. It's just that when we were asking him all those questions before, I just... I just realized I don't care if he's the most perfect guy in the world... he's not you."
+dialogue,Chandler,"Yeah, he's better!"
+dialogue,Monica,"No, he's not. And if I can't get pregnant with you, then I don't want to get pregnant by... him or anyone else."
+dialogue,Chandler,Really? Are you sure?
+dialogue,Monica,"Yeah, I'm sure."
+dialogue,Chandler,"(sighs with relief) Thank God, because I don't wanna do this either. You know, I was just doing because I thought that was what you wanted to do. You know, I'm the husband, I'm supposed to... bring the sperm."
+dialogue,Monica,That is so sweet. I love you. (they kiss)
+dialogue,Chandler,So you know this leaves us with...
+dialogue,Monica,Adoption.
+dialogue,Chandler,How do you feel about that?
+dialogue,Monica,I think I feel ok about it. Actually I think I feel really good about it.
+dialogue,Chandler,Me too. I wanna find a baby that needs a home and I wanna raise it with you. And I wanna mess it up in our own specific way.
+dialogue,Monica,"So this is it, we're really gonna adopt?"
+dialogue,Chandler,(smiling) Yeah.
+dialogue,Monica,"(excitedly) Oh my God, we're gonna be parents!"
+dialogue,Chandler,We are gonna be great parents.
+dialogue,Monica,"And it could be soon. I mean, think about it: right now, somewhere out there (they go look through the window) our baby could be being conceived."
+dialogue,Chandler,"Wait, if we're lucky, and we're really really really quiet, we may be able to hear the sound of a condom breaking!"
+action,,(they hug)
+action,,Closing Credits
+heading,,[Scene: Zack's office]
+dialogue,Chandler,"Hey, Zack!"
+dialogue,Zack,(hardly enthusiastic) Hey Chandler.
+dialogue,Chandler,"Look, I just wanted to apologize for last night. I got the feeling we made you a little uncomfortable."
+dialogue,Zack,No you didn't.
+dialogue,Chandler,Really?
+dialogue,Zack,No you did.
+dialogue,Chandler,"My wife and I have some boundary issues, you know, sometimes we ask inappropriate questions. We're working on it."
+action,,"(Zack's pregnant secretary, Jeanette, walks in)"
+dialogue,Jeanette,(to Zack) Here are the boards for Friday's pitch (hands him something).
+dialogue,Zack,"Oh, thank you."
+action,,(Jeanette walks out)
+dialogue,Chandler,"You wouldn't know if Jeanette's planning on keeping her baby, would ya?"
+action,,End

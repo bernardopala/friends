@@ -260,17 +260,50 @@ def iter_script_rows_from_raw_blocks(html_text: str) -> Iterable[Tuple[str, str,
                     continue
                 yield element, character, dialogue
 
+def iter_script_rows_from_body_br_lines(html_text: str) -> Iterable[Tuple[str, str, str]]:
+    """Fallback parser for scripts stored directly in <body> with <br>-separated lines.
+
+    Some sources (e.g. 0911) do not use <p>/<h3> wrappers and keep the transcript
+    as plain body text with <br>. This parser handles that structure.
+    """
+    soup = BeautifulSoup(html_text, "html.parser")
+    body = soup.body or soup
+    body_html = body.decode_contents()
+
+    started = False
+    for line in split_paragraph_to_lines(body_html):
+        normalized_line = re.sub(r"\s+:", ":", line)
+        for fragment in split_embedded_headings(normalized_line):
+            row = classify_line(fragment)
+            if row is None:
+                continue
+
+            if not started:
+                if is_script_start(row):
+                    started = True
+                else:
+                    continue
+
+            element, character, dialogue = row
+            if element not in SCRIPT_ELEMENTS:
+                continue
+            yield element, character, dialogue
+
+
 def episode_codes_from_stem(stem: str, season_hint: str) -> List[str]:
     """Zwraca liste kodow xxyy dla danego pliku.
 
     - 0101 -> [0101]
     - 0212-0213 -> [0212-0213]
     - 0615-0616 -> [0615-0616]
+    - 0923-0924 -> [0923-0924]
     - 07outtakes -> []
     """
     if stem == "0212-0213" and season_hint == "02":
         return [stem]
     if stem == "0615-0616" and season_hint == "06":
+        return [stem]
+    if stem == "0923-0924" and season_hint == "09":
         return [stem]
 
     four_digit_codes = re.findall(r"\d{4}", stem)
@@ -304,6 +337,15 @@ def apply_episode_specific_fixes(
 ) -> List[Tuple[str, str, str]]:
     """Naklada reczne poprawki dla znanych bledow klasyfikacji."""
     fixed_rows = list(rows)
+
+    # Normalizacja voiceover w recapie.
+    for idx, (element, character, dialogue) in enumerate(fixed_rows):
+        if element != "dialogue" or normalize_spaces(character) != "Lisa Kudrow":
+            continue
+        normalized_dialogue = normalize_spaces(dialogue)
+        if normalized_dialogue.lower().startswith("(voiceover) previously on friends"):
+            spoken_text = re.sub(r"^\(voiceover\)\s*", "", normalized_dialogue, flags=re.IGNORECASE)
+            fixed_rows[idx] = (element, character, f"<voiceover>{spoken_text}<\\voiceover>")
 
     # 0110: linie piosenki Phoebe sa czasem klasyfikowane jako action.
     # Chcemy oznaczyc je jako singing + character=Phoebe.
@@ -760,13 +802,1382 @@ def apply_episode_specific_fixes(
                 _element, _character, dialogue = fixed_rows[row_index]
                 fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
 
+
+    if episode_code == "0913":
+        blocked_lines = {
+            "aired: 30/01/2003",
+            "written by: sherry bilsing-graham & ellen plummer",
+            "teleplay by: steven rosenhaus",
+            "transcribed by: phdb (phdb2000@hotmail.com) and sebastiano (sebapop@libero.it)",
+            "transcribed by: phdb ( phdb2000@hotmail.com ) and sebastiano (sebapop@libero.it)",
+        }
+
+        def _as_text_0913(row: tuple[str, str, str]) -> str:
+            _element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text_0913(row) not in blocked_lines]
+
+        def _is_marker_like_0913(text: str) -> bool:
+            key = normalize_spaces(text).strip("[]* ").rstrip(".").lower()
+            return key in {
+                "opening credits",
+                "opening titles",
+                "commercial break",
+                "commercial",
+                "closing credits",
+                "closing titles",
+                "ending credits",
+                "ending titles",
+                "credits",
+                "end",
+            }
+
+        def _is_continuation_action_0913(text: str) -> bool:
+            normalized = normalize_spaces(text)
+            if not normalized:
+                return False
+            if _is_marker_like_0913(normalized):
+                return False
+            if re.match(r"(?i)^scene\s*:", normalized):
+                return False
+            # Zgodnie z ustaleniem: action tylko gdy linia zaczyna i konczy sie nawiasem ().
+            if normalized.startswith("(") and normalized.endswith(")"):
+                return False
+            # Linia typu [..] traktujemy jako nie-dialogowa.
+            if normalized.startswith("[") and normalized.endswith("]"):
+                return False
+            return True
+
+        # Scalanie lamanych kwestii: dialogue + kolejne action-linie,
+        # tylko gdy action wyglada na kontynuacje tej samej wypowiedzi.
+        merged_rows: List[Tuple[str, str, str]] = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+
+            if element == "dialogue":
+                parts = [normalize_spaces(dialogue)]
+                j = idx + 1
+                while j < len(fixed_rows):
+                    next_element, next_character, next_text = fixed_rows[j]
+                    if (
+                        next_element == "action"
+                        and not normalize_spaces(next_character)
+                        and _is_continuation_action_0913(next_text)
+                    ):
+                        parts.append(normalize_spaces(next_text))
+                        j += 1
+                        continue
+                    break
+
+                if j > idx + 1:
+                    merged_rows.append(("dialogue", character, " ".join(p for p in parts if p)))
+                    idx = j
+                    continue
+
+            merged_rows.append((element, character, dialogue))
+            idx += 1
+
+        fixed_rows = merged_rows
+
+    if episode_code == "0919":
+        blocked_lines = {
+            "teleplay: mark kunerth",
+            "story: dana klein",
+            "directed by: terry hughes",
+            "transcribed by: eleonora, pheeboh, sebastiano & vanessa",
+        }
+
+        def _as_text_0919(row: tuple[str, str, str]) -> str:
+            _element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text_0919(row) not in blocked_lines]
+
+    if episode_code == "0920":
+        blocked_lines = {
+            "teleplay: andrew reich & ted cohen",
+            "story: shana goldberg-meehan",
+            "directed by: sheldon epps",
+            "transcribed by: eleonora, pheeboh, sebastiano & vanessa",
+        }
+
+        def _as_text_0920(row: tuple[str, str, str]) -> str:
+            _element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text_0920(row) not in blocked_lines]
+
+    if episode_code == "0921":
+        blocked_lines = {
+            "teleplay: robert carlock",
+            "story: scott silveri",
+            "directed by: gary halvorson",
+            "transcribed by: eleonora, pheeboh, sebastiano & vanessa",
+        }
+
+        def _as_text_0921(row: tuple[str, str, str]) -> str:
+            _element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text_0921(row) not in blocked_lines]
+
+    if episode_code == "0923-0924":
+        blocked_lines = {
+            "part 1 written by: shana goldberg-meehan & scott silveri",
+            "part 2 written by: marta kauffman & david crane",
+            "directed by: kevin s. bright",
+            "transcribed by: andreina, eleonora, pheeboh, sebastiano & vanessa",
+        }
+
+        def _as_text_0923_0924(row: tuple[str, str, str]) -> str:
+            _element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            fixed_character = "Monica" if normalize_spaces(character) == "MOnica" else character
+            fixed_dialogue = re.sub(r"\bMOnica\b", "Monica", dialogue)
+            normalized_rows.append((element, fixed_character, fixed_dialogue))
+
+        fixed_rows = [row for row in normalized_rows if _as_text_0923_0924(row) not in blocked_lines]
+
+    if episode_code in {"0919", "0920", "0921"} and html_text:
+        malformed_action_cue_pattern = re.compile(
+            r"(?is)<p>\s*\((?P<action>[^<)]{1,220}?)\)\s*<p>\s*<b>\s*(?P<speaker>[^:<]{1,80}):\s*</b>\s*(?P<text>.*?)</p>"
+        )
+
+        extracted_pairs = []
+        for match in malformed_action_cue_pattern.finditer(html_text):
+            action_text = normalize_spaces(BeautifulSoup(match.group("action"), "html.parser").get_text(" "))
+            speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+            dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+            if (
+                action_text
+                and speaker
+                and dialogue_text
+                and "[scene:" not in action_text.lower()
+                and "[scene:" not in dialogue_text.lower()
+                and "opening credits" not in action_text.lower()
+                and "opening credits" not in dialogue_text.lower()
+                and len(action_text) <= 220
+                and len(dialogue_text) <= 500
+            ):
+                extracted_pairs.append((speaker, dialogue_text, f"({action_text})"))
+
+        if extracted_pairs:
+            repaired_rows = []
+            pair_idx = 0
+            for element, character, dialogue in fixed_rows:
+                normalized_character = normalize_spaces(character)
+                normalized_dialogue = normalize_spaces(dialogue)
+
+                if (
+                    pair_idx < len(extracted_pairs)
+                    and element == "dialogue"
+                    and normalized_character == extracted_pairs[pair_idx][0]
+                    and normalized_dialogue == extracted_pairs[pair_idx][1]
+                ):
+                    missing_action = extracted_pairs[pair_idx][2]
+                    if not (
+                        repaired_rows
+                        and repaired_rows[-1][0] == "action"
+                        and not normalize_spaces(repaired_rows[-1][1])
+                        and normalize_spaces(repaired_rows[-1][2]) == normalize_spaces(missing_action)
+                    ):
+                        repaired_rows.append(("action", "", missing_action))
+                    pair_idx += 1
+
+                repaired_rows.append((element, character, dialogue))
+
+            fixed_rows = repaired_rows
+
+        if episode_code == "0920":
+            malformed_double_action_pattern = re.compile(
+                r"(?is)<p>\s*\((?P<action1>[^<)]{1,220}?)\)\s*<p>\s*\((?P<action2>[^<)]{1,220}?)\)\s*<p>\s*<b>\s*(?P<speaker>[^:<]{1,80}):\s*</b>\s*(?P<text>.*?)</p>"
+            )
+            extracted_double = []
+            for match in malformed_double_action_pattern.finditer(html_text):
+                action1 = normalize_spaces(BeautifulSoup(match.group("action1"), "html.parser").get_text(" "))
+                action2 = normalize_spaces(BeautifulSoup(match.group("action2"), "html.parser").get_text(" "))
+                speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+                dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+                if action1 and action2 and speaker and dialogue_text:
+                    extracted_double.append((speaker, dialogue_text, f"({action1})", f"({action2})"))
+
+            if extracted_double:
+                repaired_rows = []
+                pair_idx = 0
+                for element, character, dialogue in fixed_rows:
+                    normalized_character = normalize_spaces(character)
+                    normalized_dialogue = normalize_spaces(dialogue)
+
+                    if (
+                        pair_idx < len(extracted_double)
+                        and element == "dialogue"
+                        and normalized_character == extracted_double[pair_idx][0]
+                        and normalized_dialogue == extracted_double[pair_idx][1]
+                    ):
+                        first_action = extracted_double[pair_idx][2]
+                        second_action = extracted_double[pair_idx][3]
+
+                        has_second_as_last = (
+                            repaired_rows
+                            and repaired_rows[-1][0] == "action"
+                            and not normalize_spaces(repaired_rows[-1][1])
+                            and normalize_spaces(repaired_rows[-1][2]) == normalize_spaces(second_action)
+                        )
+                        has_first_before_second = (
+                            len(repaired_rows) >= 2
+                            and repaired_rows[-2][0] == "action"
+                            and not normalize_spaces(repaired_rows[-2][1])
+                            and normalize_spaces(repaired_rows[-2][2]) == normalize_spaces(first_action)
+                        )
+
+                        if has_second_as_last and not has_first_before_second:
+                            repaired_rows.insert(len(repaired_rows) - 1, ("action", "", first_action))
+                        elif not has_second_as_last:
+                            if not (
+                                repaired_rows
+                                and repaired_rows[-1][0] == "action"
+                                and not normalize_spaces(repaired_rows[-1][1])
+                                and normalize_spaces(repaired_rows[-1][2]) == normalize_spaces(first_action)
+                            ):
+                                repaired_rows.append(("action", "", first_action))
+
+                        pair_idx += 1
+
+                    repaired_rows.append((element, character, dialogue))
+
+                fixed_rows = repaired_rows
+
+    if episode_code == "0919" and len(fixed_rows) >= 242:
+        element, character, dialogue = fixed_rows[241]
+        fixed_rows[241] = ("singing", character, dialogue)
+
+    if episode_code == "0918":
+        blocked_lines = {
+            "teleplay: sherry bilsing - graham & ellen plummer",
+            "story: brian buckner & sebastian jones",
+            "directed by: gary halvorson",
+            "transcribed by: eleonora, pheeboh, roni & vanessa",
+        }
+
+        def _as_text_0918(row: tuple[str, str, str]) -> str:
+            _element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text_0918(row) not in blocked_lines]
+
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if (
+                element == "dialogue"
+                and normalized_character.lower() == "everyone almost simultaneously except ross"
+            ):
+                normalized_rows.append(
+                    ("dialogue", "Everyone", f"(almost simultaneously except Ross) {normalized_dialogue}")
+                )
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "0917":
+        blocked_lines = {
+            "aired: 3/13/2003",
+            "teleplay by: brian buckner & sebastian jones",
+            "story by: robert carlock",
+            "directed by: gary halvorson",
+            "transcribed by: eleonora, pheeboh and vanessa",
+        }
+
+        def _as_text_0917(row: tuple[str, str, str]) -> str:
+            _element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text_0917(row) not in blocked_lines]
+
+    if episode_code == "0916":
+        repaired_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            # Wariant uszkodzony: osobna linia "[" + nastepny heading [Scene: ...]]
+            if (
+                element == "action"
+                and not normalized_character
+                and normalized_dialogue == "["
+                and idx + 1 < len(fixed_rows)
+            ):
+                next_element, _next_character, next_dialogue = fixed_rows[idx + 1]
+                next_text = normalize_spaces(next_dialogue)
+                if next_element == "heading" and re.match(r"^\[\s*scene\s*:", next_text, flags=re.IGNORECASE):
+                    scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", next_text, flags=re.IGNORECASE)
+                    scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                    scene_text = normalize_spaces(scene_text)
+                    repaired_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                    idx += 2
+                    continue
+
+            # Domkniecie headingow [Scene: ...]] -> [Scene: ...]
+            if element == "heading" and re.match(r"^\[\s*scene\s*:", normalized_dialogue, flags=re.IGNORECASE):
+                scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", normalized_dialogue, flags=re.IGNORECASE)
+                scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                scene_text = normalize_spaces(scene_text)
+                repaired_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                idx += 1
+                continue
+
+            repaired_rows.append((element, character, dialogue))
+            idx += 1
+
+        fixed_rows = repaired_rows
+
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "dialogue" and normalized_character:
+                match = re.match(r"^(?P<speaker>.+?)\s*\((?P<stage>[^()]*)\)$", normalized_character)
+                if match:
+                    speaker = normalize_spaces(match.group("speaker"))
+                    stage = normalize_spaces(match.group("stage"))
+                    if speaker and stage:
+                        prefix = f"({stage})"
+                        normalized_dialogue = (
+                            normalized_dialogue
+                            if normalized_dialogue.startswith(prefix)
+                            else f"{prefix} {normalized_dialogue}" if normalized_dialogue else prefix
+                        )
+                        normalized_rows.append(("dialogue", speaker, normalized_dialogue))
+                        continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "0915":
+        first_scene_match = re.search(r"\[\s*Scene\s*:[^\]]+\]", html_text, flags=re.IGNORECASE)
+        if first_scene_match:
+            scene_heading = normalize_spaces(first_scene_match.group(0))
+            has_same_heading = any(
+                element == "heading" and normalize_spaces(text) == scene_heading
+                for element, _character, text in fixed_rows
+            )
+            if not has_same_heading:
+                fixed_rows.insert(0, ("heading", "", scene_heading))
+
+        fixed_rows = [
+            (
+                "dialogue",
+                "Chandler",
+                "Thank you.",
+            )
+            if element == "action" and not normalize_spaces(character) and normalize_spaces(dialogue) in {"Chandler. Thank you.", "Chandler . Thank you."}
+            else (element, character, dialogue)
+            for element, character, dialogue in fixed_rows
+        ]
+
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            if element == "dialogue":
+                normalized_dialogue = normalize_spaces(dialogue)
+                m = re.match(r"^\(\s*([^()]+?)\s*\)\s*(.*)$", normalized_dialogue)
+                if m:
+                    stage = normalize_spaces(m.group(1))
+                    rest = normalize_spaces(m.group(2))
+                    normalized_dialogue = f"({stage})" + (f" {rest}" if rest else "")
+                    normalized_rows.append((element, character, normalized_dialogue))
+                    continue
+            normalized_rows.append((element, character, dialogue))
+        fixed_rows = normalized_rows
+
+    if episode_code == "0914":
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "dialogue" and normalized_character:
+                match = re.match(r"^(?P<speaker>.+?)\s*\((?P<stage>[^()]*)\)$", normalized_character)
+                if match:
+                    speaker = normalize_spaces(match.group("speaker"))
+                    stage = normalize_spaces(match.group("stage"))
+                    if speaker and stage:
+                        prefix = f"({stage})"
+                        if normalized_dialogue:
+                            normalized_dialogue = (
+                                normalized_dialogue
+                                if normalized_dialogue.startswith(prefix)
+                                else f"{prefix} {normalized_dialogue}"
+                            )
+                        else:
+                            normalized_dialogue = prefix
+                        normalized_rows.append(("dialogue", speaker, normalized_dialogue))
+                        continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "0912":
+        blocked_lines = {
+            "aired: 16/1/2003",
+            "teleplay by: brian buckner and sebastian jones",
+            "directed by: ben weiss",
+            "transcribed by: roni raab",
+        }
+
+        def _as_text_0912(row: tuple[str, str, str]) -> str:
+            element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text_0912(row) not in blocked_lines]
+
+    if episode_code == "0911":
+        # Linia typu "Phoebe Thank you..." to dialog Phoebe, nie action.
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_dialogue = normalize_spaces(dialogue)
+            if (
+                element == "action"
+                and not normalize_spaces(character)
+                and normalized_dialogue.startswith("Phoebe ")
+            ):
+                normalized_rows.append(("dialogue", "Phoebe", normalized_dialogue[len("Phoebe ") :]))
+            else:
+                normalized_rows.append((element, character, dialogue))
+        fixed_rows = normalized_rows
+
+        # Usuwamy nadmiarowy drugi dwukropek z kwestii typu "Joey:: ...".
+        fixed_rows = [
+            (
+                element,
+                character,
+                re.sub(r"^\s*:\s*", "", re.sub(r'^\s*"\s*:\s*', '', dialogue))
+                if element == "dialogue"
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        # Ustandaryzowanie i deduplikacja opening/closing credits do formy [..].
+        def _credits_core(text: str) -> str:
+            normalized = normalize_spaces(text)
+            return normalize_spaces(normalized.strip("[]* ")).rstrip(".").lower()
+
+        canonical_map = {
+            "opening credits": "Opening Credits",
+            "closing credits": "Closing Credits",
+            "commercial break": "Commercial Break",
+            "end": "End",
+        }
+
+        fixed_rows = [
+            (
+                element,
+                character,
+                canonical_map.get(_credits_core(dialogue), dialogue)
+                if element == "action" and not normalize_spaces(character)
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        for label in ("Opening Credits", "Closing Credits", "Commercial Break", "End"):
+            indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element == "action"
+                and not normalize_spaces(character)
+                and normalize_spaces(dialogue).lower() == label.lower()
+            ]
+            if len(indices) > 1:
+                keep_index = indices[0]
+                fixed_rows = [
+                    row
+                    for idx, row in enumerate(fixed_rows)
+                    if idx == keep_index or idx not in indices
+                ]
+
+    if episode_code == "0910":
+        blocked_lines = {
+            "aired: 12/12/2002",
+            "written by: doty abrams",
+            "directed by: kevin s. bright",
+            "transcribed by: stephan hoffmeister",
+        }
+
+        def _as_text(row: tuple[str, str, str]) -> str:
+            element, character, dialogue = row
+            merged = f"{character}: {dialogue}" if character else dialogue
+            return normalize_spaces(merged).lower()
+
+        fixed_rows = [row for row in fixed_rows if _as_text(row) not in blocked_lines]
+
+        def _normalize_0910_action_label(text: str) -> str:
+            normalized = normalize_spaces(text)
+            # warianty typu *Opening Credits*, [ OPENING CREDITS ], itp.
+            core = normalized.strip("[]* ")
+            key = normalize_spaces(core).rstrip(".").upper()
+            if key == "OPENING CREDITS":
+                return "Opening Credits"
+            if key == "COMMERCIAL BREAK":
+                return "Commercial Break"
+            if key in {"CLOSING CREDITS", "ENDING CREDITS", "ENDING TITLES"}:
+                return "Closing Credits"
+            if key == "END":
+                return "End"
+            return normalized
+
+        def _normalize_0910_flashback(text: str) -> str:
+            normalized = normalize_spaces(text)
+            m = re.match(
+                r"^\[\s*Flashback\s+to\s+(\d{3,4})\s*-\s*(TOW|TOI)\s+(.+?)\s*\]$",
+                normalized,
+                flags=re.IGNORECASE,
+            )
+            if not m:
+                return normalized
+
+            episode_no = m.group(1)
+            if len(episode_no) == 3:
+                episode_no = f"0{episode_no}"
+
+            tag = m.group(2).upper()
+            title_tail = normalize_spaces(m.group(3))
+            tag_out = "The One In" if tag == "TOI" else "The One With"
+            return f"[Flashback to {episode_no} - {tag_out} {title_tail}]"
+
+        fixed_rows = [
+            (
+                element,
+                character,
+                _normalize_0910_flashback(_normalize_0910_action_label(dialogue))
+                if element == "action" and not normalize_spaces(character)
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        # Wymuszenie oznaczenia fragmentow piosenki Phoebe jako singing.
+        singing_lines = set(range(3, 7)) | set(range(50, 59))
+        for csv_line_number in singing_lines:
+            row_index = csv_line_number - 2  # -1 za naglowek CSV i -1 do indeksu 0-based
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Phoebe", dialogue)
+
+    if episode_code == "0909":
+        fixed_rows = [
+            (
+                element,
+                normalize_spaces(character).title()
+                if element == "dialogue"
+                and normalize_spaces(character)
+                and normalize_spaces(character).upper() == normalize_spaces(character)
+                and re.search(r"[A-Za-z]", normalize_spaces(character))
+                else character,
+                dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        # Naprawa koncowki "Tag Scene" oraz pominiecie [END TAG].
+        repaired_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "action" and not normalize_spaces(character):
+                canonical = re.sub(r"[\[\]]", "", normalized_dialogue).strip().upper()
+                if canonical == "END TAG":
+                    idx += 1
+                    continue
+
+                # Wariant: [Tag Scene: ...]
+                m = re.match(r"^\[\s*tag\s+scene\s*:\s*(.+?)\s*\]$", normalized_dialogue, flags=re.IGNORECASE)
+                if m:
+                    scene_text = normalize_spaces(m.group(1))
+                    repaired_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                    idx += 1
+                    continue
+
+                # Wariant uszkodzony: osobna linia "[Tag" + nastepny heading [Scene: ...]]
+                if re.match(r"^\[\s*tag\s*$", normalized_dialogue, flags=re.IGNORECASE) and idx + 1 < len(fixed_rows):
+                    next_element, _next_character, next_dialogue = fixed_rows[idx + 1]
+                    next_text = normalize_spaces(next_dialogue)
+                    if next_element == "heading" and re.match(r"^\[\s*scene\s*:", next_text, flags=re.IGNORECASE):
+                        scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", next_text, flags=re.IGNORECASE)
+                        scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                        scene_text = normalize_spaces(scene_text)
+                        repaired_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                        idx += 2
+                        continue
+
+            # Dodatkowo domykanie podwojnych nawiasow dla heading [Scene: ...]]
+            if element == "heading":
+                if re.match(r"^\[\s*scene\s*:", normalized_dialogue, flags=re.IGNORECASE):
+                    scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", normalized_dialogue, flags=re.IGNORECASE)
+                    scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                    scene_text = normalize_spaces(scene_text)
+                    repaired_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                    idx += 1
+                    continue
+
+            repaired_rows.append((element, character, dialogue))
+            idx += 1
+
+        fixed_rows = repaired_rows
+
+        # Ustandaryzowanie etykiet typu [END], [ OPENING CREDITS ], itp.
+        def normalize_action_label(text: str) -> str:
+            normalized = normalize_spaces(text)
+            inner = normalized
+            if normalized.startswith("[") and normalized.endswith("]"):
+                inner = normalize_spaces(normalized[1:-1])
+
+            key = inner.rstrip(".").upper()
+            if key == "OPENING CREDITS":
+                return "Opening Credits"
+            if key == "COMMERCIAL BREAK":
+                return "Commercial Break"
+            if key == "END":
+                return "End"
+            return text
+
+        fixed_rows = [
+            (
+                element,
+                character,
+                normalize_action_label(dialogue)
+                if element == "action" and not normalize_spaces(character)
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+    if episode_code == "0908":
+        scene_line_numbers = {29, 71, 97, 123, 228}
+        for csv_line_number in scene_line_numbers:
+            row_index = csv_line_number - 2
+            if not (0 <= row_index < len(fixed_rows)):
+                continue
+
+            _element, _character, dialogue = fixed_rows[row_index]
+            scene_text = normalize_spaces(dialogue)
+            scene_text = re.sub(r"(?i)^back\s+to\s+", "", scene_text)
+            scene_text = re.sub(r"\.+$", "", scene_text)
+            if scene_text.lower().startswith("scene:"):
+                scene_text = scene_text.split(":", 1)[1].strip()
+
+            fixed_rows[row_index] = ("heading", "", f"[Scene: {scene_text}]")
+
+        # Linia 22: to kwestia Joeya, nie action.
+        row_index_22 = 22 - 2
+        if 0 <= row_index_22 < len(fixed_rows):
+            _element, _character, dialogue = fixed_rows[row_index_22]
+            fixed_rows[row_index_22] = ("dialogue", "Joey", dialogue)
+
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            cue_transforms = {
+                "Ross starts talking over her 'do you remember' line": ("Ross", "starts talking over her 'do you remember' line", None),
+                "Amy with straight hair": ("Amy", "with straight hair", None),
+                "Rachel to Emma": ("Rachel", "to Emma", None),
+                "Amy storms out": ("Amy", "storms out", None),
+                "Rachel opens their door": ("Rachel", None, "(opens their door) Hi"),
+                "Everyone there says": ("Everyone", None, "Hi, hey."),
+                "Joey laughs": ("Joey", "laughs", None),
+                "Joey looks rejected": ("Joey", "looks rejected", None),
+                "Ross to Monica": ("Ross", "to Monica", None),
+                "Monica to Ross": ("Monica", "to Ross", None),
+                "Monica to Emma": ("Monica", "to Emma", None),
+                "Monica to Amy": ("Monica", "to Amy", None),
+                "Amy with confused look on face": ("Amy", "with confused look on face", None),
+                "Phoebe shakes her hand and says": ("Phoebe", None, "(shakes her hand and says) Phoe-Be"),
+                "Phoebe looks down": ("Phoebe", "looks down", None),
+                "Amy coming out of the bathroom": ("Amy", "coming out of the bathroom", None),
+                "Ross first has a look of 'huh' then changes it to sarcastic happy": ("Ross", "first has a look of 'huh' then changes it to sarcastic happy", None),
+                "Amy turns around to Phoebe": ("Amy", "turns around to Phoebe", None),
+                "Amy turns to Ross and Rachel": ("Amy", "turns to Ross and Rachel", None),
+                "Monica about to have a heart attack": ("Monica", "about to have a heart attack", None),
+                "Joey raises his hand": ("Joey", "raises his hand", None),
+                "Ross looks down": ("Ross", "looks down", None),
+                "Phoebe while cutting a sweet potatoe in the air": ("Phoebe", "while cutting a sweet potatoe in the air", None),
+                "Joey groans and gets off the phone": ("Joey", "groans and gets off the phone", None),
+                "Joey all nervous and looking down and fiddling with his ear": ("Joey", "all nervous and looking down and fiddling with his ear", None),
+            }
+            if element == "dialogue" and normalized_character in cue_transforms:
+                new_character, stage, exact_text = cue_transforms[normalized_character]
+                if exact_text is not None:
+                    fixed_rows[idx] = ("dialogue", new_character, exact_text)
+                elif stage is not None:
+                    fixed_rows[idx] = ("dialogue", new_character, f"({stage}) {normalized_dialogue}")
+                continue
+
+            if element == "dialogue" and normalized_character == "Joey nods":
+                fixed_rows[idx] = ("dialogue", "Joey", "(nods) Yeah")
+                continue
+
+            if (
+                element == "dialogue"
+                and normalized_character == "Ross and Rachel while looking at each other surprised and shocked"
+            ):
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Ross and Rachel",
+                    "(while looking at each other surprised and shocked) Jill?",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Woman at door in a sing song voice":
+                fixed_rows[idx] = ("dialogue", "Woman at door", "(in a sing song voice) Amy.")
+                continue
+
+            if element == "action" and normalized_dialogue == "Amy! Happy Thanksgiving.":
+                fixed_rows[idx] = ("dialogue", "Rachel", "Amy! Happy Thanksgiving.")
+                continue
+
+            if (
+                element == "dialogue"
+                and normalized_character == "Ross with a look of wondering how long this is going to go on on his face"
+            ):
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Ross",
+                    "(with a look of wondering how long this is going to go on on his face) Still me",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Ross starts playing with a plate":
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Ross",
+                    "(starts playing with a plate) Woah. Woah... <nearly really drops the plate and more seriously> Woah.",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Amy walks over to the couch and sits down next to Rachel":
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Amy",
+                    "(walks over to the couch and sits down next to Rachel) Ucch. <pauses> Uchh <louder this time> In case you hadn't noticed, I'm not talking to you.",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Rachel turns to Ross":
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Rachel",
+                    "(turns to Ross) Oh whose side are you on? <back to Amy> I'm not giving you Emma because there is no way you could handle the responibility of a child.",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Ross walks over":
+                fixed_rows[idx] = ("dialogue", "Ross", "(walks over) Too far, Amy. Too far.")
+                continue
+
+            if element == "dialogue" and normalized_character == "Monica screaming at Ross":
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Monica",
+                    "(screaming at Ross) Forget the bubblewrap! There isn't time!",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Rachel starts messing up Amy's hair":
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Rachel",
+                    "(starts messing up Amy's hair) Frizzy frizzy frizzy frizzy!!",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Amy and Rachel at same time":
+                fixed_rows[idx] = ("dialogue", "Amy and Rachel", "(at same time) Sorry.")
+                continue
+
+            if element == "dialogue" and normalized_character == "Monica starts crying":
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Monica",
+                    "(starts crying) Thank you. It was so beautiful. <gets up and walks towards the front door> I'm going to go to Joeys and get the pies.",
+                )
+                continue
+
+            if element == "dialogue" and normalized_character == "Amy starting to cry":
+                fixed_rows[idx] = ("dialogue", "Amy", "(starting to cry) You are not going to regret this.")
+                continue
+
+        # Scalanie rozcietej kwestii Amy: dialog + nastepny action-fragment.
+        merged_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if (
+                element == "dialogue"
+                and normalize_spaces(character) == "Amy"
+                and normalized_dialogue.endswith("It was your fat")
+                and idx + 1 < len(fixed_rows)
+            ):
+                next_element, next_character, next_dialogue = fixed_rows[idx + 1]
+                next_normalized = normalize_spaces(next_dialogue)
+                if (
+                    next_element == "action"
+                    and not normalize_spaces(next_character)
+                    and next_normalized == "friends brother with that bad afro, do you remember?"
+                ):
+                    merged_rows.append(("dialogue", "Amy", f"{normalized_dialogue} {next_normalized}"))
+                    idx += 2
+                    continue
+
+            merged_rows.append((element, character, dialogue))
+            idx += 1
+        fixed_rows = merged_rows
+
+        # Usuniecie notki transkrybera z tekstu kwestii.
+        fixed_rows = [
+            (
+                element,
+                character,
+                re.sub(r"\s*\[\s*transcriber\s*note\s*:[^\]]*\]", "", dialogue, flags=re.IGNORECASE).strip(),
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        # Normalizacja wybranych action do standardu z nawiasami okraglymi.
+        action_wrap_targets = {
+            "later in the day",
+            "ross makes some sort of sound to let us know it hurt",
+            "later on",
+            "monica opens her front door. chandler is sitting in the hallway",
+            "amy is sitting on a chair by the bay window looking mad",
+            "monica and chandler come through the front door",
+            "ross comes out of the guest bedroom with the diaper bag and the car seat carrying thingy.. yeah.. thats the techinal term.. he goes to chandler",
+            "ross walks away with a face of yeah ok",
+        }
+
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            new_dialogue = dialogue
+            if element == "action" and not normalize_spaces(character):
+                text_norm = normalize_spaces(dialogue)
+                text_key = text_norm.lower().rstrip(".")
+                if text_key in action_wrap_targets and not text_norm.startswith("("):
+                    new_dialogue = f"({text_norm.rstrip('.')})"
+            normalized_rows.append((element, character, new_dialogue))
+        fixed_rows = normalized_rows
+
+        # Zamiana didaskaliow <...> -> (...) zarowno w action, jak i w dialogue.
+        def angle_to_paren(text: str) -> str:
+            return re.sub(r"<\s*([^<>]+?)\s*>", r"(\1)", text)
+
+        fixed_rows = [
+            (
+                element,
+                character,
+                angle_to_paren(dialogue) if element in {"action", "dialogue"} else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        # Wszystkie kwestie dialogue zaczynaja sie od wielkiej litery
+        # (pierwszy napotkany znak alfabetyczny).
+        def capitalize_first_alpha(text: str) -> str:
+            chars = list(text)
+            for i, ch in enumerate(chars):
+                if ch.isalpha():
+                    chars[i] = ch.upper()
+                    break
+            return "".join(chars)
+
+        fixed_rows = [
+            (
+                element,
+                character,
+                capitalize_first_alpha(dialogue) if element == "dialogue" else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        # Korekta konkretnej kwestii Rachel -> Emma do formy "(to Emma) ...".
+        fixed_rows = [
+            (
+                element,
+                character,
+                dialogue.replace("(To Emma) Oh Emma.", "(to Emma) Oh Emma.")
+                if element == "dialogue"
+                and character == "Rachel"
+                and "Mommy's bobbies." in dialogue
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+        # Normalizacja etykiety przerwy reklamowej do jednego standardu.
+        fixed_rows = [
+            (
+                element,
+                character,
+                "Commercial Break"
+                if element == "action"
+                and not character
+                and normalize_spaces(dialogue).rstrip(".").upper() == "COMMERCIAL BREAK"
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+    if episode_code == "0907":
+        label_map = {
+            "OPENING CREDITS": "Opening Credits",
+            "COMMERCIAL BREAK": "Commercial Break",
+            "END": "End",
+        }
+        fixed_rows = [
+            (
+                element,
+                character,
+                label_map.get(normalize_spaces(dialogue), dialogue)
+                if element == "action" and not character
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+    if episode_code == "0906":
+        label_map = {
+            "OPENING CREDITS": "Opening Credits",
+            "COMMERCIAL BREAK": "Commercial Break",
+            "END": "End",
+        }
+        fixed_rows = [
+            (
+                element,
+                character,
+                label_map.get(normalize_spaces(dialogue), dialogue)
+                if element == "action" and not character
+                else dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+    if episode_code == "0904":
+        def wrap_non_parenthetical_voiceover(text: str) -> str:
+            text = normalize_spaces(text)
+            if not text:
+                return text
+
+            parts = []
+            position = 0
+            for match in re.finditer(r"\([^)]*\)", text):
+                before = normalize_spaces(text[position : match.start()])
+                if before:
+                    parts.append(f"<voiceover>{before}<\voiceover>")
+
+                parenthetical = normalize_spaces(match.group(0))
+                if parenthetical:
+                    parts.append(parenthetical)
+
+                position = match.end()
+
+            tail = normalize_spaces(text[position:])
+            if tail:
+                parts.append(f"<voiceover>{tail}<\voiceover>")
+
+            if not parts:
+                return f"<voiceover>{text}<\voiceover>"
+
+            return " ".join(parts)
+
+        def capitalize_dialogue_start(text: str) -> str:
+            text = normalize_spaces(text)
+            if not text:
+                return text
+            if text.startswith("("):
+                return text
+            first = text[0]
+            if first.isalpha():
+                return first.upper() + text[1:]
+            return text
+
+        new_rows = []
+        for element, character, dialogue in fixed_rows:
+            updated_dialogue = dialogue
+
+            if element == "dialogue" and updated_dialogue.lstrip().startswith(":"):
+                updated_dialogue = re.sub(r"^\s*:\s*", "", updated_dialogue)
+
+            if element == "action" and not character:
+                normalized_action = normalize_spaces(updated_dialogue)
+                if normalized_action == "(Opening Credits)":
+                    updated_dialogue = "Opening Credits"
+                elif normalized_action == "(Commercial Break)":
+                    updated_dialogue = "Commercial Break"
+
+            if (
+                element == "action"
+                and not character
+                and normalize_spaces(updated_dialogue).lower().startswith(">>> joey's subconscious")
+            ):
+                continue
+
+            if (
+                element == "action"
+                and not character
+                and normalize_spaces(updated_dialogue).lower().startswith("so this is going pretty good.")
+            ):
+                new_rows.append(("dialogue", "Joey", wrap_non_parenthetical_voiceover(updated_dialogue)))
+                continue
+
+            if element == "action" and not character and normalize_spaces(updated_dialogue).lower().startswith("-cut"):
+                cut_text = normalize_spaces(updated_dialogue.lstrip("-"))
+                new_rows.append(("action", "", f"[{cut_text}]"))
+                continue
+
+            if element == "dialogue" and normalize_spaces(character) == "Chandler" and "Monica:" in updated_dialogue:
+                chandler_text, monica_text = updated_dialogue.split("Monica:", 1)
+                chandler_text = capitalize_dialogue_start(chandler_text)
+                monica_text = capitalize_dialogue_start(monica_text)
+
+                if chandler_text:
+                    new_rows.append(("dialogue", "Chandler", chandler_text))
+                if monica_text:
+                    new_rows.append(("dialogue", "Monica", monica_text))
+                continue
+
+            if element == "dialogue":
+                updated_dialogue = capitalize_dialogue_start(updated_dialogue)
+
+            new_rows.append((element, character, updated_dialogue))
+
+        fixed_rows = new_rows
+
+    if episode_code == "0903":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "action"
+                and not row[1]
+                and normalize_spaces(row[2]) == "["
+            )
+        ]
+
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element == "action" and not character and dialogue.startswith("Chandler. "):
+                fixed_rows[idx] = ("dialogue", "Chandler", dialogue[len("Chandler. "):])
+
+            if element == "action" and not character and dialogue.startswith("Mary Ellen "):
+                fixed_rows[idx] = ("dialogue", "Mary Ellen", dialogue[len("Mary Ellen "):])
+
+            if element == "dialogue" and normalize_spaces(character).upper() == "CUT TO":
+                fixed_rows[idx] = ("action", "", f"[CUT TO: {normalize_spaces(dialogue)}]")
+
+            if element == "action" and not character and normalize_spaces(dialogue).upper() == "[INTRO]":
+                fixed_rows[idx] = ("action", "", "Opening Credits")
+
+    if episode_code == "0823":
+        blocked_dialogue_characters = {
+            "part i written by",
+            "part ii written by",
+            "parts i & ii transcribed by",
+        }
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and (
+                    normalize_spaces(row[1]).lower() in blocked_dialogue_characters
+                    or normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+                )
+            )
+        ]
+
+    if episode_code == "0819":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and normalize_spaces(row[1]).lower().startswith("episodes orginally transcribed by")
+            )
+        ]
+
+        if html_text:
+            malformed_cue_pattern = re.compile(
+                r"(?is)<p[^>]*>\s*(?:<b>\s*(?P<speaker1>[^:<]{1,80}):\s*</b>\s*</b>|(?P<speaker2>[^:<]{1,80}):\s*</b>)\s*(?P<text>.*?)</p>"
+            )
+
+            parsed_by_speaker = {}
+            for match in malformed_cue_pattern.finditer(html_text):
+                speaker = normalize_spaces(match.group("speaker1") or match.group("speaker2"))
+                parsed_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+                if not speaker or not parsed_text:
+                    continue
+                parsed_by_speaker.setdefault(speaker, []).append(parsed_text)
+
+            for speaker, parsed_texts in parsed_by_speaker.items():
+                target_indices = [
+                    idx
+                    for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                    if element in {"dialogue", "action"}
+                    and not character
+                    and normalize_spaces(dialogue) == f"{speaker}:"
+                ]
+
+                for idx, parsed_text in zip(target_indices, parsed_texts):
+                    fixed_rows[idx] = ("dialogue", speaker, parsed_text)
+
+            malformed_cues = {
+                "Phoebe and Rachel": r"(?is)<p[^>]*>\s*Phoebe and\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+                "Phoebe, Ross, and Rachel": r"(?is)<p[^>]*>\s*Phoebe,\s*Ross,\s*and\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+            }
+
+            for cue, pattern in malformed_cues.items():
+                parsed_texts = []
+                for match in re.finditer(pattern, html_text):
+                    parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                    if parsed_text:
+                        parsed_texts.append(parsed_text)
+
+                if not parsed_texts:
+                    continue
+
+                target_indices = [
+                    idx
+                    for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                    if element in {"dialogue", "action"}
+                    and not character
+                    and normalize_spaces(dialogue) == f"{cue}:"
+                ]
+
+                for idx, parsed_text in zip(target_indices, parsed_texts):
+                    fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+        for csv_line_number in range(44, 48):
+            row_index = csv_line_number - 2
+            if 0 <= row_index < len(fixed_rows):
+                _element, _character, dialogue = fixed_rows[row_index]
+                fixed_rows[row_index] = ("singing", "Joey", dialogue)
+
+    if episode_code == "0818":
+        character_fixes = {
+            "Mr. and Mrs. Geller": "Mr. Geller and Mrs. Geller",
+            "Wom an": "Woman",
+        }
+        fixed_rows = [
+            (
+                element,
+                character_fixes.get(character, character),
+                dialogue,
+            )
+            for element, character, dialogue in fixed_rows
+        ]
+
+    if episode_code == "0817" and html_text:
+        malformed_cues = {
+            "Chandler and Monica": r"(?is)<p[^>]*>\s*Chandler and\s*<b>\s*Monica:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0816" and html_text:
+        malformed_cues = {
+            "Joey": r"(?is)<p[^>]*>\s*Joey:\s*</b>\s*(.*?)</p>",
+            "Ross": r"(?is)<p[^>]*>\s*Ross:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0809" and html_text:
+        malformed_cues = {
+            "Ross and Will": r"(?is)<p[^>]*>\s*Ross and\s*<b>\s*Will:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0804":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+            )
+        ]
+
+        if html_text:
+            malformed_cues = {
+                "Ross and Rachel": r"(?is)<p[^>]*>\s*Ross and\s*<b>\s*Rachel:\s*</b>\s*</b>\s*(.*?)</p>",
+            }
+
+            for cue, pattern in malformed_cues.items():
+                parsed_texts = []
+                for match in re.finditer(pattern, html_text):
+                    parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                    if parsed_text:
+                        parsed_texts.append(parsed_text)
+
+                if not parsed_texts:
+                    continue
+
+                target_indices = [
+                    idx
+                    for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                    if element in {"dialogue", "action"}
+                    and not character
+                    and normalize_spaces(dialogue) == f"{cue}:"
+                ]
+
+                for idx, parsed_text in zip(target_indices, parsed_texts):
+                    fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0802" and html_text:
+        malformed_cues = {
+            "Monica and Phoebe": r"(?is)<p[^>]*>\s*Monica and\s*<b>\s*Phoebe:\s*</b>\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
+    if episode_code == "0801" and html_text:
+        malformed_cues = {
+            "Ashley": r"(?is)<p[^>]*>\s*Ashley:\s*</b>\s*(.*?)</p>",
+            "The Girls": r"(?is)<p[^>]*>\s*The Girls:\s*</b>\s*(.*?)</p>",
+        }
+
+        for cue, pattern in malformed_cues.items():
+            parsed_texts = []
+            for match in re.finditer(pattern, html_text):
+                parsed_text = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                if parsed_text:
+                    parsed_texts.append(parsed_text)
+
+            if not parsed_texts:
+                continue
+
+            target_indices = [
+                idx
+                for idx, (element, character, dialogue) in enumerate(fixed_rows)
+                if element in {"dialogue", "action"}
+                and not character
+                and normalize_spaces(dialogue) == f"{cue}:"
+            ]
+
+            for idx, parsed_text in zip(target_indices, parsed_texts):
+                fixed_rows[idx] = ("dialogue", cue, parsed_text)
+
     if episode_code == "07outtakes":
         fixed_rows = [
             row
             for row in fixed_rows
             if not (
                 row[0] == "dialogue"
-                and normalize_spaces(row[1]).lower().replace("’", "'").startswith("transcriber's note")
+                and (
+                    normalize_spaces(row[1]).lower().replace("’", "'").startswith("transcriber's note")
+                    or normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+                )
             )
         ]
 
@@ -1622,6 +3033,8 @@ def apply_episode_specific_fixes(
             "commercial": "Commercial Break",
             "closing credits": "Closing Credits",
             "closing titles": "Closing Credits",
+            "ending credits": "Closing Credits",
+            "ending titles": "Closing Credits",
             "credits": "Closing Credits",
             "end": "End",
         }
@@ -2026,13 +3439,14 @@ def apply_episode_specific_fixes(
             del fixed_rows[idx + 1 : idx + 6]
             break
 
+
     return fixed_rows
 
 
 def ensure_missing_marker_actions(
     rows: Sequence[Tuple[str, str, str]], html_text: str
 ) -> List[Tuple[str, str, str]]:
-    """Dopisuje brakujace akcje credits/break/end, gdy sa widoczne w HTML."""
+    """Dopisuje brakujace akcje credits/break/end i standaryzuje ich zapis."""
     fixed_rows = list(rows)
 
     marker_patterns = {
@@ -2042,10 +3456,39 @@ def ensure_missing_marker_actions(
         "End": r"(?is)(?:\[\s*end\s*\]|>\s*end\s*<)",
     }
 
+    def canonical_label(text: str) -> str | None:
+        normalized = normalize_spaces(text)
+        core = normalized.strip("[]* ")
+        key = normalize_spaces(core).rstrip(".").lower()
+        mapping = {
+            "opening credits": "Opening Credits",
+            "opening titles": "Opening Credits",
+            "commercial break": "Commercial Break",
+            "commercial": "Commercial Break",
+            "closing credits": "Closing Credits",
+            "closing titles": "Closing Credits",
+            "ending credits": "Closing Credits",
+            "ending titles": "Closing Credits",
+            "credits": "Closing Credits",
+            "end": "End",
+        }
+        return mapping.get(key)
+
+    # Globalna standaryzacja zapisow markerow.
+    normalized_rows: List[Tuple[str, str, str]] = []
+    for element, character, text in fixed_rows:
+        if element == "action" and not normalize_spaces(character):
+            canonical = canonical_label(text)
+            if canonical:
+                normalized_rows.append((element, character, canonical))
+                continue
+        normalized_rows.append((element, character, text))
+    fixed_rows = normalized_rows
+
     def has_action(label: str) -> bool:
         return any(
-            element == "action" and normalize_spaces(text).lower() == label.lower()
-            for element, _character, text in fixed_rows
+            element == "action" and not normalize_spaces(character) and normalize_spaces(text).lower() == label.lower()
+            for element, character, text in fixed_rows
         )
 
     for label in ["Opening Credits", "Commercial Break", "Closing Credits", "End"]:
@@ -2240,13 +3683,17 @@ def main() -> int:
         html_text = html_file.read_text(encoding="latin-1", errors="ignore")
         rows_bs4 = list(iter_script_rows(html_text))
         rows_raw = list(iter_script_rows_from_raw_blocks(html_text))
+        rows_body = list(iter_script_rows_from_body_br_lines(html_text))
 
         # Preferujemy parser BS4, ale przy uszkodzonym HTML potrafi on zwrocic
         # bardzo slaba jakosc (np. "postacie" jako action zamiast dialogue).
-        # Wtedy bierzemy fallback raw-blocks.
+        # Wtedy bierzemy fallback raw-blocks, a dla zrodel bez <p>/<h3>
+        # fallback body-<br> parser.
         should_use_raw = False
         bs4_dialogue_count = sum(1 for script_element, _, _ in rows_bs4 if script_element == "dialogue")
         raw_dialogue_count = sum(1 for script_element, _, _ in rows_raw if script_element == "dialogue")
+        body_dialogue_count = sum(1 for script_element, _, _ in rows_body if script_element == "dialogue")
+
         if "0116" in episode_codes or "0423" in episode_codes or "0510" in episode_codes:
             should_use_raw = True
         elif rows_raw and len(rows_raw) >= 20 and len(rows_bs4) <= max(5, len(rows_raw) // 4):
@@ -2255,6 +3702,13 @@ def main() -> int:
             should_use_raw = True
 
         rows = rows_raw if should_use_raw else rows_bs4
+
+        # Dodatkowy fallback dla plikow prawie bez wynikow (np. 0911):
+        # skrypt bywa zapisany bez <p>, jako linie rozdzielane <br>.
+        if rows_body and len(rows_body) >= 20 and len(rows) <= max(5, len(rows_body) // 5):
+            rows = rows_body
+        elif rows_body and body_dialogue_count >= 20 and sum(1 for e, _, _ in rows if e == "dialogue") <= max(5, body_dialogue_count // 4):
+            rows = rows_body
 
         for episode_code in episode_codes:
             episode_rows = apply_episode_specific_fixes(episode_code, rows, html_text)
@@ -2269,6 +3723,12 @@ def main() -> int:
                         legacy_file.unlink()
             if episode_code == "0615-0616":
                 for legacy_name in ("0615.csv", "0616.csv"):
+                    legacy_file = output_dir / legacy_name
+                    if legacy_file.exists():
+                        legacy_file.unlink()
+
+            if episode_code == "0923-0924":
+                for legacy_name in ("0923.csv", "0924.csv"):
                     legacy_file = output_dir / legacy_name
                     if legacy_file.exists():
                         legacy_file.unlink()

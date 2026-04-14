@@ -1,0 +1,279 @@
+script_element,character,text
+heading,,"[Scene: Coffee place, Joey is there, Chandler is entering]"
+dialogue,Chandler,Hey
+dialogue,Joey,Hey. So where's Mon?
+dialogue,Chandler,"Oh, she's at home, putting up decorations for Rachel's birthday party tonight."
+dialogue,Joey,And you're not helping?
+dialogue,Chandler,"I tried, but apparantly singing ""I will survive"" in a helium voice - not helping."
+action,,(Ross and Rachel enter with Emma in Rachel's hands)
+dialogue,Ross,Hey you guys!
+dialogue,Joey and Chandler,(start to sing) Hey! Happy birthday ...
+dialogue,Rachel,"Shhh don't say that loud, Gunther's gonna want to hug me."
+dialogue,Ross,"Uh, good news everyone, we finally found a nanny. This is Molly (points to Molly). Molly, Chandler, Joey."
+dialogue,Joey and Chandler,Hi.
+dialogue,Molly,Hi.
+action,,(Emma starts to cry)
+dialogue,Ross,"Ooh, somebody's getting a little fussy."
+dialogue,Joey,"You damn right I am, I've been waiting for a cookie for 7 minutes."
+dialogue,Rachel,"Ok, you know what, I'm just gonna take her outside."
+dialogue,Molly,"No, you stay, I'll do it (takes Emma from Rachel)."
+dialogue,Rachel,"OK, thank you."
+dialogue,Molly,Nice to meet you guys (to Chandler and Joey).
+dialogue,Joey,"Yeah, you too."
+action,,(Molly leaves)
+dialogue,Rachel,"Oh, wow, Molly is just great!"
+dialogue,Ross,Yeah.
+dialogue,Chandler,"Yes, Bravo on the hot nanny."
+dialogue,Rachel,What? You really think she's hot?
+dialogue,Chandler,Are you kidding? If I wasn't married she'd be rejecting me right now.
+dialogue,Rachel,And Joey?
+dialogue,Joey,How do you think she's doing?
+dialogue,Rachel,Am I the only one who doesn't think that she's hot? Ross?
+dialogue,Ross,"Eh, I mean, I mena she's not unattractive but hot? I ...."
+dialogue,Rachel,Thank you! (goes to get coffee)
+dialogue,Chandler,Now that Rachel's gone?
+dialogue,Rachel,So hot I cried myself to sleep last night. (Joey and Chandler clap their hands)
+action,,Opening Credits
+heading,,"[Scene: Mike and Phoebe in Phoebe's place, Phoebe is doing a crossword puzzle]"
+dialogue,Phoebe,"Hey Mike, what's the capital of Peru?"
+dialogue,Mike,Lima.
+dialogue,Phoebe,"No. It starts with a ""v"" and ends with an ""x"". Helpfully with a ""to"" in the middle."
+dialogue,Mike,"You know, kinda think of it, the capital of Peru IS ""vtox"". (opens the kitchen cabinet) Oh god! Oh!"
+dialogue,Phoebe,What?
+dialogue,Mike,"OK, I don't want to freak you out or anything, but I think I just saw a rat in your cupboard."
+dialogue,Phoebe,"(relived) Oh, whew, no, that's Bob."
+dialogue,Mike,"What, is he your pet rat?"
+dialogue,Phoebe,"Well not so much a pet as, you know, an occasional visitor who I put food out for, you know. Kinda like Santa. Except Santa doesn't poop on the plate of cookies."
+dialogue,Mike,"You can't keep a rat in your appartment! They're extremely unsanitary, and they transmit leptospirosis and hantavirus."
+dialogue,Phoebe,What are those?
+dialogue,Mike,I don't know but they don't sound like spa treatments. You have to get rid of it!
+dialogue,Phoebe,"OK, fine, if it means that much to you I'll get rid of Bob."
+dialogue,Mike,Thank you.
+dialogue,Phoebe,"So weird, you think he's so gross and you're willing to eat his crackers. (Mike throws out everything in his mouth)"
+heading,,"[Scene: Rachel's office, Rachel comes in and Gavin is there]"
+dialogue,Rachel,Hello.
+dialogue,Gavin,Hello
+dialogue,Rachel,"Gavin, I just wanted to say thank you again for watching Emma yesterday during the presentation. I really owe you an appology."
+dialogue,Gavin,For what?
+dialogue,Rachel,"Well, when we first met, you know, I thought you were pompous and arrogant and obnoxious ..."
+dialogue,Gavin,Is this your first appology?
+dialogue,Rachel,"No, I just mean that, you know, first impressions don't mean anything. And I-I think you're a really good guy and I'm sorry that I misjudged you."
+action,,(Heather walks in)
+dialogue,Heather,Good morning!
+dialogue,Rachel,"Hello. (to Gavin) But you know what, hey, new day, new leaf, I am just really really happy ... (sees Gavin staring at Heather) I'm sorry, obviously Heather's ass has something more important to say so I'll just wait 'till it's finished."
+dialogue,Gavin,What?
+dialogue,Rachel,I was giving you an appology and you were totally checking her out!
+dialogue,Gavin,"I wasn't checking her out. I'm in fashion, I was looking at her skirt. Or was it pants? I didn't really see what happened below the ass area."
+dialogue,Rachel,"Oh wow, you are really, you're really a creep."
+dialogue,Gavin,Why do you even care if I was looking at her? Are you jealous?
+dialogue,Rachel,"Oh yeah, I'm jealous. ""Oh Gavin, please, please look at my ass"". (Gavin starts looking) Stop looking at my ass! I mean, I just think you are totally inappropriate, ok? This is a work environment, she's your subordinate."
+dialogue,Gavin,I thought it was ok when you slept with your old assistant Tag.
+dialogue,Rachel,"That is totally different for two reasons. One - I didn't know that you knew that. And two, I wasn't some creep staring at his ass, we had a deap meaningful relationship."
+dialogue,Gavin,Huh. What's Tag's last name?
+dialogue,Rachel,"It was ... (can't remember) oh my god. He didn't have a last name. It was just ""Tag"". You know, like Cher, or, you know, Moses."
+dialogue,Gavin,But it was a deap meaningful relationship.
+dialogue,Rachel,"Oh, you know what - my first impression of you was absolutely right. You are arrogant, you are pompous ... Morgan! Morgan! Tag's last name was Morgan! Huh!"
+dialogue,Gavin,It was Jones.
+dialogue,Rachel,"Yeah well what are you, his boyfriend?"
+heading,,"[Scene: Coffee place, Molly holding Emma and talking to Joey]"
+dialogue,Joey,"Man, I wish I had a nanny like you."
+dialogue,Molly,"You mean, when you were a baby."
+dialogue,Joey,Sure.
+action,,(Chandler is staring at Molly)
+dialogue,Monica,Would you stop staring at her?
+dialogue,Chandler,I wasn't staring. I was leering.
+dialogue,Monica,What's the big deal with her? Maybe she's attractive in an obvious kind of way.
+dialogue,Ross,"Yeah, obvious beauty's the worst. You know, when it's right there in your face. Me, I like to have to work to find someone attractive. Makes me feel like I earned it."
+dialogue,Chandler,Looks like Joey is doing allright with her.
+dialogue,Monica,"Yeah. Hey, that was nice of you guys to back off and let Joey get the girl for once."
+dialogue,Molly,(to Ross) I'm gonna take her back to the appartment.
+dialogue,Ross,"Ok, I'll be home right after work. Ok, by Emma-Wemma-Demma, I love you - wovyou dovyou ..."
+dialogue,Molly,Bye
+dialogue,Monica,They've elected me to talk to you about the baby talk - it's not so good.
+dialogue,Molly,I think it's sweet. (goes to leave)
+dialogue,"Ross, Joey and Chandler","Bye, Emma-Wemma-Demma."
+dialogue,Rachel,"(to Joey) Hey, listen, Joey, about Molly, I really prefer if you didn't go after her."
+dialogue,Joey,Why not?
+dialogue,Rachel,"Because it took us months to find a good nanny and I wouldn't want anything to, you know, drive her away."
+dialogue,Joey,"So, what, you think I'm just gonna sleep with her and never call her again and things are gonna get uncomfortable? (thinks about it) Yeah, sounds about right."
+dialogue,Ross,"Come on, there are plenty of other women out thereok? Just - just forget about her, ok? Just, she's off limits."
+dialogue,Joey,"Oh, man, why did have to go and say that for? Now that you told me I can't have it makes me want her even more!"
+dialogue,Ross,"What are you, a child?"
+dialogue,Joey,Yes!
+dialogue,Ross,"Joey, come on now, for me! Please, just-just try to focus your sexual energy on someone else."
+dialogue,Joey,"Fine. (looks around, then focuses on Monica)"
+dialogue,Monica,(to Chandler) Take me home! (they quickly leave)
+heading,,"[Scene: Phoebe's place, Phoebe and Mike are there]"
+dialogue,Phoebe,Hey Mikey
+dialogue,Mike,Hey P
+dialogue,Phoebe,What are you doing?
+dialogue,Mike,Setting rat traps.
+dialogue,Phoebe,To kill Bob??
+dialogue,Mike,"No, no, to test his neck strength."
+dialogue,Phoebe,"No, Mike, I don't want to kill him! I thought we were just gonna capture him and, and you know, set him free in the country side where he can maybe meet a friendly possom and a wisecracking owl."
+dialogue,Mike,"Ok, ok, I'll throw away the traps."
+dialogue,Phoebe,"I'll find Bob, I'll get him. Bob? (starts looking) Bob! Robert! (looks at cabinet under sink) Oh wait, I think I hear him. Oh - Oh my god! Bob had babies! Bob's a mom!"
+dialogue,Mike,Better think of a new name for him.
+dialogue,Phoebe,"I don't know, I kinda like Bob for a girl."
+dialogue,Mike,"I don't know, I mean I'm not sure (they hear cracking voice from somewhere else in the kitchen, probably a rat caught in a trap) ..."
+dialogue,Phoebe,"Oh my god, we killed Bob!"
+dialogue,Mike,"Maybe it wasn't Bob, maybe it was a mouse."
+dialogue,Phoebe,Suzie? (Runs over there to check)
+heading,,"[Scene: Mon and Chan's, Ross enters]"
+dialogue,Ross,Whazzup??
+dialogue,Chandler,"Seriously dude, 3 years ago."
+dialogue,Ross,"Listen, can you do me a favor? I'm gonna be out today. Can you just keep an eye on Joey, make sure nothing happens between him and Molly?"
+dialogue,Chandler,You don't trust him?
+dialogue,Ross,"Wh - No. Some woman who sounded a lot like Joey called earlier and asked for her daughter, the ""hot nanny""."
+dialogue,Chandler,"Is this really your long term plan, for me to run interference? Because I could get a job any day now."
+dialogue,Ross,"You do appear right on the cusp of something. Come on man, I'm sure he'll lose interest in a week or two, but for now can you please just do this for me?"
+dialogue,Chandler,"Allright, fine, but don't blame me if it doesn't work. Because you know as well as I do that once Joey sets his mind on something, more often than not, he's going to have sex with it."
+dialogue,Ross,"Well we gotta do something, ok? Nannies like her don't grow on trees. (pause)"
+dialogue,Chandler,Picturing that tree?
+dialogue,Ross,"I am, yes."
+heading,,"[Scene: Hallway, Joey get out of his appartment and Chandler jumps out of his]"
+dialogue,Chandler,"Where you going, Joe?"
+action,,(Joey falls on floor and gets up)
+dialogue,Joey,For a walk.
+dialogue,Chandler,Oh. You mind if I join you?
+dialogue,Joey,"Actually, that will be long. You know, I really need to organize my thoughts."
+dialogue,Chandler,Your thoughts? Plural?
+dialogue,Joey,"Allright, fine, I only have one thought! It's about the hot nanny, I gotta see her!"
+dialogue,Chandler,"I'm afraid I can't let you do that, Joe."
+dialogue,Joey,"Now YOU'RE telling me I can't see her?? You guys are killing me! She's forbidden fruit! It's like ... like she's the princess and I'm the stable boy ... Why are you doing this, huh? Did Ross tell you not to let me go over there?"
+dialogue,Chandler,"Yes, as a matter of fact he did, so I can't let you go."
+dialogue,Joey,Huh. Interesting. Now there are obstacles. Hot nanny and me against the world. This is the kind of stuff great novels are made of.
+dialogue,Chandler,Great novels?
+dialogue,Joey,Fine ... mediocre porn
+heading,,"[Scene: Rachel's office, Rachel and Gavin there, phone rings, Gavin picks it up]"
+dialogue,Gavin,Gavin Mitchelle's office.
+dialogue,Rachel,"Rachel Green's office!! Give me that phone! (takes the phone) Hello, this is Rachel Green, how can I help you? Uh huh ... ok then ... I'll pass you back to your son (gives phone to Gavin)"
+dialogue,Gavin,"Hey Mom! No, that's just my secretary. (Rachel is upset)"
+dialogue,Rachel,"Um, excuse me Gavin, I have a question I need to ask you."
+dialogue,Gavin,"Mom, I'll call you later. Yeah. (hangs up) (to Rachel) Yes?"
+dialogue,Rachel,If you like looking at butts so much why don't you just go look at a mirror?
+dialogue,Gavin,"Thank god you finally said that, I saw you make a note on your pad three hours ago. (Rachel throws away that paper) Man, I really bug you, don't I?"
+dialogue,Rachel,"Oh, please, I don't care about you enough to bug me. In fact, from now on, I'm going take the high road. And I'm going be very very nice to you, you ""momma's boy"", starting right now."
+action,,"(door knock, Monica enters)"
+dialogue,Monica,Hey Rach!
+dialogue,Rachel,Hi!
+dialogue,Monica,Ready for your birthday lunch?
+dialogue,Rachel,"Yeah I am, I am! Oh, but first of all, Monica, I would like to introduce you to my very talented colleage and more importantly my wonderful friend Gavin Mitchelle."
+dialogue,Gavin,Pleased to meet you.
+dialogue,Monica,Pleased to meet you. So you're coming to Rachel's party tonight?
+dialogue,Rachel,"Oh no no no no no, Gavin can't, he already has plans, most likely with his mother."
+dialogue,Gavin,"Well I don't mind, I'll cancel. I would never miss my secretary's birthday. (leaves)"
+dialogue,Rachel,Why did you invite him?? I can't stand that guy!
+dialogue,Monica,You were just being so nice to him!
+dialogue,Rachel,I was faking it! Can't you tell when I'm being fake?
+action,,(A man walks by)
+dialogue,Rachel,"Hey, Mr Philips, nice suit!"
+dialogue,Monica,Right there! That was so fake!
+dialogue,Rachel,Shh!
+heading,,[Scene: Rachel's birthday party]
+dialogue,Rachel,"(to Monica) I still can't believe you invited Gavin. Allright, he is the last person I want to see."
+dialogue,Monica,"Oh, you're welcome for the party. I'm glad you're having a good time."
+dialogue,Rachel,"God, I hope he doesn't show up. Of course he's not gonna show up, the guy hates me."
+dialogue,Monica,Does he?
+dialogue,Rachel,What?
+dialogue,Monica,Maybe he's bothering you so much because he likes you. It's like in first grade when Skippy Langwild always pushed me on the playground because he secretly had a crush on me?
+dialogue,Rachel,"Oh, Monica, you think Skippy liked you? Honey, all those buys had a bet to see if he can knock you over."
+dialogue,Molly,"(with Emma in a basinet) She's out, I'm gonna take her home."
+dialogue,Rachel,"Oh, ok, thank you. (Molly leaves) (to Monica) Do you see what all the guys see in her?"
+dialogue,Monica,Wouldn't kick her out of bed. No more Vodka for me! (put her glass down)
+action,,(Joey comes over)
+dialogue,Joey,"Hey Rach, so can I sing happy birthday to you now?"
+dialogue,Rachel,"Yeah, sure!"
+dialogue,Joey,"Oh ... (Starts to sing) Happy birth ... (sees Molly leaving) oh, see you later (runs after Molly)"
+dialogue,Monica,"Hey Rach, somebody got you shoes!"
+dialogue,Rachel,"Oh, give me! (opens the box happily, then gets freaked and throws away the box, she and Mon jump up the sofa)"
+dialogue,Phoebe,"Be careful, be careful! These are my rat babies!"
+dialogue,Mike,Yeah. We have rat babies now.
+dialogue,Rachel,"Ahhhh , you brought rats to my birthday party?"
+dialogue,Monica,So this is what a stroke feels like.
+dialogue,Phoebe,"I had to bring them! We killed their mother, they're our responsibility now. You know, they require constant care. You should know that, Rachel, you're a mother."
+dialogue,Rachel,Are you comparing my daughter to a rat?
+dialogue,Phoebe,"No! Seven rats! I think we should take them home, we need feed them."
+dialogue,Rachel,"whhh wait, you're gonna leave my party to take care of a box of rats?"
+dialogue,Phoebe,"Well I'm sorry Rachel, but I'm not like you, ok? Not everyone can afford help. (she and Mike leave)"
+action,,"(Ross gets out of the bathroom, sees Chandler)"
+dialogue,Ross,Where the hell are Joey and Molly? I asked you to watch them.
+dialogue,Chandler,"(In a helium voice, holding a balloon) I'm sorry, I got a little occupied."
+dialogue,Ross,We have to stop them before something happens!
+dialogue,Chandler,"(still helium voice) Right behind you, big guy! (they both head for the door)"
+heading,,"[Scene: Ross's place, Molly and Joey are talking on the couch]"
+dialogue,Joey,"So you see, Molly, what people don't understand is that acting is a discipline. It takes a lot of hard work."
+dialogue,Molly,So where did you study?
+dialogue,Joey,"Oh, I didn't go to college."
+dialogue,Molly,"No, where did you study acting?"
+dialogue,Joey,Molly ... people don't study acting ...
+action,,"(Ross and Chandler walk in, Joey looks disappointed)"
+dialogue,Ross,"Molly, ah, do you mind giving us just a minute?"
+dialogue,Molly,"Sure, I'll go check on Emma."
+dialogue,Ross,Thanx.
+action,,(Molly gets up and walks away)
+dialogue,Joey,(upset) Will the stable boy never get the princess??
+dialogue,Ross,"What do you think you're gonna do, have sex with her right here on my couch?"
+dialogue,Joey,"No ... the leather sticks to my ass. You know, this isn't fair. What makes you think that I'm just gonna sleep with her and then blow her off? Huh? Can't you guys open your minds to the possibility that I actally like her, and might want something real? (pause) Look, the truth is, I haven't felt this way about anyone since Rachel, ok? I didn't think I could ever love again."
+action,,(pause)
+dialogue,Ross and Chandler,Come on! Joe!
+dialogue,Joey,Ok (admits)
+action,,"(knock on door, Ross opens, it's a woman)"
+dialogue,Woman,"Hi, is Molly here?"
+dialogue,Ross,"Yeah, come on in. Molly?"
+dialogue,Molly,"(goes out of the room) Hey! Guys, this is Tabatha (they kiss on the lips in a romantic way). (to Ross) I'll see you tomorrow."
+dialogue,Ross,"Ok ... (they leave the room, long pause) Well, uh, Joey, I guess we have no problem."
+dialogue,Joey,"It's like my favorite fairy tale come true! (Chandler looks at him) The princess, the stable boy and the lesbian!"
+heading,,"[Scene: Phoebe's place, Phoebe and Mike enter]"
+dialogue,Phoebe,"Ok, ok, you start preparing the formula and I start changing the box and then we gotta put them straight to bed."
+dialogue,Mike,"Hey, when did we become one of those couples whose lives revolve around their rats?"
+dialogue,Phoebe,"Well, you know what, they're our responsibility now."
+dialogue,Mike,"Ok, fine, these rats are our responsibility. What happens when they mate and there are hundreds of them?"
+dialogue,Phoebe,Mate? They're all brothers and sisters.
+dialogue,Mike,"Yeah - not such a problem with rats. No, they're more of a ""love the one you're with"" kind of animals."
+dialogue,Phoebe,"No. (opens the box) wh - get off your sister! Oh my god, what are we gonna do? We have 7 rats. So what if each of them has 7 rats? And then each of those have 7 rats? That's like ... (starts counting with her fingers) That's math I can't even do! What are we gonna do?"
+dialogue,Mike,"Well, I know this is gonna sound crazy, but, we could not let the box of rats ruin our lives."
+dialogue,Phoebe,"Yeah, ok. I guess you're right. Allright, so we should just give them away. But to nice families, with children, and reduced fat wheat thins. They're Bob's favorites."
+dialogue,Mike,It's gonna be ok.
+dialogue,Phoebe,You must think I'm crazy.
+dialogue,Mike,"No, I think you're sweet."
+dialogue,Phoebe,"Good. It's just so hard, it's hard for me to ... let them go. I guess it just brings back memories, you know, from ... when I gave birth to my brother's triplets and I had to give them up. (Mike is shocked) I haven't told you about that yet, have I?"
+heading,,"[Scene: Rachel's party, Rachel is on the balcony, Monica goes there also]"
+dialogue,Monica,Hey!
+dialogue,Rachel,"Hi. Thanks for the party, honey. Should I help you clean up?"
+dialogue,Monica,"No way! You had your party, now I have mine! Is everything alright?"
+dialogue,Rachel,"Yeah, I just get a little bummed when my birthday's over."
+dialogue,Monica,"Well, at least you have one thing to be happy about. That jerk Gavin from your office didn't show up (Gavin shows up at the balcony windows)."
+dialogue,Rachel,Mmm hmm.
+dialogue,Gavin,"Yeah, hey. (comes in to the balcony)"
+dialogue,Monica,"Oh, we weren't talking about you. No, no way to recover."
+dialogue,Rachel,No.
+action,,(Monica goes back inside)
+dialogue,Gavin,Nice party.
+dialogue,Rachel,"Well, it was, and you would have seen it if you didn't showed up at (looks at his watch) ... 9:30?? God! Oh, this party was lame ..."
+dialogue,Monica,"(from inside) Again, you're welcome."
+dialogue,Gavin,"Look, I'll just give you this and go."
+dialogue,Rachel,"Oh, you bought me a present! Why?"
+dialogue,Gavin,"Well, let me explain how birthday parties usually work. There are presents, and a cake, perhaps a fourth or fifth person. Ok, I ... got you the present to make up for being such a jerk to you earlier."
+dialogue,Rachel,"Aww. Well, ok, well that's very nice. And you wrote a card (opens the card). ""From Gavin"""
+dialogue,Gavin,I really mean it.
+dialogue,Rachel,"(opens the present, it's a green scarf) Awww, awww, it's beautiful."
+dialogue,Gavin,"You don't mind? (puts it around her neck) Well, what do you know, it fits!"
+dialogue,Rachel,"See, Gavin, you're capable of being a nice guy. Why did you give me such a hard time?"
+dialogue,Gavin,I'm not sure.
+dialogue,Rachel,Well Monica seems to think it's because you have feelings for me.
+dialogue,Gavin,I do have feelings for you.
+dialogue,Rachel,You do?
+dialogue,Gavin,"Yes, I feel that you are a little annoying."
+dialogue,Rachel,"See? Why, Gavin, why? Right when I'm about to change my opinion of you, you go and you ... (he kisses her) and you do that ... (they kiss again)"
+action,,"[cut to Ross from his appartment, holding baby toys and is shocked to see them kissing]"
+action,,Closing Credits
+dialogue,Chandler,"(sings in a helium voice) First I was afraid, I was petrified (very happy)"
+dialogue,Phoebe,(walks in) Hey
+dialogue,Chandler,(normal voice) Hi
+dialogue,Phoebe,"Listen, I think I've left something here."
+dialogue,Chandler,"Oh, well someone left this (shows a green jacket). This is yours?"
+dialogue,Phoebe,"(likes the jacket) No, but I like it. I think I left one of my rat babies."
+dialogue,Chandler,"Oh, uh, well, I haven't seem it but if I do I'll let you know."
+dialogue,Monica,Ohmygod! Rat baby! Rat baby! Rat baby! (screams from another room)
+dialogue,Phoebe,"(realizes) Ooh, maybe that's him!"

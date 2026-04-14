@@ -1,0 +1,257 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, Rachel is looking around the shop as Phoebe returns from getting some more coffee.]"
+dialogue,Rachel,Phoebe?
+dialogue,Phoebe,Yeah?
+dialogue,Rachel,"Look at that guy by the window, wow!"
+dialogue,Phoebe,"He’s awfully short and I think he’s talking to himself. And to be completely honest, he’s not that good in bed."
+dialogue,Rachel,"Oh, what is wrong with me lately? I mean it’s like every guy I see—I mean look here. (Points behind them) Look at that guy for example, I mean normally that’s not someone I would-would be attracted to, but right now, with the way I’m feeling, all I want to do is rip off his sweatpants and fanny pack."
+dialogue,Phoebe,"Wait a second! This is about the fourth month of your pregnancy, right?"
+dialogue,Rachel,Yeah.
+dialogue,Phoebe,"This is completely normal, around the fourth month your hormones start going crazy."
+dialogue,Rachel,Really?! So this has happened to you?
+dialogue,Phoebe,"Oh absolutely yeah! Oh and keep in mind, now, I was carrying triplets so in, y’know, medical terms I was-I was thrice as randy."
+dialogue,Rachel,"Wow! This explains so much! Last weekend, I went from store to store sitting on Santa’s lap."
+dialogue,Phoebe,"Yeah. Yeah, I remember trying to steal a cardboard cutout of Evander Holyfield from a Foot Locker ."
+dialogue,Rachel,Ah.
+dialogue,Phoebe,Yeah.
+dialogue,Rachel,"Well, y’know what? I go see my doctor tomorrow, I’ll ask her about this. Maybe she can give me a pill or something."
+dialogue,Phoebe,"Yeah. Yeah, that’s what you need a good…pill."
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Joey and Ross are there as Mona enters.]"
+dialogue,Mona,Hey! (To Joey) Hey!
+dialogue,Ross,Hi!
+dialogue,Mona,Hi! Look! I got our pictures developed from Rockefeller Center.
+dialogue,Ross,"Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?"
+dialogue,Joey,"Oh uh, ordinarily I would love too, but I am just swamped right now. (Brushes something off of his shirt and looks around, but doesn’t move from his chair.)"
+dialogue,Ross,Hey where-where are the pictures that creepy pretzel vendor took of us together?
+dialogue,Mona,"Oh yeah, probably at the end. (Flips to the end.) Oh my God! He only took pictures of my breasts!"
+dialogue,Joey,"I’m missin’ picture time?! (Jumps over to look, Ross glares at him and he retreats.)"
+dialogue,Phoebe,(sitting down next to Ross) Y’know she has a face Ross!
+dialogue,Mona,"Okay. Okay, here’s a good one of us."
+dialogue,Ross,"Wow! That is a good one! Wow, it looks like a, like a holiday card y’know, with the tree in the middle and the skaters and the snow."
+dialogue,Mona,"Y’know, every year I say I’m gonna send out holiday cards and I never do it. Do you wanna, do you wanna send this one out together?"
+dialogue,Ross,(pause) Together? Like-like to people?
+dialogue,Mona,"Yeah, y’know. Happy holidays from Mona and Ross. It’ll be cute, okay?"
+dialogue,Ross,Okay. (Not happy about it.)
+dialogue,Mona,"Oh, I gotta get to work. So call me later?"
+dialogue,Ross,"Uh sure, sure."
+dialogue,Mona,Bye guys.
+dialogue,Phoebe,Bye.
+action,,(Mona exits.)
+dialogue,Joey,(To Ross) Congratulations! You just got married!
+dialogue,Ross,I know. Can you believe that?
+dialogue,Phoebe,"Wait, I’m-I’m sorry. What’s the big deal about a holiday card?"
+dialogue,Ross,"Married couples send out cards, families send out cards, people who have been dating for a couple of months do not send out cards! What-what is she crazy?!"
+dialogue,Joey,"Hey-hey-hey, hey that’s your wife you’re talking about!"
+heading,,"[Scene: Chandler’s Office, his boss Doug is entering, Monica is there as well.]"
+dialogue,Doug,Bing! Ho! And the Bing-ette!
+dialogue,Chandler,"Honey, you remember my boss Doug right?"
+dialogue,Monica,"Yes, hi."
+dialogue,Doug,"Hi. So good news, the divorce is final. I signed the papers this A.M."
+dialogue,Chandler,"I didn’t know you and Carol were getting divorced, I’m sorry."
+dialogue,Doug,"Sorry? Finally chewed my leg out of that bear trap. Hey, congratulations to you guys though!"
+dialogue,Monica,No leg-chewing for us sir.
+dialogue,Doug,"Oh well, give it time. So the divorce, the marriage, we’ve got a lot to celebrate. How about we all go out to dinner tomorrow night?"
+dialogue,Monica,I can’t think of anything we’re doing. (Quietly) Why can’t I think of anything we’re doing?
+dialogue,Doug,"Tomorrow night it is then, I should be out of court by six. They keep throwing these sexual harassment cases at me and I keep knocking them out of the park!"
+dialogue,Monica,"Okay, I’ll see you tomorrow! (Doug exits.) Just so you know, we’re not seeing him tomorrow. (Chandler wonders why.) I-I cannot spend another evening with that man. Do you remember how he behaved at our wedding?"
+dialogue,Chandler,No.
+dialogue,Monica,That’s because he wasn’t invited because of the way he behaved at our engagement party.
+dialogue,Chandler,"Oh yeah. Boy, urine cuts right through an ice sculpture doesn’t it?"
+heading,,"[Scene: Ross's Apartment, there’s a knock on the door and he opens it to Mona.]"
+dialogue,Mona,Hi!
+dialogue,Ross,Hey!
+dialogue,Mona,"Hey, I went by the photo shop, take a look, here is a mockup of our card. What do you think?"
+dialogue,Ross,"Huh. Wow, this is great."
+dialogue,Mona,"Now, do you think it should say, ""Love Ross and Mona?"""
+dialogue,Ross,"Well, we-we haven’t said that to each other yet, but I guess its okay to say it to other people."
+dialogue,Mona,How many did you want? I’m getting a hundred.
+dialogue,Ross,"A hundred?! Well, I-I guess I’ll take a—Mona, uh…I-I’m not sure about the whole uh, card thing."
+dialogue,Mona,Really? Why not?
+dialogue,Ross,"Sending out a holiday card, together, I mean I just don’t know if we’re really quite there yet."
+dialogue,Mona,"Oh y’know, I didn’t think of it that way. You’re right. You’re right. So, can I ask you a question?"
+dialogue,Ross,Yeah.
+dialogue,Mona,Where are we?
+dialogue,Ross,Huh.
+dialogue,Mona,"Y’know, like where are we? Where is this relationship going?"
+dialogue,Ross,Hmm…
+dialogue,Mona,"I mean I love spending time with you, y’know I just—I hope we’re moving forward. I mean, we should probably talk about that. Don’t you think?"
+action,,(Pause.)
+dialogue,Ross,Let’s do the card!
+dialogue,Mona,What?
+dialogue,Ross,The card! I think we’re there!
+dialogue,Mona,Okay. I—But I think we should still have this conversation.
+dialogue,Ross,"Really?! I mean, even with the card?"
+heading,,"[Scene: Rachel’s Doctor’s Office, she is waiting for her doctor as a nurse enters.]"
+dialogue,Nurse,Hi!
+dialogue,Rachel,Hi!
+dialogue,Nurse,"Just so you know, Dr. Long can’t be here today, she was called to the hospital, so Dr. Schiff will be seeing you."
+dialogue,Rachel,"Oh, okay. Hey, can I ask you a question? Was it me, or-or was the guy who took my blood sample really cute? Y’know who I’m talking about, bald haircut, hairy fingers… (Stops when she realizes it was her.)"
+dialogue,Dr. Schiff,"(entering) Hi Rachel? I’m Dr. Schiff. (By the way, he’s an attractive man.)"
+dialogue,Rachel,"Yes, you are."
+dialogue,Dr. Schiff,"So, how’s it going?"
+dialogue,Rachel,"Oh, really, really good. But enough about me, come on! Where-where are you from? What do you do?"
+dialogue,Dr. Schiff,I’m a doctor.
+dialogue,Rachel,"Right! Right! I-I actually meant in your spare time, do you cook? Do you ski? Or do you just hang out with your wife or girlfriend?"
+dialogue,Dr. Schiff,"Uh, I don’t have a wife or girlfriend, but I do like to ski."
+dialogue,Rachel,"Oh, I love to ski! How amazing is this?!"
+dialogue,Dr. Schiff,"So, are you experiencing any discomfort?"
+dialogue,Rachel,No. I’m very comfortable.
+dialogue,Dr. Schiff,Any painful gas?
+dialogue,Rachel,"No! Shoot, Dr. Schiff what kind of question is that?!"
+dialogue,Dr. Schiff,"Okay then, would you like to lie down on the table?"
+dialogue,Rachel,Well would you like me to lie down on the table?
+dialogue,Dr. Schiff,"I’m sorry, is there something going on here?"
+dialogue,Rachel,Do you feel it too?
+heading,,"[Scene: Central Perk, Monica and Phoebe are there as Rachel enters.]"
+dialogue,Rachel,Hi.
+dialogue,Phoebe,"Oh hey! So, how did your doctor’s appointment go?"
+dialogue,Rachel,"Well, let’s see. Uh, they gave me cute doctor today and in the middle of the exam I put my pinky in his chin dimple."
+dialogue,Phoebe,Oh my God.
+dialogue,Monica,Why did you do that?
+dialogue,Phoebe,"Okay, remember that little problem I was having during my fourth month of pregnancy?"
+dialogue,Monica,"Oh yeah, the Evander Holyfield phase. Oh man you were so hard up you practically came on to me."
+dialogue,Phoebe,You wish.
+dialogue,Monica,"Hey, I could’ve had you if I wanted you."
+dialogue,Phoebe,Oh yeah? Come and get it.
+dialogue,Rachel,"Okay, even this is turning me on!"
+dialogue,Ross,(entering) Hey!
+dialogue,Rachel,"Oh hey! Hey Ross! Hey how’s it, how’s it going with you and Mona? Are you guys still together?"
+dialogue,Ross,"Oh yeah, yeah we’re moving forward. You’ll be getting our card!"
+dialogue,Monica,You and Mona are doing a holiday card together?
+dialogue,Ross,"Yeah, we’re not just doing a card! Y’know, she-she also wants to have the conversation about where the relationship is going."
+dialogue,Phoebe,Ugh! Women!
+dialogue,Ross,"I know! I know! Why do you guys need to have this conversation?! Huh? I mean no self-respecting man would ask a woman, ""So, where is this going?"""
+dialogue,Rachel,Uh Ross? You asked me that.
+dialogue,Ross,"Hey! You were a closed book! Okay? I’m not a mind reader! Besides, I hate those conversations. I’m horrible at them. Really! Maybe-maybe I need kind of a gesture. Y’know, something that says we’re moving forward without having to talk about it."
+dialogue,Monica,Like asking her to move in with you?
+dialogue,Ross,Smaller than that.
+dialogue,Monica,Making her a mixed tape?
+dialogue,Ross,"Uh, bigger than that."
+dialogue,Phoebe,Give her a key to your apartment.
+dialogue,Ross,Whoa-hello! We were closer with the mixed tape.
+dialogue,Monica,"All right. Have you said, ""I love you?"" You could say, I love you."
+dialogue,Ross,"Yeah I-I don’t-I don’t think I’m quite there yet, but I could say I looove spending time with you."
+dialogue,Phoebe,"No, we hate that."
+dialogue,Monica,That is a slap in the face.
+dialogue,Ross,"Forget it. I-I—Y’know what? I’ll just have the conversation. I’ll just say I like things the way they are, and hope for the best. What do you think Rach?"
+dialogue,Rachel,"I think, if it was a little colder in here I could see your nipples through that sweater."
+heading,,"[Scene: Chandler’s Office, Doug is entering.]"
+dialogue,Doug,"Bing! We’re all set for tonight, 8 o’clock."
+dialogue,Chandler,"Oh uh, as it turns out, we can’t do it. Monica has to work."
+dialogue,Doug,"Oh, my ex-wife didn’t work, unless you call turning into her mother work. Fine. Tomorrow night then."
+dialogue,Chandler,Oh uh well tomorrow’s no good for her either.
+dialogue,Doug,Oh? Why not?
+dialogue,Chandler,It’s the semi-finals…of her…botchy ball tournament.
+dialogue,Doug,"What’s going on Bing? Does uh, your wife have a problem with me or something?"
+dialogue,Chandler,Well now-now you’re just talking crazy.
+dialogue,Doug,So why can’t the three of us go out together?
+dialogue,Chandler,Because uh…we-we…we split up. Monica and I split up. Hold me.
+dialogue,Doug,"Good God Bing I…well I can’t say I’m altogether surprised, I saw the way she looked at you, and there was no love there. And the way she looked at me, pure lust."
+dialogue,Chandler,Y’know what would really help me through this tough time is choking something. Can I choke ya?
+dialogue,Doug,"Bing my boy, we’re gonna get you over this. Now here’s the plan, grab your coat, we’re going to a strip club."
+dialogue,Chandler,"Oh no-no-no, Monica would freak. (Doug looks at him.) But to hell with that bitch."
+heading,,"[Scene: Central Perk, Ross is getting Mona some coffee.]"
+dialogue,Ross,"Here we go. Mona umm, I think it’s time we-we had a conversation about-about where things are with us."
+dialogue,Mona,"Yeah, I-I think I suggested that."
+dialogue,Ross,"Aw, we-we are so…(Motions that they’re connected.) So umm, well I-I-I like you and I-I love umm, y’know hanging out with you. And I mean-I’m having a lot of fun. (He pauses and thinks there might be more, but decides there isn’t.)"
+dialogue,Mona,Okay.
+dialogue,Ross,"I mean, there’s no point in spending time with someone if-if it’s just fun. It’s gotta be, it’s gotta be going somewhere right? So where-where is it going? (Pause) Ah! That’s-that’s the real question. And-and the answer is…is it’s going somewhere…fun. Now I-I know what you’re thinking, fun was fine for you like ten years ago y’know, but you’re-you’re not getting any younger. No I mean—No not you, not you, you—you are getting younger. I mean—you-you look like you’re getting younger by the second—What’s your secret?"
+dialogue,Mona,"I’m sorry, so umm, so where are we?"
+dialogue,Ross,"Well, well to sum up, we’re having fun, you look young."
+dialogue,Mona,Okay…
+dialogue,Ross,But that’s not enough. So… So…here’s a key to my apartment. (Hands her his key.)
+dialogue,Mona,Really?!
+dialogue,Ross,Really.
+dialogue,Mona,You don’t think this is too fast.
+action,,(Ross groans no.)
+action,,Commercial Break
+heading,,"[Scene: Joey and Rachel's, Ross is telling Rachel and Monica about yet another mistake he’s made with a woman.]"
+dialogue,Rachel,You gave her a key to your apartment?!
+dialogue,Ross,"Not just a key, I gave her the only key! I am now a homeless person in a very serious relationship."
+dialogue,Phoebe,(entering with some guy) Hey. Ooh Ross! How’d the conversation go?
+dialogue,Ross,"Oh great, I live on the street."
+dialogue,Phoebe,Where?! (Ross exits.)
+dialogue,Rachel,Hey!
+dialogue,Phoebe,"Hi! Okay, Monica, Rachel, this is my friend Roger."
+dialogue,Roger,Hey everybody.
+dialogue,Monica,Hi Roger.
+dialogue,Phoebe,"So umm, I’m gonna get us some drinks. (To Rachel) Would you help me out?"
+dialogue,Rachel,Yeah. (They go into the kitchen.)
+dialogue,Phoebe,"Umm, he’s here to have sex with you."
+dialogue,Rachel,What?
+dialogue,Phoebe,You’re welcome.
+dialogue,Rachel,Phoebe no!
+dialogue,Phoebe,"It’s okay, he’s a virgin."
+dialogue,Monica,"Rachel umm, I was just talking to this guy and I think he’ll have sex with you."
+dialogue,Phoebe,"Yeah, okay let’s leave these two alone."
+dialogue,Rachel,"No! I do not care what my hormones are doing, I am not going to just do it with some random guy!"
+dialogue,Phoebe,Fine! Then you tell Roger because he was really looking forward to this! (Phoebe exits.)
+heading,,"[Scene: A Strip Club, Doug and Chandler are there.]"
+dialogue,Doug,"Oh Bing, look at those twin sisters dancing together. Let me buy you a lap dance with those girls. Huh?"
+dialogue,Chandler,"Oh that’s all right sir, and that’s just one girl."
+dialogue,Doug,Bing—What’s this?! (Grabs his hand.)
+dialogue,Chandler,It’s a hand. It’s a thing you use as a Jack and Coke holder.
+dialogue,Doug,"No, it’s a wedding ring. You gotta get rid of it. We’re gonna go to the East River right now and throw it in there!"
+dialogue,Chandler,Oh no-no-no!
+dialogue,Doug,"Oh yeah-yeah-yeah, y’know I did it and I felt a hell of a lot better and if you whip it just right you might hit a seagull in the head."
+heading,,"[Scene: Ross's Apartment, a locksmith has finished changing the locks on Ross’s door.]"
+dialogue,Ross,"Okay, and oh I’m gonna need a bunch of extra keys. Apparently I give them away for no reason at all."
+dialogue,Mona,"(entering) Hey Ross, what’s going on? You changing the lock?"
+dialogue,Ross,No. That guy is.
+dialogue,Mona,I don’t understand. You-you give me a key to your apartment and then you change the lock.
+dialogue,Locksmith,Good luck buddy. (Exits.)
+dialogue,Mona,"Umm, I-I thought we were moving forward and now you’re-you’re sending me all these mixed signals. What are you trying to tell me?"
+dialogue,Ross,I’m trying to tell you I made you a mix tape.
+dialogue,Mona,What?
+dialogue,Ross,I love you!
+dialogue,Mona,Ohh! (Hugs him.) And I love spending time with you. (Ross isn’t happy.)
+heading,,"[Scene: Monica and Chandler's, Monica is eating dinner as Chandler enters.]"
+dialogue,Chandler,Hi honey I’m home.
+dialogue,Monica,From the tequila factory?
+dialogue,Chandler,"It was awful. To get out of going to dinner with Doug I told him that you and I split up. So then he took me to all these strip clubs and sleazy bars, and then when I wouldn’t give him my wedding ring, he threw a soda can at a bird!"
+dialogue,Monica,Come here. I can breath through my mouth.
+dialogue,Chandler,"Y’know what the worse part was? I got to see what my life would be like without you. It was like It’s a Wonderful Life with lap dances. Please promise that you will never leave me, that we will grow old together, and be with each other for the rest of our lives."
+dialogue,Monica,"I promise. Hey, speaking of together, how about we send out a holiday card this year?"
+dialogue,Chandler,"Ooh, I don’t know if we’re there yet."
+heading,,"[Scene: Joey and Rachel's, Rachel is on the phone.]"
+dialogue,Rachel,"Yes. Hi, I’d like to order a pizza. Okay, can I ask you a question? Is-is the cute blond guy delivering tonight? Very Ambercrombie & Fitch . (Joey enters.) I’ll call you back."
+dialogue,Joey,Who was that?
+dialogue,Rachel,It’s just the pizza place.
+dialogue,Joey,You hung up on the pizza place? I don’t hang up on your friends.
+dialogue,Rachel,"I’m sorry honey, I’m just having a, having a rough day."
+dialogue,Joey,"Oh, what’s wrong?"
+dialogue,Rachel,"Oh you really, you really just don’t want to hear about it."
+dialogue,Joey,Then why did I ask?
+dialogue,Rachel,"Okay, it’s just—and this is really embarrassing—but lately with this whole pregnancy thing I’m just finding myself…how do I put this umm, erotically charged."
+dialogue,Joey,Is that college talk for horny?
+dialogue,Rachel,"Yeah. So y’know, I have all of these feelings and I don’t know what to do about them, because I can’t date like a normal person, which is fine because I don’t need a relationship, I mean all I really want is one great night. Just sex, y’know? No strings attached, no relationship, just with someone that I feel comfortable with and who knows what he’s doing. For just one great night, I mean is that really so…hard…to find. (Looks at Joey.) So how was your day?"
+dialogue,Joey,"Good, I uh, I saw a pretty big pigeon."
+dialogue,Rachel,"Well, I gotta get up early and it’s almost seven o’clock."
+dialogue,Joey,"Yeah, I gotta, I gotta go to my room too."
+dialogue,Rachel,"Okay, good night!"
+dialogue,Joey,Good night. (They both enter their rooms.)
+action,,(Pause.)
+dialogue,Joey,(entering) I can’t do it!
+dialogue,Rachel,(entering) I didn’t ask you to do it!
+dialogue,Joey,You’re Rachel!
+dialogue,Rachel,You’re Joey!
+dialogue,Joey,You’re my friend!
+dialogue,Rachel,Right back at ya!
+dialogue,Joey,"But plus, it would be wrong and weird and-and-and bad."
+dialogue,Rachel,And so bad. I don’t even know what you’re talking about because I didn’t ask you to do anything!
+dialogue,Joey,I know!
+action,,(Pause.)
+dialogue,Joey,Do you wanna do it?
+dialogue,Rachel,No!
+dialogue,Joey,"All right, me neither! I was just testing you!"
+dialogue,Rachel,That’s the end of this conversation!
+dialogue,Joey,This conversation never happened!
+dialogue,Rachel,Never happened! Good night!
+dialogue,Joey,Good night!
+action,,(They both go into their rooms and after a little while Rachel pokes her head into the living room.)
+dialogue,Joey,Get back in there! (Rachel re-enters her room and closes the door.)
+action,,Closing Credits
+heading,,"[Scene: Joey and Rachel's, Rachel is there as Phoebe enters.]"
+dialogue,Phoebe,"Hi. Listen, I’m sorry about that whole thing with Roger. It really wasn’t right, and I, and I want to make it up to you, so umm, I brought you something that I think you’ll really enjoy. (Goes into the hallway and returns carrying the Evander Holyfield cutout.) Now, this is just a loan. Okay? I’m gonna, I’m gonna want him back. So… (Looks at him longingly) I’m gonna go now. (Exits.) (Pause) (Entering) I’m sorry, I thought I could do it and I can’t! (She grabs the cutout and exits for good.)"
+action,,End

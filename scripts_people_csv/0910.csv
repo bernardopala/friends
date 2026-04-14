@@ -1,0 +1,345 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's Apartment, everyone's there; Phoebe recites the last verse of a poem to Joey. This poem is known as ""The Night Before Christmas"" by Clement Clarke Moore, but it seems that it's rather ""Account of a visit from St. Nicholas"" by Henry Livingston.]"
+singing,Phoebe,"...sprang to his sleigh, to his team gave a whistle;"
+singing,Phoebe,and away they all flew like the down of a thistle;
+singing,Phoebe,"but I heard him exclaim, ere he drove out of sight,"
+singing,Phoebe,"""Merry Christmas to all, and to all a goodnight!"""
+dialogue,Joey,"(impressed) Wow, that was great! You really wrote that?"
+dialogue,Phoebe,(smiling) Uh-huh.
+dialogue,Chandler,"(coming from the bedroom) Say goodbye elves, I'm off to Tulsa."
+dialogue,Monica,I can't believe you're not gonna be here for Christmas.
+dialogue,Ross,You're really not coming back?
+dialogue,Chandler,"Yeah, we have all this paperwork that needs to be filed by the end of the year. If I don't get it done, I'll be fired."
+dialogue,Monica,"It's so unfair, you don't even like your job!"
+dialogue,Chandler,"So, who does?"
+dialogue,Phoebe,"Oh, I like my job."
+dialogue,Joey,I *love* my job.
+dialogue,Rachel,"Yeah, I can't *wait* to go back to work."
+dialogue,Ross,I can't get *enough* dinosaurs!
+dialogue,Chandler,"I'm sorry, I won't be here."
+dialogue,Monica,"It's just... It's hard enough not seeing you during the week, but for Christmas... alright, if this is what you have to do, I understand."
+dialogue,Chandler,Thanks. (they kiss) I'll see you New Year's Day.
+dialogue,Monica,(shocked) You're not gonna be here New Year's Eve??
+dialogue,Chandler,Did I not mention that?
+dialogue,Monica,No!
+dialogue,Chandler,"(thinks for a second, then waves his arms, exclaiming:) AND TO ALL A GOOD NIGHT! (and runs out of the apartment)"
+action,,Opening Credits
+heading,,"[Scene: Chandler's Office in Tulsa, in the conference room. Chandler's staff/co-workers are sitting round the table; Chandler is walking around, when he notices a piece of paper attached to the back of his chair.]"
+dialogue,Chandler,"All right everybody, I know that it's Christmas Eve and you'd rather be with your families, but there's *no* call (he takes it off) for writing ""Screw you, Mr. Bing!"" on the back of my chair! (he looks at it) -- By the way, you can all call me Chandler."
+action,,"(Wendy enters the conference room, carrying a cardboard box.)"
+dialogue,Wendy,Hey!
+dialogue,Others,Hey.
+dialogue,Chandler,Hey. Where've you been?
+dialogue,Wendy,"I was, uh, checking out that insurance company's Christmas party on three, oh, it was really beautiful, they have all these decorations and this huge tree and I just, uh... to hell with them, we have to work. -- So I stole ther ham. (She turns the cardboard box upside down over the conference table, a big piece of ham falls out.)"
+dialogue,Chandler,"(to the others) You hear that? You may not be with your families, but at least it's gonna smell like ham in here."
+dialogue,Claudia,My kid's in a play right now.
+dialogue,Chandler,"Y'know what, I know what will cheer you guys up! (he starts spreading envelopes among them) I had a little talk with the boys in New York, told 'em about all the hard work you've been doing and that a little Christmas bonus may be in order."
+dialogue,Ken,"(reading off his card) ""A donation has been made in your name to the New York City Ballet""."
+dialogue,Chandler,"Well, that's like money in your pocket! - Alright look, you want me to say it? This sucks. Being here sucks! This work sucks!"
+dialogue,Wendy,*Now* it feels like Christmas.
+dialogue,Chandler,"I'm sorry. Hey, at least you guys get to go home and be with your families tonight. I have to go back to an empty hotel room and lay down on a very questionable bedspread. And then tomorrow morning, you get to have Christmas morning in your own houses, wich, by the way, none of you have invited me to."
+dialogue,Ken,You can come to my house!
+dialogue,Chandler,"Haha, no thanks!"
+dialogue,Wendy,That was a nice pep-talk.
+dialogue,Chandler,"Oh, thanks! I'm... actually thinking about becoming a motivational speaker."
+dialogue,Wendy,"So, if you were home right now, what would you be doing?"
+dialogue,Chandler,"Typical Christmas-y stuff, you know? Our holidays are pretty traditional..."
+action,,[Flashback to 0410 - The One With The Girl From Poughkeepsie]
+heading,,"[Scene: Central Perk, Phoebe is singing her holiday song.]"
+dialogue,Phoebe,"So here is a, a very special holiday song that I wrote for some very important people to me. (singing:)"
+singing,Phoebe,"""Went to the store, sat on Santa's lap."
+singing,Phoebe,Asked him to bring my friends all kinds of crap.
+singing,Phoebe,Said all you need is to write them a song.
+singing,Phoebe,"Now, you haven't heard it yet, so don't try to sing along."
+singing,Phoebe,"No, don't sing along."
+singing,Phoebe,"Monica, Moncia, have a happy Hanukkah."
+singing,Phoebe,"Saw Santa Claus, he said hello to Ross."
+singing,Phoebe,"And please tell Joey, Christmas will be snowy!"
+singing,Phoebe,"And Rachel and Chandler, have err-umm-glander!!"""
+action,,"Happy holidays, everybody!"
+action,,[Flashback to 0610 - The One With The Routine]
+heading,,"[Scene: Monica and Chandler's apartment, Chandler is there. Phoebe and Rachel enter.]"
+dialogue,Rachel,"Okay, Pheebs, you look in the kitchen, I will look in the back closet."
+dialogue,Chandler,"I can save you time ladies, I'm right here."
+dialogue,Phoebe,"Yeah, Chandler why don't you take a walk? This doesn't concern you."
+dialogue,Rachel,We are looking for our Christmas presents from Monica.
+dialogue,Chandler,What? That's terrible!
+dialogue,Phoebe,"No-no, we do it every year!"
+dialogue,Chandler,"Oh well, that, that makes it not terrible."
+dialogue,Phoebe,"No, yeah, we never find them! She's always best at us, that wily... minx."
+dialogue,Rachel,"Don't worry, we're just gonna search here for an hour, and then we're gonna go over to Joey's and search, OK?"
+dialogue,Chandler,"No not okay, you can't look for Monica's presents!"
+dialogue,Phoebe,"Oh no, we have to!"
+dialogue,Chandler,"No, you don't have to, and you can't because I, I live here too."
+dialogue,Phoebe,"Well then, you should look with us."
+dialogue,Chandler,Why?
+dialogue,Rachel,"Chandler, aren't you worried about what to get Monica for Christmas?"
+dialogue,Chandler,"No, I have a great idea for a present for her."
+dialogue,Phoebe,"Oh, that's it? (Mimics Chandler) A great idea! Oh yeah."
+dialogue,Rachel,"Chandler, that's not enough. I mean what if she gets you a great present, two medium presents, and a bunch of little presents? And you've just gotten her one great present? I mean that's just gonna make her feel bad. Why would you do that to her Chandler? Why? Why?"
+dialogue,Chandler,"If I help, we can find 'em faster!"
+dialogue,Rachel,That's right!
+action,,(Phoebe looks under the couch)
+dialogue,Phoebe,"Ooh ooh, we have a live one!"
+dialogue,Rachel,"Oh, it's a Macy's bag!"
+action,,"(Phoebe tips it upside down, and a shoe falls out)"
+dialogue,Rachel,Oh.
+dialogue,Phoebe,"Ooh, who's it for?"
+dialogue,Rachel,"(Reading from a tag that's attached to the shoe) ""Dear losers, do you really think I'd hide presents under the couch? P.S.: Chandler, I knew they'd break you."""
+action,,[Flashback to 0209 - The One With Phoebe's Dad]
+heading,,[Scene: Monica and Rachel's apartment. Joey and Chandler are giving out their Christmas presents out of a cardboard box from a case of motor oil.]
+dialogue,Joey,"Rach, these are for you."
+dialogue,Rachel,Wiper blades. I don't even have a car.
+dialogue,Joey,"No, but with this new car smell, you'll think you do."
+dialogue,Chandler,"OK, Pheebs, your turn."
+dialogue,Phoebe,"Ahh, toilet seat covers! Is that what you were doing while I was getting gas?"
+dialogue,Joey,Uh-huh.
+dialogue,Phoebe,You guuuyys.
+dialogue,Joey,"And for Ross, Mr. Sweet-tooth."
+dialogue,Ross,You got me a cola drink?
+dialogue,Chandler,"And, a lemon lime."
+dialogue,Ross,"Well this, this is too much, I feel like I should get you another sweater."
+dialogue,Chandler,And last but not least.
+action,,(Chandler and Joey give Monica a pack of condoms.)
+dialogue,Joey,They're ribbed for *your* pleasure.
+action,,[Flashback to 0710 - The One With The Holiday Armadillo]
+heading,,"[Scene: Monica, Chandler and Phoebe's, Ross is costumed as an Armadillo.]"
+dialogue,Ross,"Ooh, hey Ben, what if the Holiday Armadillo told you all about the Festival of Lights?"
+dialogue,Ben,Cool!
+dialogue,Ross,Yeah!
+dialogue,Monica,Come on Ben.
+action,,(Monica and Ben sit down on the couch.)
+dialogue,Ross,Years and years ago there were these people called the Maccabees...
+dialogue,Chandler,"(entering in a Santa costume) Ho, ho, ho! Merry Christmas!"
+dialogue,Ben,Santa! (Runs to Chandler and hugs him)
+dialogue,Chandler,Hey! (Grunts as Ben hits him at full speed.)
+dialogue,Ross,"What are you doing here, Santa?"
+dialogue,Chandler,"Well, I'm here to see my old buddy Ben. What are you doing here, weird...turtle-man?"
+dialogue,Ross,"I'm the Holiday Armadillo, your part-Jewish friend. You sent me here to give Ben some presents. Remember?"
+dialogue,Chandler,What?
+dialogue,Monica,"Okay Ben, why don't you come open some more presents, and Santa, the Armadillo and I have a little talk in the kitchen? There's a sentence I'd never thought I'd say."
+action,,(They walk to the kitchen; everyone is lowering their voices)
+dialogue,Ross,(to Chandler) What are you doing?
+dialogue,Chandler,"You called everyone and said you were having trouble finding a Santa costume, so I borrowed one from a guy at work!"
+dialogue,Ross,"Thank you, but, but you, you gotta leave."
+dialogue,Chandler,Why?
+dialogue,Ross,"Because, I'm finally getting him excited about Hanukkah, and, and you're-you're wrecking it."
+dialogue,Chandler,But I didn't get to shake my belly like a bowl full of jelly.
+dialogue,Ross,"I'm sorry Chandler, but this, this is really important to me."
+dialogue,Chandler,"Fine, I'll give the suit back."
+action,,(Ross turns around and walks back to Ben.)
+dialogue,Monica,"(to Chandler) Hey, you think, you can keep it another night? (She has a really teasing look on her face and keeps twirling Chandler's beard.)"
+dialogue,Chandler,Santa? Really?
+dialogue,Monica,"Yeah, is that okay?"
+dialogue,Chandler,Did your Dad ever dress up like Santa?
+dialogue,Monica,No.
+dialogue,Chandler,Then it's okaaay! (They kiss.)
+heading,,[Scene: Back in the conference room in Tulsa.]
+dialogue,Chandler,"You know what, everybody? Go home. You should be with your families. It's bad enough that we're working New Year's Eve."
+action,,"(All others are looking up, surprised)"
+dialogue,Chandler,"Did I not tell *anyone* about New Year's Eve? -- Alright, look, go! Go home, okay? Merry Christmas! Go."
+action,,"(All are leaving, wishing each other a Merry Christmas, peace on earth, etc. Only Wendy stays.)"
+dialogue,Chandler,"Good, God's speed, good people! (he starts to close the door, turns around and sees Wendy) You're not gonna go?"
+dialogue,Wendy,Naah... I couldn't leave you alone.
+dialogue,Chandler,Ah. Thanks.
+dialogue,Wendy,"Besides, I can't leave until their Christmas party downstairs clears out; there are some *pissed off* insurance people looking for that ham."
+dialogue,Chandler,Ah. (The phone rings; he answers it) Chandler Bing.
+heading,,"[Scene change back an forth: Monica and Chandler's Apartment, Monica's on the other end of the line. The phone's speaker is turned on, so the rest of the gang, sitting around the phone, can hear Chandler.]"
+dialogue,Monica,Hi Honey! We're all here; we just want to wish you a Merry Christmas.
+dialogue,Others,(simultaneously) Merry Christmas! (except for Phoebe...)
+dialogue,Phoebe,(simultaneous to the others) Ble-blah-blar Blargh!
+action,,"(All the others look at her, stunned/incredulous)"
+dialogue,Chandler,"Ahh, Merry Christmas; I miss you guys!"
+dialogue,Monica,So is it horrible? Is everybody working really hard?
+dialogue,Chandler,"Ah, well no, it's just uh, me and Wendy."
+dialogue,Monica,Wendy? -- That sounds like a girl's name.
+dialogue,Chandler,It is. Did I... not tell you about her?
+dialogue,Monica,"Umhmm, umhmm, about the time you told me about New Year's Eve. Where is everybody else?"
+dialogue,Chandler,I sent them home.
+dialogue,Monica,"Ohh, you are such a good boss! Is she pretty?"
+dialogue,Chandler,"Uhh, uh..."
+dialogue,Ross,"(in a low voice) Answer faster, answer faster!"
+dialogue,Chandler,I don't know!
+dialogue,Ross,"(in the same low voice) Answer better, answer better!"
+dialogue,Chandler,"I don't think of her that way, you know, she's a, she's a colleague."
+dialogue,Monica,What does she do there?
+dialogue,Chandler,"Oh, she's regional Vice President; She's... just below me."
+dialogue,Monica,She did WHAT?
+dialogue,Chandler,BE-LOW me!
+dialogue,Joey,"Ahh, wait, is Wendy the runner-up Miss Oklahoma?"
+dialogue,Monica,*What*??
+dialogue,Chandler,"Well, she... she didn't win..."
+dialogue,Monica,"Alright, well, maybe I should let you and the second prettiest girl in Oklahoma get back to work."
+dialogue,Chandler,"Well, second prettiest that year; I mean, of *all* the girls in Oklahoma, she's probably..."
+dialogue,Rachel,"(interrupting him) Oh Chandler, stop talking!"
+dialogue,Chandler,"Honey, there's really nothing to worry about."
+dialogue,Monica,Okay.
+dialogue,Chandler,I'm serious!
+dialogue,Monica,Okay!
+dialogue,Chandler,Merry Christmas.
+dialogue,Monica,Merry Christmas.
+dialogue,Chandler,"Merry Christmas, you guys!"
+dialogue,Others,"(simultaneously) Yeah, Merry... Christmas. (again, Phoebe...)"
+dialogue,Phoebe,"(simultaneous to the others) Blah blargah, blar-blab."
+action,,"(Again the others just look at her, silent, puzzled.)"
+heading,,[Scene: back in the conference room in Tulsa]
+dialogue,Chandler,"(hanging up the phone) The wife says ""Hi!""."
+dialogue,Wendy,Ah. Fun conversation?
+dialogue,Chandler,"Ah well, she's got this weird idea, that, uh, y'know, just because you and I are alone, that something is gonna happen."
+dialogue,Wendy,"Huh? Really? -- Hm, that'd be so terrible? (She gets hold of Chandler's tie, slowly moving her hands upwards on the tie, getting closer and closer to him, seductive.)"
+dialogue,Chandler,"This is probably the wrong thing to be worrying about, but... you're getting ham on my only tie."
+action,,"(She's getting closer to him, the scene fades to black.)"
+heading,,"[Scene: The conference room in Tulsa again, Chandler is trying to evade Wendy]"
+dialogue,Chandler,"Whoa-ho, back off, Missy! (He takes a step back, but she still keeps her grip on his tie.)"
+dialogue,Wendy,(laughs) ...Missy?
+dialogue,Chandler,I don't know; I'm not used to girls making passes at me! ... (She lets go of his tie) Wait a minute... am I sexy in Oklahoma?
+dialogue,Wendy,"You are to me... (She gets closer again, putting her arms around his torso.)"
+dialogue,Chandler,"(flattered) No,... no... (realizing) NO! (He quickly gets several steps away from her.) Look, I'm, I'm married!"
+dialogue,Wendy,So? I'm married. (Showing him the ring on her finger.)
+dialogue,Chandler,I'm *happily* married.
+dialogue,Wendy,Oh. - What's *that* like?
+dialogue,Chandler,"Right. So, I'm sorry..."
+dialogue,Wendy,"Seriously? Happily married. So that phone call before, that was ... happy?"
+dialogue,Chandler,"Well look, it's not easy to spend this much time apart, you know. She's entitled to be a little paranoid... or, in this case: right on money! ... You know, she's amazing, and beautiful, and smart, and if she were here right now, ...she'd kick your ass. Look, you're a really nice person... ham stealing and adultery aside. But, what I have with my wife is pretty great, so nothing is ever gonna happen between us."
+dialogue,Wendy,"Okay, let me ask you something: if what you and your wife have is so great, then why are you spending Christmas with me?"
+action,,(Chandler starts to think about it...)
+action,,[Flashback to 0716 - The One With The Truth About London]
+heading,,"[Scene: London, Chandler's hotel room. He was getting ready for bed when Monica pays him a visit and they started talking]"
+dialogue,Chandler,"I mean, you were the most beautiful woman in the room tonight!"
+dialogue,Monica,Really?
+dialogue,Chandler,You kidding? You're the most beautiful woman in most rooms... (She jumps up and kisses him.) (Breaking the kiss.) Whoa! Whoa! Whoa! What's going on? You and I just made out! You and I are making out?
+dialogue,Monica,"Well, not anymore."
+dialogue,Chandler,But we don't do that.
+dialogue,Monica,"I know, I just thought it would be fun."
+dialogue,Chandler,How drunk are you?
+dialogue,Monica,Drunk enough that I know I wanna do this. Not so drunk that you should feel guilty about taking advantage.
+dialogue,Chandler,(thinks) That's the perfect amount!
+dialogue,Monica,Okay!
+action,,"(They run to the bed, sit down, and start making out again.)"
+dialogue,Monica,(breaking the kiss) Y'know what's weird?
+dialogue,Chandler,What?
+dialogue,Monica,This doesn't feel weird!
+dialogue,Chandler,I know.
+dialogue,Monica,You're a really good kisser.
+dialogue,Chandler,"Well, I have kissed over four women. (They kiss again.) Do you wanna get under the covers?"
+dialogue,Monica,Hm-hmm!
+dialogue,Chandler,Okay!
+action,,(They do so and they take off their clothes.)
+dialogue,Monica,Wow! You are really fast!
+dialogue,Chandler,It bodes well for me that speed impresses you.
+dialogue,Monica,We're gonna see each other naked.
+dialogue,Chandler,Yep!
+dialogue,Monica,Do you wanna do it at the same time?
+dialogue,Chandler,Count of three?
+dialogue,Monica,One!
+dialogue,Chandler,Two!
+dialogue,Monica,Two!
+dialogue,Both,"Three! (They lift up the covers and check each other out, then come back up with silly grins on their faces.)"
+dialogue,Chandler,Well I think it's safe to say that our friendship is effectively ruined.
+dialogue,Monica,"Eh, we weren't that close anyway!"
+dialogue,Chandler,Eh! (They start making out again)
+action,,[Flashback to 0503 - The One With The Triplets]
+heading,,"[Scene: A hallway in the hospital, Monica and Chandler are talking.]"
+dialogue,Chandler,"So, are you really gonna go out with that nurse man?"
+dialogue,Monica,"Well uh, you and I are just goofing around, I thought, why not just goof around with him."
+dialogue,Chandler,"Y'know, I don't know if you've ever looked up the term goofing around in the dictionary... Well, I have, and the technical definition is, two friends who care a lot about each other and have amazing sex and just wanna spend more time together. But if you have this new fangled dictionary that gets you made at me, then we have to, y'know, get you my original dictionary. I am *so* bad at this."
+dialogue,Monica,I think you're better than you think you are.
+dialogue,Chandler,"Really? Okay, so..."
+dialogue,Monica,(interrupting) Know when to stop.
+dialogue,Chandler,"Y'know, I sensed that I should stop. So we're okay?"
+dialogue,Monica,"Yeah. (They kiss and as she starts to leave, Chandler starts to dance. Without turning around:) Don't do the dance."
+dialogue,Chandler,Right!
+action,,"[Flashback to 0524 - The One In Vegas, Part II]"
+heading,,"[Scene: The Gift Shop, Monica and Chandler are entering.]"
+dialogue,Monica,"I can't get married until I get something old, something new, something borrowed, and something blue."
+dialogue,Chandler,"Okay, all right, all right, all right! Okay! (Picks up a blue sweater.) Okay, here's something, here's something blue and new."
+dialogue,Monica,You're so efficient. I love you!
+dialogue,Chandler,Let's go! (Starts to leave.)
+dialogue,Monica,"No-no-no, wait! We need something old!"
+dialogue,Chandler,"Oh, okay, I have condom in my wallet that I've had since I was twelve."
+dialogue,Monica,That'll work!
+dialogue,Chandler,I don't think so.
+dialogue,Monica,"Okay, now we just need something borrowed!"
+dialogue,Chandler,(looks around) Here just...take this. (Hands her the sweater.)
+dialogue,Monica,That's stealing!
+dialogue,Chandler,"No, we'll-we'll bring it back! Just put it under your dress."
+action,,(She does so and it makes her look pregnant.)
+dialogue,Monica,Ohh. (Rubs her fake stomach.)
+dialogue,Chandler,"Okay, one thing at a time. (They run out to get married.)"
+action,,[Flashback to 0702 - The One With Rachel's Book]
+heading,,"[Scene: Monica, Chandler, and Phoebe's, Chandler is looking at the wedding book as Monica enters.]"
+dialogue,Monica,"Listen umm, I've been thinking, it's not fair for me to ask you to spend all of your money on our wedding. I mean, you work, you work really hard for that."
+dialogue,Chandler,Ehh.
+dialogue,Monica,"Eh, you work for that."
+dialogue,Chandler,"Look, I thought about it too, and I'm sorry. I think we should spend all of the money on the wedding."
+dialogue,Monica,You do?!
+dialogue,Chandler,"Yeah, I'm putting my foot down. Yeah look, when I proposed I told you that I would do anything to make you happy, and if having the perfect wedding makes you happy, then, then that's what we're gonna do."
+dialogue,Monica,"Oh, you're so sweet. (They hug and kiss.) Oh, but wait, what about our, what about the future and stuff?"
+dialogue,Chandler,"Eh, forget about the future and stuff! So we only have two kids, y'know? We'll pick our favorite and that one will get to go to college."
+dialogue,Monica,You thought about that?
+dialogue,Chandler,Yeah.
+dialogue,Monica,How many kids were we gonna have?
+dialogue,Chandler,"Uh, four, a boy, twin girls and another boy."
+dialogue,Monica,What else did you think about?
+dialogue,Chandler,"Well, stuff like where we'd live, y'know? Like a small place outside the city, where our kids could learn to ride their bikes and stuff. Y'know, we could have a cat that had a bell on its collar and we could hear it every time it ran through the little kitty door. Of course, we'd have an apartment over the garage where Joey could grow old."
+dialogue,Monica,"(laughs) Y'know what? I-I don't want a big, fancy wedding."
+dialogue,Chandler,Sure you do.
+dialogue,Monica,"No, I want everything that you just said. I want a marriage."
+dialogue,Chandler,You sure?
+dialogue,Monica,Uh-hmm.
+dialogue,Chandler,I love you so much.
+dialogue,Monica,I love you. (They kiss.)
+heading,,"[Scene: Monica and Chandler's Apartment, everyone except Chandler is there; they're opening their presents]"
+dialogue,Rachel,"(opens her present from Ross; it's a dark-red scarf) Oohh, I love it!"
+dialogue,Ross,Really? You're not gonna return it?
+dialogue,Rachel,"Well, not this second!"
+dialogue,Phoebe,"(at the window) Hey look, you guys, it's snowing!"
+action,,(The others all get up and go to the window.)
+dialogue,Rachel,"Oh wow, it's so beautiful..."
+dialogue,Ross,"Wow, it really is!"
+action,,"(They all stand a moment in silence, staring out of the window.)"
+dialogue,Monica,"""Wendy"" is a fat girl name."
+dialogue,Phoebe,Aren't we done with that?
+dialogue,Monica,"Okay, fine. Let's talk about snow. -- Do you think it's snowing in Tulsa, where my husband is having sex on a copying machine?"
+action,,"(Shortly after that, Chandler enters.)"
+dialogue,Chandler,Hey!
+action,,"(Surprised, uttering Ahhs and Ohhs, the others are coming over to him.)"
+dialogue,Ross,Oh my god...
+dialogue,Joey,"Hey-heeyyy - Look at that, it's a Christmas miracle!"
+dialogue,Monica,What are you doing here?
+dialogue,Chandler,I wanted to be with you. I missed you so much.
+dialogue,Joey,"Hey, hey, uh, who did you miss the most?"
+dialogue,Chandler,Monica.
+dialogue,Joey,Got ya. (blinks an eye)
+dialogue,Chandler,I never want to leave you again!
+dialogue,Monica,"But I thought if you left, you get fired."
+dialogue,Chandler,Turns out they can't fire me. Because I quit.
+dialogue,Monica,What?
+dialogue,Ross,"What, you, you really quit your job?"
+dialogue,Chandler,"Yeah! It's a stupid job, and I could not stand leaving you. And why should I be the only one who doesn't get to do what he *really* wants to do?"
+dialogue,Rachel,What do you really want to do?
+dialogue,Chandler,(realizing) I have *not* thought this through!
+dialogue,Monica,Oh my god!
+dialogue,Chandler,"I know, I, I should have talked to you first about it."
+dialogue,Monica,"No, I think that this is what you wanna do, I think it's great!"
+dialogue,Chandler,Thanks!
+dialogue,Phoebe,"Chandler, your being here is the best Christmas present I could have ever imagined."
+dialogue,Chandler,(flattered) Ahh...
+dialogue,Phoebe,Now give me my real gift.
+action,,"(Chandler hands Phoebe an envelope, and some more to Monica)"
+dialogue,Phoebe,(to Chandler) Thank you.
+dialogue,Chandler,"(to Monica) Here, pass these, will ya.. (points to the others)"
+action,,"(Monica passes the Envelopes on to Ross, Joey and Rachel.)"
+dialogue,Ross,"Oh, hey..."
+action,,(They all open their envelopes.)
+dialogue,Ross,"(reading off his card) ""A donation has been made in your name to the New York City Ballet."" -- How did you know?"
+dialogue,Rachel,Wha... are you kidding? I can't return this.
+dialogue,Chandler,"I... thought it was a timely start to thinking about other people. Besides, this gift still says I love you guys."
+dialogue,Joey,Mine's is to Lilian Myers.
+dialogue,Chandler,I don't have a *job*!
+action,,Closing Credits
+heading,,"[Scene: Monica and Chandler's Apartment, Monica is cleaning up, Chandler is sitting on the couch, checking the Job offers in a Newspaper.]"
+dialogue,Chandler,"Actuary... no. Book-keeper... no. Topless dancer... (he looks down on himself, checking, then nods satisfied and marks the offer with a pen) (to Monica:) Hey, d'you know what I just realized? You are the sole wage earner. *You* are the head of the household. I don't do anything - I'm a kept man!"
+dialogue,Monica,"You are! (she picks up a bill from the table, handing it to Chandler) Hey, here's twenty bucks. -- Why don't you go buy yourself something pretty while I'm at work tomorrow?"
+action,,"(Chandler looks at the bill, thinking... then looks at the offer in the Newspaper and makes some dancing moves to see if he's up for the job...)"
+action,,End

@@ -1,0 +1,261 @@
+script_element,character,text
+heading,,"[Scene: Central Perk, everyone is there.]"
+dialogue,Phoebe,"Oh, Ross, Mon, is it okay if I bring someone to your parent’s anniversary party?"
+dialogue,Monica,Yeah.
+dialogue,Ross,Sure. Yeah.
+dialogue,Joey,"So, who’s the guy?"
+dialogue,Phoebe,"Well, his name is Parker and I met him at the drycleaners."
+dialogue,Chandler,"Oooh, did he put a little starch in your bloomers? (Sits up) Who said that?"
+dialogue,Phoebe,"Yeah, he’s really great though. He has this incredible zest for life, and he treats me like a queen, except at night when he treats me like the naughty girl I am."
+dialogue,Monica,"(To Ross) Oh, by the way. Would it be okay if I gave the toast to mom and dad this year?"
+dialogue,Ross,"Uh, yeah, you sure you want to after what happened at their 20 th ?"
+dialogue,Monica,"Yeah, I’d really like to."
+dialogue,Ross,"Okay, hopefully this time mom won’t boo you."
+dialogue,Monica,"Yes! Every year Ross makes the toast, and it’s always really moving, and always makes them cry. Well this year I’m going to make them cry."
+dialogue,Chandler,And you wonder why Ross is their favorite?
+dialogue,Monica,"No! Really! Any time Ross makes a toast everyone cries, and hugs him, and pats him on the back and they all come up to me and say, ""God, your brother."" Know what they’ll say this year? ""God, you"""
+dialogue,Joey,"Well I can promise you, at least one person will be crying. (Points to himself) I’m an actor, and any actor worth himself can cry on cue. (snaps fingers)"
+dialogue,Monica,Really you can do that?
+dialogue,Joey,Are you kidding me? Watch! (Makes funny faces trying to cry) Well I can’t do it with you guys watching me!
+action,,Opening Credits
+heading,,"[Scene: Chandler and Monica’s, they’re getting ready to leave for the party.]"
+dialogue,Chandler,What are you doing?
+dialogue,Monica,"Oh I’m working on my toast for the party, or as I like to call it. Sob fest 2002. Hey check this out. (Hands him a picture.)"
+dialogue,Chandler,It’s a dog.
+dialogue,Monica,It’s a dead dog. That’s Chi-Chi; she died when I was in high school.
+dialogue,Chandler,It’s your parents’ anniversary and you’re going to talk about their dead pet?
+dialogue,Monica,"The good stuff, huh?"
+action,,"(Ross, Joey, and Rachel enter)"
+dialogue,Rachel,Hi!
+dialogue,Ross,Hey!
+dialogue,Joey,Hey!
+dialogue,Monica,You got a present for my parents. That’s so sweet.
+dialogue,Joey,"Yeah, yeah, in honor of their 35 th wedding anniversary, I had a star named after them."
+dialogue,Ross,Aww that is so cool.
+dialogue,Joey,And I got them a book on Karma Sutra for the elderly.
+dialogue,Rachel,"Hey, do you guys have any extra ribbon?"
+dialogue,Chandler,"Yeah, sure. What do you need? We got lace, satin, sateen, raffia, gingham, felt, (Pause) and I think my testacles may be in here too."
+dialogue,Ross,"(picking up Chi-Chi’s picture) Aww! Chi-Chi! Oh, I loved this dog! Y’know Monica couldn’t get braces because Chi-Chi needed knee surgery."
+dialogue,Monica,What?!
+dialogue,Ross,You were the 200-pound 11-year-old who rode her!
+action,,(Phoebe and Parker enter)
+dialogue,Phoebe,Hey!
+dialogue,All,Hi!
+dialogue,Phoebe,"Everybody, this is Parker, Parker this is…"
+dialogue,Parker,"No, no, no wait! Don’t tell me. Let me guess. (Points as he says their names) Joey, Monica, Ross, Rachel and, I’m sorry Phoebe didn’t mention you. (Chandler makes a face) Chandler, I’m kidding all ready you’re my favorite!"
+dialogue,Chandler,Ha!
+dialogue,Parker,Why don’t all of you tell me a little about your self?
+dialogue,Ross,"Ah, actually, I’m sorry we-we probably should get going."
+dialogue,Parker,"(laughs) Classic Ross. Rachel, Rachel, oh how you glow. May I? (Puts hand on her stomach)"
+dialogue,Rachel,"I, uh, think you already are."
+dialogue,Parker,"Rachel, you have life growing inside you. Is there anything in this world more miraculous than—Oh a picture of a dog! Whose is this?"
+dialogue,Monica,That’s my old dog. He passed away years ago.
+dialogue,Parker,"Oh well, at least you were lucky to have him. Bow-wow old friend, bow-wow. So where’s the party?"
+dialogue,Monica,It’s out on the island. It’s in Massapequa.
+dialogue,Parker,"Maaaassapequa, sounds like a magical place. Tell me about Massapequa, is it steep in Native American history? {Transcriber’s Note: Interestingly Alec Baldwin was born in Massapequa.}"
+dialogue,Ross,"Well, there is an Arby’s in the shape of a tee-pee."
+dialogue,Monica,"Okay, I got my note cards. (To Chandler) Do you got the presents?"
+dialogue,Chandler,Yeah.
+dialogue,Monica,And I’ve got the car keys.
+dialogue,Parker,We’re driving!?
+dialogue,Monica,Yeah.
+dialogue,Parker,Aces!
+action,,(Everyone except Ross and Rachel leave.)
+dialogue,Ross,"So uh, he seems like a nice guy."
+dialogue,Rachel,"Yeah, yeah I like him a lot."
+dialogue,Ross,Ya wanna hang back and take our own cab?
+dialogue,Rachel,"Yeah, otherwise I’m not going."
+heading,,"[Scene: The Anniversary Party, Ross and Rachel are arriving and see his parents.]"
+dialogue,Mr. Geller and Mrs. Geller,Hi
+dialogue,Ross,Hi! (Kisses his mom.) Hey mom.
+dialogue,Rachel,"This is such a great party! 35 years. Very impressive, do you guys have any pearls of wisdom?"
+dialogue,Mrs. Geller,Jack?
+dialogue,Mr. Geller,Why would you serve food on such a sharp stick? (Looking a toothpick)
+dialogue,Ross,"That’s a good question, dad. That’s a good question…"
+dialogue,Rachel,Hmmm….
+dialogue,Woman,(To Ross and Rachel) Congratulations you two!
+dialogue,Rachel,Thank you…we’re so excited
+dialogue,Woman,"And also, congratulations on your wedding."
+dialogue,Ross,Wha—What?
+dialogue,Mrs. Geller,"Can we talk to you for just a y’know… It’s just a little thing. Well we think it’s absolutely marvelous that you’re having this baby out of wedlock, some of our friends are less open-minded. Which is why we’ve told them all that you’re married."
+dialogue,Ross and Rachel,What?!
+dialogue,Mrs. Geller,Thanks for going along with this.
+dialogue,Ross,Dad so what we have to pretend that we’re married?
+dialogue,Mr. Geller,"Son, I had to shave my ears for tonight. You can do this."
+dialogue,Ross,Can you believe that?
+dialogue,Rachel,"Yeah, if you’re going to do the ears, you might as well take a pass at the nosal area."
+dialogue,Ross,"No, us having to lie about being married."
+dialogue,Rachel,"No, I know I don’t either, but ya know what, it’s their party, and it’s just one night. And we don’t even have to lie; we just won’t say anything. If it comes up again, we’ll just…smile. We’ll nod along."
+dialogue,Woman,Ross!
+dialogue,Man,Rachel!
+dialogue,Ross,"Hi Aunt Lisa, Uncle Dan"
+dialogue,Aunt Lisa,"Congratulations on the baby, and on the wedding"
+dialogue,Ross and Rachel,Hmmmm….
+dialogue,Uncle Dan,Here’s a little something to get you started. (Hands them a check)
+dialogue,Rachel,Oh…
+dialogue,Aunt Lisa,"So, how’s married life treating you?"
+dialogue,Rachel,(looking at the check) Unbelievable!
+dialogue,Ross,We love marriage!
+dialogue,Aunt Lisa,Great!
+action,,(The rest of the gang arrives including Parker.)
+dialogue,Ross,Hey
+dialogue,Phoebe,Hey!
+dialogue,Parker,"What a beautiful place. What a great night! I have to tell you, being here with all of you in Event Room C…I feel so lucky. I think of all the good times that have happened here. The birthdays, the proms, the mitzvahs both bar and bat, but none of them will compare with tonight! My God, I don’t want to forget this moment! It’s like I want to take a mental picture of you all! Click! (He takes a mental picture of them all.)"
+dialogue,Chandler,I don’t think the flash went off.
+dialogue,Parker,"Dahaaa! (Punches Chandler in the arm and he makes a face of pain.) I’m going to find the men’s room, be right back."
+dialogue,Phoebe,I’ll go with you
+dialogue,Parker,Come on!
+dialogue,Chandler,Somewhere there is someone with a tranquilizer gun and a huge butterfly net looking for that man.
+dialogue,Joey,"I have to go to the bathroom too, but I don’t want him complimenting my thing."
+dialogue,Ross,I’m so we weren’t in the car! Did he ever let up?
+dialogue,Monica,He called the Long Island Expressway a concrete miracle.
+dialogue,Ross,(imitating Parker) This room! This night! That waiter! His shoes! I must take a mental picture! (He backs into someone.) Ooh sorry…(He looks behind him then notices its Phoebe then stops his impression.)
+dialogue,Phoebe,Were you guys making fun of Parker?
+dialogue,Ross,"That depends, how much did you hear?"
+dialogue,Phoebe,"So, he a little enthusiastic, what’s wrong with that?"
+dialogue,Monica,"It’s just that, it’s so much."
+dialogue,Phoebe,"Well, so what I like him! Do I make fun of the people you’ve dated? Tag, Janice, Mona? No, because friends don’t do that. But, do you want my opinion? Do you want it? ‘Cause in my opinion, your collective dating record reads like the who’s who of human crap. (Walks off)"
+dialogue,Monica,I feel terrible.
+dialogue,Joey,I know
+dialogue,Ross,What was wrong with Mona?
+action,,Commercial Break
+heading,,"[Scene: The Anniversary Party, Ross and Rachel have just gotten another wedding present.]"
+dialogue,Rachel,Open it! Open it! Open it!
+dialogue,Ross,Yeah baby!
+dialogue,Man,So we never got to hear about your wedding!
+dialogue,Woman,We were surprise that we weren’t invited.
+dialogue,Ross,"No, no, it was just our parents and 1 or 2 friends. It was a small wedding."
+dialogue,Rachel,"But it was beautiful. I mean it was small, but kind of spectacular."
+dialogue,Man,Where did you have it?
+dialogue,Rachel,"On a cliff, in Barbados, at sunset, and Stevie Wonder sang Isn’t She Lovely as I walked down the aisle."
+dialogue,Woman,Really?
+dialogue,Rachel,"Yeah, Stevie’s an old family friend. (Hits Ross’s chest)"
+dialogue,Woman,Oh my God. That sounds amazing. I would love to see pictures.
+dialogue,Rachel,So would I. You wouldn’t think that Annie Liebawitz would forget to put film in the camera.
+dialogue,Ross,Would you excuse us for a second? (Pulls Rachel off to the side) Umm…. what are you doing?
+dialogue,Rachel,What? I’m not you. This may be the only wedding I ever have. I want it to be amazing.
+dialogue,Ross,"Okay, okay. Ooooh, ooh maybe I rode in on a Harley ."
+dialogue,Rachel,"Okay, Ross, it has to be realistic."
+action,,(Cut to Phoebe and Parker)
+dialogue,Parker,Are you okay? You seem kind of quiet.
+dialogue,Phoebe,"No, I’m fine. I’m great. I’m with you."
+dialogue,Parker,And I’m with you! What a great time to be alive! Look at this plate-bouncy thing. (Bounces the plates) What an inspired solution to man’s plate dispensing problems.
+dialogue,Phoebe,"Hm huh, yeah."
+dialogue,Parker,Ah! Oysters! Let me feed you one.
+dialogue,Phoebe,"No, that’s not necessary."
+dialogue,Parker,Please.
+dialogue,Phoebe,"No, actually I don’t eat…"
+dialogue,Parker,I won’t quit until you try.
+dialogue,Phoebe,"Okay, fine! Fine! (Takes the oyster and pretends to eat it while dropping it on the floor) Mmm…hmmmmm…."
+dialogue,Parker,What are they like? I’ve never had one.
+dialogue,Phoebe,Why don’t you just try one?
+dialogue,Parker,"No, they look too weird."
+action,,(Cut to Monica and Chandler)
+dialogue,Chandler,What are you doin’?
+dialogue,Monica,Just going over my toast. Those two will never know what hit ‘em. I can’t wait. They’re going to be crying so hard. They’re going to be fighting for breath.
+dialogue,Chandler,"Ya know if you want to, I can just hold them down and you could (Punches the air)."
+action,,(Cut to Rachel and Ross)
+dialogue,Rachel,"And my veil was lace, made by blind, Belgium nuns."
+dialogue,Woman,Blind?
+dialogue,Rachel,"Well, not at first, but it was very intricate work and they said even though they lost their sight, it was all worth it."
+dialogue,Aunt Lisa,I’ll bet you looked beautiful…
+dialogue,Rachel,"Well, I don’t know about that, but some said that I looked like a floating angel."
+dialogue,Woman,"(To Ross) So, how did you propose?"
+dialogue,Rachel,Oh yeah. That’s a great story.
+dialogue,Ross,"Well, um, actually, I-I took her to the planetarium. That’s-that’s where we had our first date. Um, she walked in and I had the room filled with lilies, her favorite flower…"
+dialogue,Aunt Lisa,Oh that is so sweet!
+dialogue,Rachel,Shhh! I want to hear the rest!
+dialogue,Ross,"Then, Fred Astaire singing The Way You Look Tonight came on the sound system, and the lights came down. And I got down on one knee and written across the dome in the stars were the words ""Will you marry me?"""
+action,,(Various oohs and ahhs)
+dialogue,Rachel,"And the ring, was the size of my fist (makes a fist)!"
+action,,(Cut to Phoebe and Joey)
+dialogue,Joey,"Yeah uh, Phoebe! Look umm, I want to apologize about before, okay? We were being jerks. Parker’s a nice guy and I’d like to get to know him."
+dialogue,Phoebe,Then you better do it now.
+dialogue,Joey,Why?
+dialogue,Phoebe,Because I’m going to kill him
+dialogue,Joey,What-what?
+dialogue,Phoebe,"You guys were right. He’s just too excited about…everything. I mean I’m all for living life, but this is the Geller’s 35 th anniversary. Okay? Let’s call a spade a spade this party stinks."
+dialogue,Joey,"I know I’m having the worst time. There was a 15-minute line for the buffet, and when I finally got up to the plates, I slipped on a giant booger!"
+dialogue,Phoebe,Are you sure it wasn’t an oyster?
+dialogue,Joey,"I guess it could’ve been, I didn’t really look at it. Y’know, I just wiped it on Chandler’s coat and got the hell out of there."
+dialogue,Phoebe,He’s just such a great guy I’m so excited about him.
+dialogue,Joey,"Oh hey, you should be excited about him. There’s nothing wrong with him he’s a good guy."
+dialogue,Phoebe,You think?
+dialogue,Joey,Yeah. Ya know what I think; I think we were all just being too negative.
+dialogue,Phoebe,"You’re right. You’re right, he’s just embracing life. We could all stand to be a little more like Parker. You know what? I am like him! I’m a sunny, positive person."
+dialogue,Joey,"Actually, you have a little bit of an edge."
+dialogue,Phoebe,What’s that now?
+dialogue,Joey,Nothing…
+dialogue,Phoebe,Oh look it’s Parker!
+dialogue,Parker,Look! It’s the bunny hop!
+dialogue,Phoebe,Oooh I love it!
+dialogue,Parker,You do?!
+dialogue,Phoebe,Are you kidding? People acting like animals to music. Come on!
+action,,"(Cut to Monica, at the microphone)"
+dialogue,Monica,"Okay it’s time for the toast! Umm now-now, I know that Ross usually gives the toast, but this year I’m going to do it."
+action,,(Everyone sighs)
+dialogue,Monica,"No, no it’s going to be great. Really! Mom, Dad, when I got married, one of the things that made me sure I could do it was the amazing example the two of you set for me. For that and so many other things I want to say thank you. I know I probably don’t say it enough, but I love you. (Pretends to cry hoping her parents will join her.) When I look around this room, I’m-I’m saddened by the thought of those who could not be here with us. Nana, my beloved grandmother who would so want to be here, but she can’t because she’s dead. As is our dog Chi-Chi. I mean look how cute she is. (Holds up the picture and pretends to cry again). Was. (To an old man by the stage.) Do me a favor and pass this to my parents. Remember she’s dead. Okay, her and Nana, gone. Wow! Hey does anybody remember when Debra Winger had to say goodbye to her children in Terms of Endearment ? (Chandler covers his ears) Didn’t see that? No movie fans?! You want to hear something sad? The other day I was watching 60 Minutes these orphans in Romania, who have been so neglected, they were incapable of love. (Waits for people to cry, but doesn’t get any tears.) You people are made of stone! Here’s to mom and dad! Whatever!"
+dialogue,Mrs. Geller,"Thank you Monica that was uh, interesting. Wasn’t it interesting, Jack?"
+dialogue,Mr. Geller,(looking at the picture) Why don’t I remember this dog?
+dialogue,Mrs. Geller,"Ross, why don’t you give us your toast now?"
+dialogue,Ross,"Oh, no, Mom, it’s just Monica this year."
+dialogue,Mrs. Geller,You’re not going to say anything? On our 35 th wedding anniversary
+dialogue,Ross,"No, of course, Um… Um, everybody? Um, I-I just wanted to say…on behalf of my new bride, Rachel (She turns around and smiles), and myself. Umm, that if…if in 35 years, we’re half as happy as you guys are, we’ll count ourselves the luckiest people in the world."
+dialogue,Mrs. Geller,(crying) Oh Ross…
+dialogue,Mr. Geller,I just wish Nana were alive to hear Ross’s toast.
+heading,,"[Scene: Phoebe’s apartment, Parker and her are entering.]"
+dialogue,Parker,My God what a fantastically well lit hallway!
+dialogue,Phoebe,Can I get you something to drink? Like a water and Valium?
+dialogue,Parker,"I must say this apartment, its, its, There are no words…"
+dialogue,Phoebe,Oh thank God.
+dialogue,Parker,It’s a haven. A third-floor paradise. A modern-day Eden in the midst…
+dialogue,Phoebe,"Yeah? I know! I know! Uh huh? Listen why don’t we just um, sit and relax? You know just be with each other. Quietly!"
+dialogue,Parker,That sounds great. (Sits down) My God this is the most comfortable couch I’ve ever sat on in my entire life. (Bounces on couch)
+dialogue,Phoebe,"Let’s try something else, let’s play a game."
+dialogue,Parker,I love games!
+dialogue,Phoebe,Shocking! Let’s play the game of who can stay quiet the longest. (Giggles)
+dialogue,Parker,Or… Jenga .
+dialogue,Phoebe,"But, let’s play this one first. And remember whoever talks first loses!"
+action,,(They sit back)
+dialogue,Parker,"I lose, now Jenga ."
+dialogue,Phoebe,Oh my God! Oh my God!
+dialogue,Parker,Is something wrong?
+dialogue,Phoebe,"Wrong? Really? You know the word wrong. Everything isn’t perfect? Everything isn’t magical? Everything isn’t a glow with the light of a million fairies? They were just brake lights, Parker!"
+dialogue,Parker,"Well, excuse me for putting a good spin on a traffic jam!"
+dialogue,Phoebe,You don’t have to put a good spin on everything.
+dialogue,Parker,I’m sorry that’s who I am. I’m a positive person.
+dialogue,Phoebe,"No! I am a positive person. You are like Santa Clause on Prozac, at Disneyland , getting laid!"
+dialogue,Parker,"So what do you want me to do, you want me to be more negative, less happy?"
+dialogue,Phoebe,Much less happy!
+dialogue,Parker,"Fine! Well then to quote Ross, ""I’d better be going."""
+dialogue,Phoebe,So long! Don’t let the best door in the world hit you in the ass on your way out! (He exits and she slams the door behind him.)
+action,,"(There’s a knock on door, and Phoebe opens it.)"
+dialogue,Parker,Isn’t this the most incredible fight you’ve ever had in your entire life?
+dialogue,Phoebe,Uh huh. (Closes door)
+heading,,"[Scene: Ross and Rachel’s, they’re returning from the party.]"
+dialogue,Ross,"…and then, we could’ve gone from the ceremony to the reception with you in the sidecar!"
+dialogue,Rachel,"Ross, it just wouldn’t have been feasible."
+dialogue,Ross,But having a dove place the ring on your finger would’ve been no problem?
+dialogue,Rachel,It was really fun being married to you tonight.
+dialogue,Ross,"Yeah! And! And, it was the easiest 400 bucks I’ve ever made."
+dialogue,Rachel,"Okay Ross, can I uh, can I ask you something?"
+dialogue,Ross,Yeah.
+dialogue,Rachel,"That proposal, at the planetarium…"
+dialogue,Ross,"I know, I know it was stupid."
+dialogue,Rachel,"Are you kidding?! With the, with the lilies, and-and the song, and the stars! It was…really wonderful! Did you just make that up?"
+dialogue,Ross,"No, actually I thought about it when, when we were going out. It’s how I imagined I uh, I would ask you to marry me."
+dialogue,Rachel,"Well, that would’ve been very hard to say no too."
+dialogue,Ross,"It’s a good thing I didn’t do it, because it sounds like it would’ve been a very expensive wedding. (Rachel laughs) Okay, good night"
+dialogue,Rachel,Goodnight
+action,,(They go off to their bedrooms)
+dialogue,Ross,Even if the sidecar had a windscreen so your hair wouldn’t get messed up?
+dialogue,Rachel,I will think about it.
+dialogue,Ross,That’s all I’m askin’
+action,,Closing Credits
+heading,,"[Scene: Central Perk, Ross and Monica are there.]"
+dialogue,Monica,"Okay that’s it. I give up. At mom and dad’s 40 th anniversary, you’re the one giving the speech."
+dialogue,Ross,Y’know I don’t understand why they didn’t cry. It was a beautiful speech.
+dialogue,Monica,"Oh, come on."
+dialogue,Ross,"Hey! All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad! And that picture of Chi-Chi with her mischievous grin. And what you said about Nana. Ohh, yeah she really would’ve wanted to be there. And you know what? I think she was."
+dialogue,Monica,"(starts to cry) Oh good God, Ross! How the hell do you do it?"
+action,,End

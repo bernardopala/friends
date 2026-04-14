@@ -1,0 +1,297 @@
+script_element,character,text
+heading,,"[Scene: Joey and Rachel’s, Joey is at the counter eating a bowl of Frosted Flakes .]"
+dialogue,Joey,"(thinking) All right . It’s a new day. All that stuff about Rachel, you don’t feel that now . It was crazy ! You’re fine . You’re better than fine ! You are, as your friend Tony would say, Grrrreat ! Everything’s normal ! She’s just your friend Rachel ! Your friend Rachel . Your friend ! Rachel ."
+dialogue,Rachel,"(coming from her room) Hi, sweetie."
+dialogue,Joey,"(thinking) Hey, it’s your girlfriend, Rachel !"
+action,,Opening Credits
+heading,,"[Scene: Monica and Chandler’s, Chandler is sitting on the couch watching TV as Monica comes out of the bathroom.]"
+dialogue,Monica,(airily) Hi.
+dialogue,Chandler,"Are you, are you high?"
+dialogue,Monica,I just had the most amazing bath.
+dialogue,Chandler,Really? I don’t like baths.
+dialogue,Monica,"Wait, you like them with me."
+dialogue,Chandler,"Honey, it’s not the bath I enjoy, it’s the wet, naked lady."
+dialogue,Monica,"Oh, baths are so relaxing!"
+dialogue,Chandler,Really? What do you do? You just sit in there stewing in your own filth.
+dialogue,Monica,"How dirty do you think I am? I’m telling you, if you had some candles and some bubbles and some music, you would love it! It would take all of your stress away."
+dialogue,Chandler,"Honey, it’s 2:00 on a Wednesday and I’m watching Road Rules , how stressed do you think I am?"
+dialogue,Joey,"(entering) Hey, Chandler, you got a minute? I-I really need to talk to you."
+dialogue,Chandler,"Oh! Uh, yeah! Is this a cold pizza talk or a leftover meatloaf talk?"
+dialogue,Joey,"Well, neither."
+dialogue,Chandler,"Oh my God, what’s up?!"
+dialogue,Joey,"I don’t know. It’s-it’s just…lately, I’ve been feeling… Okay, here’s what it is… (Pause) You know what? I feel a lot better, thanks! (Starts to leave)"
+dialogue,Chandler,"Oh no-no, no you don’t, just come back."
+dialogue,Joey,"All right. Okay. You and Monica, friends for a long time, and sure there are rules, but then you went to London. Oh, no, but that’s different. I mean, there are rules there, too! You know what I mean?"
+dialogue,Chandler,Do you?
+dialogue,Joey,"It was different for you guys! I mean, I mean, you were both in the same place, right?"
+dialogue,Chandler,In London?
+dialogue,Joey,Yeah.
+dialogue,Chandler,"Yes. When Monica and I were in London, we were both in London."
+dialogue,Joey,"You know what? This is a bad idea. Forget it. Forget it, and listen, do me a favor, this conversation was between you and me."
+dialogue,Chandler,If that.
+heading,,"[Scene: Central Perk, Phoebe and Rachel are sitting on the couch. Ross sits down.]"
+dialogue,Rachel,"Hi! Oh, Ross, don’t forget, we have that doctor’s appointment tomorrow!"
+dialogue,Ross,Right.
+dialogue,Phoebe,"Hey, are you going to find out the sex of the baby?"
+dialogue,Ross,"No-no, we talked about it. We don’t want to know. All we care about is that it’s happy and healthy."
+dialogue,Rachel,Yep! Happy and healthy! And cute!
+dialogue,Ross,And smart!
+dialogue,Rachel,Popular.
+dialogue,Ross,With an aptitude for science.
+dialogue,Phoebe,Are you two talking about the same baby? Hey! Have you started off thinking of names yet?
+dialogue,Rachel,Oh yeah! I’ve come up with a bunch of ideas!
+dialogue,Ross,Really? Me too!
+dialogue,Phoebe,Me too!
+dialogue,Rachel,Really?!
+dialogue,Phoebe,"Uh huh! If it’s a girl, Phoebe, and if it’s a boy, Phoebo!"
+dialogue,Ross,"Maybe. But it wouldn’t hurt to have a backup, you know? Uh, Rach-Rach, what were you thinking? (Gives her a look)"
+dialogue,Rachel,"Okay! I was thinking if it’s a girl, how about Sandrine? It’s French."
+dialogue,Ross,Huh. That’s a really pretty name for-for an industrial solvent.
+dialogue,Rachel,"Okay fine, what do you have?"
+dialogue,Ross,"Well, OK, it’s for a boy. Well, I know it’s a little out there, but…Darwin."
+dialogue,Rachel,"Wow, oh my God, our child will be beaten to death in the schoolyard."
+dialogue,Phoebe,"Yeah, by Sandrine."
+dialogue,Ross,You’re just saying that 'cause I said no to your name!
+dialogue,Rachel,"I’m really, really not."
+dialogue,Phoebe,How-how about you each get five vetoes?
+dialogue,Ross,All right.
+dialogue,Rachel,All right.
+dialogue,Ross,That sounds fair.
+dialogue,Rachel,"Yeah! I don’t think you’re going to need it though. Okay, check this out. If it’s a girl, Rain."
+dialogue,Ross,Veto.
+dialogue,Rachel,Why?
+dialogue,Ross,"Rain? Hi. Hi, my name is Rain. I have my own kiln, and my dress is made out of wheat."
+dialogue,Phoebe,I know her! I bought homemade soap from her at a Dead show!
+dialogue,Ross,"Okay, how about, for a guy, Thatcher?"
+dialogue,Rachel,"Ross, why do you hate our child?"
+dialogue,Ross,"Fine, you go."
+dialogue,Rachel,"Okay, James."
+dialogue,Ross,Huh.
+dialogue,Rachel,But only if it’s a girl.
+dialogue,Ross,"Oh, veto. How about—Ooh, I like Ruth! What about Ruth?"
+dialogue,Rachel,Oh! I’m sorry! Are we having an 89-year-old? How about Dayton?
+dialogue,Ross,Veto. Stewart?
+dialogue,Rachel,Veto. Sawyer?
+dialogue,Ross,Veto. Helen?
+dialogue,Rachel,Veto.
+dialogue,Phoebe,"Is it me, or is veto starting to sound really good?"
+heading,,"[Scene: Monica and Chandler’s, Monica comes from the bathroom as Chandler enters.]"
+dialogue,Chandler,Hey.
+dialogue,Monica,"Boy, do I have a surprise for you!"
+dialogue,Chandler,Sex on the balcony?
+dialogue,Monica,"No, but someone’s really not going to get over that idea, are they?"
+dialogue,Chandler,What is it?
+dialogue,Monica,I drew you a bath!
+dialogue,Chandler,"Honey, I don’t like baths! Could you draw me a picture of us having sex on the balcony?"
+dialogue,Monica,"Please, could you just try it for me? Come on, I used all my best stuff! I-I-I lit some candles. I put on some music. I used bath salts, plus bubble bath! And got you this little plastic Navy ship. So it’s a boy bath!"
+dialogue,Chandler,"Well, this does butch it up a bit."
+dialogue,Monica,"I swear, if you try it, you will love it!"
+dialogue,Chandler,"All right, if I do this, can we at least discuss sex on the balcony?"
+dialogue,Monica,Absolutely.
+action,,(Chandler runs into the bathroom)
+dialogue,Monica,Bet I know how that discussion’s going to go.
+action,,"[Cut to Chandler laying in the bathtub. "" Only Time ,"" is playing in the background.]"
+dialogue,Chandler,"(thinking) All right, this isn’t so bad . I like the flower smell ! Which is okay, because I’ve got my boat ."
+dialogue,Monica,(entering) So?
+dialogue,Chandler,Oh my God.
+dialogue,Monica,"I told you you were a bath person! Hey, when you get out, maybe I can give you a facial!"
+dialogue,Chandler,I’m going to need a bigger boat.
+heading,,"[Scene: The Doctor’s Office, the doctor is writing something as Rachel is on the table, and Ross is standing.]"
+dialogue,Ross,"I don’t think you had an open mind about the name Ruth. I mean, come on, little Ruthie Geller, how-how cute is that?"
+dialogue,Rachel,"Oh, oh my God! I can practically hear the mahjong tiles!"
+dialogue,Dr. Long,"Okay! All your tests look fine. Now, are you two interested in knowing the sex of the baby?"
+dialogue,Ross,"Uh, no. No, we’re not."
+dialogue,Rachel,But you have it right there in that file? You could tell us whether it’s a boy or a girl? Dayton or Sandrine? Phoebe or Phoebo?
+dialogue,Dr. Long,That’s right. But if you don’t want to know…
+dialogue,Ross,"No, no, we want to wait, right?"
+dialogue,Rachel,Right. Right.
+dialogue,Dr. Long,"(looks at her beeping pager) Oh, I’ll be right back. And, uh, I know it’s really not my place, but please don’t name your child Phoebo."
+dialogue,Rachel,"(looking at the bulletin board with baby pictures) So, which of these babies do you think is the ugliest?"
+dialogue,Ross,"What? Rach! Come on, that’s terrible! They’re…uh…they’re babies. They’re-they’re all beautiful."
+dialogue,Rachel,Third one from the left?
+dialogue,Ross,"Yeah, why is it staring at me? I think it knows I’m talking about it. (Rachel starts to peek at the file) Don’t-don’t you—Wh—Wha—Hey!!"
+dialogue,Rachel,What?!
+dialogue,Ross,You’re looking!
+dialogue,Rachel,I didn’t!
+dialogue,Ross,I saw you!
+dialogue,Rachel,"Okay fine, I did. But I didn’t see anything, I swear."
+dialogue,Ross,Shame on you! Ugly baby judges you!
+dialogue,Rachel,"Okay, but Ross just listen to me…"
+dialogue,Ross,"No, no, no, no! Don’t tell me! I don’t want to know!"
+dialogue,Rachel,"But I couldn’t even if I wanted to, because I don’t know! I swear; I didn’t see anything, and I don’t want to know! It was just a momentary lapse."
+dialogue,Ross,Momentary lapse. Don’t-don’t you have any self-control?
+dialogue,Rachel,"(holding stomach) Okay, a couple months late on the lecture, Ross."
+heading,,"[Scene: Chandler and Monica’s, Monica is entering.]"
+dialogue,Monica,Hello?
+dialogue,Chandler,"I’m in the bathroom, can you come in here? I think there’s something wrong."
+dialogue,Monica,You know what? I-I think I’ll wait out here.
+dialogue,Chandler,I’m in the bathtub.
+dialogue,Monica,Oh. (She goes into the bathroom.) What’s wrong?
+dialogue,Chandler,"I drew my own bath, but I did it wrong! The water’s tepid. The salt didn’t dissolve and is now… lodged places. And the scents I used don’t compliment each other. Eucalyptus and chamomile—Oh!"
+dialogue,Monica,What?
+dialogue,Chandler,The bath salts! They’re starting to effervesce! It’s different. (Pause) It’s interesting.
+dialogue,Monica,"Okay, let’s talk about something else."
+dialogue,Chandler,"Yeah! Sure, sure. So, what was going on with you today? Oh-oh-oh!"
+dialogue,Monica,"Well, I actually had the weirdest conversation with Joey. He was talking about rules and right and wrong and…"
+dialogue,Chandler,I had the exact same conversation.
+dialogue,Monica,You did? What was he talking about?
+dialogue,Chandler,I don’t know! Joey hasn’t had this much trouble getting out words since we saw him in Macbeth !
+dialogue,Monica,(groans) That was a long night.
+dialogue,Chandler,"All right, let’s break this down. What exactly did he say to you?"
+dialogue,Monica,"Okay, he was talking about rules."
+dialogue,Chandler,Uh-huh.
+dialogue,Monica,"Umm, and looking at people differently."
+dialogue,Chandler,He didn’t say anything about that to me.
+dialogue,Monica,What did he tell you?
+dialogue,Chandler,"He was asking all these questions about you, me, and London. And, of course the glue that holds this all together, the rules."
+dialogue,Monica,"Okay. So you, me and London. Looking at people differently. Maybe he wants to do what you and I did in London with someone."
+dialogue,Chandler,But what did he mean by rules?
+dialogue,Monica,Wait a minute! He stopped talking the minute Phoebe came in!
+dialogue,Chandler,Because he was looking at her differently.
+dialogue,Monica,"And Phoebe is his friend, so he thinks that would be breaking the rules!"
+dialogue,Chandler,My God! He wants to do it with Phoebe in London!
+dialogue,Phoebe,(from outside the bathroom) You guys?
+dialogue,Monica,Just a minute! (To Chandler) That’s Mrs. Tribbiani!
+dialogue,Chandler,You don’t say anything.
+dialogue,Monica,"Why would I say anything? That two of our best friends could start the greatest love affair of their lives! And they would have me to thank, and we could all start having babies?"
+dialogue,Chandler,I’m not going to let you say anything.
+dialogue,Monica,You just stay here! (Dumps a jar of bath salts in the bathtub)
+dialogue,Chandler,"Oh, God!"
+action,,"(Monica runs out to Phoebe, who is in the kitchen)"
+dialogue,Phoebe,"Oh, hey, Monica, I brought back your iron."
+dialogue,Monica,"Oh, you had that?"
+dialogue,Phoebe,Uh-huh.
+dialogue,Monica,"I thought I lost it. I got a new one, like, a month ago."
+dialogue,Phoebe,"Oh, just as well, I broke this one."
+action,,(Monica starts smiling)
+dialogue,Phoebe,What?
+dialogue,Monica,Nothing.
+dialogue,Phoebe,Okay.
+dialogue,Monica,"I mean, I-I, I really shouldn’t say. I mean, I’m really not supposed to."
+dialogue,Phoebe,Fine.
+dialogue,Monica,It’s a humdinger!
+dialogue,Phoebe,Then it’s really too bad that you can’t tell me.
+dialogue,Monica,Somebody likes you!
+dialogue,Phoebe,(Groans) Is it Chandler?
+dialogue,Monica,No!
+dialogue,Phoebe,"Well, then tell him to stop staring!"
+dialogue,Monica,It’s Joey!
+dialogue,Phoebe,Really?! Joey?! You don’t say.
+dialogue,Monica,Is it something you’d be interested in?
+dialogue,Phoebe,"I don’t know, I don’t know, I don’t know. You know, I mean, on the one hand, Mother may I? But y’know on the other hand… No. No, I can’t. We’re friends. No, oh, no. I don’t want to risk what we have."
+dialogue,Monica,"I guess that makes sense. So, you think you’re going to talk to him?"
+dialogue,Phoebe,"Sure, yeah. I mean, it’s Joey. I don’t want him to get hurt. Well, I must say, I am on fire! First Chandler, now Joey!"
+dialogue,Monica,"Not Chandler, just Joey."
+dialogue,Phoebe,Sure.
+action,,Commercial Break
+heading,,"[Scene: Central perk, Ross is sitting on the chair as Rachel walks in.]"
+dialogue,Rachel,Hey.
+dialogue,Ross,Hey.
+dialogue,Rachel,You know what? I’ve been thinking about it. I’m really coming around on the name Ruth. I think I would actually consider naming our child that.
+dialogue,Ross,"Rach, I-I can’t tell you how-how much that means to me! Ohh… Wait a minute. Wait a minute. You-you hated the name Ruth! Why-why would you change your mind? Unless, you know we’re never going to have to use it. You did see the folder. You know it’s a boy!"
+dialogue,Rachel,I didn’t see anything! I actually changed my mind about the name.
+dialogue,Ross,"I don’t think so! You’re just giving me Ruth so you’ll get to name it when it’s a boy, and that’s when you’ll swoop in and name him Heath or Blaine or Sequoia."
+dialogue,Rachel,I would—Sequoia?
+dialogue,Ross,Veto.
+dialogue,Rachel,Fine.
+dialogue,Ross,"Unless… (Rachel groans.) You anticipated that I would figure all this out and you know that it actually is a girl, and you really do want her to be named Ruth! Well, I’m not falling for that! Okay? Ruth is off the table!"
+dialogue,Rachel,"But Ross, you want the name Ruth!"
+dialogue,Ross,Not like this!
+heading,,"[Scene: Rachel and Joey’s, Joey is sitting on his recliner as Phoebe enters.]"
+dialogue,Phoebe,Hey.
+dialogue,Joey,"Hey. Well, what’s up?"
+dialogue,Phoebe,"Umm, Joey, I know."
+dialogue,Joey,What?
+dialogue,Phoebe,I knooow.
+dialogue,Joey,Whaaat?
+dialogue,Phoebe,I know about your feelings.
+dialogue,Joey,Oh my God. You do?
+dialogue,Phoebe,"Yes, and I’m sorry. I-I know things worked out for Chandler and Monica, but that’s very rare."
+dialogue,Joey,"I know. I know. And this is so much more complicated than it was for those guys. I mean, it’s Rachel for God sakes."
+dialogue,Phoebe,"For God sakes, it’s Rachel!"
+dialogue,Joey,I know. I know. And she’s not only my friend; she’s my pregnant friend! She’s my pregnant friend who’s Ross’ ex!
+dialogue,Phoebe,Yeah that’s Rachel. (To herself) Beat me over the head with it.
+dialogue,Joey,"What am I going to do? You know, and I keep, I keep trying to get rid of these feelings, y’know? I stayed up all last night and made a list of everything I don’t like about her. You want to hear it?"
+dialogue,Phoebe,Yeah.
+dialogue,Joey,"She made me switch to light Mayo. That’s it! That’s all I got! And, you know what? It tastes the same and my pants fit better!"
+dialogue,Phoebe,"Joey, I just think you’re getting worked up over nothing. This is probably just a crush."
+dialogue,Joey,You think?
+dialogue,Phoebe,"Absolutely! Y’know, you get this rush of feelings, but then it goes away."
+dialogue,Joey,"Yeah, just a crush! That’s all this is! It’s a crush! I’m Joey; I don’t get deep feelings."
+dialogue,Phoebe,"That’s right, there you go! Crushes happen all the time! I know I’ve had them for all you guys. Well, except for Ross and Chandler. And I’m sure you’ve had them for us."
+dialogue,Joey,Not really.
+dialogue,Phoebe,Mm-hmm. (To herself) Throw me a bone here.
+heading,,"[Scene: Central Perk, Rachel is on the couch as Ross enters.]"
+dialogue,Ross,"So, I uh… I called the doctor and now we both know the sex of the baby."
+dialogue,Rachel,What?
+dialogue,Ross,That’s right. The student has become the master.
+dialogue,Rachel,"Ross, I swear, I don’t know."
+dialogue,Ross,"Oh, come on, you know it’s a girl!"
+dialogue,Rachel,A what?!
+dialogue,Ross,You really didn’t know?
+dialogue,Rachel,We’re having a girl?
+dialogue,Ross,No.
+dialogue,Rachel,That’s what you just said!
+dialogue,Ross,No.
+dialogue,Rachel,You said girl!
+dialogue,Ross,Yes. I’m… I’m sorry. I’m so sorry.
+dialogue,Rachel,I’m not! We’re having a girl! Sometimes I can’t believe it’s with you—But still! We’re having a girl!
+dialogue,Ross,I know! I know. You know what? I’m putting Ruth back on the table!
+dialogue,Rachel,"Oh, yes! We’ll have ourselves a little baby Ruth…"
+dialogue,Ross,Permission to veto.
+dialogue,Rachel,"Yes, please."
+heading,,"[Scene: Monica and Chandler’s, Chandler enters as Monica comes from the bathroom.]"
+dialogue,Monica,Hey.
+dialogue,Chandler,Do I smell essential oils?
+dialogue,Monica,"Yeah, I’m going to take a bath. I’m just going to get a magazine."
+dialogue,Chandler,Okay.
+action,,"(As soon as Monica leaves the room, Chandler takes off his jacket and runs to the bathroom. Monica enters the bathroom to find Chandler in the bathtub.)"
+dialogue,Monica,What do you think you’re doing?
+dialogue,Chandler,L-leaving my troubles behind?
+dialogue,Monica,"I know that you’re new at this, but this is completely unacceptable bath decorum."
+dialogue,Chandler,"Oh, it’s so hard to care when you’re this relaxed."
+dialogue,Monica,"Fine, you can have the bath, but I am taking your boat. Now you’re just a girl in a tub!"
+action,,(Phoebe enters the bathroom)
+dialogue,Chandler,(upset) Hey!
+dialogue,Phoebe,"Hi, Bubbles. Manly. Well, I just thought I would drop by and let you know how it went with Joey."
+dialogue,Chandler,(To Monica) You told her?!
+dialogue,Monica,She pulled it out of me! She’s like a conversational wizard! How’d it go?
+dialogue,Phoebe,"Well, you were wrong, he doesn’t like me!"
+dialogue,Monica,What?
+dialogue,Phoebe,"Yeah! How would you like it if I sent you to Lee Majors’ house and told you that he liked you, and you went down there and you found out that he didn’t like you? How would you feel?"
+dialogue,Monica,(Pause) I don’t think I’d care.
+dialogue,Phoebe,Really? Lee Majors is hot!
+dialogue,Joey,(from outside the bathroom) Hello?
+dialogue,Phoebe,We’re in the bathroom!
+dialogue,Joey,Why?
+dialogue,Chandler,(sarcastically) Because it’s a relaxing and enjoyable time!
+dialogue,Joey,(entering the bathroom) What are you guys doing in here?
+dialogue,Monica,"Oh my God! A friend he’s looking at differently, but it’s wrong. It’s Rachel!"
+dialogue,Chandler,You like Rachel?!
+dialogue,Joey,"It’s no big deal, okay? Phoebe and I talked about it. It’s just a crush! It’s going to go away! (Looks down) Dude, you gotta rearrange your bubbles! Oh!"
+dialogue,Phoebe,(checking for herself) (To Monica) Mazel tov.
+dialogue,Rachel,"(entering) Hey! Ross and I were looking for you! What are we all doing in here? (Looks at Chandler) Oh, my! (Covers the spot where Joey wants bubbles to be replaced.)"
+dialogue,Monica,"Honey, cover it up with the boat!"
+dialogue,Ross,(from outside the bathroom) Hello?
+dialogue,Chandler,(sarcastically) Yes we’re all in here and we would love for you to join us!
+dialogue,Ross,"(entering) Well hey! What’s going on? Ooh, cool boat—(Sees why the boat’s there)—Oh, no. (Averts his eyes by looking around the room) (To Rachel) Hey, did you, did you tell them?"
+dialogue,Rachel,"No, I was waiting for you!"
+dialogue,Phoebe,Tell us what?
+dialogue,Rachel,We’re having a girl.
+dialogue,All,"Oh, wow! Yay! Wow! Hooray! Oh, man!"
+action,,(They all hug and then turn and look at Chandler)
+dialogue,Chandler,I’ll…I’ll get you later!
+heading,,"[Scene: Joey and Rachel’s, Joey is sitting at the counter eating Cocoa Puffs .]"
+dialogue,Joey,"(thinking) All right . It’s a new day, and it’s just a crush, that’s all ! Just a little crush ! All that worrying I was doing, that was crazy . Crazy ! Like my friend here the bird would say, "" it was cuckoo !"" Everything’s going to be fine. It’s just a crush."
+dialogue,Rachel,"(entering) Hi, sweetie."
+dialogue,Joey,(thinking) I love you.
+action,,Closing Credits
+heading,,[Scene: Chandler and Monica’s bathroom. Both are sitting on opposite ends of the bathtub.]
+dialogue,Monica,"It sure is nice to do this together, isn’t it?"
+dialogue,Chandler,Yeah. And what you’re doing feels so good.
+dialogue,Monica,I’m not touching you.
+dialogue,Chandler,You’re not?
+dialogue,Monica,It’s the salts.
+dialogue,Chandler,"Oh, sweet Lord. New realms of pleasure!"
+dialogue,Monica,"(To herself) Whatever keeps you off the balcony, big guy!"
+action,,End

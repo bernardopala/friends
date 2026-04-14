@@ -1,0 +1,261 @@
+script_element,character,text
+heading,,[Scene: Chandler and Monica's]
+dialogue,Chandler,Hey!
+dialogue,Monica,"Good morning, Tiger! I'm making you a nice big breakfast so you can keep up your strength for tonight. You're gonna get me good and pregnant."
+dialogue,Chandler,I've got nowhere to go this morning. I'm unemployed! I don't know what I'm gonna do with my life.
+dialogue,Monica,"Well, I just lost my erection."
+dialogue,Chandler,"I mean, what am I supposed to do with myself?"
+dialogue,Monica,You're supposed to find your passion in life. You can be whatever you wanna be now. It's exciting.
+dialogue,Chandler,But it's all so overwhelming. I don't know where to start.
+dialogue,Monica,"Hey, wait a second. I can help you with this. You just need to be organized. We can make a list of your qualifications, and categorize jobs by industry. There could be folders and files!"
+dialogue,Chandler,Hey! This is where your hyper-organized-pain-in-the-ass stuff pays off!
+dialogue,Monica,I know!!! My erection is back!
+action,,Opening Credits
+heading,,[Scene: Central Perk]
+dialogue,Joey,(To Gunther who comes over with coffee and a muffin) Thank you!
+dialogue,Phoebe,"Joey, can I have a sip of your coffee and a bite of your muffin?"
+dialogue,Joey,Okay.
+dialogue,Phoebe,Thank you. (Pours his coffee in a thermos and puts his muffin in her purse.) Thank you!
+dialogue,Joey,"Pheebs, have you ever been bitten by a hungry Italian?"
+dialogue,Phoebe,"I'm sorry, it's just, I'm a little short on cash."
+dialogue,Joey,If you want I could loan you some money?
+dialogue,Phoebe,"Oh no, no, no. I learned never to borrow money from friends. No, that's why Richard Dreyfuss and I don't speak anymore."
+dialogue,Joey,"Oh, hey, how about this? Wanna be an extra on my show?"
+dialogue,Phoebe,You could do that?
+dialogue,Joey,"Yeah, yeah. The pay is pretty good and you could do it for as long as you need."
+dialogue,Phoebe,"Oh my god, I'm gonna be on TV!"
+dialogue,Joey,"Okay, now. I gotta tell you, being on TV isn't as glamorous and exciting as you think."
+dialogue,Phoebe,"Oh, really?"
+dialogue,Joey,No it is awesome!
+action,,(Rachel and Ross enter with Emma)
+dialogue,Ross,Hi guys.
+dialogue,All,(Adlib hellos)
+dialogue,Phoebe,"Wow! Hey, why are you all dressed up?"
+dialogue,Ross,Rachel and I are bringing Emma to Ralph Lauren today to introduce her to everyone. Doesn't she look cute?
+dialogue,Joey,She sure does. Why does she have a pink bow taped to her head?
+dialogue,Rachel,"Well, because if one more person says ""what a cute little boy"" I'm gonna whip them with a car antenna!"
+dialogue,Ross,"I think she's gonna be the hit of the office, huh? She's gonna be hotter than peasant blouses and A-line skirts. Can I get a blue bow?"
+heading,,[Scene: Chandler and Monica's]
+dialogue,Monica,"(Flipping through bunch of folders as Chandler enters from bathroom) Okay, I have looked through a bunch of career guides, photocopied and highlighted key passages and put them into alphabetical folders so you can make an informed decision."
+dialogue,Chandler,How long was I in there?
+dialogue,Monica,Okay. Let us start with the A's. Advertising.
+dialogue,Chandler,Wait. Advertising! That's a great idea!
+dialogue,Monica,Don't you want to look through the rest?
+dialogue,Chandler,"I don't think I have to hear the rest. Advertising makes perfect sense. Sorry you had to waste all this time, though."
+dialogue,Monica,"You call eight hours alone with my label maker wasted time? Ooh, now I get to use my shredder!"
+dialogue,Chandler,"I mean, I can write slogans. I mean, how hard can it be, right? ""Cheese. It's milk that you chew."" ""Crackers. Because your cheese needs a buddy."" ""A grape. Because who can get a water melon in your mouth?"""
+dialogue,Monica,"I got one. ""Socks. Because your family's feet deserve the best."""
+dialogue,Chandler,Honey? Leave it to the pros.
+dialogue,Monica,I actually know someone in advertising. I grew up with this guy who is a vice president at a big agency. Maybe I can get him to meet you? Give me the phone.
+dialogue,Chandler,"""The phone. Bringing you closer to people...who have phones."""
+dialogue,Monica,"""Marriage. It's not for everybody."""
+heading,,[Scene: Ralph Lauren]
+dialogue,Rachel,That went well. Almost everybody knew that she was a girl.
+dialogue,Ross,"Yeah, after you punched that one guy who got it wrong, word spread."
+dialogue,Rachel,I'm just gonna go in my office and pick up some stuff . (To the guy behind her desk) Who the hell are you!?
+dialogue,Guy,Who the hell are you?
+dialogue,Rachel,I'm the hell person whose office this is!
+dialogue,Ross,"Good one, Rach."
+dialogue,Guy,"I'm Gavin Mitchell, the person who's taken over your job."
+dialogue,Rachel,Excuse me?
+dialogue,Gavin,"Oh, your baby's so cute. Why did you put a pink bow on a boy?"
+heading,,[Scene: DOOL set]
+dialogue,Phoebe,"Joey, look at me! I'm a nurse!"
+dialogue,Joey,"Yes you are. I think it may be time for my sponge bath. Sorry, I'm just so used to hitting on the extras. So, are you excited about your scene?"
+dialogue,Phoebe,Yeah! But I'm a little shaky and nervous.
+dialogue,Joey,"Oh, relax. Don't be. You'll be fine, you'll be fine. They'll probably just make you stand in the back."
+dialogue,Director,"Okay, okay, okay! (To Phoebe) You. Here, come here, here. You're gonna take this tray, you're gonna stay on this yellow mark. You're gonna move on ""action!"" You're gonna walk over to the operating table. You're gonna stop on that blue mark, you're gonna put the tray down. Don't walk too fast! But don't doddle."
+dialogue,Phoebe,"Okay, now. What?"
+dialogue,Director,And...Action!!
+action,,"(Phoebe starts walking toward the operating table. Her hands are shaking like crazy, causing the tray to rattle.)"
+dialogue,Director,Cut! Cut!
+dialogue,Phoebe,"I'm sorry, I'm sorry, I'm sorry. I'm just a little nervous."
+dialogue,Director,"Well, don't be."
+dialogue,Phoebe,"Okay, that helps."
+dialogue,Director,And...Action!
+action,,(Phoebe starts walking towards the table again. She's even more shaky than before and almost drops the tray.)
+dialogue,Director,Cut!
+dialogue,Joey,"Hey, you know what? Don't worry, Pheebs! It usually takes me three takes too! (Off the director's look) Alright, eight."
+dialogue,Director,And...Action!
+action,,"(Ok, here we go again. Phoebe starts walking toward the operating table, but stops every time the tray starts to rattle. She eventually drops it on the floor, but finishes the scene anyway by putting the now non-existent tray on the table.)"
+heading,,[Scene: Central Perk]
+dialogue,Interviewer,"So, do you have any other question about advertising?"
+dialogue,Chandler,"No, no. But let me show you what I can do. ""Bagels and donuts. Round food for every mood."""
+dialogue,Interviewer,Monica warned me you might do that. I actually think we might have something for you at the agency.
+dialogue,Chandler,Really? That's great!
+dialogue,Interviewer,It's an unpaid internship.
+dialogue,Chandler,"It's funny. When you said ""unpaid"" it sounded like you said ""unpaid."""
+dialogue,Interviewer,Come on now. Monica has a good job. And it's not like you have a family to support.
+dialogue,Chandler,"Actually, we're trying, and I don't think Monica's gonna wanna postpone it. We're supposed to have sex tonight. Actually, she's probably at home naked right now. I tend to keep talking until somebody stops me. I can just picture her on the bed right now."
+dialogue,Interviewer,Stop!
+dialogue,Interviewer,Okay.
+heading,,[Scene: Ralph Lauren]
+dialogue,Rachel,"Wait a minute! What do you mean, you're taking over my job?"
+dialogue,Gavin,"Well, while you were on your baby vacation I was doing your job."
+dialogue,Rachel,A vacation? My idea of a vacation does not involve something sucking on my nipples until they are raw.
+dialogue,Gavin,Clearly you've never been to Sandles Paradise Island.
+dialogue,Rachel,"Alright! Don't get too comfortable there, because I'm back in two weeks! And I want everything back to the way it was. I can't say that I care too much for the way you've rearranged my office."
+dialogue,Gavin,I can't say I care too much for that smell you've brought in with you.
+dialogue,Rachel,Excuse me?
+dialogue,Ross,Rach we have a code brown situation.
+dialogue,Rachel,"Can you please, please take care of it for me?"
+dialogue,Ross,"Alright, but you have to do one sometime."
+dialogue,Rachel,Let me just get this straight! So I go have a baby and they send some guy in to do my job?
+dialogue,Gavin,"Well, there was talk of shutting down Ralph Lauren all together."
+dialogue,Rachel,That's right. You're very cheeky for a temp.
+dialogue,Gavin,I'm not a temp. I was transferred here from another department.
+dialogue,Rachel,"Oh yeah, what department was that? The Jerk department?"
+dialogue,Gavin,"Oh, they didn't tell me about your quick wit."
+dialogue,Rachel,Did they mention that I'm rubber and you're glue?
+dialogue,Mr. Zelner,"(Enters) Gavin, Ralph loved your ideas."
+dialogue,Rachel,"Oh, hi Mr. Zelner."
+dialogue,Mr. Zelner,"Rachel, I see you've met Gavin. I must say, when you left us we weren't sure what we were gonna do. But then, Gavin to the rescue. Super Gavin!"
+dialogue,Rachel,"That's great. So now, Super Gavin, when I come back where are you planning on flying off to?"
+dialogue,Gavin,"Well, that's up to Mr. Zelner. I'm sure he will make the right decision."
+dialogue,Rachel,"(To herself) Oh, wow. Super ass-kissing power."
+dialogue,Mr. Zelner,"Incidentally, when are you coming back?"
+dialogue,Rachel,Today.
+dialogue,Gavin,You said two weeks.
+dialogue,Rachel,"No, I said today! See, for a superhero, not so much with the listening."
+heading,,[Scene: DOOL set]
+dialogue,Joey,Hey.
+dialogue,Phoebe,"Hey. So, what did he say?"
+dialogue,Joey,"Well, he can be a little rough around the edges, so I'm gonna replace a word he used a lot, with the word ""puppy."" Okay, so he said: ""If your puppy friend doesn't get her puppy act together, I'm gonna fire her mother-puppy ass."""
+dialogue,Phoebe,"I'm sorry, I can't do this. I'm not an actor."
+dialogue,Joey,"That's right, you're not. You're a nurse. You're Nurse With Tray."
+dialogue,Phoebe,Joey.
+dialogue,Joey,"No, no. Nurse With Tray doesn't know Joey, she doesn't have time for friends. She gets in that operating room and she carries that tray to the doctor, because if she doesn't, people die!"
+dialogue,Phoebe,Who dies?
+dialogue,Joey,(Points to man on operating table) Man With Eye Patch! You get in there and you do your job.
+dialogue,Phoebe,"Yes, doctor."
+dialogue,Joey,Okay.
+dialogue,Director,"Okay, let's try this one more time."
+dialogue,Phoebe,"Hang in there, Man With Eye Patch, your tray is coming!"
+dialogue,Director,And...Action!
+dialogue,Phoebe,"(Does the scene) Yes, I did it!!! I nailed it!!! Yay! What's next?"
+dialogue,Director,The rest of the scene.
+dialogue,Phoebe,"Okay, from the top, people!"
+heading,,[Scene: Ralph Lauren]
+dialogue,Rachel,"Listen. Sudden change of plans. My maternity leave just ended. They told me that if I didn't come back today, they were gonna fire me."
+dialogue,Ross,"What? No, that's illegal. I'm gonna have the labor department down her so fast they won't even..."
+dialogue,Rachel,"Alright, alright. Calm down Norma Rae. They didn't actually say that. I'm just afraid if I don't come back right now this guy's gonna try to squeeze me out."
+dialogue,Ross,What about Emma? We don't have a nanny.
+dialogue,Rachel,"I know. You know, we're just gonna have to figure out a plan tonight. Can you please just take care of her for today?"
+dialogue,Ross,Absolutely. Just give me your breast and we'll be on our way.
+dialogue,Rachel,"Come on, I don't know what else to do."
+dialogue,Ross,"Fine, fine. (To Emma) We'll have fun, won't we? Yes, we will, yes we will. (Gives her a kiss, and the pink bow tapes itself to his head.)"
+dialogue,Rachel,Ross?
+dialogue,Ross,Huh?
+dialogue,Rachel,You're pretty.
+heading,,[Scene: Chandler and Monica's]
+dialogue,Chandler,"Whatever I decide to do, I'm gonna be starting a career from scratch. It's gonna be a while before I make a living at it. Maybe now is not the right time to be starting a family."
+dialogue,Ross,So you have to tell Monica you don't want to have a baby right now?
+dialogue,Chandler,Yeah.
+dialogue,Ross,(Hugs Chandler) Good-bye.
+dialogue,Monica,"(Enters) Okay, it's baby time. Pants off Bing. (Sees Ross) Didn't see you there Geller."
+dialogue,Chandler,"Yeah, Ross is here so..."
+dialogue,Ross,"Yeah, and I was really hoping that I could hang out. What do you feel like doing?"
+dialogue,Monica,We're gonna have sex.
+dialogue,Ross,I don't feel like having sex. Maybe we can watch a movie or something.
+dialogue,Monica,Let me put it this way. We're having sex whether you're here or not.
+dialogue,Ross,Pants off Bing!
+heading,,[Scene: Ralph Lauren]
+dialogue,Rachel,"Alright. Now that I'm back, why don't you just fill me in on what you've been up to?"
+dialogue,Gavin,"Well, I've changed your screensaver from that picture of *Nsync."
+dialogue,Rachel,"Hey, they were popular when I left!"
+dialogue,Gavin,"Also, I've just been working on this big presentation for tomorrow."
+dialogue,Rachel,"Well, I should be involved in that, so why don't you get me up to speed?"
+dialogue,Gavin,That's gonna take weeks. Why don't just let me take care of the presentation?
+dialogue,Rachel,"Oh, no no no no. I see what you're doing here, alright, listen, this is my job buddy. Okay, I've had it for five years, and I know how it works, so why don't you just catch me up!"
+dialogue,Gavin,Fine.
+dialogue,Rachel,(Sits down in her chair) Oh god. You've totally messed with the back support of my chair. How do you fix this?
+dialogue,Gavin,"Hey, you've been here five years, you figure it out."
+dialogue,Rachel,"Fine, I will. (Pushes that button thing on the chair that makes it ""collapse"") Alright, fill me in!"
+heading,,[Scene: Chandler and Monica's]
+dialogue,Ross,Hey.
+dialogue,Chandler,Hey.
+dialogue,Ross,You have a blue tie that would go with this? Emma spit up on mine.
+dialogue,Chandler,"Oh, yeah. But you have to give it back if I get a job. Of course, by that time in the future ties will be obsolete and we'll all be wearing silver jump suits."
+dialogue,Monica,"(Enters from the bedroom) Hi, good morning lover. I gotta say after last night, I'm a little weak in the knees."
+dialogue,Ross,Here's an idea. You walk into a room...take a quick scan!
+dialogue,Monica,(To Ross) Sorry. (To Chandler) But I kind of have this feeling that we may have made a baby last night.
+dialogue,Chandler,"Oh god, I have to tell you something. You're not pregnant."
+dialogue,Monica,What are you talking about?
+dialogue,Chandler,That thing that I have to do to make a baby. I faked it.
+dialogue,Monica,What!? You faked it?
+dialogue,Ross,"You know what? I don't need a tie. I mean, it's better, open collar. You know, it's more casual (He leaves.)"
+heading,,[Scene: DOOL set]
+dialogue,Phoebe,"Joey, listen. I can't do this, it doesn't make any sense. Yesterday I was a nurse, and today I'm a waitress at a cafe?"
+dialogue,Joey,"Oh, sometimes we use the same extras for different parts. It's okay."
+dialogue,Phoebe,"Well, it's not okay, because I gave a very memorable performance as the nurse. And now suddenly I'm the waitress? That's gonna confuse my fans."
+dialogue,Joey,"Maybe you are a nurse, but you moonlight as a waitress."
+dialogue,Phoebe,"Uhuh. Because I'm a single mother, supporting my two children."
+dialogue,Joey,Nice.
+dialogue,Phoebe,Wait a minute. Dr. Drake Ramoray and I work at the same hospital. Wouldn't I come over to say hi to him?
+dialogue,Joey,"No, no. See, you and Drake are having a fight."
+dialogue,Phoebe,About what?
+dialogue,Joey,He slept with you and then never called you.
+dialogue,Phoebe,And I just wanted a new daddy for Davy and Becky.
+dialogue,Director,"Okay, okay, from the top. And...Action!"
+dialogue,Man,"So, I'm surprised you agreed to have lunch with me."
+dialogue,Joey/Drake,"I'm surprised to, but yet here I am."
+action,,(Phoebe walks by and slaps him.)
+dialogue,Director,"Cut, cut! What are you doing!?"
+dialogue,Phoebe,"Yeah, well, I'm very angry at him, because he slept with me and never called me back."
+dialogue,Extra,Me too!
+dialogue,Another extra,Me too!
+dialogue,Joey,"Oh, calm down! She means on the show! We need some new extras around here!"
+heading,,[Scene: Chandler and Monica's]
+dialogue,Gavin,"(Enters) Wow, you're here already."
+dialogue,Rachel,"Yes. Emma and I came in a little early to do research on the presentation. I actually made a few changes, but I think I'm caught up on everything. So ask me anything!"
+dialogue,Gavin,How do you fix the chair?
+dialogue,Rachel,"Except that! (Mr. Zelner enters) Oh, hello, Mr. Zelner. We're all ready for our presentation this afternoon."
+dialogue,Mr. Zelner,"Good, because it's in ten minutes."
+dialogue,Rachel,"What? I can't do that! I have the baby, and Ross is not gonna pick her up for another hour."
+dialogue,Mr. Zelner,"Well, then Gavin can give the presentation, okay, we have to do it now. Ralph needs to leave early today. He's going helicopter shopping."
+dialogue,Rachel,"Well, there you go. You win, you win. You get to do the presentation, you'll knock 'em dead, no one will ever remember that I worked here, and then Ralph will buy his helicopter, and Super Gavin will just fly right along side of him!"
+dialogue,Gavin,You can do the presentation.
+dialogue,Rachel,"No, I can't, I have a baby."
+dialogue,Gavin,I'll watch her.
+dialogue,Rachel,Why would you do that?
+dialogue,Gavin,"Because you've worked really hard, and it's your job, and you're a little crazy."
+dialogue,Rachel,That's really nice.
+dialogue,Gavin,I should tell you that crying women make me very uncomfortable.
+dialogue,Rachel,"Then you're not gonna like what's coming. (Starts crying) I'm sorry, I'm sorry, I'm sorry. Thank you, thank you."
+dialogue,Gavin,"I'm really fine, don't worry, I'm great with children. (To Emma) Gavin Mitchell. Pleased to meet you."
+heading,,[Scene: DOOL set]
+dialogue,Joey,Please don't fire my friend. Just let me talk to her.
+dialogue,Director,"Okay, okay. But this is her last chance."
+dialogue,Joey,"Thank you, thank you. How about I do something for you? Tomorrow, I'll bring you a hat, cover up the bald?"
+dialogue,Joey,"Hey, listen Pheebs. I was just talking to the director, and he was thinking, maybe this time you don't hit Drake, you just wait on the tables?"
+dialogue,Phoebe,I can't do that. I'm an actor. I have a process.
+dialogue,Joey,You're a masseuse. You have a table with a hole in it.
+dialogue,Phoebe,"Wait a minute, I see what's happening here. You're threatened."
+dialogue,Joey,What?
+dialogue,Phoebe,"Yeah, I'm so good in this scene that I'm stealing focus from you. Well, rise to the challenge Tribianni 'cause I just raised the bar. Come join me up here!"
+dialogue,Joey,"(To the director) Yeah, you can fire her, but I would call security, she won't go easy."
+heading,,[Scene: Chandler and Monica's]
+dialogue,Monica,You faked it? You couldn't have faked it!
+dialogue,Chandler,Oh yes you can. You just make the faces and the noises.
+dialogue,Monica,"Guys can fake it? Unbelievable. The one thing that's ours! Besides, why would you fake it when we're trying to have a baby?"
+dialogue,Chandler,"That's actually why. Look, I'm starting a whole new career now, and I'm not saying that I don't want to have a baby, I'm just saying maybe we could wait a little while."
+dialogue,Monica,Like a month?
+dialogue,Chandler,Or a year?
+dialogue,Monica,"Really, you want to wait a year?"
+dialogue,Chandler,"It could be less than a year. I mean, you've heard my stuff. ""Pants. Like shorts, but longer."" (Pause) It'll probably be more than a year."
+dialogue,Monica,I really wanna have a baby.
+dialogue,Chandler,"Yeah, me too. Look, I'll just get my old job back."
+dialogue,Monica,"No, I want you to have a job that you love. Not statistical analysis and data reconfiguration."
+dialogue,Chandler,I quit and you learn what I do?
+dialogue,Monica,"It's just, I think, there's never gonna be a right time to have a baby. I mean, now you're unemployed and in a little while you'll find a new job that'll keep you really busy. There's always gonna be a reason not to do this, but I think once the baby comes, forget about all those reasons."
+dialogue,Chandler,I guess. It's always gonna be scary when we have a baby.
+dialogue,Monica,"It's gonna be really scary. I mean, god. When we have a baby, there's gonna be so much that we're not able to control. I mean, the apartment's gonna be a mess, I won't have time to clean it. What if the baby gets into the ribbon drawer? Messes up all the ribbons?! What if there's no room for a ribbon drawer, because the baby's stuff takes up all the space!? Where will all the ribbons go!?!"
+dialogue,Chandler,Should we go make a baby right now before you change your mind?
+dialogue,Monica,"Yes, please!"
+dialogue,Chandler,"Oh, and I promise, I will not fake it this time."
+dialogue,Monica,I wish I could say the same. I'm a little shook up!
+action,,Closing Credits
+heading,,[Scene: DOOL set]
+dialogue,Joey/Drake,"I know you botched that operation on purpose. I can't prove it yet, but when I do, you'll be going to jail for murder. I don't care if you are my brother."
+dialogue,Man,I'm not your brother.
+dialogue,Phoebe/Waitress,What about my children Drake?! Huh!? (She starts running around on the set with a security guy chasing her) No!! No!! No! God!

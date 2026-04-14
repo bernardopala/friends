@@ -1,0 +1,247 @@
+script_element,character,text
+dialogue,Lisa Kudrow,<voiceover>Previously on Friends<\voiceover>
+heading,,"[Scene: Central Perk, Joey is talking to Ross]"
+dialogue,Joey,"There’s this woman, that I like. A lot. Well, it’s complicated. She’s with this other guy. For a long time. And I could never do that to the guy, y’know? ’Ccause we’re really good friends."
+dialogue,Ross,"So, uh, this guy, she used to go out with, is, uh… is he a good guy?"
+dialogue,Joey,"Yeah, he’s the best."
+dialogue,Ross,Then talk to him! He might be fine with it.
+dialogue,Joey,"Oh, I don’t know."
+dialogue,Ross,"Joey, it’s worth finding out. I mean, if you really like her."
+dialogue,Joey,"I do! So much! I can’t stop thinking about her! I can’t sleep, I—"
+dialogue,Ross,"Okay, Joey, you know what? You have to go for it. How often does this happen to you, huh? You owe it to yourself. (Walks towards the door until…)"
+dialogue,Joey,It’s Rachel.
+action,,"[Fade to Black, then fade in again with Ross stopped at the doorway.]"
+dialogue,Ross,"(closes the door) Did you um—I’m sorry, did you just say it’s Rachel?"
+dialogue,Joey,Yes.
+dialogue,Ross,"Um, you…you like Rachel?"
+dialogue,Joey,Yes. I like Rachel.
+dialogue,Ross,Rachel?!
+dialogue,Joey,"(startled) Yeah, okay but look, buy uh—Hey-hey, y’know, y’know who else I like? You! And it-it doesn’t get said enough. I like you Ross."
+dialogue,Ross,But R-R-Rachel-Rachel?!
+dialogue,Joey,"Yeah, but it’s not a big deal."
+dialogue,Ross,"It’s not a big deal? Oh, I’m sorry I just…um, I…what about all the stuff you-you just said? I mean how about, I like—you-you can’t stop thinking about her. Like how you can’t sleep?"
+dialogue,Joey,"I’m an actor, y’know? As-as a group, we tend to be over dramatic."
+dialogue,Ross,Rachel who’s carrying my baby? Rachel?
+dialogue,Joey,"Look no, I-I know it’s bad, and I know it’s wrong. Okay? But-but it’s not like anything’s ever gonna happen. Y’know? These-these are just feelings, they’re gonna go away."
+dialogue,Ross,Y’know what? I-I gotta go. (Starts to leave.)
+dialogue,Joey,Oh come on Ross! Hey Ross-Ross don’t…
+dialogue,Ross,(stops) I just—y’know—I-I just have one—Rachel?!
+action,,"(He exits and starts to walk away, passes a window, stops, and says ""Rachel?!"" again. Joey sighs and turns around to face Gunther.)"
+dialogue,Gunther,Rachel?!!
+action,,Opening Credits
+heading,,"[Scene: Central Perk, Rachel and Chandler are on the couch.]"
+dialogue,Rachel,"Oh-oh! Okay, she’s kicking!"
+dialogue,Chandler,Oh! (Puts his hand on her belly.) She’s growing inside you.
+dialogue,Rachel,Whoa!!
+dialogue,Chandler,Oh! (Pulls his hand away.)
+dialogue,Rachel,Wow that was a big one.
+dialogue,Chandler,I think that’s the youngest girl ever to reject me.
+dialogue,Phoebe,(entering) Oh hey you guys!
+dialogue,Chandler,Oh hey!
+dialogue,Rachel,Hi!
+dialogue,Phoebe,"Hey listen let me ask you, do you believe in soul mates?"
+dialogue,Rachel,Oh yes I do. I do. I believe that there is one perfect person out there for everyone. And do you know how you find him? You stop looking for him. That’s why I stopped looking for Russell Crowe. He’ll find me.
+dialogue,Phoebe,"Uh-huh, (To Chandler) and you?"
+dialogue,Chandler,"No. I mean I believe that uh, certain people are more suited for each other and I believe in falling in love, but soul mates, I don’t think they exist."
+dialogue,Phoebe,"Okay, good."
+dialogue,Chandler,Why?
+dialogue,Phoebe,"Well last night, I met Monica’s."
+dialogue,Chandler,What?
+dialogue,Phoebe,"Yeah, I had a date with this guy, and I swear to God, he is her other half."
+dialogue,Chandler,"Come on, don’t be crazy. (To Rachel) You don’t think there’s someone out there better suited for Monica than me, do ya? (Rachel looks at him.)"
+dialogue,Rachel,"(To Phoebe) Well, what’s he like?!"
+dialogue,Phoebe,Well he’s tall.
+dialogue,Rachel,Uh-huh.
+dialogue,Phoebe,He has brown hair.
+dialogue,Rachel,"Of course, of course."
+dialogue,Chandler,"A tall guy with hair similar to mine, oh unknowable universe!"
+dialogue,Phoebe,He works with food!
+dialogue,Rachel,Oh sure. Older?
+dialogue,Phoebe,"Obviously, and he’s British."
+dialogue,Rachel,"Oh, I was just gonna ask!"
+dialogue,Phoebe,"Yeah? And, he’s-he’s so centered and mature and confident."
+dialogue,Rachel,"Oh, it’s so sad they never had a chance to meet."
+dialogue,Chandler,"Luckily, the guy she settled for can’t hear what you’re talking about."
+dialogue,Phoebe,"Oh, I’m so sorry. Um, and maybe I’m wrong! I but—y’know I’m gonna go out with him again, I’ll find out more."
+dialogue,Chandler,You believe that this guy is destined for someone else and you’re still gonna date him?
+dialogue,Phoebe,"Well, he may not be my soul mate, but a girl’s gotta eat."
+heading,,"[Scene: Ross and Rachel's, Ross is opening the door to Monica.]"
+dialogue,Monica,Hey.
+dialogue,Ross,Hey.
+dialogue,Monica,"I just talked to Joey, I just—I want to see how you were."
+dialogue,Ross,"Oh y’know, I still—I can’t believe it. Joey and Rachel I mean it’s… It’s like you and me going out, only weirder!"
+dialogue,Monica,"All right, I know you’re hurting, and-and I want to be supportive, but don’t say that again."
+dialogue,Ross,"Oh my God! What if, what if they get married? Then he’d be the stepfather of my child."
+dialogue,Monica,"Honey, I don’t think that’s something we need to worry about! First of all he’s-he’s never gonna tell her how he feels about her. And even if he did you have no idea how she’d react."
+dialogue,Ross,"Sure, because women never like Joey. Y’know, I think he’s a virgin."
+dialogue,Monica,Joey…he’s not even thinking about going after Rachel!
+dialogue,Ross,He’s not?
+dialogue,Monica,"No! All he’s thinking about is how you’re taking this! I mean, listen it’s totally freaking him out. He’s talking about moving to Vermont."
+dialogue,Ross,Why?
+dialogue,Monica,He says he wants to leave the country. (Pause) He thinks you hate him.
+dialogue,Ross,"Hate him? I… No, I don’t hate him. (Pause) It’s just it’s Rachel, y’know?"
+dialogue,Monica,"Honey I can’t even imagine how hard this must be for you. But, I don’t want you to lose Joey over it. And right now he just needs to know that you’re still his friend."
+dialogue,Ross,"Okay. Okay, I’ll talk to him."
+dialogue,Monica,"All right. Now do it soon, he just asked me how to convert his dollars into Vermont money."
+heading,,"[Scene: Central Perk, Monica and Chandler are on the couch as Phoebe enters with Monica’s soul mate.]"
+dialogue,Phoebe,Oh! Hi!
+dialogue,Monica,Hi!
+dialogue,Phoebe,"Umm, Chandler, Monica, this is Don."
+dialogue,Don,"Oh, hello. (Shakes Chandler’s hand.) Hello. (Shakes Monica’s hand.)"
+dialogue,Phoebe,(mouths to Chandler) Soul mate.
+dialogue,Chandler,(mouths to Phoebe) What?
+dialogue,Phoebe,(cough talks) Soul mate.
+dialogue,Monica,"So, what have you guys been doing?"
+dialogue,Don,"Well, we just had a terrible lunch today at Reattica. What is with all the sun-dried tomatoes at that place?"
+dialogue,Monica,"I know! What is this, 1985?!"
+dialogue,Don,"That’s exactly what I said. Phoebe, isn’t that strange."
+dialogue,Monica,Not really.
+dialogue,Chandler,What’s wrong with sun-dried tomatoes? (Everyone stares at him.) On a barbecue chicken pizza? (Still there’s staring.) No?
+dialogue,Monica,"So Don, what-what other restaurants do you like?"
+dialogue,Don,"Well, Octavio, 27&7—Oh! And there’s this great little place, Alessandro’s."
+dialogue,Monica,"Oh my God! That’s my restaurant, I’m the chef there."
+dialogue,Don,You’re kidding me!
+dialogue,Monica,No!
+dialogue,Don,"Your food is fantastic! Wow, I really want to talk to you about your menu, once I get some coffees first. Um, anyone want any?"
+dialogue,Monica,"Oh, I’d like a latte. Oh y’know what? If you’re gonna talk about me, I’m gonna go with you."
+action,,(They go over to the counter and Chandler moves closer to Phoebe.)
+dialogue,Chandler,What are you doing?!
+dialogue,Phoebe,Nothing! I swear to God I didn’t know you guys would be here! And the good news is you didn’t believe in soul mates. So…
+dialogue,Chandler,"I believe in tall, handsome strangers who hit on my wife!"
+dialogue,Phoebe,"They’re just talking, and y’know what? Just because I think they’re soul mates doesn’t mean anything’s gonna happen."
+dialogue,Monica,"(returning) Phoebe, good work."
+dialogue,Phoebe,Yeah?
+dialogue,Monica,"Yeah! Oh he’s great, I love him. (Walks away and Chandler glares at Phoebe.)"
+dialogue,Phoebe,"Don’t worry, we’ll find you someone else."
+heading,,"[Scene: Joey’s Apartment, there’s a knock on the door and Joey answers it to Ross.]"
+dialogue,Joey,Hey.
+dialogue,Ross,Hey.
+dialogue,Joey,"Look, I understand if you came by to hit me, I deserve it."
+dialogue,Ross,"No, I don’t want to hit you."
+dialogue,Joey,Oh what then? Kick me?
+dialogue,Ross,No.
+dialogue,Joey,(getting worried) Bite me?
+dialogue,Ross,"No, no I don’t want to do anything to you. All right? I just want to tell you that I’m not mad at you and…and that I certainly do not hate you. I just, I just came here to say that. (Starts to leave.)"
+dialogue,Joey,Oh now—Hey Ross-Ross! Do you wanna-wanna come in for a beer or something?
+dialogue,Ross,Uh…yeah sure. (Enters.)
+dialogue,Joey,"Do uh, do you got any beer? All-all I got is this melon stuff that Rachel left. I don’t…"
+dialogue,Ross,Okay.
+dialogue,Joey,"(pouring two glasses) Hey look Ross, you need to understand something okay? I uh…I am never gonna act on this Rachel thing, okay? I-I would never do anything to jeopardize my friendship with you. (He hands Ross a glass.)"
+dialogue,Ross,Thank you.
+action,,"(They clink glasses and take a drink. Ross likes it, Joey hates it. Then Ross sees Joey hating it, mimics he hates it as well.)"
+dialogue,Joey,"Anyway, it uh…look it’ll just…take me a while to get over her, that’s all. I’m not even sure how to do that, I mean I’ve never been in love before so…"
+dialogue,Ross,What?! You’re in love with her.
+dialogue,Joey,"Yeah, I thought you knew that."
+dialogue,Ross,"Umm, no."
+dialogue,Joey,"Wow. Hey look, if it helps, I don’t want to feel this way. Honest. I just keep thinking, ""Ah, I’ll get over this."" Y’know? I just—It just keeps gettin’ harder. I don’t, I don’t know what to do. Y’know? What do I do?"
+action,,(Pause)
+dialogue,Ross,I think you need to tell her how you feel.
+dialogue,Joey,Okay that’s the green stuff talkin’.
+dialogue,Ross,"No, I’m serious. You-you need to find out where she is, because if she’s not where you are, then you can start to move past this."
+dialogue,Joey,But what if uh—and I’m not saying she will be—But…
+dialogue,Ross,If she is where you are then uh…then my feeling weird about it shouldn’t stand in the way.
+dialogue,Joey,Are you sure?
+dialogue,Ross,"Yeah. Look if-if she’s gonna end up with somebody else, the truth is she couldn’t find a better guy. So…"
+dialogue,Joey,Hey thanks.
+dialogue,Ross,So when do you think you’re gonna talk to her?
+dialogue,Joey,Oh my God I have to tell her! I haven’t even thought about what I will say. What should I say?
+dialogue,Ross,"I’m understanding, but let’s not get carried away."
+dialogue,Joey,"I’m sorry, you’re right. What am I gonna say? (He takes another sip of the green stuff and recoils at the taste.) Oh!"
+dialogue,Ross,"Yeah, tell me about it. (He stands up, turns his back to Joey, and enjoys another sip.)"
+action,,Commercial Break
+heading,,"[Scene: Central Perk, Phoebe and Chandler are watching Monica and Don talk.]"
+dialogue,Don,…so I’ve been slowly phasing out the wine importing and focusing more on the cheese side of things.
+dialogue,Chandler,"Cheese you say? That’s some pretty smelly work, huh Don?"
+dialogue,Don,Excuse me?
+dialogue,Chandler,"Cheese, it’s smelly. You must smell a lot of the time too."
+dialogue,Don,"Uh, not really. But when it comes to cheese, I’m one of the people who thinks the smellier the better."
+dialogue,Monica,"Me too! Yeah, Chandler can’t stand it. He won’t even allow me to have blue cheese in the house."
+dialogue,Don,"And you’re still married to him? (They both laugh, and Chandler tries to but fails.)"
+dialogue,Monica,"You know what I’d love to do? I would like to go to France and eat nothing but bread and cheese—Not even bread, just cheese. No, I want the bread. Yeah. Ah, and pastries… (Breathlessly) And pate. Oh, I’m really not high, it’s just I used to be fat."
+dialogue,Don,"Well if you where ever enter the Loire valley let me know, I’ve got a great little villa you can stay at."
+dialogue,Chandler,Is it made of cheese?
+dialogue,Don,"No. But God, a house made of cheese, wouldn’t that be incredible?!"
+dialogue,Monica,I’d move in tomorrow!
+dialogue,Chandler,(disgusted) Oh come on! (To Phoebe) Are you listening to this?
+dialogue,Phoebe,I’m so sorry.
+dialogue,Chandler,What do we do?
+dialogue,Phoebe,"I don’t know, they both want to live in a house of cheese! I don’t know how you fight that."
+heading,,"[Scene: Outside Ross and Rachel's, Joey walks up to knock on the door, but stops.]"
+dialogue,Joey,"Okay. Okay, I can do this. I can tell her how I feel. Just uh, just stand up straight. (Does so.) Take a couple deep breaths. (Does so.) Look confident. (Does so as Rachel opens the door and startles him.)"
+dialogue,Rachel,Joey? What’s up?
+dialogue,Joey,"I uh, I just came by because I-I want to talk to you about something."
+dialogue,Rachel,Okay what’s up?
+dialogue,Joey,Here? In the hall? What are we animals?
+dialogue,Rachel,"Well honey, I’m late for a meeting. So can you just make it quick?"
+dialogue,Joey,"Okay umm, I just came by to tell you that I…want to have dinner with you tonight. That’s all."
+dialogue,Rachel,Sure! That sounds great! Just leave me a message and tell me where to meet you. Okay? (Walks away.)
+dialogue,Joey,"Okay. That’s good. Okay, that give you a couple hours to prepare what you’re gonna say. Good. Yeah. (Someone comes out of his apartment and it startles Joey again.) Don’t you people ever knock?!"
+heading,,"[Scene: Monica and Chandler's, Monica and Chandler are entering.]"
+dialogue,Monica,I’d like to have Don and Phoebe over. Wouldn’t that be nice?
+dialogue,Chandler,"Sure, why don’t you set it up. I’ll just be over here, browsing through the personals."
+dialogue,Monica,Are you okay? You’ve been acting weird all afternoon.
+dialogue,Chandler,"Yeah, fine. Fine. Not perfect!! But good enough."
+dialogue,Monica,Jeez! What is with you?
+dialogue,Chandler,"I’m sorry, did you say cheese?"
+dialogue,Monica,"All right, what’s going on?"
+dialogue,Chandler,"Phoebe thinks you and Don are soul mates, and I don’t believe in that kind of stuff. But then you two totally get along. So look, I won’t stand in your way if you want to run off with Don and live in a house of cheese."
+dialogue,Monica,"Chandler, you don’t believe in soul mates?"
+dialogue,Chandler,No. But I’m sure (mimics Don) ‘tomatoes’ does.
+dialogue,Monica,I don’t believe in soul mates either.
+dialogue,Chandler,You don’t?
+dialogue,Monica,No. I don’t think that you and I were destined to end up together. I think that we fell in love and work hard at our relationship. Some days we work really hard.
+dialogue,Chandler,So you…you don’t want to live with Don in a cheese house?
+dialogue,Monica,"No, I’ve had second thoughts about that. Do you realize how hard that would be to clean?"
+dialogue,Chandler,I love you.
+dialogue,Monica,I know.
+dialogue,Chandler,Y’know what? I am going to take you out to dinner tonight. I found this place that makes the greatest mozzarella sticks and jalepino poppers . (Monica doesn’t look impressed.) No? Really? They taste so good.
+heading,,"[Scene: A restaurant, Joey and Rachel are having dinner.]"
+dialogue,Rachel,…and I know Chandler is kidding but it happens every time he touches my stomach. I mean I’m really worried the baby’s not going to like him. (Joey is staring at the table.) Are you okay?
+dialogue,Joey,"What? Yeah! Sure! Uh, look at the uh, the reason…(Exhales slowly)—Is it hot in here?"
+dialogue,Rachel,"No. Not-not for me, but why don’t you take off your sweater?"
+dialogue,Joey,"I would, but this is a nice place and my T-shirt has a picture of Calvin doing Hobbs."
+dialogue,Rachel,Oh my God! Really?! Can I see it?
+dialogue,Joey,"Yeah. Sure. (They both half stand up, Joey pulls the neck of his sweater out, and Rachel looks down it to see his T-shirt.)"
+dialogue,Rachel,"Huh. Wow, I wouldn’t think Hobbs would like that so much."
+dialogue,Joey,Uh… How long have we known each other?
+dialogue,Rachel,"Um, seven…e-e-eight, eight years. Wow."
+dialogue,Joey,"Uh-huh, long time."
+dialogue,Rachel,Yeah.
+dialogue,Joey,But over the past few weeks…
+action,,(A waiter runs over interrupting Joey.)
+dialogue,Waiter,"Hah, sorry about the wait, but it is mega-jammed in here! We have a couple specials tonight…"
+dialogue,Joey,"Actually uh, could you give us a second?"
+dialogue,Waiter,"Sure. Sure. (Turns away, then turns back) Second’s up! (Joey glares at him.) Not…that kind of table. (He walks away.)"
+dialogue,Rachel,So you were saying?
+dialogue,Joey,I’m not quite sure.
+dialogue,Rachel,"Okay, well you had asked me how long we had known each other, and I said, ""Eight years."" And the um, waiter came over and cut his tip in half, and umm…now here we are."
+dialogue,Joey,"Yeah, here we are. Uhh… I… I think I’m…falling in love with you."
+dialogue,Rachel,(stunned) What?
+dialogue,Joey,I’m falling in love with you.
+dialogue,Rachel,"(looking around) Who are you talking too? Oh, you’re kidding! Oh, it’s a joke! (Laughs.) It’s funny. It’s funny. I don’t get it. (Joey doesn’t say any thing and Rachel realizes it’s not a joke.) Oh. (Pause) Okay. Umm… I-I…uh, wow. Are you uh… How did umm… When?"
+dialogue,Joey,Does it really matter?
+dialogue,Rachel,"Wow! Wow. Wow. Wow, it is hot in here."
+dialogue,Joey,"Okay look Rach, I know this is a lot. You don’t have to say anything. You-you uh, you take as much time as you need. (Long pause as Rachel says nothing.) Okay, you gotta say something!"
+dialogue,Rachel,"Joey, Joey I love you so much, but I…"
+dialogue,Joey,But. (Hangs his head down.)
+dialogue,Rachel,Joey.
+dialogue,Joey,"Yeah-yeah right. That’s okay. That’s fine. That’s uh, pretty much what I was expecting. So uh, it’s no big deal. All right? I think I’m gonna go. (Stands up.)"
+dialogue,Rachel,"No! Joey please! Please don’t! Please don’t leave like this! Now come on, you cannot do this to a pregnant woman! (Starts to cry.)"
+dialogue,Joey,"Don’t start doing that. You can’t do that Rach, ‘cause then you’re gonna make me do that. (Starts to cry.) Oh, here we go! (Sits down next to her.)"
+dialogue,Rachel,Can I? (Hug him.)
+dialogue,Joey,Sure!
+action,,(They hug.)
+dialogue,Rachel,Oh Joey honey I don’t…I don’t want to lose…
+dialogue,Joey,"Hey-hey-hey, hey! You can’t. Okay? Ever!"
+dialogue,Rachel,I’m so sorry.
+dialogue,Joey,"Oh no-no Rach, please, don’t be sorry. Okay? Don’t be sorry. (They hug again.) Y’know I was only kidding you."
+dialogue,Rachel,"Yeah, that was a real good one."
+action,,Closing Credits
+heading,,"[Scene: A restaurant, Joey and Rachel are still hugging as a waiter walks by the table to talk to the annoying waiter from before who is watching.]"
+dialogue,Waiter No. 2,Is this your table?
+dialogue,Waiter,Yeah.
+dialogue,Waiter No. 2,"God, you’re gonna be here all night!"
+dialogue,Waiter,I know! I haven’t even read them the specials yet!
+dialogue,Waiter No. 2,What’s the matter with them?
+dialogue,Waiter,I don’t know. I think maybe one of them is dying. (Pause) I kinda hope it’s the girl. (The other waiter is shocked.) The guy is really cute!
+action,,End

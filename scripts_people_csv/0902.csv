@@ -1,0 +1,284 @@
+script_element,character,text
+heading,,"[Scene: Rachel’s Hospital Room, Ross is sitting next to Rachel.]"
+dialogue,Ross,You said you’d marry Joey?
+dialogue,Rachel,"Okay you have to realize, I was exhausted, I was emotional, I would have said yes to anybody. Like that time you and I got married! (Pause) I’m not helping."
+dialogue,Ross,"So you said yes to him, and you just had our baby?"
+dialogue,Rachel,That is right and traditionally the daddy is supposed to give the mummy a present but I am prepared to let that go.
+dialogue,Ross,"So when I came in here to see if you wanted to maybe start things up again, you were engaged to my best friend."
+dialogue,Rachel,Well—Really? I thought Chandler was your best friend.
+dialogue,Ross,"Well, Chandler’s my oldest friend, but Joey’s my—No! Ah! (points at Rachel)"
+dialogue,Rachel,Ooooo!
+dialogue,Joey,"(Enters) Hey you guys I’m gonna take off. I just wanted to let you guys know, say goodbye."
+dialogue,Ross,Rachel said she’d marry you?!
+dialogue,Joey,"(He looks around the room) This isn’t the right room, sorry folks. (leaves)"
+action,,Opening Credits
+heading,,"[Scene: Ross and Rachel’s, Monica, Phoebe, Joey and Chandler are waiting for Ross and Rachel to come home and Monica is looking at the sign Phoebe bought that says, ""It’s a Boy!""]"
+dialogue,Monica,"Ok, I don’t wanna be negative so I’ll say that most of the signs you bought are good."
+dialogue,Phoebe,"No they ran out of ""It’s a girl"" but I can fix this one, (She writes ""not"" in between it’s and a) See?"
+dialogue,Monica,(looking at Chandler sleeping with a balloon in his mouth) So sexy. (Waking him up.) Honey.
+dialogue,Chandler,Yea yea. (Pulls the balloon out of his mouth)
+dialogue,Monica,Honey why don’t you go lie down.
+dialogue,Chandler,"No, no, Ross and Rachel will be back soon and then I gotta go to the office (Pulls another balloon out of his mouth) Am I producing them?"
+dialogue,Joey,Why’re you so tired?
+dialogue,Chandler,"Couldn’t sleep last night you know, then I started worrying about this big divisional meeting that I have later today, the more I worried about it the more I couldn’t sleep. Y’know? I was like, if I fall asleep now I’ll get six hours sleep, but if I fall asleep now I’ll get five hours sleep. Not matter what I did I couldn’t fall asleep."
+dialogue,Joey,"You know what you should’ve done, you should have told yourself that little story."
+dialogue,Rachel,(enters with Emma) Hi!
+dialogue,Everyone,"Hi, welcome home!"
+dialogue,Monica,Phoebe did the signs!
+dialogue,Rachel,Oh you guys thanks for doing this.
+dialogue,Phoebe,Look at all the stuff people sent!
+dialogue,Rachel,"Oh Ah! (Sees a big stuffed gorilla) Oh my gosh there’s something every mother needs, a giant stuffed gorilla that takes up the entire apartment! What are people think… (Reads the card) Oh you guys I love it."
+dialogue,Joey,Hey so where’s Ross?
+dialogue,Rachel,He’s downstairs getting the rest of the stuff out of the cab.
+dialogue,Joey,Is he still mad at us?
+dialogue,Rachel,"Well, you more then me, but he can’t stay to mad at me. I mean, I just had his baby."
+dialogue,Joey,That’s not fair! I can’t do that.
+dialogue,Rachel,"Yeah, I’m not so sure you should be here when he comes up."
+dialogue,Joey,"See this is what I was afraid of, I didn’t think I should be here either but somebody (Looks at Chandler) said he’d be over it by now."
+dialogue,Chandler,"Hey, what do I know? I wanted to get a bigger gorilla."
+heading,,"[Scene: A Boardroom, Chandler keeps drifting off to sleep at his meeting.]"
+dialogue,Ms. McKenna,"The numbers we are seeing New York, Chicago, and London are consistently solid, but many of our officers have reported disappointing fields."
+action,,(Chandler drifts off and his arm slips off the table and he wakes back up.)
+dialogue,Ms. McKenna,"Boston is down, Atlanta is down, Houston is down, I could go on and on but instead of boring you I’ll go straight to my forty two point plan."
+action,,"(Chandler leans over to fall asleep on the man’s shoulder next to him, only the man catches his attempt.)"
+dialogue,Chandler,Walter (nods).
+heading,,"[Scene: Ross and Rachel’s, Phoebe, Monica, Ross, and Rachel are watching Emma sleep.]"
+dialogue,Phoebe,She’s just so cute! I just wanna bite her ear off and use it and a sucking candy.
+dialogue,Monica,Phoebe! But I could take one of those little feet and put it in a pita pocket.
+dialogue,Ross,(enters from the bed room) Okay I put most of the stuff away.
+dialogue,Rachel,"Oh great, the pacifiers?"
+dialogue,Ross,In the closet.
+dialogue,Rachel,The burping clogs?
+dialogue,Ross,Linen closet.
+dialogue,Rachel,The diapers?
+dialogue,Ross,In the hospital.
+dialogue,Phoebe,Wow you guys got a hospital? Fancy!
+dialogue,Ross,No I left the diapers at the hospital! There’s some in the bag but I’ll run out and get some more.
+dialogue,Rachel,"Alright thanks, oh Ross could you stop by the coffee house and get me a muffin?"
+dialogue,Ross,Sure what kind?
+dialogue,Rachel,"Umm let me think...What do I want, what d-o I w-a-n-t..."
+dialogue,Ross,"Please take your time, it’s an important decision. Not like, say, I know! deciding to marry someone, this is about a muffin."
+dialogue,Rachel,Blueberry.
+dialogue,Ross,Blueberry it is.
+dialogue,Rachel,Thanks.
+dialogue,Monica,"Wow, he’s really not letting this go, is he?"
+dialogue,Rachel,God how long do you think that’s gonna last?
+dialogue,Phoebe,"I dunno, well he got over the ""We were on a break"" thing really quickly."
+dialogue,Rachel,"Y’know I can’t even worry about that right now, cause I got the cutie little baby, oh I can’t believe how much I love her, I can’t get enough of her, like right now I miss her. I actually miss her."
+dialogue,Phoebe,You know that’s… that’s her.
+dialogue,Rachel,"Oh god look at her sleeping. Oh, I love her so much! Oh, I think I’m gonna wake her up."
+dialogue,Phoebe,"Oh no, Rach, no no, you know you’re never supposed to wake a sleeping baby."
+dialogue,Rachel,"Well I can do whatever I want! I made her! (Waking Emma up.) Come on little girl, hi!"
+action,,(Emma starts crying)
+dialogue,Phoebe,I can say I told you so but she’s kinda doing that for me.
+dialogue,Rachel,Oh I’m sorry mummy’s so sorry go back to sleep go back to sleep. Shh. Shhh! Go back to sleep
+action,,(Emma continues crying in the background)
+dialogue,Monica,Breaks your heart doesn’t it
+dialogue,Phoebe,It really does… how long do you think we have to stay?
+heading,,"[Scene: A Boardroom, Chandler’s meeting continues.]"
+dialogue,Ms. McKenna,"Ok if everyone’s on board, it’s settled, Chandler, (Walter puts his hand on Chandlers hand, Chandler sleeping puts his hand on top of his, he then wakes up and pulls his hand away) Chandler?"
+dialogue,Chandler,Yep.
+dialogue,Ms. McKenna,Are you on board?
+dialogue,Chandler,(not knowing what he’s saying yes to) Yes.
+dialogue,Ms. McKenna,"Then, problem solved. Chandler will be running our office in Tulsa. You’re gonna love Oklahoma."
+action,,(Chandler smiles and nods then realizes what he’s agreed to.)
+heading,,"[Scene: Ross and Rachel’s, Emma continues crying while Rachel, Monica and Phoebe try different methods to stop her crying.]"
+dialogue,Phoebe,"Well, alright, we already tried feeding her, changing her, burping her, oh try this one! Go back in time and listen to Phoebe!"
+dialogue,Monica,"Alright here’s something, it says to try holding the baby close to your body and then swing her rapidly from side to side."
+dialogue,Rachel,Ok. (Starts swinging Emma rapidly and she stops crying)
+dialogue,Monica,It worked!
+dialogue,Rachel,"Oh (happy) oh no just stopped to throw up a little bit. (Emma starts crying again.) Oh come on, what am I gonna do, its been hours and it won’t stop crying."
+dialogue,Monica,"Umm, she Rach, not it, she."
+dialogue,Rachel,"Yeah, I’m not so sure."
+dialogue,Monica,"Oh my god, I am losing my mind."
+dialogue,Phoebe,"Yeah, no kidding, this just proves no good can come from having sex with Ross!"
+heading,,"[Scene: Central Perk, Ross is getting Rachel’s muffin.]"
+dialogue,Ross,"Hey Gunther, can I get a couple of blueberry muffins to go? (He puts a bag with diapers in it on the counter.)"
+dialogue,Gunther,Diapers huh?
+dialogue,Ross,Yep.
+dialogue,Gunther,So I guess Rachel had you baby?
+dialogue,Ross,"Yep, can you believe it?"
+dialogue,Gunther,Nope! I still can’t believe she slept with you in the first place.
+dialogue,Ross,Huh? Ooh (laughs) you mean like a… Huh?
+dialogue,Joey,"(entering) Hey. (Ross turns to see who it is, and seeing it’s Joey he just ignores him and turns back around.) Ross, I know you’re pissed at me, but we have to talk about this."
+dialogue,Ross,Ah actually we don’t. (Ross walks off)
+dialogue,Joey,"Fine, fine okay. But I gotta say technically, I didn’t even do anything wrong."
+dialogue,Ross,(turns back) What! (Angrily) You didn’t do anything wrong?!
+dialogue,Joey,I said I didn’t technically.
+dialogue,Ross,"Okay let’s put aside that you (Makes quote marks with his fingers.) ""accidentally"" picked up my grandmothers ring and you (Does it again) ""accidentally"" proposed to Rachel."
+dialogue,Joey,"Look, can I just stop you right there for a second? When people do this (Makes quote marks with his fingers.) I don’t really know what that means. (Ross just looks at him) You were saying?"
+dialogue,Ross,"And I can even understand that you couldn’t tell Rachel, but why couldn’t you tell me, huh? You had all day to and you didn’t."
+dialogue,Joey,"I know I should’ve. (Makes quote marks again.) ""I’m sorry."""
+dialogue,Ross,"Not using it right, Joe."
+action,,(He brings his hands in closer to his face then does it again.)
+dialogue,Ross,I’m gonna go.
+dialogue,Joey,"No, come on Ross! (He grabs his bag so he can’t leave) Look, Ross, we have to get past this."
+dialogue,Ross,Give me the bag.
+dialogue,Joey,"No, look, I don’t know what else to do. I said I’m sorry!"
+dialogue,Ross,Joey!
+dialogue,Joey,"You should scream at me, or-or-or curse me, or hit me."
+dialogue,Ross,I’m not gonna hit you.
+dialogue,Joey,"Why not? You’ll feel better! I’ll feel better, and you know you want to. I can see it in your eyes."
+dialogue,Ross,No I don’t.
+dialogue,Joey,A little bit.
+dialogue,Ross,No.
+dialogue,Joey,Little bit.
+dialogue,Ross,No!
+dialogue,Joey,(excited) A little bit more.
+dialogue,Ross,Give me the bag.
+dialogue,Joey,"No, hit me"
+dialogue,Ross,Give me the bag.
+dialogue,Joey,Hit me.
+dialogue,Ross,"Joey, give me the bag."
+dialogue,Joey,Hit me!
+dialogue,Ross,Joe I’m not kidding…
+dialogue,Joey,"(interrupting) Hit me, hit me."
+dialogue,Ross,No!
+dialogue,Joey,(shouts) Hit me! Hit me!
+action,,"(Ross throws a punch, but Joey ducks and Ross punches the pole. Ross then screams from the pain and turns to Gunther, and Gunther has a huge smile on his face.)"
+dialogue,Ross,You ducked!!
+dialogue,Joey,I’m sorry! It was a reflex!
+dialogue,Ross,"Oh my god, this really hurts!!!"
+dialogue,Joey,"I couldn’t help it! When a fist comes at your face, you duck! Look! (He goes to punch Ross, expecting him to duck, but he doesn’t and Joey punches Ross. Gunther is amused.)"
+dialogue,Ross,What is the matter with you?!?
+dialogue,Joey,You were supposed to duck!!! Why didn’t you duck?
+dialogue,Ross,Why don’t we talk about this on the way to the hospital?
+dialogue,Joey,"Good, good yeah, (Grabs the bags) maybe while we’re there, they can check your reflexes. (Joey opens the door and it hits Ross in the face with it.) (Makes quote marks.) ""Oops."""
+action,,Commercial Break
+heading,,"[Scene: Ross and Rachel’s, Emma is still crying.]"
+dialogue,Monica,Try feeding her again.
+dialogue,Rachel,I already fed her.
+dialogue,Monica,"I know, that’s why I said again!"
+dialogue,Phoebe,"Alright you guys, we can’t turn on each other, Okay? That’s just what she wants."
+dialogue,Chandler,(enters) Hey.
+dialogue,Monica,Hey.
+dialogue,Chandler,Monica can I talk to you outside for a minute?
+dialogue,Rachel,"Oh no, you guys, just stay here, I’m gonna go check her diaper, Pheebs you wanna come?"
+dialogue,Phoebe,Oh I’m kinda part of this.
+dialogue,Chandler,Actually Pheebs its more of a husband and wife kinda thing
+dialogue,Phoebe,I knew I should have married Chandler.
+action,,(Phoebe and Rachel go to the back room and Emma continues to cry in the background while Chandler and Monica talk.)
+dialogue,Monica,Okay what’s up
+dialogue,Chandler,"Umm, you know how we always said that it would be fun to move to Paris for a year? You know, you could study French cooking and I could write and we could take a picnic along the Seine and go wine tasting in Bordeaux?"
+dialogue,Monica,Oh yeah (smiles).
+dialogue,Chandler,"Okay, you know how that people say that Tulsa is the Paris of Oklahoma?"
+dialogue,Monica,What? Who says that?
+dialogue,Chandler,People who’ve never ever been to Paris.
+dialogue,Monica,What’s going on?
+dialogue,Chandler,We’re moving to Tulsa! (Makes a excited expression on his face)
+dialogue,Monica,Excuse me?
+dialogue,Chandler,"Okay, Ms. McKenna, she kind of works above my boss, she asked me to move to Tulsa and be the president of our office there, and I was sleeping and apparently, said yes."
+dialogue,Monica,"(stands up angry) Tulsa, Oklahoma!"
+dialogue,Chandler,"The Sooner State, whatever that is."
+dialogue,Monica,"Chandler, I don’t even wanna see the musical Oklahoma!"
+dialogue,Chandler,Really? Oh What A Beautiful Morning ! Surrey With A Fringe On Top .
+dialogue,Monica,"Are you trying to tell me that we’re moving to Oklahoma, or that you’re gay? All right, not that this matters, but did they at least offer you a huge raise?"
+dialogue,Chandler,"No, no, but they are going to lease us a Ford Focus. (Monica’s not impressed.) I’ll get out of it."
+dialogue,Monica,Thank you.
+dialogue,Chandler,(hears Emma crying) What is wrong with Emma?
+dialogue,Monica,"Oh she misunderstood, she thought she was moving to Tulsa."
+heading,,"[Scene: Ms. McKenna’s Office, Chandler enters.]"
+dialogue,Chandler,"Umm ma’am, do you have a minute? (She points for him to come in) I kind of have some bad news. I don’t think I can move to Tulsa."
+dialogue,Ms. McKenna,What?
+dialogue,Chandler,"It’s a funny story, actually. (coughs) I kind of fell asleep in the meeting this morning so when I said I’d move to Tulsa, I didn’t really know what I was saying."
+dialogue,Ms. McKenna,You fell asleep?
+dialogue,Chandler,"But only because I was up all night worried about this meeting, ain’t that funny? Irony? Not a fan, alright (he sits down). See, here’s the thing. I went home and told my wife about Tulsa and she won’t go. See, me, I love Tulsa! Tulsa is heaven! Tulsa is Italy—Please don’t make me go there!"
+dialogue,Ms. McKenna,"Chandler, I…"
+dialogue,Chandler,"No no no! Look, Carol, can I call you Carol? (Pause) Wh-why would I when your name is Elaine? Oh what a great picture of your son, strapping! (She glares at him.) That’s a picture of your daughter, isn’t it, well she’s lovely. I like a girl with a strong jaw. I’ll call you from Tulsa. (Exits.)"
+heading,,"[Scene: The Hospital, Joey is sitting in the lobby as Ross enters.]"
+dialogue,Joey,"Hey, so how is it?"
+dialogue,Ross,I broke my thumb.
+dialogue,Joey,Your thumb? That’s weird. (Makes a fist.) You sure you’re punching right? Make a fist. (Ross just looks at him with his thumb in a cast.) Maybe later. Ross I feel terrible.
+dialogue,Ross,"You know what, you can go, I just have to fill out some forms. (Tries to hold the pen but can’t)"
+dialogue,Joey,"You, you want me to help you with that?"
+dialogue,Ross,"Why, does it look like I’m having trouble with my misshapen claw? (He hands Joey the form)"
+dialogue,Joey,"Name? (Ross looks at him.) I know Ross but what’s it short for? You know like, like Rossel or Rosstepher."
+dialogue,Ross,Just Ross!
+dialogue,Joey,"It’s pretty, Okay date of birth?"
+dialogue,Ross,You know my birthday.
+dialogue,Joey,"Sure, May...tember."
+dialogue,Ross,October 18th.
+dialogue,Joey,Occupation? Dinosaurs.
+dialogue,Ross,Actually I’m a palian… Dinosaurs is fine… the drawing is not.
+dialogue,Joey,"Alright, who do you want as your emergency contact?"
+dialogue,Ross,"Ah, Rachel I guess."
+dialogue,Joey,"Okay, relationship, boy this could take a while."
+dialogue,Ross,Just ah… just put roommate.
+dialogue,Joey,"Come on, you guys are more then that! I mean, you’re gonna get together right?"
+dialogue,Ross,I don’t think that we are.
+dialogue,Joey,But you two were supposed to be together.
+dialogue,Ross,"Well, I thought so too, but then she said she’d marry you."
+dialogue,Joey,"Come on, Ross, that didn’t mean anything! She just had the baby, she was all freaked out about doing it alone, she would have said yes to anybody."
+dialogue,Ross,Yeah that’s what she said.
+dialogue,Joey,So?
+dialogue,Ross,So I don’t wanna be just anybody.
+dialogue,Joey,Wow.
+dialogue,Ross,"You know what, it’s, it’s better this way anyway. I mean I don’t know what I was thinking, going down that road again with us. It’s just much easier if we’re just friends who have a kid."
+dialogue,Joey,Really?
+dialogue,Ross,Yeah.
+dialogue,Joey,And you’re Okay with that?
+dialogue,Ross,"Yes. I mean, it’s what we always planned. And if you have a plan, you should stick to it. That’s why they call them plans. Hello? (Pause) I’m fine."
+dialogue,Joey,"Hey, for what it’s worth, with Rachel I don’t think you’ll ever be just (Makes quote marks.) ""anybody."""
+dialogue,Ross,Hey there you go! (Smiles because Joey used it correctly)
+dialogue,Joey,"(makes quote marks) ""Thanks."""
+action,,"(Ross looks away, not bothering)"
+heading,,"[Scene: Ross and Rachel’s, Emma continues to cry.]"
+dialogue,Rachel,Oh my God! How long has she been crying?
+dialogue,Monica,About a week and a half.
+dialogue,Phoebe,"Well alright, looks like you guys have got it under control so I’m just gonna go. (She gets up and Rachel looks at her, upset, and Monica just stares.) No! Really? Misery really does love company. All right! (She sits back down.)"
+dialogue,Monica,"Rach, try holding her a different way."
+dialogue,Rachel,"You guys, I’m doing the best I can, anyone else is welcome to try."
+dialogue,Phoebe,"Alright, I’ll try, fine! Yes, Okay!"
+dialogue,Rachel,Here you go. (Hands Emma to Phoebe)
+dialogue,Phoebe,Shh! Nothing works with this child! (Hands her back.)
+dialogue,Rachel,"Oh god what am I gonna do you guys, I can’t even comfort my own baby! I’m the worst mother ever!"
+dialogue,Monica,"You’re just new at this, it’ll get better, think about your first day at work. I mean, that couldn’t have been easy but you figured that out."
+dialogue,Rachel,Yeah I don’t think dressing provocatively is going to help me here! Oh my god just please take her.
+dialogue,Monica,"Okay I’ll take her, here. (Takes Emma)"
+dialogue,Rachel,I have to go to the bathroom. (Goes to the bathroom)
+dialogue,Phoebe,I have to go scream into a pillow. (Goes to scream into a pillow)
+dialogue,Monica,"(To Emma) Bouncy baby, Bouncy baby, Ooh baby baby, Ooh baby baby, Ooh baby baby. (Emma stops crying and falls asleep)"
+dialogue,Phoebe,(entering) Have I gone deaf?
+dialogue,Monica,"It worked! Ooh baby baby baby, ooh baby baby baby!"
+dialogue,Phoebe,You must be a fireball in bed.
+dialogue,Monica,I can’t believe it! She’s asleep! I got her to go to sleep! I have actual magical powers!
+dialogue,Phoebe,I can hear traffic and birds! I can hear the voices in my head again! (Monica looks at her strangely) I’m kidding. (She smiles wickedly.)
+dialogue,Rachel,Oh my God! You got her to stop crying!
+dialogue,Monica,"Yes I did, I’m Monica, Super Aunt"
+dialogue,Rachel,You are the official baby crier stopper!
+dialogue,Monica,Yes I am!!
+dialogue,Rachel,You’re never leaving the apartment!
+dialogue,Monica,Say what?
+dialogue,Rachel,"That’s your new job, day and night, she starts crying I need you here."
+dialogue,Monica,(stands up to hand Emma back) Oh no no no no!
+dialogue,Phoebe,Thankfully you don’t need me at all (gets up and to leave) so Okay Super aunt see you later! Rachel let’s give it six to eight months (she leaves).
+dialogue,Rachel,Okay so listen I’m gonna go lay down.
+dialogue,Monica,What?
+dialogue,Rachel,You know the book says that whenever she’s sleeping I should be sleeping so… (She gives Monica thumbs and goes to lay down)
+dialogue,Chandler,"(entering, loudly) Hey!"
+dialogue,Monica,Shhh! We just got her to go to sleep
+dialogue,Chandler,Oh so there can’t be any yelling.
+dialogue,Monica,No.
+dialogue,Chandler,We’re moving to Tulsa
+dialogue,Monica,(loudly) What!?
+dialogue,Chandler,"Shhhh! Shhhhh! Shhhhh! Shhhhh! (Walks backwards towards the door) I can’t, I can’t hear you. (He runs out)"
+heading,,"[Scene: Ross and Rachel’s, Ross enters.]"
+dialogue,Ross,Hey.
+dialogue,Rachel,"Heeeeey, where have you been? (He shows her his thumb) What happened to you?"
+dialogue,Ross,"Ah I had a little thing with Joey, if you think this is bad you should see him."
+dialogue,Rachel,"Oh no Ross! This is not good, we have to talk about this Joey thing. Please sit. (He sits) You have got to get over this Joey thing, okay? I never really wanted to marry Joey, okay?"
+dialogue,Ross,Okay.
+dialogue,Rachel,You know what I really really want?
+dialogue,Ross,"What, Rach?"
+dialogue,Rachel,"I wanna sleep, I wanna eat, I wanna take a shower, I mean before she wakes up and we gotta do this all over again."
+dialogue,Ross,(smiles) Right.
+dialogue,Rachel,"I mean I got news for you mister, Emma? Not easy."
+dialogue,Ross,"Well, that’s what I’m here for. (Emma starts crying again) Want me to get that?"
+dialogue,Rachel,No its really okay… Monica!
+dialogue,Monica,(comes running out the kitchen to the bedroom) Got it! Got it! Got it! Got it! Got it! Got it!
+action,,Closing Credits
+heading,,"[Scene: Central Perk, Joey and Ross are sitting at one of the high tables.]"
+dialogue,Joey,"You know, ah, I’ve been thinking about this and I gotta tell ya, it’s not my fault. It’s a natural instinct."
+dialogue,Chandler,"(enters) Hey, what you guys talking about?"
+dialogue,Joey,"Hey OK great, what would you do if I did this? (Swings to punch Chandler, he moves and he ends up punching Ross, knocking him off the stool. Ross then gets up and just stares at Joey.)"
+action,,End

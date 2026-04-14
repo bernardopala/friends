@@ -1,0 +1,308 @@
+script_element,character,text
+heading,,"[Scene: Monica and Chandler's, Monica and Chandler are getting ready to go on their honeymoon. Monica is entering from the bedroom.]"
+dialogue,Chandler,Hey! Babe! Aren’t you excited we’re going on our honeymoon?
+dialogue,Monica,Yeah I am!
+dialogue,Chandler,"(singing) Bermuda, Bahama, come on pretty mama …"
+dialogue,Monica,That’s right. Get it out of your system while we’re alone.
+dialogue,Joey,(entering with Phoebe) Hey!
+dialogue,Phoebe,Yeah! Have a great honeymoon!
+dialogue,Chandler,I’d better go pack.
+dialogue,Monica,"Oh no, I already packed. The only thing I couldn’t find though was your Speedo."
+action,,"(Joey looks at him, Phoebe tries not to smile, and Chandler is shocked.)"
+dialogue,Chandler,"A Speedo? Uh, I don’t have a Speedo. I’m gonna go pack my regular long bathing suit. (Goes into the bedroom.)"
+dialogue,Rachel,(entering) Oh good you’re still here!
+dialogue,Monica,Hey!
+dialogue,Rachel,I want to tell you to have a good honeymoon! (Hugs Monica.)
+dialogue,Monica,Thank you.
+dialogue,Rachel,And I also wanted you guys to know that I am telling the father today. (They all look at her expectantly) What? What? What?
+action,,(Pause.)
+dialogue,Joey,We know its Ross!
+dialogue,Rachel,How?! How do you know?
+dialogue,Phoebe,"It was his sweater, but—Oh my God!"
+dialogue,Rachel,"Oh, I so wanted Ross to know first, but I’m so relieved you guys know."
+dialogue,Monica,This is so great! And I’m gonna be your baby’s aunt!
+dialogue,Rachel,I know! (They hug.)
+dialogue,Phoebe,Me too! (Joins the hug.)
+dialogue,Joey,I’m gonna be an uncle! Come here! (He joins the hug.)
+dialogue,Rachel,(breaking the hug) You’re all gonna be aunts and uncles.
+dialogue,Monica,"Yeah, but I’m the only one related by blood."
+dialogue,Rachel,Okay. Great! So now that you guys all know you can help me. Give me some advice on how I’m gonna tell Ross!
+dialogue,Monica,"Well, what were you gonna say?"
+dialogue,Rachel,Well I was gonna tell him that I’m-I’m gonna have the baby and he can be as involved as he wants.
+dialogue,Joey,"Well that, that sounds good."
+dialogue,Rachel,"Yeah but how do I start? I mean, what’s-what’s the first thing that I say? (They all pause to think.) Okay great! Thanks. (She starts to leave.)"
+dialogue,Monica,Hey! Good luck!
+dialogue,Phoebe,"Yeah, bye."
+dialogue,Joey,Bye.
+action,,(Rachel exits.)
+dialogue,Chandler,"(entering) Hey, what was that all about?"
+dialogue,Monica,"Well I guess there is no harm in telling you now, Rachel and Ross are gonna have a baby."
+dialogue,Chandler,(in a high pitched voice) What?! I didn’t even know that—Why didn’t you tell me?! (Pause) Why am I talking like this?!
+dialogue,Monica,I didn’t think you could keep it a secret.
+dialogue,Chandler,(in the high pitched voice) What?! (Normal voice) I am an excellent secret keeper. I have kept all of our secrets.
+dialogue,Joey,What secrets?
+dialogue,Chandler,"Oh no-no Joey, I am not going to tell you because I am an excellent secret keeper."
+action,,(The girls walk away.)
+dialogue,Joey,(whispering to Chandler) You’ll tell me later?
+dialogue,Chandler,You already know.
+action,,Opening Credits
+heading,,"[Scene: Joey and Rachel's, Joey and Phoebe are entering.]"
+dialogue,Phoebe,"Oh, it's so romantic to send people off on their honeymoon."
+dialogue,Joey,"Y’know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something."
+dialogue,Phoebe,All in good time my love. All in good time. Oh shoot! I left my guitar in their apartment. Well you can let me in later.
+dialogue,Joey,"I don’t have a key, they took mine to give to you."
+dialogue,Phoebe,What?! They took mine to give to you!
+dialogue,Joey,Why would they take away our keys?
+dialogue,Phoebe,Maybe they don’t trust us.
+dialogue,Joey,No that’s not it. They let me keep my key the last time they were out of town.
+dialogue,Phoebe,You mean the time you broke the ketchup bottle and cleaned it up with Monica’s guest towels?
+dialogue,Joey,"Hey, I washed those!"
+dialogue,Phoebe,No you didn’t.
+dialogue,Joey,Yeah that didn’t sound like me.
+dialogue,Phoebe,"Well, what am I gonna do? I really need my guitar!"
+dialogue,Joey,"Yeah, I have stuff in there too."
+dialogue,Phoebe,What stuff?
+dialogue,Joey,"Monica’s chicken parm! I’ll take care of it. (He picks up the phone) Hey Mr. Treeger, it’s Joey Tribbiani. Listen, I need to get into Monica and Chandler’s apartment. It’s an emergency. (Listens) Uhh, gas leak! Yeah oh, and bring garlic bread. (Hangs up.)"
+dialogue,Ross,(entering) Hey!
+dialogue,Phoebe,Did Rachel find you?
+dialogue,Ross,No why?
+dialogue,Phoebe,Oh she was looking for you.
+dialogue,Ross,"Oh well, I guess I’ll catch up with her later."
+dialogue,Phoebe,"Well, she really wanted to talk to you now."
+dialogue,Joey,"Yeah, it seemed pretty important."
+dialogue,Ross,Oh no.
+dialogue,Phoebe,What?
+dialogue,Ross,I think I might know what this is about.
+action,,(Phoebe and Joey trade looks)
+dialogue,Joey,Really?
+dialogue,Ross,"Yeah. Uh, uh we promised we weren’t gonna tell anybody this but uh, about a month ago Rachel and I slept together."
+dialogue,Phoebe,(deadpan) And?
+dialogue,Ross,Wow! I thought you would be a little more shocked.
+dialogue,Phoebe,Oh sorry. (Shocked) And?!
+dialogue,Ross,"Well, we-we said we’d just do it that one time but, but now I think she may wanna start things up again."
+dialogue,Joey,"Yeah, I don’t think that’s what it is."
+dialogue,Ross,Why? What-what else could it be?
+dialogue,Joey,"Oh wow, I don’t feel well."
+dialogue,Ross,I’m telling you. I’m telling you. That’s what it is. No wonder she was looking at me all funny during the wedding. She didn’t say anything to you?
+dialogue,Phoebe,(To Joey) Maybe it’s something you ate?
+dialogue,Joey,"Please, just-just, just go and talk to Rachel."
+dialogue,Ross,"Yeah, I guess I should. (Starts to leave.) Man, y’know what I have to realize? Maybe I’m just not the type of guy women can have just one night with. Y’know, they-they always seem to want a little bit more. I should remember that. (He pauses and then exits.)"
+heading,,"[Scene: The Airport Ticket Counter, Monica and Chandler are standing in line behind another couple kissing who are next in line to be served.]"
+dialogue,Ticket Agent,Next?
+action,,(The kissing couple doesn’t move.)
+dialogue,Monica,They’re kissing let’s just go around them.
+dialogue,Chandler,"Oh honey, leave them alone, they’re in love."
+dialogue,Monica,I’m in love too! But in an orderly fashion.
+dialogue,Ticket Agent,Next?
+dialogue,Monica,"(to the couple) Hi! Can you do that and walk? ‘Cause she said, ""Next."""
+action,,(The couple moves up to the counter.)
+dialogue,Woman,Sorry. We didn’t hear you; we’re on our honeymoon.
+dialogue,Ticket Agent,"Oh, let me see what I can do. (Checks the computer) There are some first class seats available."
+dialogue,Monica,(To Chandler) Did you hear that?! They bumped them up to first class because they are on their honeymoon! Come on! Let’s act like we’re on our honeymoon.
+dialogue,Chandler,We are on our honeymoon.
+dialogue,Monica,Grab my ass!
+dialogue,Ticket Agent,Next?
+action,,(They go up to the counter.)
+dialogue,Monica,"Hi, sorry. I almost didn’t hear you, because y’know I’m just so in love with my new husband. We’re on our honeymoon."
+dialogue,Ticket Agent,"Congratulations. Okay, Mr. Bing you’ll be in 25J and Mrs. Bing you’ll be in 25K."
+dialogue,Monica,"Oh no, you see we’re on our honeymoon. So umm, can you do your little thing and bump us up to first class?"
+dialogue,Ticket Agent,"I’m sorry, all our first class seats are taken. That couple got the last two."
+dialogue,Monica,"You see, if we’d gone around them like I said, we—She would’ve given us those tickets. Damnit!"
+dialogue,Chandler,"25J and K, any chance those aren’t together?"
+heading,,"[Scene: Joey and Rachel's, Phoebe and Joey are playing Rock ‘em, Sock ‘em Robots .]"
+dialogue,Joey,I still can’t believe they took away my key. You trust me with yours.
+dialogue,Phoebe,Of course I do! And I’m gonna give it back to you as soon as they’re done with it at the key shining place.
+action,,(They hear a knocking sound coming from the hallway and go to investigate.)
+dialogue,Joey,What the hell is that?
+action,,(They go into the hallway and see Mr. Treeger watching one of New York’s bravest breakdown Monica and Chandler’s door with an ax.]
+dialogue,Joey,"Whoa! Whoa! Whoa! Treeger, what are you doing?"
+dialogue,Mr. Treeger,You said there was a gas leak in here.
+dialogue,Phoebe,Well why don’t you use your key?
+dialogue,Mr. Treeger,"Because by the time I find it on this thing (Holds up a huge key ring with a thousand keys on it), the whole place might have exploded. If that happens at another building that I manage, people are gonna start asking questions. (To the fireman) Come on! Hurry up."
+action,,(With a final swing the door gives way.)
+dialogue,Phoebe,Oh! We could have done that.
+heading,,"[Scene: The Airport, Chandler and Monica are following the previous couple through a tiny hallway that proves this is a set on a sound stage and not an actual airport, and see them enter the first class lounge.]"
+dialogue,Monica,Look at that! Look at that! They’re going into the first class lounge! Do you know what they have in there?
+dialogue,Chandler,No.
+dialogue,Monica,Me neither! We have to get in! (She runs through the door with Chandler in tow.)
+dialogue,Chandler,Just act like you belong.
+dialogue,Monica,Oh my God! Oranges!
+dialogue,Chandler,Shh! (To the guy behind the counter) Nice to see you again. (They tries to walk past him.)
+dialogue,Airline Employee,"Uh sir, may I see your tickets please?"
+dialogue,Chandler,"Yes, of course. (Shows him the tickets.)"
+dialogue,Airline Employee,"I’m sorry, would you move your thumb? I can’t see the seat number."
+dialogue,Chandler,"Oh that’s all right, I have it memorized. It’s 1A."
+dialogue,Airline Employee,"(grabbing the ticket from him) Sir, this is not a first class ticket. I’m sorry."
+dialogue,Chandler,Apology accepted. Excuse us. (They try to enter again.)
+dialogue,Airline Employee,Sir! I’m afraid I’m gonna have to ask you to leave.
+dialogue,Monica,Fine. (Starts to walk away then she runs over and grabs an orange before she exits.) Go! Go! Go!
+heading,,"[Scene: The Hallway Outside Ross’s Apartment, Ross is walking towards his apartment and sees Rachel sitting in front of the door.]"
+dialogue,Rachel,(seeing him) Hi!
+dialogue,Ross,Hi.
+dialogue,Rachel,"Hi. (He helps her up.) Umm, I think there’s something that we really need to talk about."
+dialogue,Ross,"(quietly confident) I think we do. Why don’t we go inside? (They go inside.) Look uh, I know why you’re here."
+dialogue,Rachel,You do?
+dialogue,Ross,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first."
+dialogue,Rachel,(warily) Okay.
+dialogue,Ross,"Okay. (He sits her down in a chair.) Uh, Ross and Rachel. Rachel and Ross. That’s been one heck of a see-saw hasn’t it?"
+dialogue,Rachel,(confused) What?
+dialogue,Ross,"I mean look, that-that one night we had was fun and…and certainly passionate, but don’t you think it’s better if we just stayed friends?"
+dialogue,Rachel,Seriously. What?!
+dialogue,Ross,"Okay. Okay. Y’know what? If you want to, we can do it one more time. I mean I’d-I’d be okay with that. In fact, I have some time right now."
+dialogue,Rachel,"Okay, y’know what? Can I, can I talk now?"
+dialogue,Ross,Oh sure. (He sits on the apothecary table and touches her hand.)
+dialogue,Rachel,"(touches his knee) I’m pregnant. (Ross stops.) Ross? (Ross is staring off into space.) Ross? (Ross is still frozen) Okay, whenever you’re ready. (Sits back and opens her magazine.) And you’re the father by the way—but you got that…"
+action,,Commercial Break
+heading,,"[Scene: Ross's Apartment, continued from earlier.]"
+dialogue,Rachel,(closes her magazine) Can I get you some water?
+dialogue,Ross,I’m good. I’m good.
+dialogue,Rachel,"Ross, there is no pressure on you. Okay? I mean you can as involved as you want. (Ross nods.)"
+dialogue,Ross,"Yeah, I need uh… I’m just—I don’t know—I don’t understand, umm, how this happened? We-we used a condom."
+dialogue,Rachel,"I know. I know, but y’know condoms only work like 97% of the time."
+dialogue,Ross,What? What? What?!! Well they should put that on the box!!!
+dialogue,Rachel,They do!
+dialogue,Ross,No they don’t!!! (He runs to the bedroom to check and returns with his box of condoms.) Well they should put it in huge black letters!!!!
+dialogue,Rachel,Okay Ross come on let’s just forget about the condoms.
+dialogue,Ross,Oh well I may as well have!
+dialogue,Rachel,"Listen, y’know what? I was really freaked out too when I found out…"
+dialogue,Ross,"Freaked out? Hey no, I’m not freaked out! I’m indignant ! As a consumer !"
+dialogue,Rachel,"Y’know what? Let’s, let’s talk later."
+dialogue,Ross,"No! No! I want to talk now! Okay? I—In fact, (picks up the phone) I am going to talk to the president of the condom company!"
+dialogue,Rachel,"Okay, y’know maybe I should come back… (Starts to leave.)"
+dialogue,Ross,(grabs her) Shh! Shh! Shh!
+dialogue,Rachel,(stops) Okay.
+dialogue,Ross,(on phone) Yeah I’ll press 1! (Presses one which allows Rachel to escape.)
+heading,,"[Scene: Monica and Chandler's, Mr. Treeger has finished inspecting Monica and Chandler’s apartment.]"
+dialogue,Mr. Treeger,I’ve looked everywhere. There’s no gas leak.
+dialogue,Joey,(eating) Huh. So then I can heat this up? (Goes and does so.)
+dialogue,Mr. Treeger,"Anyway uh, I’ll get moving on that new door."
+dialogue,Phoebe,"Oh great! And listen, could you do us a favor and not tell Chandler and Monica about this? ‘Cause y’know umm, they don’t-they don’t have any kids of their own and-and this door was like a child to them."
+dialogue,Mr. Treeger,"Well I’m gonna have to put on a new lock, they’ll find out anyway."
+dialogue,Phoebe,Oh no.
+dialogue,Mr. Treeger,"(measures the top of the doorframe) Whoa! This looks like an all day job, I’ll have to cancel my yoga class. (Ross walks up.) Hey Ross!"
+dialogue,Ross,Hi.
+dialogue,Mr. Treeger,Could you tell Jasmine that I won't make it to yoga class today?
+dialogue,Ross,Sure.
+dialogue,Mr. Treeger,Namaste. (Bows.)
+dialogue,Ross,Namaste. (Bows.)
+action,,(Treeger leaves and Ross notices the door.)
+dialogue,Ross,Oh my God! What happened to the door?!
+dialogue,Joey,So it’s noticeable huh?
+dialogue,Ross,"Look, is Rachel here? I really need to talk to her."
+dialogue,Phoebe,Didn’t you two already talk?
+dialogue,Ross,"Yeah but uh… Okay, okay look you guys know that Rachel and I slept together, but there’s something else. (Pause) Rachel’s pregnant."
+dialogue,Joey,(simultaneously) Oh my God!!! I can’t believe that!!
+dialogue,Phoebe,(simultaneously) Holy mother of God!!!
+dialogue,Ross,With my child.
+dialogue,Phoebe,That is brand new information!!
+dialogue,Ross,You already know don’t you?
+dialogue,Phoebe,A little bit.
+dialogue,Joey,How are you doing?
+dialogue,Ross,Okay. Okay. I mean I’ll be okay. It’s just I don’t think I handled it very well.
+dialogue,Joey,"Well, what did you say to her?"
+dialogue,Ross,Nothing. But the complaint department at the condom company got an earful. And then when I turned around she was gone.
+dialogue,Phoebe,Oh Ross.
+dialogue,Ross,"But hey, in my defense I-I just found out condoms are like only 97% effective."
+dialogue,Joey,(shocked) What?
+dialogue,Ross,I gotta go find her.
+dialogue,Joey,Whoa! Hey! Whoa!! Hold up! Are you serious?! So like 3% of the time they don’t even work?! Huh? They should put that on the box!
+dialogue,Ross,Evidently they do.
+dialogue,Joey,What?! (Grabs his condoms from his pocket and looks.)
+heading,,"[Scene: The Atlantis Resort, Chandler and Monica are arriving to check in, but are behind the couple from before again.]"
+dialogue,Monica,I can’t believe we’re here.
+dialogue,Chandler,Oh you’ve got to be kidding me.
+dialogue,Monica,What? (Monica sees the first couple and gasps.)
+dialogue,Front Desk Clerk,"As a wedding gift to you, the hotel would like to give you the honeymoon suite."
+dialogue,Monica,No!! You have been screwing us all day!
+dialogue,Man,Who are you?
+dialogue,Chandler,We’re you just ten seconds later!
+dialogue,Monica,Yeah! You already got the first class tickets; you got the lounge! I mean we should get free stuff too! I mean you’re not the only ones on your honeymoon!
+dialogue,Woman,Well you can have the suite if you want. We don’t care about where we stay. We’re here to celebrate our love together. We don’t have to get free stuff. We just want to be together.
+dialogue,Chandler,(looks at Monica then at them) We need the stuff.
+heading,,"[Scene: Monica and Chandler's, Joey is on the phone and Phoebe is watching him.]"
+dialogue,Joey,"Hey Monica it’s Joey. Listen uh, Phoebe and I smell gas comin’ from your apartment."
+dialogue,Monica,What? Are you serious?! (To Chandler) Joey smells gas!
+dialogue,Chandler,What else is new?
+dialogue,Joey,"Yeah and we’d go check it out, but you took away our keys."
+dialogue,Monica,Well do something! Get in there!
+dialogue,Joey,How? I guess I could break down your door.
+dialogue,Monica,Yeah! Do that!
+dialogue,Joey,And-and you won’t blame us for any damage? (Gives Phoebe a thumbs up.)
+dialogue,Monica,No! (Pause) Are you doing it?! I don’t hear anything! Come on!
+dialogue,Joey,"Uh, okay I’ll-I’ll-I’ll break it down. (He hands the phone to Phoebe, gets up, picks up a chair, and starts banging it on the floor.)"
+dialogue,Phoebe,"Oh hey hi, he’s doing it. He’s breaking down the door. (The chair breaks in half.) Okay, we’re in. (She hangs up the phone.)"
+heading,,"[Scene: A doctor’s office, Rachel is on an examining table with her legs in the stirrups.]"
+dialogue,Nurse,"Okay Rachel, are you comfortable?"
+dialogue,Rachel,"(sighs) If I said I was, would you judge me?"
+dialogue,Nurse,The doctor will be here in a minute to do your sonogram.
+dialogue,Rachel,"Okay. (The nurse exits.) Oh man, I swear if they sold these at Pottery Barn …"
+action,,(There’s a knock on the door and Ross enters.)
+dialogue,Ross,Hi!
+dialogue,Rachel,(shocked) Hi!
+dialogue,Ross,Uh we-we need to talk.
+dialogue,Rachel,"Uh-uh-uh, right now? Because I’ve kinda got an el fresco situation going on over here."
+dialogue,Ross,"Please, please I want to apologize for the way I acted earlier today."
+dialogue,Rachel,"Okay Ross that’s fine, but can you please stand near my head?"
+dialogue,Ross,What? Oh yeah. (He moves next to her head.) I’m sorry. I mean I-I think I went a little crazy. I mean I was thinking about myself when I (Wanders towards Rachel’s feet) really—I should have been thinking about you Rach…
+dialogue,Rachel,Okay. Head Ross! Head Ross! Head Ross!
+dialogue,Ross,"Right! Right! I just—I want you to know that I’m going to be there through this whole thing, okay? Okay? The doctor’s appointments, the uh, the Lamaze classes, uh baby-proofing the apartment—Although we could probably worry about that ‘til after we get married."
+dialogue,Rachel,What married?
+dialogue,Ross,"Well yeah, I think we should get married."
+dialogue,Rachel,"What, because that’s your answer to everything?"
+dialogue,Ross,"No, because that’s the right thing to do."
+dialogue,Rachel,"Yeah, maybe if you’re in love. But Ross, we are not in love, are we?"
+dialogue,Ross,No but…but still you can’t possibly do this alone.
+dialogue,Rachel,Excuse me?
+dialogue,Ross,"Come on Rach, you can’t even eat alone in a restaurant."
+dialogue,Rachel,What?!
+dialogue,Ross,"I’m just saying if you can’t eat by yourself, how do you expect to have a baby by yourself?"
+dialogue,Rachel,I can too eat by myself!
+dialogue,Ross,When have you ever?
+dialogue,Rachel,When certain people leave the table and I am not finished!
+dialogue,Ross,Well certain other people take two hours to eat a bowl of soup!
+dialogue,Rachel,"Oh please, you inhale your food!"
+dialogue,Ross,I grew up with Monica! If you didn’t eat fast you didn’t eat!!
+dialogue,Dr. Long,(entering) Am I interrupting?
+dialogue,Rachel,"Oh no Dr. Long, please come in. This is Ross, he is the father."
+dialogue,Ross,"But not the husband, because evidently she can do this alone."
+dialogue,Dr. Long,Huh. Nice to meet you. I’ll get started on this.
+dialogue,Ross,"(To Rachel, standing by her feet) I don’t know why you can’t admit that you need me."
+dialogue,Rachel,I do need you! I need you to stand near my head!
+dialogue,Dr. Long,"Okay, everything looks good. Here it is on the screen. (We see Ross and Rachel looking at the screen.) Here is your uterus. And right here is your baby."
+dialogue,Ross,Oh my God.
+dialogue,Rachel,"Wow. There it is, I see it."
+dialogue,Dr. Long,Congratulations. I’ll give you two a minute.
+dialogue,Rachel,Okay.
+dialogue,Ross,Thank you.
+action,,(Dr. Long exits and Rachel starts to cry.)
+dialogue,Ross,Pretty amazing huh?
+dialogue,Rachel,I don’t see it!
+dialogue,Ross,What? What?!
+dialogue,Rachel,I can’t see it!
+dialogue,Ross,You-you just said that you did!
+dialogue,Rachel,"I know, I lied! I didn’t want her to think I was a terrible mother! I can’t even see my own baby!"
+dialogue,Ross,"Oh sure, come here! (Sits her up) Sure you can! Uh, look come here look, (rolls the machine closer) it’s-it’s-it’s, it’s right there (Points)."
+dialogue,Rachel,"Oh. Oh, it’s beautiful. I see it now."
+dialogue,Ross,Do you really?
+dialogue,Rachel,"No, I don’t see it!"
+dialogue,Ross,"Come on! Come on! Here, okay-okay, you see this? (Points) This tiny thing that looks like a peanut?"
+dialogue,Rachel,Yeah.
+dialogue,Ross,Sweetie that’s it.
+dialogue,Rachel,"That’s it? Well I saw that! Ohh-ohh-oh, thank you."
+dialogue,Ross,You’re welcome.
+dialogue,Rachel,Wow! I can’t believe that’s our baby.
+dialogue,Ross,"Yeah, that’s our baby."
+action,,Closing Credits
+heading,,"[Scene: Joey and Rachel's, Joey and Phoebe are there as Rachel and Ross return from the doctor’s appointment.]"
+dialogue,Rachel,Hi.
+dialogue,Joey,Hey!
+dialogue,Phoebe,Hey! So how was the doctor?
+dialogue,Rachel,"Oh, everything went great."
+dialogue,Phoebe,Good.
+dialogue,Ross,"Oh hey, show them the picture of your uterus."
+action,,(She does so.)
+dialogue,Phoebe,Oh.
+dialogue,Joey,I don’t see the baby. Where is it?
+dialogue,Rachel,"Oh no, I know I couldn’t see it either at first, but it’s right umm… (Starts to cry) Ross, I lost it again."
+dialogue,Ross,Oh. (He takes the picture and hugs her.
+action,,End
