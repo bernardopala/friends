@@ -1,0 +1,309 @@
+script_element,character,text
+heading,,[Scene: Central Perk]
+dialogue,Monica,(she enters) Hey guys!
+dialogue,"Ross, Rachel and Chandler",Hey!
+dialogue,Chandler,"Honey, I got us that room at the Woodford Inn this weekend."
+dialogue,Monica,That place in Vermont? You can take a hint!
+dialogue,Rachel,"Wait, you can't go away this weekend! It's Emma's birthday!"
+dialogue,Ross,Yeah!
+dialogue,Rachel,We're having a party.
+dialogue,Monica,"Well, can't you just have the party when we get back?"
+dialogue,Ross,No.
+dialogue,Rachel,"No, that day... that won't be her real birthday!"
+dialogue,Chandler,Gee if only she were one and had no idea what the hell a birthday was!
+dialogue,Ross,"C'mon you guys, this is really important to us."
+dialogue,Monica,"Well, I'm sorry, but Chandler and I could really use a weekend away. You know, to reconnect... emotionally."
+dialogue,Chandler,There's this thing I really want us to do. I read about it in Maxim...
+dialogue,Rachel,"Well, can't you just go to Vermont the next day?"
+dialogue,Ross,"Yeah, we want everyone to be there. As much as I hate to delay your doing weird sex stuff to my little sister."
+dialogue,Rachel,"And I mean, you know, you guys... This is a big deal. I mean, how can we have her first birthday party without her aunt and her uncle!"
+dialogue,Monica,"All right, we'll stay. We can just drive up after the party."
+dialogue,Chandler,"Fine, but if we end up not doing this Maxim thing because of this party..."
+dialogue,Monica,"Believe me, that is not why we won't be doing that!"
+action,,Opening Credits
+heading,,[Scene: Rachel and Joey's apartment]
+dialogue,Rachel,"You know Pheebs, when I was little, on my birthday, my daddy would hide a present in every room of the house, and then he would draw a treasure map to help me find 'em all."
+dialogue,Phoebe,"Oooh, I love family traditions like that. When uhm... when Ursula and I were kids, on our birthday, our stepdad would sell his blood to buy us food!"
+dialogue,Ross,(he enters) Hey guys!
+dialogue,Rachel and Phoebe,Hi!
+dialogue,Ross,"Hey, I brought the camera for Emma's video."
+dialogue,Rachel,"Oh, good, good! We had this idea to make a birthday video for Emma and we'll give it to her when she is 18."
+dialogue,Phoebe,"Oh, COOL!! Wow, it's like a time capsule!"
+dialogue,Ross,Yeah!
+dialogue,Phoebe,"Oh, just think... she's gonna be watching that video on a TV that hasn't even been invented yet! With friends who right now are just like babies! And they'll be living in a floating city that the humans built to escape the ant people!"
+dialogue,Ross,"That's the hope! So, is Emma awake yet?"
+dialogue,Rachel,"Oh no, it's still nap time. But she'll be up soon."
+dialogue,Ross,"Ah, and where is Joey?"
+dialogue,Rachel,I said it's still nap time.
+action,,"(Joey comes out from his room, yawning)"
+dialogue,Ross,"(taping Joey with the cam) Hey, there is uncle Joey!"
+dialogue,Joey,Hey!
+dialogue,Ross,"Hey, say something to Emma on her 18th birthday!"
+dialogue,Joey,"18, uh? (starts to prepare himself to say his ""How You Doin'"" line)"
+dialogue,Ross,"Joey, NO!"
+dialogue,Joey,"What, what!? it's for her hot friends!"
+dialogue,Ross,When they see this you'll be 52!
+dialogue,Joey,And starting to think about settling down!
+dialogue,Rachel,"Hey Joey, will you please set this up for people to put Emma's presents on?"
+dialogue,Joey,I'd love to! Yeah!
+dialogue,Joey,(To Phoebe) We were supposed to bring presents?
+dialogue,Phoebe,Yeah! I wrote Emma a song.
+dialogue,Joey,"Oh, yeah! How was I supposed to know?"
+dialogue,Phoebe,"Joey, it's a birthday party."
+dialogue,Joey,"Yeah, but for a one-year-old. What's the point... the other day she laughed for like an hour at a cup. Just a cup with a picture of Elmo on it dressed as a farmer. And he's standing next to this cow and the cow says ""El-moo""! (Joey starts laughing) Yeah... that's a funny cup!"
+action,,(Monica and Chandler enter)
+dialogue,Monica,Hey!
+dialogue,Chandler,Hey hey! Where's the birthday girl?
+dialogue,Rachel,"Oh, she's still napping"
+dialogue,Chandler,"Oh, sure, she was probably up all night, excited about the party she knows is happening."
+dialogue,Rachel,"Look, I know that you guys really want to get to Vermont and this isn't a really big deal to you, but it really is to us, ok? Emma will never have a first birthday again."
+dialogue,Monica,All right... you're right. We're sorry. Now let's wake up Emma and get the fun time started!
+dialogue,Rachel,"No really, she didn't sleep well last night, so we can't wake her up."
+dialogue,Monica,"Are you freaking kidding me, Green?"
+action,,(someone knocks on the door. Rachel goes to open it)
+dialogue,Jack and Judy,HI!
+dialogue,Ross,(points the camcorder towards them to record their entrance) Hey!
+dialogue,Monica,So glad you came!
+dialogue,Jack,I can't believe Emma is already one!
+dialogue,Judy,(to Monica) I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!
+dialogue,Ross,(pointing the camcorder at himself) There's something you didn't know about your dad!
+dialogue,Joey,Hey Mr. and Mrs. Geller! Let me help you with that.
+dialogue,Jack,Thank you!
+dialogue,Joey,"Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!"
+dialogue,Jack,Which one are you?
+action,,(Time lapse)
+dialogue,Monica,I can't believe Emma is still asleep!
+dialogue,Chandler,"I know, what are we gonna do?"
+dialogue,Monica,I've got a plan. I've got a plan. I'm going to ram this platter really hard into your ribs. You're gonna scream out and that'll wake her up!
+dialogue,Chandler,I'm not going to Vermont with this Monica!
+dialogue,Joey,"Hey Pheebs, you know what? I was thinking... since you wrote a song, maybe I could do something for Emma using my talents!"
+dialogue,Phoebe,So you’re gonna... hit on her?
+dialogue,Joey,"No, no, no! My talents as an actor!"
+dialogue,Phoebe,Oh!
+dialogue,Joey,"You know, I could like maybe... I could do a dramatic reading of one of her books!"
+dialogue,Phoebe,Or you could stick a fork in an apple!
+dialogue,Joey,"Hey, I think Emma might like it!"
+dialogue,Rachel,Oh! Emma might like what?
+dialogue,Joey,"Um, my present!"
+dialogue,Rachel,What did you get her?
+dialogue,Joey,Actually we prepared performances.
+dialogue,Phoebe,Separate performances.
+dialogue,Joey,But equally real!
+dialogue,Rachel,"Well, this sounds like fun! Well, you know what? Actually? People are getting a little antsy waiting Emma to wake up from her nap, so would you mind performing them once now?"
+dialogue,Phoebe,"Sure, yeah!"
+dialogue,Joey,(unconfidently) O K.
+dialogue,Rachel,"(to everybody) All right, let’s get this party started, huh? Joey and Phoebe are gonna perform a little something for us."
+dialogue,Ross,"Oh, great!"
+dialogue,Phoebe,(to Joey) Are you gonna be embarrassed going up there having nothing prepared?
+dialogue,Joey,"Hey, I do it every week with three cameras pointed at me and a whole crew waiting!"
+dialogue,Rachel,"So, Joey, what are you gonna do for us?"
+dialogue,Joey,I will be doing a dramatic reading of one of Emma’s books.
+dialogue,Rachel,"Oh, ok, which one?"
+dialogue,Joey,"Uh, why, it’s a... (he picks a book up) one of her favorites, uh, (he reads the title of the book) “Riding the Storm Out. Coping with post-partum depression” eesh! (he puts the book back and picks up another) “Love you forever”. Love you forever. By Robert Munsch. Published by Firefly books. Printed (he pauses and changes the tone to a dramatic one) in Mexico. A mother held her new baby and very slowly rocked him back and forth, back and forth, back and forth, and while she held him she sang “I’ll love you forever, I’ll like you for always, as long as I'm living, my baby you’ll be”. (the picture fades and Joey is now finishing the book). And while he rocked her, he sang “I’ll love you forever, I’ll like you for always, as long as I'm living, my baby you’ll be”."
+dialogue,Rachel,(crying) Wow! That was amazing!
+dialogue,Ross,Thank you so much for that gift!
+dialogue,Chandler,(nearly weeping) I was not ready for this today!
+dialogue,Ross,Amazing... amazing.
+dialogue,Rachel,"Oh, Phoebe, I’m sorry! Phoebe has prepared something as well."
+dialogue,Phoebe,"That’s right, I've prepared a song for Emma. From my heart to hers. For there’s no greater gift, than the gift of music. (she starts singing) Emma! Your name poses a dilemma. 'Cause not much else rhymes with Emma! Maybe the actor Richard Crenna, he played the commanding officer in Rambo. Happy birthday Emma!"
+dialogue,Rachel,Is that it?
+dialogue,Phoebe,"No, of course not! I also, you know, prepared a reading (she picks up a book). “Sex and the single mother. (pause) Finding your G-spot."
+dialogue,Everybody,"No, no, no, no, no!"
+heading,,[Scene: Joey’s Apartment. Ross is filming his parents]
+dialogue,Judy,Hello Emma. Happy eighteenth birthday.
+dialogue,Jack,"Right now that seems so far away, seventeen years."
+dialogue,Judy,"Yes, you’ll be all grown up by then. We’ll be... Well your grandfather and I might not be here."
+dialogue,Jack,"That’s true! This message could becoming to you from beyond the grave, Emma!"
+dialogue,Judy,"After all, my parents died very young."
+dialogue,Jack,And my cholesterol’s off the charts!
+dialogue,Judy,"Remember, Emma, heart disease kills women too!"
+dialogue,Ross,"(stops recording) Ok, cut! Great. That was... that was just... yeah!"
+dialogue,Rachel,"Ross, um, don’t forget to get a shot of Emma’s cake. It’s in a box in the fridge."
+dialogue,Ross,Sure.
+dialogue,Rachel,"Oh, you're gonna love this cake. I got it from a bakery in New Jersey, Corino’s."
+dialogue,Monica,"Oh my God, that place has the creamiest frosting! I use to hitchhike there when I was a kid."
+dialogue,Rachel,"Well, anyway, they make these great novelty cakes, in all different shapes, and if you give them a photo, they’ll copy it in icing!"
+dialogue,Monica,"Oh, did you do a picture of Emma?"
+dialogue,Rachel,Yes! On a cake shaped like a bunny.
+dialogue,Ross,"Uh, Rach? Does this bakery by any chance also bake erotic cakes? Say for bachelorette parties?"
+dialogue,Rachel,"Ross, what are you talking about? (she sees the cake) oh! Oh my God! They put my baby’s face on a penis!"
+dialogue,Phoebe,(sees the cake) oh! Now it’s a party!
+dialogue,Rachel,"Why you guys this isn't funny, all right? If I wanted this cake to be a disaster I would have baked it myself!"
+dialogue,Joey,(staring at the cake) Uh.. is it ok that I still think it looks delicious?
+dialogue,Judy,"(to Jack) Jack, look at this."
+dialogue,Jack,"I know what you're thinking Judy, the resemblance is uncanny!"
+dialogue,Ross,I am this close to tugging on my testicles again.
+dialogue,Rachel,"(on the phone) No, no, this is not what I ordered. Ok? I went all the way to New Jersey so that I could have the perfect cake for my daughter’s birthday and I need a bunny cake, right now!"
+dialogue,Ross,"Ask them if it would be faster if we cut the baby’s face off the penis, so we can put it on the bunny. (pause). That is a weird sentence!"
+dialogue,Rachel,"Oh! Believe you me! I am going to bring this cake back, I don't even want it in my home... (Turns towards the cake and sees Joey trying to take a piece and yells at him) Joey, don't touch it!!"
+dialogue,Joey,I'm so confused!
+dialogue,Rachel,"(speaking to the person on the phone again) Yes, yes. I still want my daughters picture, but on a bunny cake. Yellow cake, chocolate frosting with nuts!"
+dialogue,Chandler,To be fair this one does have nuts.
+action,,(Time lapse)
+action,,"(Ross, Chandler and Monica are in the kitchen area)"
+dialogue,Ross,"Hey Mon, that was really nice of you to loan Rachel your car so she could go and get the cake."
+dialogue,Monica,"Oh. So nice of her to pull my hair, 'till I dropped the key!"
+dialogue,Ross,"Well, you know what? While we're waiting, you guys could tape your message to Emma for her 18th birthday, huh? (takes the camcorder and points it at Monica and Chandler) Ok!"
+dialogue,Chandler,Hi Emma! It's the year 2020. Are you still enjoying your nap?
+dialogue,Monica,"We're Aunt Monica and uncle Chandler, by the way. You may not recognize us, because we haven't spoken to your parents in seventeen years!"
+dialogue,Chandler,"We used to be married, but then we missed a weekend away together and things kind of unraveled. Because of you! Happy Birthday. (Ross looks disappointed and switches the camcorder off)"
+dialogue,Monica,"Ross, Rachel promised it would be over by now. We seriously have to go, if we want to get to Vermont. I called them and the last train leaves in a half hour."
+dialogue,Phoebe,"And you know, I have a massage client soon."
+dialogue,Ross,"You guys, just please.. a little bit longer. I promise, Rachel will be back with the cake any minute. Monica, remember.. the frosting? huh?"
+dialogue,Monica,"Alright, 5 more minutes."
+action,,"(The phone rings, Ross picks up)"
+dialogue,Ross,"(Into receiver) Hello? (listens) Oh no! What happened? (listens some more) Ok ok, where are you? (Grabs a pen and starts writing). Ok, I'll be right there. (Puts the phone down)"
+dialogue,Chandler,Was that Emma? Is she up?
+dialogue,Ross,"No, Rachel got pulled over for speeding. She forgot her licence so now I have to bring it to her."
+dialogue,Phoebe,"Well, if you're leaving, I'm definitely gonna go."
+dialogue,Monica,No! Wait! If anybody gets to go.. it's us (Points at herself and Chandler) We've been complaining the longest!
+dialogue,Ross,"No, wait ! You guys, no, no, you can't leave! Rachel already feels bad that the cake's messed up. How do you think she's gonna feel when she comes back here and all you guys are gone?"
+dialogue,Chandler,I don't know! You'll tell us on Monday!
+dialogue,Ross,"Joey! You're in charge, ok? You make sure nobody leaves! (leaves)"
+dialogue,Joey,Got it! (Goes towards the front door and stands with his back to it) Hey hey hey! (to Chandler) Where do you think you're going?
+dialogue,Chandler,To the bathroom!
+dialogue,Joey,"Alright, well the rest of you get comfortable, ok, because we're gonna be here for a li...(stops and thinks) Wait a minute, there is a window in there!"
+dialogue,Phoebe,Oh no! He's not getting away that easy! (Phoebe and Joey run towards the bathroom and enter)
+dialogue,Chandler,(Yelling) What are you doing? Get the hell out of here! (Phoebe and Joey come out looking shocked)
+dialogue,Joey,"Well, that one did not have Emma's face on it."
+dialogue,Phoebe,"No, it did not."
+dialogue,Joey,No.
+dialogue,Judy,"Well, we better get going, it's late. Jack's not allowed to drive at night anymore. He has trouble staying in his lane."
+dialogue,Jack,Last winter I went up on a church lawn and drove right through a manger scene. The papers thought it was a hate crime.
+dialogue,Judy,"Anyway, it was lovely seeing you."
+dialogue,Joey,Ok! (Opens the door for them)
+dialogue,Judy,Bye... Bye dear.
+dialogue,Joey,Nighty-night!
+dialogue,Judy,Nighty-night!
+dialogue,Joey,"Bye, bye."
+dialogue,Phoebe,Joey? How could you just let them leave?
+dialogue,Joey,"Hey, hey, hey, hey! I'm not gonna mess with Jack, he's a great man, he fought for our country."
+dialogue,Monica,"No, he didn't! He pretended to be a Quaker to get out of Korea."
+dialogue,Joey,"(Shocked) Oh! Well that's it! He's the last one to go. I'm locking you guys in. (turns the bolts of the door, thereby locking it)"
+dialogue,Chandler,"You do know, I can just turn them the other way around, right?"
+dialogue,Joey,Oh! I forgot you used to live here!
+action,,"(The phone rings, Joey picks up)"
+dialogue,Joey,Hello?
+dialogue,Estelle,(on the other side of the line) Joey! It's Estelle!
+dialogue,Joey,Hey! (smiles)
+dialogue,Estelle,"So, how did your audition go today?"
+dialogue,Joey,(smile fades) What audition?
+dialogue,Estelle,The one I told you about last week?
+dialogue,Joey,What? You never said anything about an audition!
+dialogue,Estelle,(Looks confused) Let me start over. I just got a call about an audition. I think you can still make it. It's down at the Astor Theatre and you need to have a monologue prepared.
+dialogue,Joey,"A monologue? I don't have.. (sees the book he was reading before for his ""dramatic reading"") I got it. (hangs up) (announces to the room) Aah! so... I'm gonna take off!"
+dialogue,Phoebe,"Wh.. what? No wait, you don't get to leave! I've got a massage client waiting outside my door any minute!"
+dialogue,Monica,"Yeah, and we've paid for a room, that we're supposed to be in right now!"
+dialogue,Phoebe,"Well, oh, ok now... Only one of us has to stay with Emma. Ok, and as the person who realized that, I get to go!"
+dialogue,Monica,No! no! Let's figure out a fair way to decide who's staying.
+dialogue,Joey,"Oh! I got it! Ok, everyone pick a number from one to ten. Alright? Whoever gets the highest number gets to go first."
+dialogue,Monica,"(She gives Joey a you-are-so-stupid-look) Ok, ten."
+dialogue,Joey,"Okay, Monica picks ten, I call nine! Anyone else?"
+dialogue,Phoebe,"No, lets just draw straws."
+dialogue,Joey,"Or.. we could flip a coin, and then multiply the.."
+dialogue,Chandler,I'm begging you stop.
+dialogue,Joey,Right.
+dialogue,Monica,"Ok, how about this: We got wind up toys for Emma for her birthday. We can make them race, and whoever comes in last, stays!"
+dialogue,Phoebe,(Visibly excited) Yeah!! Let's do that!
+dialogue,Chandler,(Also very excited) That sounds more fun than the thing we were going to do in Vermont!
+dialogue,Monica,Everybody get your toys! (They all run toward the table with toys)
+dialogue,Phoebe,Ok! I want the dolphin!
+dialogue,Chandler,Thats a bear.
+dialogue,Phoebe,I'm too excited!
+dialogue,Monica,"Phoebe, you get the bear, uhm, Joey, you get the robot, and Chandler and I get the dog. Ok, and the race is going to go (Takes two cups and marks the start and finish lines with them) from here to here. Now the one who comes in last, stays!"
+dialogue,Joey,"Ok, ladies and gentlemen, wind your toys! (they do so)"
+dialogue,Chandler,"Ok, on your mark... Get set... GO!!!"
+action,,"(Monica, Phoebe and Joey release their wind-up toys.)"
+dialogue,Phoebe,Go! Go!
+dialogue,Joey,Come on robot!
+action,,"(Phoebe's bear takes the lead, followed by Joey's robot, and far behind is Chandler and Monica's dog, which walks a few paces, stops and starts barking, sits, walks again, and so on... )"
+dialogue,Monica,(to the dog) What are you barking at?
+action,,"(While Phoebe's bear is still in the lead, it is now closely followed by Joey's robot. Chandler and Monica's dog however, sits down, barking... and does a backflip.)"
+dialogue,Monica,Wha... How the hell is that gonna help?
+dialogue,Chandler,I bought you. How did I forget that that's all you do?
+action,,"(Meanwhile the race has been won by Phoebe's bear, followed by Joey's robot)"
+dialogue,Joey,Way to go robot!
+dialogue,Phoebe,Good job Alan!
+dialogue,Joey,"Hey, good race you guys."
+dialogue,Phoebe,"Yeah, see you later!"
+action,,(Joey and Phoebe leave for the door)
+dialogue,Monica,"No! No, no... wait! We didn't lose. (turns to Chandler) The rules clearly stated that the last one to cross the finish line was the loser. Well, our dog never crossed the finish line, so technically..."
+dialogue,Chandler,They left.
+action,,(Monica turns to see the closed door.)
+heading,,"[Scene: The freeway. Rachel is driving Monica's Porsche, while using her mobile phone. Ross is sitting next to her.]"
+dialogue,Rachel,"(into the phone) No, there isn't time to go to the bakery. We're just gonna come home... Everybody left? Alright, well just tell Emma we're gonna be there as soon as we can. (emotionally) Bye..."
+action,,"(She hangs up, closes her phone, turns around and puts it in her bag which is in the back of the car. While doing this and not looking at the road, she turns the steering wheel by accident, which makes the car swerve.)"
+dialogue,Ross,RACHEL!
+dialogue,Rachel,OOH! God! Sorry!
+dialogue,Ross,(sarcastically) I can't believe they gave you a ticket. You're such a good driver.
+action,,(Ross fastens his seat belt.)
+dialogue,Rachel,Emma's awake.
+dialogue,Ross,Yeah?
+dialogue,Rachel,I can't believe this. This is her first birthday. She's awake. We're not even there. Everybody left. We still have this stupid obscene cake.
+dialogue,Ross,"Hey, maybe I can fix that, you know. Try to turn it into something else. (he opens the box)"
+dialogue,Rachel,"Oh, why do you even bother? I already ruined her first birthday... And do you know how important these early experiences are Ross? Very! According to the back cover of that book that you gave me."
+dialogue,Ross,"Rach, she's not going to remember this."
+dialogue,Rachel,"(shakes her head) I guess... Oh, I just had such an idea of what this day would be like, you know? Emma laughing and everybody gathered around her cake singing ""Happy Birthday"". Then we would all go into... HEY GET OUT OF THE ROAD YOU STUPID STUDENT DRIVER!!! (honks furiously, and Ross looks at her in disbelief and Rachel looks at him.) They have to learn!"
+dialogue,Ross,(looks back at the cake) Hey!
+dialogue,Rachel,What?
+dialogue,Ross,It's not bad.
+dialogue,Rachel,(she looks at the cake) Oh my God! Look what... you made it into a bunny. How did you do that?
+dialogue,Ross,"Well, I just made these two things uhm... cheeks. And then I split this to make ears."
+dialogue,Rachel,"Well, I'm very impressed."
+dialogue,Ross,"Some can sing, some can dance. I apparently can turn phallic cakes into woodland creatures."
+heading,,"[Scene: Rachel and Joey's apartment. Chandler, Monica and Emma are sitting on the floor, and Emma's stuffed animals are lined up in front of them.]"
+dialogue,Monica,"Now another way to organise your stuffed animals, is by size."
+dialogue,Chandler,"I'm sorry, is this a game for Emma or for Monica?"
+dialogue,Monica,Game?
+dialogue,Chandler,"Emma, you even know it's your birthday today? You're one! One-year-old, that's little."
+action,,(With his index finger he shows her how old she is. Emma also points her finger and babbles...)
+dialogue,Chandler,Ooh! That's my girl!
+dialogue,Monica,That's how old you are.
+dialogue,Chandler,Did I teach her that? Did I just... impart wisdom?
+dialogue,Monica,"(embraces Emma tightly) Ooh, I want one..."
+dialogue,Chandler,Me too...
+action,,(There's a couple of seconds of silence. Then Chandler looks around...)
+dialogue,Chandler,There's no-one around. Why don't we just take this one?
+dialogue,Monica,...and head to Canada!
+dialogue,Chandler,I was kidding.
+dialogue,Monica,I wasn't. Let's get going!
+action,,(Phoebe enters the apartment again.)
+dialogue,Phoebe,"Hey, are Ross and Rachel back?"
+dialogue,Chandler,"No, not yet."
+dialogue,Phoebe,"Oh good, I didn't miss the party."
+dialogue,Monica,What about your massage client?
+dialogue,Phoebe,"I just felt so bad, missing this. So I just slipped him a little something, you know. As long as I'm back in five or six hours, it will be alright."
+action,,"(Joey comes running into the apartment, out of breath.)"
+dialogue,Joey,"Okay, if Ross and Rachel ask, I've been here the whole time. THE WHOLE TIME!"
+action,,(Ross and Rachel enter.)
+dialogue,Joey,(to Ross and Rachel) I've been here the whole time!
+dialogue,Ross,"Joey, we just saw you come in. You ran past us on the stairs."
+dialogue,Rachel,I don't care that you left. I'm just glad that you're here. Thanks you guys!
+dialogue,Chandler,"Hey, guys! Come on! You gotta see what Emma just did."
+dialogue,Rachel,What?
+dialogue,Chandler,"Emma, how old are you? How old are you today? (holds up his index finger again)"
+dialogue,Emma,Wo-ish. (and holds up her finger)
+action,,(Ross and Rachel gasp)
+dialogue,Rachel,"Oh! Emma, that's right! You're that many!"
+dialogue,Ross,"Oh my God! Our daughter's a genius! Rach, this means..."
+dialogue,Rachel,"(angrily) NO, no science camp!"
+dialogue,Ross,Damnit! I'll put a candle on the cake.
+dialogue,Rachel,"Oh!... Oh and Emma, look at your stuffed animals lined up so neatly!"
+dialogue,Monica,Thanks!
+dialogue,Ross,"Okay, here we go! Emma's first birthday cake... Well hey... well, blow out the candle. Come on Emma."
+dialogue,Chandler,"Let's do it, come on!"
+action,,(Rachel wipes away some tears.)
+dialogue,Ross,What's wrong? Are you okay?
+dialogue,Rachel,"Oh yeah, nothing! These are happy tears! This is just what I wanted."
+dialogue,Phoebe,"(pointing at cake) Hey, you made it into a bunny."
+dialogue,Joey,What is wrong with me. It looked more delicious when it was a penis.
+action,,Closing Credits
+heading,,[Scene: Rachel and Joey's apartment. It's just Ross and Rachel. They put the camera on a tripod in the kitchen and they are standing in front of the camera.]
+dialogue,Rachel,Okay.
+dialogue,Ross,"Okay, you ready?"
+dialogue,Rachel,Yeah.
+dialogue,Ross,A-a-and... record.
+dialogue,Rachel,"Okay. (they both look into the camera, and Ross waves.) Hi Emma. Well, your first birthday is over, and it was really..."
+action,,"(There's a lot of yelling and screaming coming from the hallway, and they get up to look at what's the noise all about. In the hallway, Monica, Chandler, Joey and Phoebe are having another wind-up animal race, yelling and screaming fanatically.)"
+dialogue,Phoebe,"(yelling at the top of her voice) Go, go, go Alan! Run you, hairy bastard!"
+action,,End

@@ -1,0 +1,311 @@
+script_element,character,text
+heading,,[Scene: Central Perk]
+action,,"(Joey and Ross enter. Phoebe and Mike are sitting on the couch, reading a magazine.)"
+dialogue,Ross,Hey you guys!
+dialogue,Phoebe,Hey!
+dialogue,Ross,"Hey, what are you doing?"
+dialogue,Mike,"Oh, figuring out our wedding plans."
+dialogue,Chandler,"That's funny, we were doing the same thing!"
+dialogue,Ross,Yeah!
+dialogue,Phoebe,"It's really crazy! The hall, the dress, the food... I-I had no idea how expensive this stuff was!"
+dialogue,Chandler,"Yeah it is really pricey. I mean, I freaked when I first heard the numbers."
+dialogue,Phoebe,So what did you two do about it?
+dialogue,Chandler,"It was pretty simple actually, I came up with a couple of cost-cutting solutions, wrote out a list and Monica told me to go to hell."
+dialogue,Ross,"There's no way around it Pheebs, you just gonna have to accept the fact that this is gonna cost you a lot of money."
+dialogue,Mike,I heard that weddings are like a 40 billion dollar a year industry.
+dialogue,Ross,"Yeah, and I'm responsible for just like half of that."
+dialogue,Phoebe,"But really, it does seem like this money could be put to better use?"
+dialogue,Mike,Are you serious?
+dialogue,Phoebe,"Yeah! Now, how would you feel if we gave all the wedding money to charity and we just got married at City Hall?"
+dialogue,Mike,I think it would make me wanna marry you even more. (he kisses her)
+dialogue,Ross,"I've got to say you guys, that's an incredible gesture!"
+dialogue,Chandler,(to Ross) Maybe you do that next time you get married!
+dialogue,Ross,"No, no, no. The next time it's gonna be a Hawaii at sunset. [pause] But maybe the time after that!"
+action,,Opening Credits
+heading,,[Scene: Monica and Chandler's apartment]
+action,,"(Monica is cleaning the table, Chandler is sitting on the sofa. Joey enters.)"
+dialogue,Joey,Hey!
+dialogue,Chandler,Hey!
+dialogue,Joey,What's going on?
+dialogue,Chandler,Our adoption social worker is coming by today so we are cleaning the apartment.
+dialogue,Monica,(sarcastically) We?
+dialogue,Chandler,You know you don't want me to help. You can't have it both ways!
+dialogue,Joey,"Hey, is this person who decides whether or not you... get a baby?"
+dialogue,Chandler,Kind of. She's coming by to interview us and see where we live.
+dialogue,Monica,"And it has to go perfectly, because if she doesn't like something about us she can keep us off every adoption list in the state."
+dialogue,Joey,"Hey, maybe I should stop by! She could be a soap opera fan! It's very impressive when the little people know a celebrity."
+dialogue,Chandler,(pointing at himself) Little people?
+dialogue,Joey,(pointing at himself) Celebrity.
+dialogue,Monica,"Ok, so I think I'm just about done here, unless you have any bad stuff hidden somewhere, like... porn or cigarettes?"
+dialogue,Chandler,What...? NO!
+dialogue,Monica,Chandler?
+dialogue,Chandler,"(he stands up and he feels very offended) I don't, and I'm offended by the insinuation!"
+dialogue,Monica,"Ok, so there's not a magazine under the couch, or a pack of cigarettes taped to the back of the toilet tank, or a filthy video in the VCR?"
+dialogue,Chandler,"I'll admit to the cigarettes and the magazine, but that tape is not mine."
+dialogue,Monica,It isn't mine!
+dialogue,Joey,"(going out with the VCR in his hand) Well, I guess we'll never know whose it is!"
+heading,,[Scene: The New York City Children's fund hallway.]
+dialogue,Charity guy,May I help you?
+dialogue,Phoebe,Yes. We're here to make a rather sizeable donation to the children.
+dialogue,Charity guy,"Well, any contribution, large or small, is always appreciated."
+dialogue,Phoebe,"Well, I think you're gonna appreciate it the crap out of this one (she gives him a check)"
+dialogue,Charity guy,"Well, this is very generous!"
+dialogue,Phoebe,And we don't want any recognition. This is completely anonymous.
+dialogue,Mike,Completely anonymous. From two kind strangers.
+dialogue,Phoebe,Mr. X and Phoebe Buffay.
+dialogue,Charity guy,"Well if you like, we can include your names in our newsletter."
+dialogue,Mike,Not necessary.
+dialogue,Phoebe,Buffay is spelled B-U-F-F-A-Y.
+dialogue,Mike,"And ""X"" is spelled uhm... ""Mike Hannigan""."
+dialogue,Charity guy,"Right. Well, on behalf of the children: thank you both very much."
+dialogue,Phoebe,"Sure, I so glad we did this. It feels so good!"
+dialogue,Mike,It does. It feels really good!
+dialogue,Phoebe,"Oh, look! And we get these free t-shirts! (she takes a t-shirt which was on the counter)"
+dialogue,Charity guy,"Oh, actually, that's the shirt I wore to the gym."
+dialogue,Phoebe,Mhm... it's moist.
+heading,,[Scene: Joey and Rachel's apartment.]
+dialogue,Ross,(he enters) Hi!
+dialogue,Rachel,Hi! Emma will be up in a minute!
+dialogue,Ross,"Oh, good!"
+dialogue,Rachel,"Oh hey Ross... Listen, I heard about you and Charlie. I'm really sorry."
+dialogue,Ross,"Oh, that's OK. I'm sure there are tons of other beautiful paleontologists out there."
+dialogue,Rachel,Absolutely.
+dialogue,Ross,There was one! She's it! All the rest look like they should live under a bridge!
+dialogue,Rachel,"So, uhm... what are you gonna do today?"
+dialogue,Ross,"Well, I was thinking of taking Emma to the playground!"
+dialogue,Rachel,"Oh my God, what!?"
+dialogue,Ross,Like I said I was thinking of taking Emma to the museum of knives and fire!
+dialogue,Rachel,"Ok, look, Ross. I do not want Emma going to the playground."
+dialogue,Ross,Be-caaauuuse...
+dialogue,Rachel,"(upset) All right, well, if you must know... I had a traumatic... swing incident... when I was little."
+dialogue,Ross,Seriously?
+dialogue,Rachel,"Yes, I was 4 years old and I was on the swing and then all of a sudden my hair got tangled in the chain. And to get me out my mom had to-had to cut a big chunk of my hair! (crying) And it was uneven for weeks!"
+dialogue,Ross,(sarcastic) And you made it through that? I wonder who's gonna play you in the movie!
+dialogue,Rachel,"Ok, fine! You can make fun of me. I do not want Emma going there. And I was thinking Claire Danes."
+dialogue,Ross,"Look, I'm sorry to hear about your tragedy, ok? But the swings are perfectly safe, and besides Emma loves them. You know what, you should come with us and you'll see!"
+dialogue,Rachel,"Ross, those things go like 40 miles an hour! Ok? When you're... and there is that moment when you are at the top, when you just don't know if you're gonna return back to earth!"
+dialogue,Ross,"Space is filled with orbiting children. (pause) Look, please, just come on, you know, when you’ll see the look on Emma’s face, I swear you won’t regret it."
+dialogue,Rachel,All right!
+dialogue,Ross,"Good, you don’t want to be one of those mothers who pass on their irrational fears on their children, do you?"
+dialogue,Rachel,"Irrational, huh? All right, well, I’ll remember that the next time you freak out about a spider in your apartment!"
+dialogue,Ross,"Oh, yeah, that’s the same, I am sure there are thirty different species of poisonous swings!"
+heading,,[Scene: Monica’s apartment. Somebody knocks the door]
+dialogue,Monica,"Oh my God, the adoption lady is early!"
+dialogue,Chandler,"Ok, ok, here we go."
+dialogue,Monica,Ok.
+dialogue,Chandler,Here we go. Stand up straight. (smiling) Big smile. (opens the door and both are smiling exaggeratedly)
+dialogue,Phoebe,"Hello, is this the creepy residence?"
+dialogue,Monica,"We’re waiting for the adoption lady, but, hey, I’m glad you’re here. I was cleaning this morning and I found this (she puts a box on the table and opens it). I don’t know if you wanna use it, but…"
+dialogue,Phoebe,"Awe, this is so sweet of you! But you know what? I won’t be needing a veil, I actually won’t be wearing a dress at all!"
+dialogue,Monica,I told you! I am not coming to a naked wedding!
+dialogue,Phoebe,"No, no, no, we’re not having a big reception, we took the money we were gonna spend on a wedding and we donate them to the children charity."
+dialogue,Monica,That’s crazy! (Phoebe looks bewildered). I am sorry. I just can’t imagine giving up my one wedding day like that!
+dialogue,Phoebe,"We, you know, we’re different! We don’t care about having a huge party. (She picks up the veil) This is really nice for you, but, oh, please, I put this on? (she puts it on) And, ow, I look (she looks her reflex image on a toaster), why, well, radiant. (pause) All right, well, who cares, I don’t need a pretty veil and a fancy dress."
+dialogue,Monica,"That’s right. You’re making a commitment and that’s the same, whether you do that at the Plaza or, where are you gonna do it?"
+dialogue,Phoebe,City Hall.
+dialogue,Monica,"Ow! (Chandler slaps her on her back) Oh, that sounds nice! I am just there for jury duty. They really spruce that place up!"
+dialogue,Phoebe,"It’s ok, it’s ok. I made my decision. What I really want is a great big wedding (she covers her mouth)"
+dialogue,Monica,Yay!
+dialogue,Chandler,But you already gave all your money to charity!
+dialogue,Phoebe,"Well, I’ll just ask for it back!"
+dialogue,Chandler,I don’t think you can do that!
+dialogue,Monica,"Why not! This is her wedding day, this is way more important than some stupid kids!"
+dialogue,Chandler,"That’s sweet, honey, but save something for the adoption Lady."
+heading,,[Scene: The playground. Ross put Emma on the swing and they’re ready to play]
+dialogue,Rachel,"Ok, careful."
+dialogue,Ross,Ok.
+dialogue,Rachel,"Careful, watch her hair. WATCH HER HAIR!"
+dialogue,Ross,"Rach, she’s got like three hairs!"
+dialogue,Rachel,"I know (she touches Emma’s head) but they’re just so beautiful! Oh, my God, I just pulled one out."
+dialogue,Ross,I promise you she’s safe! No watch how much she loves this.
+dialogue,Rachel,Ok.
+dialogue,Ross,(to Emma) Ready sweety?
+dialogue,Rachel,Ok.
+dialogue,Ross,Here we go! (He starts pushing Emma)
+dialogue,Rachel,"Ok, careful, ok. (Emma giggles) Oh, she’s smiling! Oh my God, she does like it!"
+dialogue,Ross,"See, I told you!"
+dialogue,Rachel,"Awe! (Emma laughs) Oh my God! Looks, she’s a little dare-devil! Oh, let me push, can I push?"
+dialogue,Ross,"Oh, absolutely!"
+dialogue,Rachel,"Ok. Oh God. (To Ross) Get the camera, it’s in the diaper bag."
+dialogue,Ross,"Ok! (he takes the camera and walks backwards to take a shot) See? Scared of swings, I bet you feel pretty silly (a swinging boy knocks him down) Ow!"
+heading,,[Scene: The New York City Children's fund ]
+dialogue,Mike,We’re seriously asking for our money back?
+dialogue,Phoebe,"It’s for our wedding day! Right, now, is this guy gay or straight, because one of us gonna have to start flirting."
+dialogue,Charity guy,Wow! Are you here to make another donation the same day? I don’t think that that’s ever happened before.
+dialogue,Phoebe,"(to Mike) Gay, go."
+dialogue,Mike,"(to the charity guy) Oh my God, I love your shirt!"
+dialogue,Phoebe,"The donation we made earlier, we k…, we w…, we want it back."
+dialogue,Charity guy,Excuse me?
+dialogue,Phoebe,"Yeah. See, that money was for a big wedding, that we thought we didn’t want, but it turns out we do."
+dialogue,Charity guy,So you’re asking us to refund your donation to the children?
+dialogue,Mike,Yeah! This feels really good.
+dialogue,Phoebe,"I am sorry. I am, but this wedding is just really important to me."
+dialogue,Charity guy,"Hey, it’s not my business, (he takes their check from a drawer) besides it’s probably a good thing. We really would have been spoiling the children, all those food, and warm clothing…"
+dialogue,Phoebe,"Hey, that’s not fair! A person’s wedding is important! And especially to me! Ok? I didn’t have a graduation party! And I didn’t go to Prom. And I spent my sweet sixteen being chased round a tire yard by an escaped mental patient who is his own words wanted to “kill me” or whatever. So I deserve a real celebration and I am not gonna let some sweaty little man make me feel badly about it.( She storms out)"
+dialogue,Mike,She could have been talking about either one of us.
+heading,,[Scene: Monica’s apartment. Somebody knocks the door]
+dialogue,Laura,"Hi, I am Laura, I am here for your adoption interview."
+dialogue,Monica,"Hi, I am Monica and this is Chandler. Please come in."
+dialogue,Laura,Thank you!
+dialogue,Monica,Would you like something to drink?
+dialogue,Laura,"Oh, water would be fine."
+dialogue,Monica,Ok. Great. I am so glad that you are here. We’re really excited about getting this process started.
+dialogue,Chandler,"Oh, because we love kids. Love ‘em to death.Well, not actually to death, that's just a figure of speech - we love kids the appropriate amount... as allowed by law."
+dialogue,Laura,Your place is just lovely.
+dialogue,Monica,"Ah, thank you. This building does have a wholesome family feel to it."
+dialogue,Laura,"You know, I... I feel like I've been here before. Are any other couples in the building adopting?"
+dialogue,Monica,Is that that couple on the first floor? Because we should get a baby before them. Yeah! That guy tried to sell me drugs. (Laura looks shocked)
+dialogue,Chandler,"But other than that... wholesome, wholesome building."
+dialogue,Laura,Oh...
+dialogue,Chandler,What?
+dialogue,Laura,I just realized why I remember this place.
+dialogue,Monica,Really? What is it?
+dialogue,Laura,"Oh, it's nothing. I went on a date with a guy who lived in this building and it didn't end very well."
+dialogue,Monica,Ohh... that wouldn't by any chance be... Joey Tribbiani?
+dialogue,Laura,Yes!
+dialogue,Chandler,Of course it was!
+dialogue,Laura,"Yeah, we had a really great night and in the morning he promised he would call me and he didn't."
+dialogue,Chandler,RAT BASTARD!
+dialogue,Laura,So you're not friends with him?
+dialogue,Monica and Chandler,"OH GOD NO! Nope, no, no, no. No! No, no. Nope! No, no, no, no, no, no, no, no, no. NO! (finally Monica concludes) No!"
+dialogue,Laura,"Well, I'm sorry I brought it up. So, are either one of you planning on staying at home with your child... (someone knocks on the door)"
+dialogue,Joey,(form the other side of the door) Hellooo? Anybody in there order a celebrity? (He starts to enter the apartment and Chandler runs to the door and shuts it back in his face) OW!
+dialogue,Laura,What was that?
+dialogue,Chandler,"Oh, it's just some crazy guy who roams the halls here. He's great with kids though."
+heading,,[Scene: Ross and Rachel are at the playground with Emma. Rachel in putting her back in the stroller and Ross is tending to his wound]
+dialogue,Rachel,"Oh, oh Ross, oh my God, are you okay?"
+dialogue,Ross,SON OF A BITCH! (turns to his right to see three kids staring at him) (To the kids) Oh relax! I didn't say the 'F' word! (They go away)
+dialogue,Rachel,"Ross, see! I told you, those swings are evil! Alright, that is it. That is the last time Emma is getting on one of those things for her entire life."
+dialogue,Ross,"No! No, no, no, no, okay, it wasn't the swing's fault. It was my fault and kind of that (point to the kid that kicked him) kids fault. Who is still laughing. Nice."
+dialogue,Rachel,"Ross, c'mon, please. Can we just get out of here, before somebody else gets hurt?"
+dialogue,Ross,"No wait, okay, okay, I have an idea. I want you to get on the swing, okay? And you'll see that there's nothing to be afraid of."
+dialogue,Rachel,(looks at him suspiciously) I know what this is all about... You've always been jealous of my hair.
+dialogue,Ross,"Look, I just think you're an adult, okay? And you should get over your silly fears."
+dialogue,Rachel,Alright fine. I'll do it.
+dialogue,Ross,Good.
+dialogue,Rachel,If you hold a spider.
+dialogue,Ross,(He freaks out and starts jumping around brushing his sweater) WHAT? WHERE? WHERE?
+dialogue,Rachel,IF you hold a spider.
+dialogue,Ross,"I know. (Rachel bends down to Emma and Ross looks over his shoulder again, afraid)"
+heading,,"[Scene: Chandler and Monica's apartment. Chandler is still leaning against the door, keeping Joey out, who is still banging and shouting on the other side.]"
+dialogue,Joey,"Guys? Everything ok? It's me, Joe..."
+dialogue,Chandler,(Screams to interrupt Joey) AAAAAAAAAAAAAAAAAAAAA......AAAaaa-doption!!
+dialogue,Laura,What's going on?
+dialogue,Chandler,"Oh, just like I said. That crazy... Bert... roaming the halls. (Joey bangs on the door again)"
+dialogue,Joey,Guys!?
+dialogue,Monica,Keep on roaming Bert! We don't want any crazy today!
+dialogue,Joey,What's going on?
+dialogue,Chandler,"WE'LL TALK TO YOU LATER, BERT. EVERYTHNG'S FINE!!"
+action,,"(cut to Joey on the other side, who finally leaves the door and goes to his apartment)"
+dialogue,Joey,Everything doesn't sound fine!
+dialogue,Laura,Is he alright out there by himself?
+dialogue,Chandler,Oh yeah! He has a caretaker. His older brother... Ernie.
+dialogue,Laura,Bert and Ernie!
+dialogue,Chandler,(nervous smile) You can't make this stuff up!
+heading,,[Scene: Central Perk. Phoebe and Mike enter]
+dialogue,Mike,"You never told me about that guy on your sweet sixteen. Oh, ugh. I'm sorry about that."
+dialogue,Phoebe,(Lightly) Oh! It ended okay. One of my friends shot him.
+dialogue,Mike,"Well, hey, at least you're getting a proper wedding. I mean, you really deserve that."
+dialogue,Phoebe,"Yeah, I really do. You know, I had nothing growing up. (thinks for a few seconds) Just like the kids I took the money from."
+dialogue,Mike,"No! No, no. I see where this is going. Don't make me go back there."
+dialogue,Phoebe,"Look, I can't have a wedding with this money now. It's tainted."
+dialogue,Mike,"Alright, fine. We'll give the money back."
+dialogue,Phoebe,"And if that guy at the charity gives us a hard time, my friend hasn't shot anyone in a really long time."
+heading,,"[Scene: Monica and Chandler's. They are preparing to show Laura around. Laura is standing with her back to the window, Chandler and Monica are standing on either side of her, facing each other."
+dialogue,Laura,"Well, I must say, this seems like a lovely environment to raise a child in."
+dialogue,Monica,"Oh, by the way, you are more than welcome to look under any of the furniture, because, believe me, you won't find any porn or cigarettes under there!"
+dialogue,Laura,"Oh! Well, actually, before we look around, let me make sure I have everything I need up to here..."
+action,,(She starts checking her form. Chandler sees movement near the window from the corner of his eye and when he looks he spots Joey climbing up the fire escape and onto their balcony. He warns Monica silently.)
+dialogue,Monica,(Pulls Laura into the spare room) Why don't I show you the baby's room?
+action,,(Joey enters through the side window and jogs towards the kitchen holding a baseball bat)
+dialogue,Chandler,What the hell are you doing?
+dialogue,Joey,"Well, you wouldn't let me in, so I thought you were in trouble."
+dialogue,Chandler,"Well, we're not."
+dialogue,Joey,But you called me 'Bert'!? That's our code word for danger!
+dialogue,Chandler,We don't have a code word.
+dialogue,Joey,"We don't? We really should. From now on, 'Bert' will be our code word for danger."
+action,,(Monica talks loudly in the baby's room)
+dialogue,Monica,So that was the baby's room. (They come out and Chandler throws Joey behind the couch and puts his foot on him. Monica looks at Chandler)
+dialogue,Monica,(To Chandler) What room should we see next?
+dialogue,Chandler,Any room that isn't behind this couch! (laughs nervously)
+dialogue,Monica,"(laughs nervously as well, Laura looks confused) (To Laura) Some people don't get him, but I think he's really funny! (She takes Laura to their own bedroom)."
+action,,(Joey gets up and look annoyed)
+dialogue,Joey,(quivering with anger) I did not care for that!
+dialogue,Chandler,"(escorting Joey to the door) You have to get out of here. You slept with our social worker and you never called her back and she is still pissed, so she can't see you."
+dialogue,Joey,"Ok, ok! (He leaves)"
+dialogue,Chandler,Ok!
+action,,"(Joey leaves and closes the door behind him. Chandler walks towards the living room, but then Joey enters again.)"
+dialogue,Chandler,What?
+dialogue,Joey,I forgot my bat.
+action,,"(He picks up his bat and holds it up, but then Monica and Laura enter the living room again. When Laura sees Joey, she freezes...)"
+dialogue,Laura,Oh my God!
+dialogue,Chandler,"And for the last time, we do not want to be friends with you! And we don't want to buy your bat! (Joey lowers his bat)"
+dialogue,Laura,What are you doing here?
+dialogue,Joey,(to Chandler) Bert! Bert! Bert! Bert!
+dialogue,Laura,Are you friends with him?
+dialogue,Chandler,I can explain... Joey...
+dialogue,Joey,"Uhm... ok... uhm... Well, yeah... You have got some nerve, coming back here. I can't believe you never called me."
+dialogue,Laura,Excuse me?
+dialogue,Joey,"Oh... yeah... Probably you don't even remember my name. It's Joey, by the way. And don't bother telling me yours, because I totally remember it... lady. Yeah! I waited weeks for you to call me."
+dialogue,Laura,"I gave you my number, you never called me."
+dialogue,Joey,"No, no! Don't try to turn this around on me, ok? I'm not some kind of... social work, ok, that you can just... do."
+dialogue,Laura,"(embarrassed towards Chandler and Monica) Well, I'm pretty sure I gave you my number."
+dialogue,Joey,"Really? Think about it. Come on! You're a beautiful woman, smart, funny, we had a really good time, huh? If I had your number, why wouldn't I call you?"
+dialogue,Laura,"I don't know... Well, maybe I'm wrong... I'm sorry..."
+dialogue,Joey,"No, no, hey, no! Too late for apologies... ok? You broke my heart. You know how many women I had to sleep with to get over you? (and he leaves the apartment, leaving her shocked)"
+dialogue,Laura,"Joey, wait!"
+dialogue,Joey,"(acting sad) NO! I waited a long time, I can't wait anymore... (and closes the door behind him)"
+dialogue,Laura,(laughing nervously) I'm sorry that you had to see that. I'm so embarrassed...
+dialogue,Chandler,"Oh, that's really ok."
+dialogue,Monica,"Yeah, that we totally understand. Dating is hard."
+dialogue,Laura,"Boy, you people are nice... And I've got to say... I think you're going to make excellent parents."
+action,,"(Chandler and Monica hug each other, and then Joey enters the apartment again.)"
+dialogue,Joey,"LAURA! (and points to her, very confident)"
+heading,,[Scene: The New York City Children's Fund building. Phoebe and Mike are entering.]
+dialogue,Phoebe,(to the Charity guy) We're back!
+dialogue,Charity guy,"Are you here to take more money? Because, I think what you're looking for is an ATM."
+dialogue,Mike,"No, no, we're here to give the money back."
+dialogue,Phoebe,"Yeah, because you know what, it's... it's all about the children."
+action,,"(the Charity guy smiles wanting to take the check, but Phoebe pulls it back again. His smile fades.)"
+dialogue,Phoebe,"Although... it's also about the wedding... Ugh, alright... here. (she gives the check and pulls it back again) No... Oh God... Oh!"
+dialogue,Charity guy,"If I haven't said so already sir, (sarcastically pointing to Phoebe) congratulations!"
+dialogue,Mike,"(takes the check from Phoebe) Ok, look! Enough! Alright? I'm stepping in. I'm putting my foot down! As your future husband I'm going to make this decision for us. (thinking) Now... what do you think we should do?"
+dialogue,Charity guy,You know what? It's not your decision anymore.
+dialogue,Mike,What?
+dialogue,Charity guy,"On behalf of the Children of New York, I reject your money."
+dialogue,Phoebe,But... but... but we're giving you this!
+dialogue,Charity guy,Yeah... And I'm giving it back to you... Come on! Consider it a contribution. (gives the check to Phoebe)
+dialogue,Phoebe,"(looks at the amount on the check, and gasps) Well, this is very generous!"
+dialogue,Charity guy,"Please, take the check, go have a great wedding and a wonderful life together."
+dialogue,Mike,"Well, I mean... It sounds good to me. And that way we can save up, come back in a few years and make an even bigger donation."
+dialogue,Charity guy,"Absolutely! And when you do, make sure you ask for Brian."
+dialogue,Phoebe,"Oh, is that you?"
+dialogue,Charity guy,No!
+heading,,[Scene: Chandler and Monica's apartment. They are sitting in their living room when the phone rings.]
+dialogue,Monica,"Hello...? Oh hi... Oh my God...! Really...? I can't wait to tell Chandler... Ok, goodbye. (hangs up)"
+dialogue,Chandler,Wrong number?
+dialogue,Monica,It was Laura... She gave us a great report and we are officially on the waiting list.
+dialogue,Chandler,That's great!
+dialogue,Monica,Now we just have to wait for a call and... and someone tells us there's a baby waiting for us. Oh...
+action,,(Chandler and Monica hug and after a while the telephone rings again... Monica's eyes get bigger. Chandler answers.)
+dialogue,Chandler,Hello...? Have you seen Joey's bat?
+action,,Commercial Break
+heading,,"[Scene: The playground. Ross, Rachel and Emma are still there. Rachel comes walking to Ross and Emma with something between her hands.]"
+dialogue,Rachel,"Ok... I got a spider. There were two, I picked the bigger one."
+dialogue,Ross,(nervously) Ok...
+dialogue,Rachel,Ok... (and passes the spider to Ross who holds it in between his hands)
+dialogue,Ross,"(Gasps and speaks at a higher pitch) This feels perfectly normal. Ok, get on the swing!"
+dialogue,Rachel,(reluctantly) Ok... O-k...
+action,,"(She slowly grabs the chains of the swing, swings her hair back, and sits down.)"
+dialogue,Rachel,(more confident) Ok...
+action,,"(She slowly walks forward and backward, to gain speed...)"
+dialogue,Rachel,whoo... ok... wow... ok... OH!
+dialogue,Ross,See?
+dialogue,Rachel,A-alright! I can do this.
+dialogue,Ross,"There you go! Good for you! And you know what, I'm actually getting used to this little guy. I don't really even feel him in here anymore."
+dialogue,Rachel,That's because he's on your neck.
+dialogue,Ross,"Well... (realizes, screaming like a little girl, trying to get rid of the spider) Whaa... aaah... aaahhh..."
+action,,"(Ross is now preoccupied with the spider, and forgets that Rachel is still using the swing. While trying to get rid of the spider, he stands in front of Rachel, who bumps into him, throwing him on the ground again.)"
+dialogue,Rachel,ROSS!
+action,,"(Rachel tries to stop mid-swing, and the swing starts to turn from side to side) end"
+action,,End

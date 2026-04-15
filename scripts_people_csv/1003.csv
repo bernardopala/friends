@@ -1,0 +1,319 @@
+script_element,character,text
+heading,,[Scene: Joey and Rachel's apartment]
+dialogue,Chandler,"So, you and Rachel tonight, huh?"
+dialogue,Joey,Yeah. It's actually our first official date
+dialogue,Chandler,Wow! So tonight may be the night! You're nervous?
+dialogue,Joey,"Naa, no. This is the part I'm actually good at."
+dialogue,Chandler,What must it be like not to be crippled by fear and self-loathing.
+dialogue,Joey,(pause) It's OK!
+dialogue,Chandler,How can you be so confident?
+dialogue,Joey,"Well, I... I know exactly what I'm gonna do!"
+dialogue,Chandler,Really? Like you have a routine?
+dialogue,Joey,"No, no no no no. See. Each woman is different.You have to appreciate their uniqueness."
+dialogue,Chandler,Really?
+dialogue,Joey,"No, I do six things! First, I look deep in her eyes. Then, I kiss her. Next I take my hand and I softly graze her thigh."
+dialogue,Chandler,You mean like this? (he starts touching his thigh in a funny and awkard way)
+dialogue,Joey,"NO! Not like that, no no. No, like this. (He starts lightly grazing Chandler's thigh)"
+dialogue,Chandler,"Oh, I see what you mean, that's quite nice. (They look at each other, both embarassed)"
+dialogue,Joey,More foosball?
+dialogue,Chandler,...and beer!!
+action,,Opening Credits
+heading,,[Scene:Central Perk. Ross and Chandler are on the couch]
+dialogue,Monica,(entering) Hey!
+dialogue,Ross and Chandler,Hey!
+dialogue,Monica,(to Chandler) Hey sweetie! (they kiss)
+dialogue,Ross,(looking at Monica's legs) WOW!
+dialogue,Chandler,Hey! Stop staring at my wife's legs! No no! Stop staring at your sister's legs!
+dialogue,Ross,"I'm sorry, it's just... how did you get so tan?"
+dialogue,Chandler,She went on one of those spray-on tan places.
+dialogue,Ross,"Eh, you got a spray-on tan?"
+dialogue,Monica,Chandler gets pedicures!
+dialogue,Ross,"(laughing) Why, why you do, like with the-the toe separators?"
+dialogue,Chandler,(To Monica) Why...why?
+dialogue,Ross,"Still, I can't believe that's sprayed on... I mean, it looks really good. I wonder if I should get one!"
+dialogue,Chandler,"Sure, then you should get a mini skirt so you can really show it off."
+dialogue,Ross,"So, do you get colours or just French tips?"
+dialogue,Monica,There. Here's their card.
+dialogue,Ross,"Thanks. (he takes the card) Hey, I know where this place is! It used to be an X-rated video... (pauses when he realizes what he is saying) florist. (he goes away)"
+action,,(Phoebe enters)
+dialogue,Phoebe,Hey!
+dialogue,Chandler,Hey Pheebs!
+dialogue,Monica,Hey Phoebe!
+dialogue,Phoebe,"Oh, you won't believe who moved back to town."
+dialogue,Monica,"I know, Amanda! Ah! She called me too! She's the worst!"
+dialogue,Chandler,Who's Amanda?
+dialogue,Monica,"She's this girl who used to live in the building before you did. Then she moved to England and she picked up this fake British accent. On the machine this is her message. (she apes Amanda using an awful British accent) ""Monica, darling! It's Amanda calling!"""
+dialogue,Chandler,Are you trying to do a British accent?
+dialogue,Monica,(pause) (to Phoebe) Chandler gets pedicures!
+dialogue,Chandler,"Just so I know, how many more of those can I expect?"
+dialogue,Phoebe,"You know what Amanda said to me when she got me on the phone? (apes Amanda in a british accent) ""Oh, so sorry to catch you on your Mo-Bile!"" If-if you don't wanna get me on my mo-Bile, don't call me on my mo-Bile!"""
+dialogue,Monica,"I know, and she's always bragging about all the famous people she's met."
+dialogue,Phoebe,"Oh, I know! ""Oh...I slept with Billy Joel"". All right, who hasn't?"
+dialogue,Monica,"Oh, what are we gonna do! I don't wanna see her!!"
+dialogue,Phoebe,"Ugh, Let's just cut her out!"
+dialogue,Monica,What?
+dialogue,Phoebe,Cut her out of our lives! Just ignore her calls and dodge her 'till she gets the point!
+dialogue,Monica,"Oh, I guess we could try that, but... it seems so harsh! (to Chandler) Have you ever done that?"
+dialogue,Chandler,"No, had it done to me though. Feels good !"
+heading,,[Scene: At the tanning salon. Ross and a male assistant are walking through a hall]
+dialogue,Ross,"Well... I like how you look, what are you?"
+dialogue,Assistant,Puerto Rican.
+dialogue,Ross,"Two, I think a two."
+dialogue,Assistant,"You've got to face the red light. When the red light goes on the spraying is about to start so close your eyes. When the spraying stops, count to five. Pat yourself down to avoid drip marks then turn around so we can get your back. Got it?"
+dialogue,Ross,"Spray, count, pat, then turn, spray, count and pat."
+dialogue,Assistant,"Wow, you catch on quick."
+dialogue,Ross,"Well, I have a PhD, so... (assistant walk out, not impressed by this statement)"
+action,,(Ross takes his bathrobe off and he enters the tanning booth. He stands up in front of the red light and the sprayer starts and sprays his face and torso)
+dialogue,Ross,"One Mississipi, two Mississipi, Three Mis...(the sprayer starts again, spraying him in the face and torso again) WAIT! WAIT! I'm not-I've not finished counting!! (he leaves the booth) (the assistant enters the room)"
+dialogue,Ross,You sprayed my front twice!
+dialogue,Assistant,You've never turned?
+dialogue,Ross,"No, I barely even got to three Mississippi."
+dialogue,Assistant,Mississippi? I said count to five'!
+dialogue,Ross,"Mississippilesly? (pause) Well, how bad is it?"
+dialogue,Assistant,"Ain't that bad yet, but it keeps getting darker for the next four hours."
+dialogue,Ross,"So, how dark is it gonna get?"
+dialogue,Assistant,You got sprayed with two two' s and...
+dialogue,Ross,I'm a four?
+dialogue,Assistant,"Yeah, but you're back's a zero. You're gonna wanna even that out."
+dialogue,Ross,(sarcastically) Really!
+dialogue,Assistant,You might wanna get back in there.
+dialogue,Ross,(annoyed) Ok!
+action,,"(The assistant leaves and Ross goes back in the spray-on tan booth and turns his back to the spray nozzles, facing the back wall)"
+dialogue,Ross,"Wait, wait a minute, there's no light on the back wall! How do I know when it's gonna start? Hello? (he slowly turns and the spraying begins, on his face) Ah, oh, ah! (he turns, but then he turns again and is sprayed in the front again) Ah! (he spits and angrily goes out of the spray-on tan booth and the assistant enters the room) The same thing happened again!"
+dialogue,Assistant,You got two more twos?
+dialogue,Ross,(hysterically) I'm an eight!
+heading,,[Scene: Joey’s apartment. Joey and Rachel enter the room]
+dialogue,Joey,"I thought you paid. (Rachel does not answer and seems puzzled) Ha, guess we won’t be going back there!"
+dialogue,Rachel,So.
+dialogue,Joey,Yeah.
+action,,(Joey and Rachel start kissing)
+dialogue,Joey,"Hey what do you say, we move this onto the likes of the couch?"
+dialogue,Rachel,"I say ‘cheesy line’, but ok."
+action,,(They move on the couch and start kissing again. Joey does his grazing on Rachel’s thigh and she slaps his hand)
+dialogue,Joey,What’s the matter?
+dialogue,Rachel,"I am sorry, I don’t know, I am sorry, I don’t know why I did that!"
+dialogue,Joey and Rachel,Okay
+dialogue,Rachel,"Ok, so sorry."
+action,,"(They start kissing again and, when Joey grazes her thigh, she slaps him on his hand again)"
+dialogue,Rachel,"I am sorry! Again... I don't know, I don’t know what happened, I must be nervous!"
+dialogue,Joey,"I don’t get it, Chandler loved it!"
+dialogue,Rachel,"Ok, ok, ok. I promise, I promise, I promise, I won’t do it again. I really do. I promise. This is gonna be great."
+dialogue,Joey,Ok.
+action,,"(They start kissing again and when Joey grazes, she slaps him three times, on the hand, and on both cheeks)"
+dialogue,Joey,"(a little giddy) Uh, was that good for you?"
+heading,,[Scene: Monica’s apartment. Monica and Phoebe are reading magazines when the phone rings and Phoebe reaches to pick it up]
+dialogue,Phoebe,"Oh, yeah. Could be Rachel asking if someone could baby-sit again."
+dialogue,Monica,It could be Amanda!
+dialogue,Phoebe,"Oh, you’re right! I was just kidding about Rachel. Babysitting is a gas!"
+action,,(The machine picks up the phone)
+dialogue,Amanda,Hello Monica. It’s Amanda calling again. I am in the neighborhood hoping I can pop by your flat!
+dialogue,Monica,You're from Yonkers! Your last name is Buffo-Martisis!
+dialogue,Amanda,"Let’s see.. to assure you get this directly, ring me back on my mobile."
+dialogue,Phoebe,"Ok, don’t hold thy breath!"
+action,,(Sound of dialing numbers is heard from the speaker of the machine)
+dialogue,Chandler,Hello? Is someone on the line?
+dialogue,Amanda,"Yes, I was looking for Monica."
+dialogue,Chandler,"Hang on, she’s right here. (he enters the living room and hands the phone to Monica) Someone's on the phone, for ya."
+dialogue,Monica,"We weren’t picking up, it’s Amanda!"
+dialogue,Chandler,(to Amanda) I get pedicures!
+dialogue,Monica,"Hi Amanda! Actually now... it’s... is not a good time. Dinner tomorrow night? (Phoebe mouths 'no') Ok, Phoebe and I will see you then!"
+dialogue,Phoebe,"Why, why, why didn’t you just say no!"
+dialogue,Monica,"Well, I said 'no' to her coming over now! I couldn’t say 'no' twice! I get this uncontrollable need to please people!"
+dialogue,Phoebe,"(leaving) Fine, fine! You would not hold up well under torture!"
+dialogue,Monica,And you would?
+dialogue,Phoebe,I did!
+heading,,[scene: Joey’s apartment. Joey and Rachel are sitting on the couch]
+dialogue,Rachel,"Absolutely! Absolutely. I d... it’s just a little weird, it’s you, and it’s me, it's just gonna take some getting used to."
+dialogue,Joey,"Ok. Well, how, how can we make it easier?"
+dialogue,Rachel,"Ok, let’s work from the top down! (Joey nods, but then puzzled because he does not get it) Just work the bra, Joe!"
+dialogue,Joey,"Ok, yeah, got it."
+dialogue,Rachel and Joey,Okay.
+action,,"(They start kissing and Joey starts to undo her bra, but fails completely)"
+dialogue,Joey,This thing welded shut?!
+dialogue,Rachel,Okay.
+dialogue,Joey,"All right, turn around, I got to get a look at this thing."
+dialogue,Rachel,Oh!
+action,,"(Joey starts trying to undo her bra, but it won’t go.The elastic band snaps back, hurting Rachel.)"
+dialogue,Rachel,Ow!
+dialogue,Joey,Sorry!
+dialogue,Rachel,Well this is romantic!
+dialogue,Joey,"I'm sorry! (He stands up) This never happened to me before! I'm an expert at taking off bras! I can do it with one hand! I can do it with my eyes closed! One time I just looked at one, and it popped open! I blame your bra!"
+dialogue,Rachel,It’s a standard issue bra clasp!
+dialogue,Joey,Then I blame you! Yeah! That's right! You threw me off with all your slapping!
+dialogue,Rachel,"Ok well, well I'm really, I'm sorry about that Joey, but do you think that maybe on some level, you don't want to take off my bra?"
+dialogue,Joey,(contemplates for a few moments what Rachel just said) NAH! I don't have another level!!
+heading,,[Scene: Monica and Chandler's apartment]
+action,,(Chandler is at the table reading; Monica puts some food for him on the table. Ross walks in looking very tanned. Chandler and Monica look up at him smiling.)
+dialogue,Chandler,Hold on! There is something different.
+dialogue,Ross,I went to that tanning place your wife suggested.
+dialogue,Chandler,Was that place... The Sun ?
+dialogue,Ross,"Oh! And it gets worse! (Turns his side to Chandler and Monica and pulls up his shirt. There's a distinct line across his body, where his belly is very tanned and his back is very pale.)"
+dialogue,Chandler,Oh My God! You can do a duet of Ebony and Ivory all by yourself!
+dialogue,Monica,"How could you mess this up? It's so easy? You go into the booth, you count to five and you turn around!!"
+dialogue,Ross,(looks at her suspiciously) How do you count to five?
+dialogue,Monica,One Two Three...
+dialogue,Ross,"(Yells) Damnit! (Goes to the door to leave. Rachel just enters, sees him and starts laughing)"
+dialogue,Rachel,(laughing) oooh! Oh oh!
+dialogue,Ross,(Still yelling) I Know!
+dialogue,Rachel,oh oh! What is up with Miss Hawaiian Tropic?
+dialogue,Chandler,How was your date with Joey?
+dialogue,Rachel,"Well, it was good.. until we got back to our apartment, and then we were fooling around and he started to put his hand up my leg and I kept slapping it away!"
+dialogue,Chandler,You didn't like that?
+dialogue,Rachel,"Well, it wasn't just me, alright? He freaked out too! He couldn't even undo my bra!"
+dialogue,Monica,"Wow, really? One time he just looked at my bra and it popped open."
+action,,(Chandler starts looking at her bra)
+dialogue,Rachel,"I do not know what's wrong with us, I mean, we have kissed before and that's been great! But this time it was leading somewhere and I was very aware of the fact that it was Joey touching me."
+dialogue,Monica,"Well, you guys have been friends forever. Remember the first time that you kissed Ross? How weird that was? You couldn't stop laughing? You got through that."
+dialogue,Rachel,"(looking thoughtful) Ok, that's true. That's true, we can do this. You're right, you're right, we can do this. We're just gonna power through!"
+action,,(Joey walks in)
+dialogue,Joey,Hey Chandler can I talk to you for a second (points to the hall).
+dialogue,Rachel,"(To Joey) No need!! Problem solved, we are powering through (At which point she grabs his hand and pulls him back to their apartment)."
+action,,(Chandler resumes staring at Monica's bra)
+dialogue,Monica,"(sees what he is doing) Chandler, stop! It is not going to pop open!"
+dialogue,Chandler,(without taking his eyes off the bra) You don't know! (Monica just smiles)
+heading,,[Scene: Central Perk.]
+action,,(Phoebe is sitting on the couch. Monica walks in.)
+dialogue,Monica,Hey Phoebe!
+dialogue,Phoebe,Hey!
+dialogue,Monica,Is Amanda here yet?
+dialogue,Phoebe,No.
+dialogue,Monica,"(sits down) Oh good. Good, look I'm so sorry, for screwing up that cutting-her-out plan. But I have a new plan. Chandler agreed to call here in a few minutes with an emergency."
+dialogue,Phoebe,"Oh! Well, what kind of emergency that gets us both out of here?"
+dialogue,Monica,"Well, what do you think of Mike and Chandler being in a car accident?"
+dialogue,Phoebe,"(makes a face) Are you kidding, I love it!"
+action,,(A blonde woman walks in. Supposedly Amanda)
+dialogue,Phoebe,Hi!
+dialogue,Monica,Hi!
+dialogue,Amanda,Hi! (Phoebe and Amanda hug)
+dialogue,Amanda,(To Monica) Hello!
+action,,"(Monica holds her hands out for a hug, but instead of hugging her, Amanda hangs her purse on one of Monica's extended arms.)"
+dialogue,Amanda,"(In a fake British accent) It's so nice to see you! Both of you! Look at me. Look how young I look! (gives her coat to Monica as well) Oh gosh! We have so much to catch up on! But first things first: touch my abs (at which point she grabs both Phoebe and Monica's hands and places them both on her stomach) I don't exercise at all! (she pulls them down to sit.) Oh gosh, so Monica, you're married!"
+dialogue,Monica,(beaming) Yeah! Yeah! His name is Chandler and...
+dialogue,Amanda,(To Phoebe) Smell my neck! (Phoebe does so) It's not perfume! It's me ! It's my natural scent!
+action,,(Monica looks shocked)
+dialogue,Phoebe,Musty!
+dialogue,Amanda,"Oh! Gosh! This is brilliant. Gosh, it's just like old times. I'm so happy you two are friends again!"
+dialogue,Monica,When were we not friends?
+dialogue,Amanda,"Well, it was 1992, and I remember because that was the year I had sex with Evil Knievel (She starts laughing very proudly)."
+dialogue,Monica,"Ehm, we were friends in 1992."
+dialogue,Amanda,(to Phoebe) No I distinctly remember you were dodging her (points at Monica) calls and trying to avoid seeing her.
+dialogue,Monica,(To Phoebe) You were going to cut me out?
+dialogue,Phoebe,Well...kinda.
+dialogue,Monica,Oh My God!
+dialogue,Amanda,Oh! Bugger. Should I not have said that? I feel like a perfect arse!
+dialogue,Phoebe,"Yeah well, in America you're just an ""ass""."
+action,,(Monica's mobile starts ringing. She picks it up.)
+dialogue,Monica,"(Into the phone) Hello? Chandler, what's wrong? (She listens) Oh my God, are you alright? (listens some more) Yeah, I'll be right there. (She hangs up and speaks to Amanda) I'm so sorry, but Chandler was in a car accident. (She gets up)"
+dialogue,Phoebe,(Also gets up and starts taking her purse) Oh my God. Was Mike with him?
+heading,,[Scene: Joey and Rachel's apartment.]
+action,,(Joey comes running in.)
+dialogue,Joey,(To Rachel) Hey!
+dialogue,Rachel,Hey! Got champagne?
+dialogue,Joey,"Yes ma'am, ready to Power through!"
+dialogue,Rachel,"Excellent! Stick it in the ice bucket, the phone is off the hook, and in the interest of powering through (Starts to remove her bra from under her clothes)..."
+dialogue,Joey,Uh! (When she's done she throws her bra at him)
+dialogue,Rachel,"Ok (starts to light some candles) Sexy, sexy, very sexy, sexy. (Claps her hands and jumps at Joey, clearly very excited) Alright! Lets do it!"
+dialogue,Joey,"Ok, you're scaring me a little bit."
+dialogue,Rachel,"Oh! Get over it soldier, we've gotta do this! (She pulls him towards her and throws him onto the barcalounger) Ok. Aha! You like that huh?"
+dialogue,Joey,Oh! yeah!
+dialogue,Rachel,"You like that? (She climbs on the barcalounger seductively, putting her knees next to Joey's hips.) Let's take this into high gear (She pulls the barcalounger lever and seat reclines. She puts one of her knees between his legs and begins to kiss his neck.)"
+dialogue,Joey,uh uh!
+dialogue,Rachel,"Yeah baby, I'll show you how we do it!"
+dialogue,Joey,"No, no, no! You kneed me in my misters!"
+dialogue,Rachel,What? Oh my God! I'm so sorry. Joey? Are you ok?
+dialogue,Joey,"(He just sits there, legs very close together with a painful look on his face) Soldier down!"
+heading,,[Scene: Monica and Chandlers apartment.]
+action,,(Chandler is sitting on the couch reading. Monica walks in.)
+dialogue,Monica,We are not friends with Phoebe anymore.
+dialogue,Chandler,"If she asks, I protested a little, but ok!"
+action,,(Phoebe and Amanda walk in)
+dialogue,Phoebe,"Oh Chandler! Thank God you're alive. Monica, can I talk to you outside for a minute?"
+dialogue,Monica,I have nothing to say to you.
+dialogue,Amanda,"(announces more to herself than anyone else) Wow, my flat is twice this size!"
+dialogue,Phoebe,"Please, Monica? In the hall?"
+action,,(They both walk to the door and enter the hallway.)
+dialogue,Amanda,"Ooh, that accident must have been terrible. You look positively ghastly."
+dialogue,Chandler,"Well, aren't you a treat."
+heading,,[Scene: The hallway]
+dialogue,Monica,"I can't believe you tried to cut me out. Why Phoebe, why?"
+dialogue,Phoebe,"It was right after we were living together and you were driving me crazy, okay? You were really controlling and compulsive and shrill."
+dialogue,Monica,I'm still all those things!
+dialogue,Phoebe,You're also so generous and kind and scrappy!
+dialogue,Monica,(starts smiling) I am scrappy.
+dialogue,Phoebe,"Exactly! Look, no matter what I tried to do, I couldn't keep you out of my life. Of all the people I have cut out, you were the only one who ever clawed her way back in."
+dialogue,Monica,It's because I'm scrappy.
+dialogue,Phoebe,"Yeah, you are. And I'm so glad that you fought your way back in, because I don't know what I would do without you."
+dialogue,Monica,I won't know what I would do without you.
+action,,(They hug)
+dialogue,Monica,"Well, I guess we should go back in. When you gave me another chance, I guess we should do the same for Amanda."
+dialogue,Phoebe,"Yeah, I guess you're right."
+action,,"(They both enter the apartment again, where Amanda is ""dancing"" for Chandler, but she's really terrible at it)"
+dialogue,Amanda,Can you believe it. I've never had any professional dance training.
+action,,(Monica and Phoebe look at each other and leave the apartment again)
+heading,,[Scene: A different spray-on tan center]
+action,,"(Glenda, who works here, and Ross are walking to the room with the spray-on tan booth.)"
+dialogue,Glenda,"Now, let me explain how this works. You go into the booth, and..."
+dialogue,Ross,"I'm gonna stop you right there, Glenda. Okay? Does it look like this is my first time, huh? Now I want 4 two's... and I want them all on my back."
+dialogue,Glenda,(quietly) Okay...
+action,,"(Ross enters the room, takes off his robe and enters the booth. He stands with his back to the nozzles and then realises that this booth has nozzles at both sides of the wall)"
+dialogue,Ross,"Wait a minute, there's two sets of nozzles, which one is it?"
+action,,(He turns around frantically from side to side.)
+dialogue,Ross,Which... which... which... Which one is it?
+action,,"(He then stops turning, facing one of the nozzles, which starts spraying in this face and front again.)"
+dialogue,Ross,OH! SON OF A BITCH!
+action,,"(He now turns to the other side, which also starts spraying his face and front.)"
+heading,,[Scene: Joey and Rachel's]
+action,,(Joey and Rachel are both sitting on the couch. Joey keeping his knees pressed against each other)
+dialogue,Rachel,What is the matter with us?
+dialogue,Joey,"Well, I know what's the matter with me."
+dialogue,Rachel,"No, I mean with us, you know. I mean, is it supposed to be this... difficult?"
+dialogue,Joey,I don't know.
+action,,(Chandler enters the apartment)
+dialogue,Chandler,"That fake British woman is a real bitch, but she sure can dance... Hey!"
+dialogue,Rachel,"Hi! Hey, listen, can we ask you a question? When you and Monica first hooked up, was it weird going from friends to... more than that?"
+dialogue,Chandler,"Kinda... you know, sneaking around, having to hide from you guys..."
+dialogue,Rachel,"No, no, no... No, I mean... se-x-u-ally..."
+dialogue,Joey,"Yeah, was there a part of you that... felt like it was... really wrong?"
+dialogue,Chandler,"Actually, no. No, it felt right. You know, it felt like uhm... I can't believe we haven't been doing this the whole time."
+action,,"(Rachel and Joey are still looking at Chandler, slowly letting his words get to them)"
+dialogue,Chandler,"I can tell from your expressions that that's the good news you were hoping for... Well, I'm gonna go continue to... spread the joy.(Chandler leaves the apartment. Joey sighs)"
+dialogue,Rachel,"Well, just because it happened that way for them doesn't mean it has to happen that way for us."
+dialogue,Joey,"Yeah, yeah... Absolutely. I mean, just because something's difficult doesn't mean that you quit."
+dialogue,Rachel,"Right, totally."
+dialogue,Joey,"Yeah, so we just keep trying and trying until we... do it."
+dialogue,Rachel,"Yeah, and if doesn't work, then we'll be just one of those couples that never have sex."
+dialogue,Joey,That's a... pla-an.
+action,,"(They both stare for a while, and then look at each other)"
+dialogue,Joey,(sighs) Wow... I did not see this coming.
+dialogue,Rachel,I know.
+dialogue,Joey,"I don't get it. I mean, I was so sure this was what I wanted."
+dialogue,Rachel,Hmmm... Me too...
+action,,(She puts her head on Joey's shoulder and Joey kisses her on her head.)
+dialogue,Rachel,I wonder how Monica and Chandler could do it?
+dialogue,Joey,I guess they weren't as good friends as we are.
+action,,(Lifts her head from Joey's shoulder)
+dialogue,Rachel,Aah... I bet you're right.
+action,,(They look at each other for a while)
+dialogue,Joey,So...
+dialogue,Rachel,Yeah.
+dialogue,Joey,I love ya.
+dialogue,Rachel,"Love you too... Alright, I'm going to bed."
+dialogue,Joey,"Yeah, me too."
+action,,"(Rachel gets up, and Joey tries to get up, but halfway up he sits down again.)"
+dialogue,Joey,"Ooh, yeah, I'm not going anywhere for a while."
+action,,(Joey takes the ice-bucket with the champagne bottle in it and puts it on his sore spot)
+action,,Closing Credits
+heading,,[Scene: Ross's apartment.]
+action,,(Ross is reading a National Geographic on his sofa when Chandler knocks on the door.)
+dialogue,Chandler,"Dude, it's Chandler. Let me in."
+action,,(Ross's face is now a VERY dark shade of brown.)
+dialogue,Ross,Go away! I don't want to see anybody.
+dialogue,Chandler,"I know, I went to the tanning place and the same thing happened to me. You have to let me in."
+dialogue,Ross,Really? Did you count Mississipily?
+action,,(Ross walks to the door and opens it.)
+dialogue,Ross,"Dude, you're not tanned."
+dialogue,Chandler,"No, I just had to get a picture of this."
+action,,(Chandler holds up a camera and takes Ross's picture.)
+dialogue,Chandler,I see you later!
+action,,(Ross closes the door)
+action,,End

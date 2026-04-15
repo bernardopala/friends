@@ -1,0 +1,358 @@
+script_element,character,text
+heading,,[Scene: Central Perk. Joey's sitting on the couch and Phoebe enters.]
+dialogue,Phoebe,"Oh, hey Joey."
+dialogue,Joey,"Uh, hey."
+dialogue,Phoebe,"Listen, I need to ask you something. Ok, you know how my step dad's in prison."
+dialogue,Joey,(afraid) Yeah.
+dialogue,Phoebe,"Yeah. Well, uhm... listen he was supposed to get a weekend furlough, so he'd come to the wedding tomorrow, but he just called and... uhm... well, apparently stabbing Iceman in the exercise yard just couldn't wait till Monday."
+dialogue,Joey,So he can't come?
+dialogue,Phoebe,"No, and so there's no one to walk me down the aisle and... well, I would just really love it if you would do it."
+dialogue,Joey,Seriously?
+dialogue,Phoebe,"Yeah, you've... you know, sort of been like a dad to me. I mean, you've always, you know, looked out for me and shared your wisdom..."
+dialogue,Joey,I am pretty wisdomous.
+dialogue,Phoebe,So... what do you say?
+dialogue,Joey,"Are you kidding? Phoebe, I would be honored. (they hug)"
+dialogue,Phoebe,"Oh, thank you. I hope... I hope you know how much you mean to me."
+dialogue,Joey,"(takes her hand) Listen, I hope... that you know... (has difficulty saying it) I don't want you to see your father cry, GO TO YOUR ROOM!"
+action,,Opening Credits
+heading,,[Scene: Central Perk. Phoebe and Joey are sitting on the couch. A waitress brings a coffee and Phoebe wants to pay.]
+dialogue,Phoebe,Oh.
+dialogue,Joey,"Oh no, no, no, let your dad get this."
+dialogue,Phoebe,"(her mobile phone rings) Oh, it's my wedding planner. She's driving me crazy ! (she answers) Hello... Hey, ok, stop screaming! Ok? So, halibut. All right, so salmon, either way. I don't-I don't... it doesn't matter to me!"
+dialogue,Monica,"(she enters with a headset on and she's speaking into the microphone) Well, it matters to me!"
+dialogue,Phoebe,"Well, I don't care, so you pick!"
+dialogue,Monica,"Did you just hung up on me? (she hangs up too) All right, look, I need you at the rehearsal dinner tonight at 1800 hours."
+dialogue,Phoebe,Uh-uh. Ok. What time is that.
+dialogue,Monica,You don't know military time?
+dialogue,Phoebe,"Why, I must have been in missile training the day they taught that."
+dialogue,Monica,Just subtract twelve.
+dialogue,Phoebe,"Ok, so... 1800 minus twelve is... one thousand, seven hundred and..."
+dialogue,Monica,(screaming) Six o'clock!
+dialogue,Phoebe,Ok.
+dialogue,Monica,"Ok. Hold on. (her mobile phone rings) Geller here! No! I said it has to be there by 4 o'clock. Goodbye. (she hangs up) Oh, how hard it is to make an ice sculpture?"
+dialogue,Phoebe,Ice sculpture? That sounds really fancy! I told you I just want a simple wedding.
+dialogue,Monica,"Please... honey, leave the details to me. Now I wanna make this day as special for you as I can. Now, ok, I was thinking that the harpist should wear white."
+dialogue,Phoebe,What harpist? My friend Marjorie is playing the steel drums.
+dialogue,Monica,Ooh... she backed out.
+dialogue,Phoebe,She did? Why?
+dialogue,Monica,"I made her. (Phoebe looks shocked) Steel drums don't really say ""elegant wedding"". Nor does Marjorie's overwhelming scent."
+dialogue,Phoebe,(looking angry) Hey! She will shower when Tibet is free.
+heading,,[Scene: The wedding rehearsal dinner.]
+dialogue,Chandler,Hey!
+dialogue,Phoebe,Hey!
+dialogue,Chandler,"You look great. I'm so glad we're having this rehearsal dinner, you know, I so rarely get to practice my meals before I eat them."
+dialogue,Phoebe,"Okay, what did we say was your one gift to us?"
+dialogue,Chandler,No stupid jokes. I thought that was for the actual wedding.
+dialogue,Phoebe,Rehearse it!
+dialogue,Ross,Hi! (he kisses Phoebe)
+dialogue,Mike,Thanks for coming you guys.
+dialogue,Ross,"Oh, (he goes towards Mike in order to shake hands but Mike hugs him) hey, oh... I... I was-I was going for a hand shake."
+dialogue,Mike,Is that why your hand is pressed against my crotch?
+dialogue,Ross,That is why !
+dialogue,Mike,Yeah.
+dialogue,Phoebe,So Rach.
+dialogue,Rachel,Yeah.
+dialogue,Phoebe,Where is Emma?
+dialogue,Rachel,"Oh, Monica made me send her to my mother's. Apparently babies and weddings don't mix."
+dialogue,Monica,"(coming) Are you still crying about your damn baby? Pheebs, you gotta keep the line moving, remember, 20 seconds per person. Your see these clowns all the time! (she takes off)"
+dialogue,Joey,"Hey, you're Mike's parents, right?"
+dialogue,Mike's mother,"Yes, we are."
+dialogue,Joey,"Ah, our little ones are growing up fast, uh?"
+dialogue,Mike's father,How's that?
+dialogue,Joey,"You know, on the one hand you're happy for them, but on the other hand it's hard to let go."
+dialogue,Mike's father,Who in God's name are you?
+dialogue,Joey,"Hey, I'm not that fond of you either, ok buddy? But I'm just trying to be nice for the kids!"
+action,,"(cut to Ross, Chandler and Rachel)"
+dialogue,Chandler,(to Rachel) You know what I just realized? We have no idea what we're doing in the wedding tomorrow.
+dialogue,Ross,"Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?"
+dialogue,Rachel,Uh... November?
+dialogue,Ross,I wanna say it's not looking good.
+dialogue,Rachel,Hey Pheebs...
+dialogue,Phoebe,What's up?
+dialogue,Rachel,Uhm... you haven't told these guys what they're doing in the wedding yet.
+dialogue,Chandler,Heh.
+dialogue,Phoebe,"Uhm... well, they're not in the wedding."
+dialogue,Ross,"What? (Ross and Chandler don't know what to say, so there's an embarrassing long pause)"
+dialogue,Rachel,"Well, this is really awkward (staring at the floor) Oh, and I can leave!"
+dialogue,Phoebe,"I'm sorry you guys but, you know, Mike's got his brother and his friends from school so... you know, you were-you were... if it helps you, you were next in line, you just-you just missed the cut."
+dialogue,Ross,"Oh, man!"
+dialogue,Chandler,This is like figure skating team all over again. (Phoebe and Ross glare at him astonished) I mean synchronized swimming. (they continue to glare) I mean- I mean the balance beam. (to Ross) Help me!
+dialogue,Ross,FOOTBALL!
+dialogue,Chandler,Thank you.
+dialogue,Monica,"(looking at Phoebe eating something) Pheebs, spit that out, that has pork in it."
+dialogue,Phoebe,Oh! I though the pot stickers were supposed to be vegetarian!
+dialogue,Monica,"Yeah, I changed them. I-I sent you a fax about it!"
+dialogue,Phoebe,I don't have a fax machine.
+dialogue,Monica,"Ah, well then there are gonna be a few surprises!"
+dialogue,Ross,I can't believe we're gonna be the only people that aren't in this wedding.
+dialogue,Chandler,"I know, I hate being left out of things."
+dialogue,Ross,And it's a wedding! It'd be weird if I'm not in it...
+dialogue,Mike,"Hey guys, how is it going?"
+dialogue,Chandler,Fine. We're just sitting here. Alone. Doing nothing. It's our rehearsal for tomorrow.
+dialogue,Mike,"Yeah look, about tomorrow, I... I've got a question for ya. I just found out that one of my groomsmen had had an emergency and can't make it."
+dialogue,Chandler,What happened?
+dialogue,Ross,"Who cares, AND?"
+dialogue,Mike,"...and I was wondering if... you know, maybe one of you guys... (Ross stands up)"
+dialogue,Ross,I'll do it!
+dialogue,Chandler,(standing up too) M-Me-me-me!
+dialogue,Mike,You both wanna do it? Uhm... there's only room for one.
+dialogue,Chandler,"Pick me, I look great in a tux and I will not steal focus."
+dialogue,Ross,"No, Mike, no, no. You wanna pick me, I mean... watch! (he mimics the groommens way of walking down the aisle with a bridesmaid) Huh?"
+dialogue,Mike,"You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose. (he leaves)"
+dialogue,Ross,"(to Chandler) Well, if Phoebe's choosing, then say hello to Mike's next groomsman."
+dialogue,Chandler,"Oh, I will. But I will need a mirror... as he is me!"
+dialogue,Ross,"Please, you're going down!"
+dialogue,Chandler,You are going downer!
+dialogue,Ross,Is that what they say on the Figure Skating Team?
+dialogue,Chandler,"(almost crying) I wouldn't know, I didn't make it! (they hug)"
+heading,,[Scene: Wedding rehearsal dinner. Joey and Mike are talking.]
+dialogue,Joey,"So, you know I'm filling in for Phoebe's step dad, tomorrow, right?"
+dialogue,Mike,"Yeah, yeah. Hey, thanks for doing that."
+dialogue,Joey,"Oh, hey, my pleasure. (he suddenly becomes very serious) So what are your intentions with my Phoebe?"
+dialogue,Mike,I intend to marry her.
+dialogue,Joey,"Oh, a wiseacre. (Mike looks bewildered). No, no, no, I understand you plan to support your wife by playing the piano ? Isn't that kind of unstable?"
+dialogue,Mike,No more so than acting.
+dialogue,Joey,Strike two!
+dialogue,Mike,"You're right. She probably will support me. Hey, unless we move in with you, dad?"
+dialogue,Joey,"Strike three! You only get one more, Mike!"
+action,,(Cut to Chandler and Ross. Phoebe comes out of the ladies room and they run toward her.)
+dialogue,Ross,"So, what did you decide?"
+dialogue,Phoebe,I decided to pee.
+dialogue,Chandler,Mike didn't tell you? You have to chose one of us to be in your wedding. One of his groomsmen fell out.
+dialogue,Phoebe,"Oh no, no. I can't choose between you two! I love you both so much!"
+dialogue,Chandler,Just not enough to put us in the original wedding party.
+dialogue,Phoebe,"Oh, I don't wanna choose! It's (Rachel is walking by). Oh okay, wait. Rach! Listen I have a very special bridesmaid task for you today."
+dialogue,Rachel,"(excited and clapping her hands in front of her face) Goody, what is it!"
+dialogue,Phoebe,"Well, there's a spot open for only one groomsman and you have to choose between Ross and Chandler. So good luck with that."
+dialogue,Rachel,"What, what, what, no, I don't wanna do that."
+dialogue,Phoebe,"All right, I guess I'll have to find a new bridesmaid."
+dialogue,Ross,I'll do it! (Monica approaches)
+dialogue,Monica,"Ok, it's 2100 hours. (to Phoebe) Time for your toast. (Mike appears)"
+dialogue,Mike,Do I have a minute to go to the bathroom?
+dialogue,Monica,"You had a bathroom break at 2030. Pee on your own time, Mike! (to Phoebe and Mike). Now, in regard to the toast, okay, you wanna keep them short, nothing kills a rehearsal dinner like long speeches. Okay. You just get in, do your thing and get out!"
+dialogue,Mike,Is that what you say to Chandler?
+dialogue,Monica,"(very serious) It's 2101 and I am not amused. (pause). Ok, the bride and groom have a few words they'd like to say. (Everyone sits and Phoebe gets up)"
+dialogue,Phoebe,"Ok. Hello everyone and thank you all for being here tonight. So tomorrow's the big event and some of you might not know, but Mike and I didn't get off to the best start. (she reads a note). My friend Joey and I decided to fix each other up with friends so I, I... (Monica is twirling her hands in order to make Phoebe speed up her speech) oh I... hum... I gave it a lot of thought and I fixed him up with my friend Mary Ellen who couldn't be here tonight because... (Monica is tapping her watch with her finger) it's not important... she is in rehab. Anyway, so, ok, Joey said that he was fixing me up with his friend Mike, only he didn't have a friend Mike so he just brought, uhm, my Mike and, and (Monica clears her throat) but despite, you know... it got... it got good. Ok, I wanna take a moment to mention my mother, who couldn't be here..."
+dialogue,Monica,(rolling her eyes) Oh God.
+dialogue,Phoebe,"And... moment's over! (Rachel, Joey and Chandler all turn and look disapprovingly towards Monica but she just shrugs it off) So, ok, uh, I can forget that. I can forget that and uhm... (she's flipping cards skipping half of them) Oh this is funny! Oh, but you need to know that to... that, to... Oh, ok, well, uhm, I (Monica is miming CUT). Ok, ok, I, ok, I.... MONICA I CAN'T DO IT LIKE THIS! THIS IS MY WEDDING! OKAY, I DON'T WANT THIS (she mimes Monica's when she was twirling her hands) OR THIS (she taps her watch) OR THIS (she mimes CUT) OK? I JUST WANTED A SIMPLE WEDDING! WHERE MY FIANCEE CAN GO TO THE BATHROOM ANYTIME HE WANTS! (pause) You know what? You're done."
+dialogue,Monica,What?
+dialogue,Phoebe,"YOU'RE FIRED! (mimes the CUT again) (pause and she raises her glass) Cheers! (Chandler raises his, smiling and Monica stares at him and he puts down his glass.)"
+heading,,[Scene: Joey's apartment. Joey's having breakfast; Phoebe enters the room carrying her wedding dress.]
+dialogue,Phoebe,Hey!
+dialogue,Rachel,Happy wedding day!
+dialogue,Phoebe,"Oh, happy my wedding day to you!"
+dialogue,Rachel,"Ok-dokey, Joey, listen. This is gonna be bridesmaid central, all right? We're gonna have hair and make-up going on in the bathroom and oh, I had to move a couple of things in the fridge to make room for the corsages."
+dialogue,Joey,"Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!"
+action,,(Monica enters the room)
+dialogue,Monica,"Hi. About last night... I know you are under a lot of stress and even though the things you said hurt me a little bit... My point is, uh, well, I'm willing to take my job back."
+dialogue,Phoebe,"Oh, well that's ok. I think you and I will do much better if you're just... here as a bridesmaid."
+dialogue,Monica,"Oh, is that so? Ok. If that's really what you want, then here... I give you the headset. Well, I don't really want to give you the headset. Well I guess if you're taking over, you should probably return these messages. (hands her a stack of papers with messages and calls to return)"
+dialogue,Phoebe,"Wow, this is a lot!"
+dialogue,Monica,"Uh-huh, but I'm sure you can handle this. I mean, I have won awards for my organizational skills, but, uh, I'm sure you'll do fine."
+dialogue,Phoebe,You won awards?
+dialogue,Monica,Mm-mh. I printed them out on my computer.
+action,,(Ross enters the room)
+dialogue,Ross,Hey!
+dialogue,Monica,Hi.
+dialogue,Ross,Where's Rach?
+dialogue,Monica,"She's in her room, why?"
+dialogue,Ross,"I have to talk to her about this groomsman situation, ok? I'm not gonna watch Chandler up there while I'm sitting in the seats like some chump! (he goes to Rachel's room, knocks the door and enters the room). (very fake gasp) Oh! My God! You're breathtaking!"
+dialogue,Rachel,What d'you want?
+dialogue,Ross,"You haven't by any chance chosen a groomsman yet, have you?"
+dialogue,Rachel,"Oh, Ross, c'mon, please! Don't make this harder than it already is!"
+dialogue,Ross,I'm not! I'm making it easier! Pick me!
+dialogue,Rachel,"Well, Chandler said that it's really important to him too!"
+dialogue,Ross,"Listen, listen. Whoever you pick is gonna walk down the aisle with you! Now, I promise I won't say a word, but if you pick Chandler he's gonna be whispering stupid jokes in your ear the whole time!"
+dialogue,Rachel,"Oh, you are the lesser of two evils!"
+dialogue,Ross,"(waving his fist in the air in triumph) YES, YES!"
+heading,,"[Scene: Joey's apartment. Phoebe is talking at the phone, Monica is listening amused.]"
+dialogue,Phoebe,Sven I don't understand what you're saying! What is wrong with the flowers? Lorkins? What the hell are lorkins?
+dialogue,Monica,I know.
+action,,(Mike enters the room).
+dialogue,Mike,Hey.
+dialogue,Phoebe,"Listen, Mike, if you were Swedish and you were saying the word ""lorkins"" what flowers would that be?"
+dialogue,Mike,(thinks a moment) Orchids?
+dialogue,Phoebe,Right there! That's why I'm marrying you!
+action,,(Joey comes out from his room)
+dialogue,Joey,(to Mike) Hello Michael.
+dialogue,Mike,Joseph.
+dialogue,Joey,"May I have a word with you, please?"
+dialogue,Mike,(looking around the room) This is... great...
+dialogue,Joey,"Have a seat. (Mike sits on his bed, and Joey towers over him. He starts talking in an Italian godfather-type voice) Last night, I tried to welcome you into my family... and instead, you disrespect me... (shakes his head) I cannot allow this."
+dialogue,Mike,(not amused) Are you rehearsing for some really bad mafia movie?
+dialogue,Joey,"More back talk. And yes, I may be borrowing a few lines from my recent unsuccessful audition for ""Family Honor 2: Thissa Time Itsa Personal."""
+dialogue,Mike,"Joey, I kinda have a lot to do today, what do you want?"
+dialogue,Joey,"I want you to take this seriously! Phoebe is very very important to me, ok? And I wanna make sure that you are gonna take care of her."
+dialogue,Mike,"(gets up) Joe, I love Phoebe. She's the single most important thing in my life. I'd die before I let anything happen to her."
+dialogue,Joey,"(very satisfied and smiling) That's what I wanted to hear! Because she's family, ok, and now you're gonna be family, and there is nothing more important in the whole world, than family."
+dialogue,Mike,That must have been one lousy movie.
+dialogue,Joey,(almost crying) That was ME!
+heading,,[Scene: Monica and Chandler's apartment. Chandler is pacing and Rachel walks in.]
+dialogue,Rachel,Hi
+dialogue,Chandler,"Hey, can I talk to you about this groomsman thing? If you pick Ross, he'll walk you down the isle just fine. But if you choose me, you'll be getting some comedy!"
+dialogue,Rachel,"Even so, I think I'm gonna pick Ross."
+dialogue,Chandler,"Let me tell you why you need to pick me. (Goes to sit on the couch facing backwards to the kitchen. Rachel gets a chair and sits opposite him) See, when I was a kid, I was always left out of everything, you know, and it really made me feel... insecure. You know, I was always picked last in gym. Even behind that big fat exchange student who didn't even know the rules to baseball. I mean, this guy would strike out and then run to third. Anyway, If I'm the only one left out of this wedding, I just know that all those feelings are gonna come rushing back."
+dialogue,Rachel,"All right fine, I pick you."
+dialogue,Chandler,"(Getting up and raising his fist in victory) Y-Y-YEEESSS! Make ""groom"" for Chandler."
+dialogue,Rachel,(not amused by his pun but forcing a smile anyway) Oh my...
+heading,,"[Scene: Joey and Rachel's apartment. Phoebe is on the phone and Monica is nonchalantly ""minding her own business"".]"
+dialogue,Phoebe,"No! We're gonna do it my way. (listens) Because your way is stupid! Alright I gotta go, I have another call, Reverend. (switches calls) Hello?"
+action,,(Mike and Joey come out of Joey's room)
+dialogue,Joey,I'm glad we had this little talk.
+dialogue,Mike,"Yes. Yeah and thanks for all the wedding night advice. (walks away) That didn't make me uncomfortable at all! Alright, so I'll see everybody tonight?"
+dialogue,Phoebe,Okay.
+dialogue,Monica,Bye.
+action,,(Mike opens the door and there is a gigantic ice sculpture standing in the doorway)
+dialogue,Mike,"Uhm, did you guys know that there is a giant ice sculpture in the hall?"
+dialogue,Phoebe,"Oh my God, what's it doing here?"
+dialogue,Monica,"(Obviously enjoying this setback) Ugh, I guess it got sent to the billing address as opposed to the shipping address. (by now she can barely keep herself from smiling) Uh! What a pickle."
+dialogue,Phoebe,"(starting to panic) Oh my God, everything is such a mess. Why is this happening to me?"
+dialogue,Joey,(staring at the ice sculpture) How bad do you want to stick your tongue on that? (They all glare at him)
+heading,,[Scene: Central Perk. Ross is getting coffee at the counter. Chandler walks in.]
+dialogue,Chandler,How's it going?
+dialogue,Ross,(smiling to himself) Good. I'm just getting some coffee. So I'm alert for the wedding.
+dialogue,Chandler,(smiling to himself too) That's what I was doing too.
+dialogue,Ross,"(barely containing himself at this point) Well, you have fun tonight."
+dialogue,Chandler,You too.
+dialogue,Ross,"Oh, I will."
+dialogue,Chandler,Me too.
+action,,"(They walk passed each other, Ross towards the door, Chandler towards the counter, suddenly they turn around to face each other)"
+dialogue,Ross,"Wait a minute, I know why I'm being such an ass, why are you?"
+dialogue,Chandler,I'm not supposed to tell you.
+dialogue,Ross,I'm not supposed to tell you!
+action,,(Cut to Joey and Rachel's apartment. Chandler and Ross storm in looking very unhappy)
+dialogue,Chandler,You told us both we could be in the wedding? (they both stare at Rachel)
+dialogue,Rachel,"Well, in my defense, you were not supposed to tell each other."
+dialogue,Ross,"Rachel, only one of us can do it, you have to choose. You and me together again. (he winks at her and Rachel looks disgusted)"
+dialogue,Chandler,"Rach, Rach, knock knock."
+dialogue,Rachel,Who's there?
+dialogue,Chandler,I'll tell you at the wedding.
+dialogue,Rachel,Uh.
+action,,(Mike walks in.)
+dialogue,Mike,"Hey, I forgot my scarf."
+dialogue,Rachel,"You know what, I can't do this. I don't know which one of you guys to pick."
+dialogue,Mike,"Oh, you haven't picked yet. Oh good, 'cause I had an idea. I thought it would be fun if the third groomsman was my family dog. Chappy."
+dialogue,Ross,What? A dog? No! Rachel gets to choose.
+action,,(all eyes turn to Rachel)
+dialogue,Rachel,"(sarcastic) Wow, this is a tough one. I think I'm gonna have to go with the dog."
+action,,(Ross and Chandler look shocked)
+action,,"(Cut to Phoebe who is in the living room, still on the phone.)"
+dialogue,Phoebe,"Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?"
+dialogue,Monica,(enjoying what she's seeing) How's it going?
+dialogue,Phoebe,(to Monica) Help me.
+dialogue,Monica,What?
+dialogue,Phoebe,I want you to be Crazy Bitch again.
+dialogue,Monica,(Sounds moved) Really?
+dialogue,Phoebe,(Nearly in tears) Please?
+dialogue,Monica,You really want me to come back?
+dialogue,Phoebe,More than I wanna get married.
+dialogue,Monica,"Ok people, we are back in business! (Gets her headset out of her purse) Oh God, we've missed you soo much! (takes all the notes from Phoebe) Ok, go and get your hair and make-up done, and I'll take care of everything."
+action,,(Joey walks in)
+dialogue,Joey,"Hey, what are you guys gonna do?"
+dialogue,Phoebe,(sounds scared already) About what?
+dialogue,Joey,"The blizzard. I just saw on the news, it's like the worst snow storm in 20 years! They already closed all the bridges and tunnels. (Opens the curtains to reveal a snow storm outside)"
+dialogue,Monica,Ooh! But the band and the photographer are coming all the way in from New Jersey!
+dialogue,Joey,I don't think they are.
+dialogue,Ross,(to Rachel) Haha! Looks like you're not going to be in the wedding either. (Looks at Phoebe) So sorry Pheebs.
+heading,,[Scene: Monica's apartment. They are all sitting around.]
+dialogue,Monica,"(Putting down her phone) Well, the club lost it's power."
+dialogue,Joey,"Yeah according to the news, most of the city did."
+dialogue,Rachel,Since when do you watch the news?
+dialogue,Joey,"Uh, for your information, since they hired a very hot weather girl."
+dialogue,Ross,(To Phoebe and Mike) I can't believe you guys aren't going to be able to get married today.
+dialogue,Phoebe,I know.
+dialogue,Rachel,"Wow, you know, it's so beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?"
+dialogue,Phoebe,What?
+dialogue,Rachel,"Well, look, it's hardly snowing anymore. I mean you couldn't ask for a more romantic setting. This could be the simple wedding you've always wanted!"
+dialogue,Phoebe,(Turning to Mike) What do you think?
+dialogue,Mike,I think I wanna get married to you today.
+dialogue,Phoebe,"Me too! (turning to Monica) Monica, do you think we could do it?"
+dialogue,Monica,(thinking) AFFIRMATIVE!
+heading,,"[Scene: Outside. They are a bunch of people arranging chairs, shoveling snow and making other preparations.]"
+dialogue,Monica,"(walking around with her headset still on) OK LET'S GET THESE CHAIRS OUT HERE! Gunther, hit the Christmas lights. (He does so and the lights above the chairs light up. Monica looks satisfied) Okay, who left the ice sculpture (picks up a piece of ice from the ground) ON THE STEAM GRATE? (nobody answers)"
+dialogue,Mike's mom,Michael!
+dialogue,Mike,"Hey! You made it. Great! Chappy! Hi! (kisses his dad) Hi! (kisses his mom) Mom, I know getting married in the street isn't something you approve of..."
+dialogue,Mike's mom,No... It's lovely. The lights and the snow. I could look at them forever.
+dialogue,Mike's dad,"(leans in towards Mike) I crushed a pill and put it in her drink... (to his wife) Come on, sweetheart."
+dialogue,Mike,"(to Chandler and Ross) You know, Chappy's too small to handle all this snow. Someone's gonna have to walk him down the aisle."
+dialogue,Chandler,"So technically, would this person be in the wedding?"
+dialogue,Mike,I guess.
+dialogue,Chandler and Ross,I'll do it!
+dialogue,Ross,"No, but Chandler, hello... Aren't you scared of dogs?"
+dialogue,Chandler,I'm not scared. (moves towards Mike and Chappy) I'll just take little Chappy and... (he backs out) HE CAN SENSE MY FEAR. MY THROAT IS EXPOSED.
+dialogue,Ross,"(takes Chappy from Mike) Well, I guess I'm in the wedding then. Ha haaa... (smells Chappy) He stinks!"
+dialogue,Monica,"Level 1 alert. I repeat, level 1. This is not a drill. Okay we've got a situation. The minister just called. He's snowed in. He can't make it."
+dialogue,Mike,"Oh, no!"
+dialogue,Joey,"Oh hey, don't worry. I'm still ordained from your wedding."
+dialogue,Monica,Really?
+dialogue,Joey,"Yeah, you'd think I'd give up being a minister and start paying to ride the subway? Huhuh..."
+dialogue,Ross,"Uhm, ministers don't ride the subway for free."
+dialogue,Joey,"I had to read the Bible pretty carefully, but... yeah we do."
+dialogue,Monica,"Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle."
+dialogue,Chandler,(quickly) I'll do it.
+dialogue,Ross,I'll...
+dialogue,Chandler,"(to Ross) Na ha ha... (to Chappy) Ne he he... (Ross moves Chappy to Chandler, who quickly backs away) Ah ah..."
+dialogue,Monica,"Okay, Mike and Joey, get in position. Chandler, come with me. (they walk off, Ross looks down to Chappy, who he's holding and he gets a whiff of the dog's smell. He is clearly disgusted by it.)"
+action,,(Cut to inside Central Perk where Rachel is helping Phoebe. Chandler and Monica enter.)
+dialogue,Monica,"Okay, Joey's doing the ceremony and Chandler's giving you away."
+dialogue,Phoebe,"Oh, okay. Hi new dad. (Chandler waves)"
+dialogue,Monica,"So, you're ready to do this?"
+dialogue,Phoebe,"Uhuh, uhuh... Oh my God! This is really happening."
+dialogue,Rachel,"Oh Phoebe, I'm so happy for you honey. (she gives her a kiss)"
+dialogue,Phoebe,"Oh, thank you."
+dialogue,Monica,"I love you. (Phoebe leans in to kiss her.) Oh, wait, wait, wait! No hugs. The dresses... Oh what the hell. (the girls hug)"
+dialogue,Phoebe,I love you guys.
+dialogue,Rachel and Monica,I love you.
+dialogue,Monica,Okay. (in her microphone) It's zero hour. All teams execute on my count. (to all) Let's get this bad boy on the road.
+dialogue,Chandler,(to Monica) Is it okay that I want you to wear that head set in bed tonight?
+dialogue,Monica,(checking her clipboard) I have you scheduled for nudity at 2300 hours.
+dialogue,Chandler,Oh yeah! (Monica walks outside)
+dialogue,Monica,"Okay Marjorie, hit it."
+action,,"(A woman with a steel drum and a guy with a xylophone start playing an instrumental version of ""Can't Help Falling In Love"" by Elvis Presley. A bridesmaid and a groomsman walk down the isle. Next are Rachel and Ross, who carries Chappy in his arms.)"
+dialogue,Rachel,"Geez Ross, you could have showered."
+dialogue,Ross,It's the dog .
+action,,(we cut to Monica)
+dialogue,Monica,"Groomsman, groomsman, why are you just standing there, where is your bridesmaid? (into microphone) We've got a broken arrow. Bridesmaid down! (realizes) Oh, that's me."
+action,,"(She walks down the aisle with the groomsman. We cut to inside Central Perk, where Phoebe and Chandler are waiting.)"
+dialogue,Chandler,Ready?
+dialogue,Phoebe,(nervously) Okay.
+dialogue,Chandler,Okay.
+dialogue,Phoebe,"Oh wait, oh no. Wait."
+action,,"(She takes off the coat she was wearing over her wedding dress, which is violet and has a darker shade petticoat underneath which shows at one side where the dress is lifted up to about the height of her hip and connected to the petticoat. She's wearing a veil over her curly hair and a low cut top with straps only just hanging over her shoulders.)"
+dialogue,Chandler,Wow! Aren't you gonna be cold?
+dialogue,Phoebe,I don't care... I'll be my something blue.
+dialogue,Chandler,You look beautiful.
+dialogue,Phoebe,Thank you.
+action,,"(They start to leave Central Perk. The band starts to play ""Here, There and Everywhere"" by the Beatles. The crowd rises from their seats. Phoebe and Chandler walk down the aisle. Phoebe really glows with happiness. So does Mike who watches her walk down the isle. When Phoebe and Chandler arrive, they kiss and Phoebe walks to her bridesmaids.)"
+dialogue,Mike,My God! Aren't you freezing?
+dialogue,Phoebe,Na-ah.
+action,,(the music ends)
+dialogue,Joey,"Friends, family, dog... Thank you all for being here to witness this blessed event. The cold has now spread to my special place... so I'm gonna do the short version of this. Phoebe and Mike are perfect for each other. And I know I speak for every one here... when I wish them a lifetime of happiness. Who has the rings?"
+action,,(one of the groomsmen gives the rings to Joey)
+dialogue,Joey,(whispering to Phoebe) Okay...
+dialogue,Phoebe,"When I was growing up, I didn't have a normal mom and dad, or a regular family like everybody else, and I always knew that something was missing. But now I'm standing here today, knowing that I have everything I'm ever gonna need... You are my family. (She puts the ring on Mikes finger)"
+dialogue,Mike,"Phoebe you're so beautiful. You're so kind, you're so generous. You're so wonderfully weird. Every day with you is an adventure, and I can't believe how lucky I am, and I can't wait to share my life with you forever. (He puts the ring on Phoebe's finger.)"
+dialogue,Phoebe,"Oh wait, oh I forgot... and uhm... I love you... and you have nice eyes."
+dialogue,Mike,I love you too.
+dialogue,Ross,Uh Joey...
+dialogue,Joey,Yeah?
+dialogue,Ross,Chappy's heart rate has slowed way down .
+dialogue,Joey,"Oh, okay. Phoebe, do you take this man to be your husband?"
+dialogue,Phoebe,I do.
+action,,"(Joey has a ""Yeah you do"" smile on his face)"
+dialogue,Joey,"Mike, do you take this woman to be your wife?"
+dialogue,Mike,I do.
+dialogue,Joey,I now pronounce you... husband and wife.
+action,,(Phoebe and Mike kiss)
+dialogue,Phoebe,"I got married! (everyone applauds) Could someone get me a coat, I'm freaking freezing."
+action,,"(Mike takes off his coat to give to Phoebe and the steel band plays ""The Wedding Song"")"
+action,,Commercial Break
+heading,,[Scene: The hallway between the two apartments. Chandler and Joey are walking up the stairs.]
+dialogue,Chandler,That really was an incredible wedding.
+dialogue,Joey,"It was, yeah. I kind of don't want it to end. Hey, you wanna come in for a drink and a bite of corsage?"
+dialogue,Chandler,"I'd love to, but it's 2300 hours and I'm about to have the most organized sex anyone's ever had."
+dialogue,Joey,"Nice. Oh hey, what about Ross?"
+dialogue,Chandler,I don't know. Maybe he hooked up with that hot girl he was talking to.
+action,,(cut to the street in front of Central Perk where Ross is walking Chappy. He has a plastic bag in his hand.)
+dialogue,Ross,"Come on Chappy, do your business. MAKE! MA-AKE! I did not sign on for this."
+action,,End

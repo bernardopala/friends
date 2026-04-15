@@ -297,6 +297,7 @@ def episode_codes_from_stem(stem: str, season_hint: str) -> List[str]:
     - 0212-0213 -> [0212-0213]
     - 0615-0616 -> [0615-0616]
     - 0923-0924 -> [0923-0924]
+    - 1017-1018 -> [1017-1018]
     - 07outtakes -> []
     """
     if stem == "0212-0213" and season_hint == "02":
@@ -304,6 +305,8 @@ def episode_codes_from_stem(stem: str, season_hint: str) -> List[str]:
     if stem == "0615-0616" and season_hint == "06":
         return [stem]
     if stem == "0923-0924" and season_hint == "09":
+        return [stem]
+    if stem == "1017-1018" and season_hint == "10":
         return [stem]
 
     four_digit_codes = re.findall(r"\d{4}", stem)
@@ -948,6 +951,1405 @@ def apply_episode_specific_fixes(
 
         fixed_rows = [row for row in normalized_rows if _as_text_0923_0924(row) not in blocked_lines]
 
+    if episode_code == "1002":
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+        for element, character, dialogue in fixed_rows:
+            if element == "dialogue":
+                match = character_note_pattern.match(normalize_spaces(character))
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text}" if text else f"({note})"))
+                    continue
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "1003" and html_text:
+        malformed_dialogue_pattern = re.compile(
+            r"(?is)<p>\s*<strong>\s*(?P<speaker>[^<:]{1,80})\s*:\s*</strong>\s*(?P<text>.*?)(?P<end></p>|(?=<p\s+class=\"scene\"))"
+        )
+        scene_pattern = re.compile(r"(?is)<p\s+class=\"scene\"\s*>\s*(?P<scene>.*?)</p>")
+
+        recovered_pairs: List[Tuple[str, str, str]] = []
+        for match in malformed_dialogue_pattern.finditer(html_text):
+            if match.group("end").lower() == "</p>":
+                continue
+
+            speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+            dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+            scene_match = scene_pattern.search(html_text, match.end())
+            if not scene_match:
+                continue
+            scene_text = normalize_spaces(BeautifulSoup(scene_match.group("scene"), "html.parser").get_text(" "))
+
+            if speaker and dialogue_text and scene_text:
+                recovered_pairs.append((speaker, dialogue_text, scene_text))
+
+        if recovered_pairs:
+            existing_dialogues = {
+                (normalize_spaces(ch), normalize_spaces(tx))
+                for el, ch, tx in fixed_rows
+                if el == "dialogue"
+            }
+            to_insert = [
+                pair for pair in recovered_pairs if (normalize_spaces(pair[0]), normalize_spaces(pair[1])) not in existing_dialogues
+            ]
+
+            if to_insert:
+                repaired_rows = []
+                pair_idx = 0
+                for element, character, dialogue in fixed_rows:
+                    normalized_text = normalize_spaces(dialogue)
+
+                    while pair_idx < len(to_insert) and normalized_text == normalize_spaces(to_insert[pair_idx][2]):
+                        speaker, dialogue_text, _scene = to_insert[pair_idx]
+                        repaired_rows.append(("dialogue", speaker, dialogue_text))
+                        pair_idx += 1
+
+                    repaired_rows.append((element, character, dialogue))
+
+                fixed_rows = repaired_rows
+
+        standalone_action_pattern = re.compile(
+            r"(?is)(?:</p>\s*|<p[^>]*>\s*)\((?P<action>.*?)\)\s*(?:</p>\s*|<br\s*/?>\s*)?(?=(?:<p\b))"
+        )
+        next_row_pattern = re.compile(
+            r"(?is)<p\s+class=\"scene\"\s*>\s*(?P<scene>.*?)</p>|<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<dtext>.*?)(?:</p>|<br\s*/?>)"
+        )
+
+        recovered_actions: List[Tuple[str, str, str, str]] = []
+        for match in standalone_action_pattern.finditer(html_text):
+            action_body = normalize_spaces(BeautifulSoup(match.group("action"), "html.parser").get_text(" "))
+            if not action_body:
+                continue
+            action_text = f"({action_body})"
+
+            next_match = next_row_pattern.search(html_text, match.end())
+            if not next_match:
+                continue
+
+            scene_group = next_match.group("scene")
+            if scene_group is not None:
+                scene_text = normalize_spaces(BeautifulSoup(scene_group, "html.parser").get_text(" "))
+                if scene_text:
+                    recovered_actions.append((action_text, "heading", "", scene_text))
+                continue
+
+            speaker = normalize_spaces(BeautifulSoup(next_match.group("speaker") or "", "html.parser").get_text(" "))
+            dialogue_anchor = normalize_spaces(BeautifulSoup(next_match.group("dtext") or "", "html.parser").get_text(" "))
+            if speaker and dialogue_anchor:
+                recovered_actions.append((action_text, "dialogue", speaker, dialogue_anchor))
+
+        if recovered_actions:
+            existing_actions = {
+                normalize_spaces(dialogue)
+                for element, character, dialogue in fixed_rows
+                if element == "action" and not normalize_spaces(character)
+            }
+            to_insert_actions = [
+                item for item in recovered_actions if normalize_spaces(item[0]) not in existing_actions
+            ]
+
+            if to_insert_actions:
+                repaired_rows = []
+                pending_idx = 0
+                for element, character, dialogue in fixed_rows:
+                    normalized_character = normalize_spaces(character)
+                    normalized_dialogue = normalize_spaces(dialogue)
+
+                    while pending_idx < len(to_insert_actions):
+                        action_text, anchor_element, anchor_character, anchor_text = to_insert_actions[pending_idx]
+                        anchor_match = False
+                        if anchor_element == "heading":
+                            anchor_match = element == "heading" and normalized_dialogue == normalize_spaces(anchor_text)
+                        else:
+                            anchor_match = (
+                                element == "dialogue"
+                                and normalized_character == normalize_spaces(anchor_character)
+                                and normalized_dialogue == normalize_spaces(anchor_text)
+                            )
+
+                        if not anchor_match:
+                            break
+
+                        if not (
+                            repaired_rows
+                            and repaired_rows[-1][0] == "action"
+                            and not normalize_spaces(repaired_rows[-1][1])
+                            and normalize_spaces(repaired_rows[-1][2]) == normalize_spaces(action_text)
+                        ):
+                            repaired_rows.append(("action", "", action_text))
+                        pending_idx += 1
+
+                    repaired_rows.append((element, character, dialogue))
+
+                fixed_rows = repaired_rows
+
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_dialogue = normalize_spaces(dialogue)
+            scene_only_match = re.match(r"^\[(?P<scene>.+)\]$", normalized_dialogue)
+            if (
+                element == "action"
+                and not normalize_spaces(character)
+                and scene_only_match
+                and not re.match(r"^\[\s*scene\s*:", normalized_dialogue, flags=re.IGNORECASE)
+            ):
+                scene_body = normalize_spaces(scene_only_match.group("scene"))
+                normalized_rows.append(("heading", "", f"[Scene: {scene_body}]"))
+                continue
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+        split_rows = []
+        merged_tail_pattern = re.compile(
+            r"^\((?P<action1>.+?)\)\s*ENDING\s+CREDITS\s*\[\s*Scene\s*:\s*(?P<scene>.+?)\]\s*\((?P<action2>.+?)\)\s*$",
+            flags=re.IGNORECASE,
+        )
+
+        for element, character, dialogue in fixed_rows:
+            normalized_dialogue = normalize_spaces(dialogue)
+            if element == "action" and not normalize_spaces(character):
+                match = merged_tail_pattern.match(normalized_dialogue)
+                if match:
+                    action1 = f"({normalize_spaces(match.group('action1'))})"
+                    scene_heading = f"[Scene: {normalize_spaces(match.group('scene'))}]"
+                    action2 = f"({normalize_spaces(match.group('action2'))})"
+
+                    if (
+                        split_rows
+                        and split_rows[-1][0] == "heading"
+                        and normalize_spaces(split_rows[-1][2]) == normalize_spaces(scene_heading)
+                    ):
+                        split_rows.pop()
+
+                    has_recent_action1 = any(
+                        row[0] == "action"
+                        and not normalize_spaces(row[1])
+                        and normalize_spaces(row[2]) == normalize_spaces(action1)
+                        for row in split_rows[-2:]
+                    )
+                    if not has_recent_action1:
+                        split_rows.append(("action", "", action1))
+
+                    if not (
+                        split_rows
+                        and split_rows[-1][0] == "action"
+                        and not normalize_spaces(split_rows[-1][1])
+                        and normalize_spaces(split_rows[-1][2]) == "Closing Credits"
+                    ):
+                        split_rows.append(("action", "", "Closing Credits"))
+
+                    if not (
+                        split_rows
+                        and split_rows[-1][0] == "heading"
+                        and normalize_spaces(split_rows[-1][2]) == normalize_spaces(scene_heading)
+                    ):
+                        split_rows.append(("heading", "", scene_heading))
+
+                    if not (
+                        split_rows
+                        and split_rows[-1][0] == "action"
+                        and not normalize_spaces(split_rows[-1][1])
+                        and normalize_spaces(split_rows[-1][2]) == normalize_spaces(action2)
+                    ):
+                        split_rows.append(("action", "", action2))
+                    continue
+
+            split_rows.append((element, character, dialogue))
+
+        fixed_rows = split_rows
+
+    if episode_code == "1005" and html_text:
+        # 1) Merge split Ross line into one dialogue row.
+        merged_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            if (
+                idx + 1 < len(fixed_rows)
+                and element == "dialogue"
+                and normalize_spaces(character) == "Ross"
+                and normalize_spaces(dialogue).startswith("Watch. (he takes the laptop)")
+            ):
+                next_element, next_character, next_dialogue = fixed_rows[idx + 1]
+                if (
+                    next_element == "action"
+                    and not normalize_spaces(next_character)
+                    and normalize_spaces(next_dialogue).startswith("Go under Tools and the Thesaurus")
+                ):
+                    merged_text = f"{normalize_spaces(dialogue)} {normalize_spaces(next_dialogue)}"
+                    merged_rows.append(("dialogue", "Ross", merged_text))
+                    idx += 2
+                    continue
+            merged_rows.append((element, character, dialogue))
+            idx += 1
+        fixed_rows = merged_rows
+
+        # 2) Recover malformed dialogue lines not closed with </p>.
+        malformed_dialogue_pattern = re.compile(
+            r"(?is)<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<text>.*?)(?P<end></p>|(?=<p\b))"
+        )
+        next_row_pattern = re.compile(
+            r"(?is)<p\s+class=\"scene\"\s*>\s*(?P<scene>.*?)</p>|<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<dtext>.*?)(?:</p>|<br\s*/?>)"
+        )
+
+        recovered_pairs: List[Tuple[str, str, str, str]] = []
+        for match in malformed_dialogue_pattern.finditer(html_text):
+            if match.group("end").lower() == "</p>":
+                continue
+
+            speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+            dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+            if not speaker or not dialogue_text:
+                continue
+
+            next_match = next_row_pattern.search(html_text, match.end())
+            if not next_match:
+                continue
+
+            scene_group = next_match.group("scene")
+            if scene_group is not None:
+                scene_text = normalize_spaces(BeautifulSoup(scene_group, "html.parser").get_text(" "))
+                if scene_text:
+                    recovered_pairs.append((speaker, dialogue_text, "heading", scene_text))
+                continue
+
+            anchor_speaker = normalize_spaces(BeautifulSoup(next_match.group("speaker") or "", "html.parser").get_text(" "))
+            anchor_dialogue = normalize_spaces(BeautifulSoup(next_match.group("dtext") or "", "html.parser").get_text(" "))
+            if anchor_speaker and anchor_dialogue:
+                recovered_pairs.append((speaker, dialogue_text, "dialogue", f"{anchor_speaker}|||{anchor_dialogue}"))
+
+        if recovered_pairs:
+            existing_dialogues = {
+                (normalize_spaces(ch), normalize_spaces(tx))
+                for el, ch, tx in fixed_rows
+                if el == "dialogue"
+            }
+            to_insert = [
+                item for item in recovered_pairs if (normalize_spaces(item[0]), normalize_spaces(item[1])) not in existing_dialogues
+            ]
+
+            if to_insert:
+                repaired_rows = []
+                pending_idx = 0
+                for element, character, dialogue in fixed_rows:
+                    normalized_character = normalize_spaces(character)
+                    normalized_dialogue = normalize_spaces(dialogue)
+
+                    while pending_idx < len(to_insert):
+                        ins_speaker, ins_text, anchor_type, anchor_payload = to_insert[pending_idx]
+                        anchor_match = False
+                        if anchor_type == "heading":
+                            anchor_match = element == "heading" and normalized_dialogue == normalize_spaces(anchor_payload)
+                        else:
+                            anchor_speaker, anchor_text = anchor_payload.split("|||", 1)
+                            anchor_match = (
+                                element == "dialogue"
+                                and normalized_character == normalize_spaces(anchor_speaker)
+                                and normalized_dialogue == normalize_spaces(anchor_text)
+                            )
+
+                        if not anchor_match:
+                            break
+
+                        repaired_rows.append(("dialogue", ins_speaker, ins_text))
+                        pending_idx += 1
+
+                    repaired_rows.append((element, character, dialogue))
+
+                fixed_rows = repaired_rows
+
+        # 3) Fix misclassified action parsed as dialogue with parenthetical text in character field.
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if (
+                element == "dialogue"
+                and normalized_character.startswith("(")
+                and "We see the screen where it says" in normalized_character
+            ):
+                joiner = ": " if normalized_character.endswith("says") else " "
+                action_text = f"{normalized_character}{joiner}{normalized_dialogue}".strip()
+                if not action_text.endswith(")"):
+                    action_text += ")"
+                normalized_rows.append(("action", "", action_text))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "1006":
+        # Recover malformed dialogue lines from HTML where <p><strong>Speaker:</strong> text
+        # is not closed with </p> before the next block.
+        if html_text:
+            malformed_dialogue_pattern = re.compile(
+                r"(?is)<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<text>.*?)(?P<end></p>|(?=<p\b))"
+            )
+            next_row_pattern = re.compile(
+                r"(?is)<p\s+class=\"scene\"\s*>\s*(?P<scene>.*?)</p>|<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<dtext>.*?)(?:</p>|<br\s*/?>)"
+            )
+
+            recovered_pairs: List[Tuple[str, str, str, str]] = []
+            for match in malformed_dialogue_pattern.finditer(html_text):
+                if match.group("end").lower() == "</p>":
+                    continue
+
+                speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+                dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+                if not speaker or not dialogue_text:
+                    continue
+
+                next_match = next_row_pattern.search(html_text, match.end())
+                if not next_match:
+                    continue
+
+                scene_group = next_match.group("scene")
+                if scene_group is not None:
+                    scene_text = normalize_spaces(BeautifulSoup(scene_group, "html.parser").get_text(" "))
+                    if scene_text:
+                        recovered_pairs.append((speaker, dialogue_text, "heading", scene_text))
+                    continue
+
+                anchor_speaker = normalize_spaces(BeautifulSoup(next_match.group("speaker") or "", "html.parser").get_text(" "))
+                anchor_dialogue = normalize_spaces(BeautifulSoup(next_match.group("dtext") or "", "html.parser").get_text(" "))
+                if anchor_speaker and anchor_dialogue:
+                    recovered_pairs.append((speaker, dialogue_text, "dialogue", f"{anchor_speaker}|||{anchor_dialogue}"))
+
+            if recovered_pairs:
+                existing_dialogues = {
+                    (normalize_spaces(ch), normalize_spaces(tx))
+                    for el, ch, tx in fixed_rows
+                    if el == "dialogue"
+                }
+                to_insert = [
+                    item for item in recovered_pairs if (normalize_spaces(item[0]), normalize_spaces(item[1])) not in existing_dialogues
+                ]
+
+                if to_insert:
+                    repaired_rows = []
+                    pending_idx = 0
+                    for element, character, dialogue in fixed_rows:
+                        normalized_character = normalize_spaces(character)
+                        normalized_dialogue = normalize_spaces(dialogue)
+
+                        while pending_idx < len(to_insert):
+                            ins_speaker, ins_text, anchor_type, anchor_payload = to_insert[pending_idx]
+                            anchor_match = False
+                            if anchor_type == "heading":
+                                anchor_match = element == "heading" and normalized_dialogue == normalize_spaces(anchor_payload)
+                            else:
+                                anchor_speaker, anchor_text = anchor_payload.split("|||", 1)
+                                anchor_match = (
+                                    element == "dialogue"
+                                    and normalized_character == normalize_spaces(anchor_speaker)
+                                    and normalized_dialogue == normalize_spaces(anchor_text)
+                                )
+
+                            if not anchor_match:
+                                break
+
+                            repaired_rows.append(("dialogue", ins_speaker, ins_text))
+                            pending_idx += 1
+
+                        repaired_rows.append((element, character, dialogue))
+
+                    fixed_rows = repaired_rows
+
+        # Merge split commercial action into one action row.
+        merged_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+            if (
+                idx + 1 < len(fixed_rows)
+                and element == "action"
+                and not normalized_character
+                and normalized_dialogue == "(The commercial:"
+            ):
+                next_element, next_character, next_dialogue = fixed_rows[idx + 1]
+                if next_element == "action" and not normalize_spaces(next_character):
+                    merged_rows.append(("action", "", f"(The commercial: {normalize_spaces(next_dialogue)}"))
+                    idx += 2
+                    continue
+
+            merged_rows.append((element, character, dialogue))
+            idx += 1
+        fixed_rows = merged_rows
+
+        # Normalize dialogue labels like "Name (note): ..." into character + text note.
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+
+        for element, character, dialogue in fixed_rows:
+            if element == "dialogue":
+                character_match = character_note_pattern.match(normalize_spaces(character))
+                if character_match:
+                    base_name = normalize_spaces(character_match.group("name"))
+                    note = normalize_spaces(character_match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+                # Keep dialogue starts consistent (except explicit action/markup prefixes).
+                text_value = dialogue
+                stripped = text_value.lstrip()
+                if stripped and not (
+                    stripped.startswith("(") or stripped.startswith("[") or stripped.startswith("<voiceover>")
+                ):
+                    first_alpha_idx = -1
+                    for idx2, ch in enumerate(text_value):
+                        if ch.isalpha():
+                            first_alpha_idx = idx2
+                            break
+                    if first_alpha_idx >= 0 and text_value[first_alpha_idx].islower():
+                        text_value = (
+                            text_value[:first_alpha_idx]
+                            + text_value[first_alpha_idx].upper()
+                            + text_value[first_alpha_idx + 1 :]
+                        )
+                normalized_rows.append((element, character, text_value))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "1010":
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "dialogue":
+                text_value = normalize_spaces(dialogue)
+                voiceover_prefix = re.match(r"^\((?:v\.?o\.?|voice[- ]?over)\)\s*(.+)$", text_value, flags=re.IGNORECASE)
+                if voiceover_prefix:
+                    spoken_text = normalize_spaces(voiceover_prefix.group(1))
+                    normalized_rows.append(("dialogue", normalized_character, f"<voiceover>{spoken_text}<\\voiceover>"))
+                    continue
+
+                match = character_note_pattern.match(normalized_character)
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+
+                    note_key = note.lower().replace("-", "").replace(" ", "")
+                    if note_key in {"v.o", "v.o.", "vo", "voiceover"}:
+                        normalized_rows.append(("dialogue", base_name, f"<voiceover>{text_value}<\\voiceover>"))
+                    else:
+                        normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+        # Recover missing opening scene heading that is malformed in source HTML.
+        expected_opening_scene = "[Scene: Central Perk. Everybody's sitting on the couch and Monica is eating a chunk of cake.]"
+        has_opening_scene = any(
+            element == "heading" and normalize_spaces(dialogue) == normalize_spaces(expected_opening_scene)
+            for element, _character, dialogue in fixed_rows
+        )
+        if not has_opening_scene:
+            if fixed_rows and fixed_rows[0][0] == "dialogue" and normalize_spaces(fixed_rows[0][1]) == "Monica":
+                fixed_rows = [("heading", "", expected_opening_scene)] + fixed_rows
+
+    if episode_code == "1013":
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            # Fix malformed first line parsed as action: "Phoebe ; ..."
+            if (
+                element == "action"
+                and not normalized_character
+                and normalized_dialogue.startswith("Phoebe ; ")
+            ):
+                text_value = normalized_dialogue[len("Phoebe ; ") :].strip()
+                normalized_rows.append(("dialogue", "Phoebe", text_value))
+                continue
+
+            if element == "dialogue":
+                match = character_note_pattern.match(normalized_character)
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+
+    if episode_code == "1017-1018":
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "dialogue":
+                text_value = normalize_spaces(dialogue)
+                voiceover_prefix = re.match(r"^\((?:v\.?o\.?|voice[- ]?over)\)\s*(.+)$", text_value, flags=re.IGNORECASE)
+                if voiceover_prefix:
+                    spoken_text = normalize_spaces(voiceover_prefix.group(1))
+                    normalized_rows.append(("dialogue", normalized_character, f"<voiceover>{spoken_text}<\\voiceover>"))
+                    continue
+
+                match = character_note_pattern.match(normalized_character)
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+
+                    note_key = note.lower().replace("-", "").replace(" ", "")
+                    if note_key in {"v.o", "v.o.", "vo", "voiceover"}:
+                        normalized_rows.append(("dialogue", base_name, f"<voiceover>{text_value}<\\voiceover>"))
+                    else:
+                        normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "OPENING CREDITS":
+                normalized_rows.append(("action", "", "Opening Credits"))
+                continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "COMMERCIAL BREAK":
+                normalized_rows.append(("action", "", "Commercial Break"))
+                continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "1016":
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "dialogue":
+                match = character_note_pattern.match(normalized_character)
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "OPENING SEQUENCE":
+                normalized_rows.append(("action", "", "Opening Credits"))
+                continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "1015":
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "dialogue":
+                if normalized_character == "r Zelner":
+                    normalized_character = "Mr Zelner"
+                    character = "Mr Zelner"
+
+                match = character_note_pattern.match(normalized_character)
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+        if html_text:
+            flashback_match = re.search(
+                r'(?is)<p[^>]*class=["\']scene["\'][^>]*>\s*(\[\s*Flashback scene from last week.*?\])\s*</p>',
+                html_text,
+            )
+            if flashback_match:
+                flashback_heading = normalize_spaces(
+                    BeautifulSoup(flashback_match.group(1), "html.parser").get_text(" ")
+                )
+                if flashback_heading:
+                    has_flashback = any(
+                        element == "heading"
+                        and "flashback scene from last week" in normalize_spaces(text_value).lower()
+                        for element, _character, text_value in fixed_rows
+                    )
+                    if not has_flashback:
+                        fixed_rows.insert(0, ("heading", "", flashback_heading))
+
+            def _extract_dialogue_from_html(speaker: str, hint: str) -> str | None:
+                speaker_esc = re.escape(speaker)
+                patterns = [
+                    rf"(?is)<p[^>]*>\s*<strong>\s*{speaker_esc}\s*:\s*</strong>\s*(.*?)</p>",
+                    rf"(?is)<strong>\s*{speaker_esc}\s*:\s*</strong>\s*(.*?)(?=<p\b|</body>|<h1|<h2)",
+                ]
+                hint_norm = normalize_spaces(hint).lower()
+                for pattern in patterns:
+                    for match in re.finditer(pattern, html_text):
+                        text_value = normalize_spaces(BeautifulSoup(match.group(1), "html.parser").get_text(" "))
+                        if text_value and hint_norm in text_value.lower():
+                            return text_value
+                return None
+
+            def _find_heading_idx(startswith_text: str) -> int:
+                target = normalize_spaces(startswith_text).lower()
+                for i, (el, _ch, tx) in enumerate(fixed_rows):
+                    if el == "heading" and normalize_spaces(tx).lower().startswith(target):
+                        return i
+                return -1
+
+            def _find_dialogue_idx_after(start_idx: int, speaker: str, startswith_text: str) -> int:
+                speaker_norm = normalize_spaces(speaker)
+                target = normalize_spaces(startswith_text).lower()
+                for i in range(max(0, start_idx), len(fixed_rows)):
+                    el, ch, tx = fixed_rows[i]
+                    if el == "dialogue" and normalize_spaces(ch) == speaker_norm and normalize_spaces(tx).lower().startswith(target):
+                        return i
+                return -1
+
+            def _has_dialogue(speaker: str, startswith_text: str) -> bool:
+                speaker_norm = normalize_spaces(speaker)
+                target = normalize_spaces(startswith_text).lower()
+                return any(
+                    el == "dialogue"
+                    and normalize_spaces(ch) == speaker_norm
+                    and normalize_spaces(tx).lower().startswith(target)
+                    for el, ch, tx in fixed_rows
+                )
+
+            # Recover missing raw-line dialogues from malformed HTML.
+            recover_specs = [
+                {
+                    "speaker": "Mr Zelner",
+                    "hint": "May I help you?",
+                    "anchor_heading": "[Scene: Ralph Lauren.",
+                    "anchor_speaker": "Ross",
+                    "anchor_text": "Yeah, I'm a friend of Rachel Green's.",
+                },
+                {
+                    "speaker": "Monica",
+                    "hint": "we were wondering if we could just take a look around",
+                    "anchor_heading": "[Scene: house next to the one the Bings are moving into.",
+                    "anchor_speaker": "Lady",
+                    "anchor_text": "Oh, sure.",
+                },
+                {
+                    "speaker": "Janice",
+                    "hint": "What a small world!",
+                    "anchor_heading": "[Scene: The house Monica and Chandler are viewing.",
+                    "anchor_speaker": "Janice",
+                    "anchor_text": "Oh my God!",
+                },
+                {
+                    "speaker": "Answering machine",
+                    "hint": "Joey, this is Al T. Booker",
+                    "anchor_heading": "[Scene: Joey's apartment. He walks in reading his mail",
+                    "anchor_speaker": "Joey",
+                    "anchor_text": "Oh my God.",
+                },
+                {
+                    "speaker": "Janice",
+                    "hint": "I just talked to Sid, we are definitely putting in an offer",
+                    "anchor_heading": "[Scene: The house next door to Chandler and Monica's new house.",
+                    "anchor_speaker": "Chandler",
+                    "anchor_text": "The Hitlers will be so disappointed.",
+                },
+            ]
+
+            for spec in recover_specs:
+                recovered = _extract_dialogue_from_html(spec["speaker"], spec["hint"])
+                if not recovered:
+                    continue
+                if _has_dialogue(spec["speaker"], recovered):
+                    continue
+
+                heading_idx = _find_heading_idx(spec["anchor_heading"])
+                insert_idx = -1
+                if heading_idx >= 0:
+                    anchor_idx = _find_dialogue_idx_after(
+                        heading_idx + 1,
+                        spec["anchor_speaker"],
+                        spec["anchor_text"],
+                    )
+                    if anchor_idx >= 0:
+                        insert_idx = anchor_idx
+                    else:
+                        insert_idx = heading_idx + 1
+
+                if insert_idx < 0:
+                    fixed_rows.append(("dialogue", spec["speaker"], recovered))
+                else:
+                    fixed_rows.insert(insert_idx, ("dialogue", spec["speaker"], recovered))
+
+    if episode_code == "1014":
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if (
+                element == "dialogue"
+                and normalized_character == "All (except Rachel)"
+            ):
+                text_value = normalize_spaces(dialogue)
+                if text_value and not text_value.startswith("(except Rachel)"):
+                    text_value = f"(except Rachel) {text_value}"
+                normalized_rows.append(("dialogue", "All", text_value))
+                continue
+
+            if element == "dialogue":
+                text_value = dialogue
+                stripped = text_value.lstrip()
+                if stripped and not (
+                    stripped.startswith("(") or stripped.startswith("[") or stripped.startswith("<voiceover>")
+                ):
+                    first_alpha_idx = -1
+                    for idx, ch in enumerate(text_value):
+                        if ch.isalpha():
+                            first_alpha_idx = idx
+                            break
+                    if first_alpha_idx >= 0 and text_value[first_alpha_idx].islower():
+                        text_value = (
+                            text_value[:first_alpha_idx]
+                            + text_value[first_alpha_idx].upper()
+                            + text_value[first_alpha_idx + 1 :]
+                        )
+                normalized_rows.append((element, character, text_value))
+                continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "1012":
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "dialogue":
+                match = character_note_pattern.match(normalized_character)
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    if text_value:
+                        first_alpha_idx = -1
+                        for idx, ch in enumerate(text_value):
+                            if ch.isalpha():
+                                first_alpha_idx = idx
+                                break
+                        if first_alpha_idx >= 0 and text_value[first_alpha_idx].islower():
+                            text_value = (
+                                text_value[:first_alpha_idx]
+                                + text_value[first_alpha_idx].upper()
+                                + text_value[first_alpha_idx + 1 :]
+                            )
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+    if episode_code == "1011":
+        normalized_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if element == "heading":
+                if re.match(r"^\[\s*scene\s*:", normalized_dialogue, flags=re.IGNORECASE):
+                    scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", normalized_dialogue, flags=re.IGNORECASE)
+                    scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                    scene_text = normalize_spaces(scene_text)
+                    normalized_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                    continue
+
+            if element == "action" and not normalized_character and normalized_dialogue == "THE END":
+                normalized_rows.append(("action", "", "End"))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+        # Merge split flashback markers into a single heading line.
+        merged_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if (
+                idx + 1 < len(fixed_rows)
+                and element == "action"
+                and not normalized_character
+                and normalized_dialogue == "[Flashback"
+            ):
+                next_element, _next_character, next_dialogue = fixed_rows[idx + 1]
+                next_text = normalize_spaces(next_dialogue)
+                if next_element == "heading" and re.match(r"^\[Scene:", next_text, flags=re.IGNORECASE):
+                    scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", next_text, flags=re.IGNORECASE)
+                    scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                    scene_text = normalize_spaces(scene_text)
+                    merged_rows.append(("heading", "", f"[Flashback scene: {scene_text}]"))
+                    idx += 2
+                    continue
+
+            merged_rows.append((element, character, dialogue))
+            idx += 1
+
+        fixed_rows = merged_rows
+
+    if episode_code == "1009" and html_text:
+        # Recover malformed dialogue lines where <p><strong>Speaker:</strong> line
+        # is not closed before the next <p>.
+        malformed_dialogue_pattern = re.compile(
+            r"(?is)<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<text>.*?)(?P<end></p>|(?=<p\b))"
+        )
+        next_row_pattern = re.compile(
+            r"(?is)<p\s+class=\"scene\"\s*>\s*(?P<scene>.*?)</p>|<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<dtext>.*?)(?:</p>|<br\s*/?>)"
+        )
+
+        recovered_pairs: List[Tuple[str, str, str, str]] = []
+        for match in malformed_dialogue_pattern.finditer(html_text):
+            if match.group("end").lower() == "</p>":
+                continue
+
+            speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+            dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+            if not speaker or not dialogue_text:
+                continue
+
+            next_match = next_row_pattern.search(html_text, match.end())
+            if not next_match:
+                continue
+
+            scene_group = next_match.group("scene")
+            if scene_group is not None:
+                scene_text = normalize_spaces(BeautifulSoup(scene_group, "html.parser").get_text(" "))
+                if scene_text:
+                    recovered_pairs.append((speaker, dialogue_text, "heading", scene_text))
+                continue
+
+            anchor_speaker = normalize_spaces(BeautifulSoup(next_match.group("speaker") or "", "html.parser").get_text(" "))
+            anchor_dialogue = normalize_spaces(BeautifulSoup(next_match.group("dtext") or "", "html.parser").get_text(" "))
+            if anchor_speaker and anchor_dialogue:
+                recovered_pairs.append((speaker, dialogue_text, "dialogue", f"{anchor_speaker}|||{anchor_dialogue}"))
+
+        if recovered_pairs:
+            existing_dialogues = {
+                (normalize_spaces(ch), normalize_spaces(tx))
+                for el, ch, tx in fixed_rows
+                if el == "dialogue"
+            }
+            to_insert = [
+                item for item in recovered_pairs if (normalize_spaces(item[0]), normalize_spaces(item[1])) not in existing_dialogues
+            ]
+
+            if to_insert:
+                repaired_rows = []
+                pending_idx = 0
+                for element, character, dialogue in fixed_rows:
+                    normalized_character = normalize_spaces(character)
+                    normalized_dialogue = normalize_spaces(dialogue)
+
+                    while pending_idx < len(to_insert):
+                        ins_speaker, ins_text, anchor_type, anchor_payload = to_insert[pending_idx]
+                        anchor_match = False
+                        if anchor_type == "heading":
+                            anchor_match = element == "heading" and normalized_dialogue == normalize_spaces(anchor_payload)
+                        else:
+                            anchor_speaker, anchor_text = anchor_payload.split("|||", 1)
+                            anchor_match = (
+                                element == "dialogue"
+                                and normalized_character == normalize_spaces(anchor_speaker)
+                                and normalized_dialogue == normalize_spaces(anchor_text)
+                            )
+
+                        if not anchor_match:
+                            break
+
+                        repaired_rows.append(("dialogue", ins_speaker, ins_text))
+                        pending_idx += 1
+
+                    repaired_rows.append((element, character, dialogue))
+
+                fixed_rows = repaired_rows
+
+        # Merge wrapped dialogue continuations emitted as separate action rows.
+        merged_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            continuation_candidate = (
+                element == "action"
+                and not normalized_character
+                and normalized_dialogue
+                and not normalized_dialogue.startswith("(")
+                and not normalized_dialogue.startswith("[")
+                and normalized_dialogue[0].islower()
+            )
+
+            if continuation_candidate and merged_rows:
+                prev_element, prev_character, prev_dialogue = merged_rows[-1]
+                if prev_element == "dialogue":
+                    merged_rows[-1] = (
+                        prev_element,
+                        prev_character,
+                        f"{normalize_spaces(prev_dialogue)} {normalized_dialogue}".strip(),
+                    )
+                    continue
+
+            merged_rows.append((element, character, dialogue))
+
+        fixed_rows = merged_rows
+
+        # Normalize dialogue labels like "Name (note): ..." into character + text note.
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+        for element, character, dialogue in fixed_rows:
+            if element == "dialogue":
+                match = character_note_pattern.match(normalize_spaces(character))
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+
+                text_value = dialogue
+                stripped = text_value.lstrip()
+                if stripped and not (
+                    stripped.startswith("(") or stripped.startswith("[") or stripped.startswith("<voiceover>")
+                ):
+                    first_alpha_idx = -1
+                    for idx2, ch in enumerate(text_value):
+                        if ch.isalpha():
+                            first_alpha_idx = idx2
+                            break
+                    if first_alpha_idx >= 0 and text_value[first_alpha_idx].islower():
+                        text_value = (
+                            text_value[:first_alpha_idx]
+                            + text_value[first_alpha_idx].upper()
+                            + text_value[first_alpha_idx + 1 :]
+                        )
+                normalized_rows.append((element, character, text_value))
+                continue
+
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+        # Keep Chandler reveal line as dialogue (not action) in this episode.
+        adjusted_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+            if (
+                element == "action"
+                and not normalized_character
+                and normalized_dialogue.startswith("(Chandler takes Monica's hand, and gets serious) Look, before we sign anything")
+                and "We're not who you think we are." in normalized_dialogue
+            ):
+                adjusted_rows.append(("dialogue", "Chandler", normalized_dialogue))
+                continue
+            adjusted_rows.append((element, character, dialogue))
+
+        fixed_rows = adjusted_rows
+
+    if episode_code == "1007" and html_text:
+        # Recover malformed dialogue lines where <p><strong>Speaker:</strong> line
+        # is not closed before the next <p>.
+        malformed_dialogue_pattern = re.compile(
+            r"(?is)<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<text>.*?)(?P<end></p>|(?=<p\b))"
+        )
+        next_row_pattern = re.compile(
+            r"(?is)<p\s+class=\"scene\"\s*>\s*(?P<scene>.*?)</p>|<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<dtext>.*?)(?:</p>|<br\s*/?>)"
+        )
+
+        recovered_pairs: List[Tuple[str, str, str, str]] = []
+        for match in malformed_dialogue_pattern.finditer(html_text):
+            if match.group("end").lower() == "</p>":
+                continue
+
+            speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+            dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+            if not speaker or not dialogue_text:
+                continue
+
+            next_match = next_row_pattern.search(html_text, match.end())
+            if not next_match:
+                continue
+
+            scene_group = next_match.group("scene")
+            if scene_group is not None:
+                scene_text = normalize_spaces(BeautifulSoup(scene_group, "html.parser").get_text(" "))
+                if scene_text:
+                    recovered_pairs.append((speaker, dialogue_text, "heading", scene_text))
+                continue
+
+            anchor_speaker = normalize_spaces(BeautifulSoup(next_match.group("speaker") or "", "html.parser").get_text(" "))
+            anchor_dialogue = normalize_spaces(BeautifulSoup(next_match.group("dtext") or "", "html.parser").get_text(" "))
+            if anchor_speaker and anchor_dialogue:
+                recovered_pairs.append((speaker, dialogue_text, "dialogue", f"{anchor_speaker}|||{anchor_dialogue}"))
+
+        if recovered_pairs:
+            existing_dialogues = {
+                (normalize_spaces(ch), normalize_spaces(tx))
+                for el, ch, tx in fixed_rows
+                if el == "dialogue"
+            }
+            to_insert = [
+                item for item in recovered_pairs if (normalize_spaces(item[0]), normalize_spaces(item[1])) not in existing_dialogues
+            ]
+
+            if to_insert:
+                repaired_rows = []
+                pending_idx = 0
+                for element, character, dialogue in fixed_rows:
+                    normalized_character = normalize_spaces(character)
+                    normalized_dialogue = normalize_spaces(dialogue)
+
+                    while pending_idx < len(to_insert):
+                        ins_speaker, ins_text, anchor_type, anchor_payload = to_insert[pending_idx]
+                        anchor_match = False
+                        if anchor_type == "heading":
+                            anchor_match = element == "heading" and normalized_dialogue == normalize_spaces(anchor_payload)
+                        else:
+                            anchor_speaker, anchor_text = anchor_payload.split("|||", 1)
+                            anchor_match = (
+                                element == "dialogue"
+                                and normalized_character == normalize_spaces(anchor_speaker)
+                                and normalized_dialogue == normalize_spaces(anchor_text)
+                            )
+
+                        if not anchor_match:
+                            break
+
+                        repaired_rows.append(("dialogue", ins_speaker, ins_text))
+                        pending_idx += 1
+
+                    repaired_rows.append((element, character, dialogue))
+
+                fixed_rows = repaired_rows
+
+        # Merge wrapped text that was incorrectly emitted as separate action rows.
+        credit_labels = {"Opening Credits", "Closing Credits", "Commercial Break", "End"}
+        merged_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            continuation_candidate = (
+                element == "action"
+                and not normalized_character
+                and normalized_dialogue
+                and not normalized_dialogue.startswith("(")
+                and not normalized_dialogue.startswith("[")
+                and normalized_dialogue not in credit_labels
+            )
+
+            if continuation_candidate and merged_rows:
+                prev_element, prev_character, prev_dialogue = merged_rows[-1]
+                if prev_element in {"dialogue", "action"}:
+                    merged_rows[-1] = (
+                        prev_element,
+                        prev_character,
+                        f"{normalize_spaces(prev_dialogue)} {normalized_dialogue}".strip(),
+                    )
+                    continue
+
+            merged_rows.append((element, character, dialogue))
+
+        fixed_rows = merged_rows
+
+        # Normalize dialogue labels like "Name (note): ..." into character + text note.
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+        for element, character, dialogue in fixed_rows:
+            if element == "dialogue":
+                match = character_note_pattern.match(normalize_spaces(character))
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+            normalized_rows.append((element, character, dialogue))
+
+        fixed_rows = normalized_rows
+
+        # Keep exactly one Commercial Break in the correct place.
+        break_clean_rows = []
+        for element, character, dialogue in fixed_rows:
+            normalized_dialogue = normalize_spaces(dialogue)
+            if element == "dialogue" and re.search(r"\bcommercial\s+break\b", normalized_dialogue, flags=re.IGNORECASE):
+                cleaned_text = re.sub(r"\bcommercial\s+break\b", "", normalized_dialogue, flags=re.IGNORECASE)
+                cleaned_text = normalize_spaces(cleaned_text)
+                if cleaned_text:
+                    break_clean_rows.append(("dialogue", character, cleaned_text))
+                break_clean_rows.append(("action", "", "Commercial Break"))
+                continue
+
+            if element == "action" and normalized_dialogue == "Commercial Break":
+                continue
+
+            break_clean_rows.append((element, character, dialogue))
+
+        fixed_rows = break_clean_rows
+
+        # Merge Joey line with the immediate action continuation that belongs to it.
+        merged_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+            if (
+                idx + 1 < len(fixed_rows)
+                and element == "dialogue"
+                and normalized_character == "Joey"
+                and "Hellooo? Anybody in there order a celebrity?" in normalized_dialogue
+            ):
+                next_element, next_character, next_dialogue = fixed_rows[idx + 1]
+                next_text = normalize_spaces(next_dialogue)
+                if (
+                    next_element == "action"
+                    and not normalize_spaces(next_character)
+                    and next_text.startswith("(He starts to enter the apartment and Chandler runs to the door and shuts it back in")
+                    and next_text.endswith("his face) OW!")
+                ):
+                    merged_rows.append(("dialogue", "Joey", f"{normalized_dialogue} {next_text}"))
+                    idx += 2
+                    continue
+
+            merged_rows.append((element, character, dialogue))
+            idx += 1
+
+        fixed_rows = merged_rows
+
+    if episode_code == "1004" and html_text:
+        # 1) Normalize dialogue labels like "Chandler (nearly weeping): ..."
+        normalized_rows = []
+        character_note_pattern = re.compile(r"^(?P<name>[^()]+?)\s*\((?P<note>[^()]+)\)\s*$")
+        for element, character, dialogue in fixed_rows:
+            if element == "dialogue":
+                match = character_note_pattern.match(normalize_spaces(character))
+                if match:
+                    base_name = normalize_spaces(match.group("name"))
+                    note = normalize_spaces(match.group("note"))
+                    text_value = normalize_spaces(dialogue)
+                    normalized_rows.append(("dialogue", base_name, f"({note}) {text_value}" if text_value else f"({note})"))
+                    continue
+            normalized_rows.append((element, character, dialogue))
+        fixed_rows = normalized_rows
+
+        # 2) Repair broken scene rows: '[' + heading and normalize [ Scene: ... ] variants
+        repaired_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            element, character, dialogue = fixed_rows[idx]
+            normalized_character = normalize_spaces(character)
+            normalized_dialogue = normalize_spaces(dialogue)
+
+            if (
+                element == "action"
+                and not normalized_character
+                and normalized_dialogue == "["
+                and idx + 1 < len(fixed_rows)
+            ):
+                next_element, _next_character, next_dialogue = fixed_rows[idx + 1]
+                next_text = normalize_spaces(next_dialogue)
+                if next_element == "heading" and re.match(r"^\[\s*scene\s*:", next_text, flags=re.IGNORECASE):
+                    scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", next_text, flags=re.IGNORECASE)
+                    scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                    scene_text = normalize_spaces(scene_text)
+                    repaired_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                    idx += 2
+                    continue
+
+            if re.match(r"^\[\s*scene\s*:", normalized_dialogue, flags=re.IGNORECASE):
+                scene_text = re.sub(r"^\[\s*scene\s*:\s*", "", normalized_dialogue, flags=re.IGNORECASE)
+                scene_text = re.sub(r"\]+\s*$", "", scene_text)
+                scene_text = normalize_spaces(scene_text)
+                repaired_rows.append(("heading", "", f"[Scene: {scene_text}]"))
+                idx += 1
+                continue
+
+            if element == "action" and not normalized_character:
+                scene_only_match = re.match(r"^\[(?P<scene>.+)\]$", normalized_dialogue)
+                if scene_only_match:
+                    scene_body = normalize_spaces(scene_only_match.group("scene"))
+                    if scene_body and not re.match(r"^scene\s*:", scene_body, flags=re.IGNORECASE):
+                        repaired_rows.append(("heading", "", f"[Scene: {scene_body}]"))
+                        idx += 1
+                        continue
+
+            repaired_rows.append((element, character, dialogue))
+            idx += 1
+
+        fixed_rows = repaired_rows
+
+        # 3) Recover malformed dialogue lines that are not closed with </p>
+        malformed_dialogue_pattern = re.compile(
+            r"(?is)<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<text>.*?)(?P<end></p>|(?=<p\b))"
+        )
+        next_row_pattern = re.compile(
+            r"(?is)<p\s+class=\"scene\"\s*>\s*(?P<scene>.*?)</p>|<p[^>]*>\s*(?:<br\s*/?>\s*)*(?:<strong>\s*)+(?P<speaker>[^<:]{1,80})\s*:\s*(?:</strong>\s*)+(?P<dtext>.*?)(?:</p>|<br\s*/?>)"
+        )
+
+        recovered_pairs: List[Tuple[str, str, str, str]] = []
+        for match in malformed_dialogue_pattern.finditer(html_text):
+            if match.group("end").lower() == "</p>":
+                continue
+
+            speaker = normalize_spaces(BeautifulSoup(match.group("speaker"), "html.parser").get_text(" "))
+            dialogue_text = normalize_spaces(BeautifulSoup(match.group("text"), "html.parser").get_text(" "))
+            if not speaker or not dialogue_text:
+                continue
+
+            next_match = next_row_pattern.search(html_text, match.end())
+            if not next_match:
+                continue
+
+            scene_group = next_match.group("scene")
+            if scene_group is not None:
+                scene_text = normalize_spaces(BeautifulSoup(scene_group, "html.parser").get_text(" "))
+                if scene_text:
+                    recovered_pairs.append((speaker, dialogue_text, "heading", scene_text))
+                continue
+
+            anchor_speaker = normalize_spaces(BeautifulSoup(next_match.group("speaker") or "", "html.parser").get_text(" "))
+            anchor_dialogue = normalize_spaces(BeautifulSoup(next_match.group("dtext") or "", "html.parser").get_text(" "))
+            if anchor_speaker and anchor_dialogue:
+                recovered_pairs.append((speaker, dialogue_text, "dialogue", f"{anchor_speaker}|||{anchor_dialogue}"))
+
+        if recovered_pairs:
+            existing_dialogues = {
+                (normalize_spaces(ch), normalize_spaces(tx))
+                for el, ch, tx in fixed_rows
+                if el == "dialogue"
+            }
+            to_insert = [
+                item for item in recovered_pairs if (normalize_spaces(item[0]), normalize_spaces(item[1])) not in existing_dialogues
+            ]
+
+            if to_insert:
+                repaired_rows = []
+                pending_idx = 0
+                for element, character, dialogue in fixed_rows:
+                    normalized_character = normalize_spaces(character)
+                    normalized_dialogue = normalize_spaces(dialogue)
+
+                    while pending_idx < len(to_insert):
+                        ins_speaker, ins_text, anchor_type, anchor_payload = to_insert[pending_idx]
+                        anchor_match = False
+                        if anchor_type == "heading":
+                            anchor_match = element == "heading" and normalized_dialogue == normalize_spaces(anchor_payload)
+                        else:
+                            anchor_speaker, anchor_text = anchor_payload.split("|||", 1)
+                            anchor_match = (
+                                element == "dialogue"
+                                and normalized_character == normalize_spaces(anchor_speaker)
+                                and normalized_dialogue == normalize_spaces(anchor_text)
+                            )
+
+                        if not anchor_match:
+                            break
+
+                        repaired_rows.append(("dialogue", ins_speaker, ins_text))
+                        pending_idx += 1
+
+                    repaired_rows.append((element, character, dialogue))
+
+                fixed_rows = repaired_rows
+
+        # 4) Preserve correct freeway order: dialogue first, then following action.
+        ordered_rows = []
+        idx = 0
+        while idx < len(fixed_rows):
+            if idx + 1 < len(fixed_rows):
+                e1, c1, t1 = fixed_rows[idx]
+                e2, c2, t2 = fixed_rows[idx + 1]
+                if (
+                    e1 == "action"
+                    and not normalize_spaces(c1)
+                    and normalize_spaces(t1).lower().startswith("(she hangs up, closes her phone")
+                    and e2 == "dialogue"
+                    and normalize_spaces(c2) == "Rachel"
+                    and normalize_spaces(t2).lower().startswith("(into the phone) no, there isn't time to go to the bakery")
+                ):
+                    ordered_rows.append((e2, c2, t2))
+                    ordered_rows.append((e1, c1, t1))
+                    idx += 2
+                    continue
+            ordered_rows.append(fixed_rows[idx])
+            idx += 1
+
+        fixed_rows = ordered_rows
+
     if episode_code in {"0919", "0920", "0921"} and html_text:
         malformed_action_cue_pattern = re.compile(
             r"(?is)<p>\s*\((?P<action>[^<)]{1,220}?)\)\s*<p>\s*<b>\s*(?P<speaker>[^:<]{1,80}):\s*</b>\s*(?P<text>.*?)</p>"
@@ -1286,6 +2688,7 @@ def apply_episode_specific_fixes(
 
         canonical_map = {
             "opening credits": "Opening Credits",
+            "opening sequence": "Opening Credits",
             "closing credits": "Closing Credits",
             "commercial break": "Commercial Break",
             "end": "End",
@@ -1755,6 +3158,7 @@ def apply_episode_specific_fixes(
     if episode_code == "0907":
         label_map = {
             "OPENING CREDITS": "Opening Credits",
+            "OPENING SEQUENCE": "Opening Credits",
             "COMMERCIAL BREAK": "Commercial Break",
             "END": "End",
         }
@@ -1797,7 +3201,7 @@ def apply_episode_specific_fixes(
             for match in re.finditer(r"\([^)]*\)", text):
                 before = normalize_spaces(text[position : match.start()])
                 if before:
-                    parts.append(f"<voiceover>{before}<\voiceover>")
+                    parts.append(f"<voiceover>{before}<\\voiceover>")
 
                 parenthetical = normalize_spaces(match.group(0))
                 if parenthetical:
@@ -1807,10 +3211,10 @@ def apply_episode_specific_fixes(
 
             tail = normalize_spaces(text[position:])
             if tail:
-                parts.append(f"<voiceover>{tail}<\voiceover>")
+                parts.append(f"<voiceover>{tail}<\\voiceover>")
 
             if not parts:
-                return f"<voiceover>{text}<\voiceover>"
+                return f"<voiceover>{text}<\\voiceover>"
 
             return " ".join(parts)
 
@@ -3029,6 +4433,7 @@ def apply_episode_specific_fixes(
         action_markers = {
             "opening credits": "Opening Credits",
             "opening titles": "Opening Credits",
+            "opening sequence": "Opening Credits",
             "commercial break": "Commercial Break",
             "commercial": "Commercial Break",
             "closing credits": "Closing Credits",
@@ -3463,6 +4868,7 @@ def ensure_missing_marker_actions(
         mapping = {
             "opening credits": "Opening Credits",
             "opening titles": "Opening Credits",
+            "opening sequence": "Opening Credits",
             "commercial break": "Commercial Break",
             "commercial": "Commercial Break",
             "closing credits": "Closing Credits",
@@ -3729,6 +5135,12 @@ def main() -> int:
 
             if episode_code == "0923-0924":
                 for legacy_name in ("0923.csv", "0924.csv"):
+                    legacy_file = output_dir / legacy_name
+                    if legacy_file.exists():
+                        legacy_file.unlink()
+
+            if episode_code == "1017-1018":
+                for legacy_name in ("1017.csv", "1018.csv"):
                     legacy_file = output_dir / legacy_name
                     if legacy_file.exists():
                         legacy_file.unlink()
