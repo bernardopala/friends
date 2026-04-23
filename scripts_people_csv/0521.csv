@@ -339,7 +339,7 @@ dialogue,Monica,"Okay! Okay, let's race! First one there wins! Ha-ha! (Runs out 
 action,,(Pause)
 dialogue,Chandler,You guys wanna eat here?
 dialogue,All,Yeah! As long as we're here!
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: Central Perk, everyone is there.]"
 dialogue,Joey,Man that was great! Huh? Can you believe how long we threw that ball around?
 dialogue,Rachel,"Yeah, it is amazing it lasted that long."

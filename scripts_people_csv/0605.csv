@@ -257,7 +257,7 @@ dialogue,Ross,"Eh, no problem."
 action,,(They hug.)
 dialogue,Rachel,I’m gonna need a copy of those.
 dialogue,Ross,Totally. (Exits.)
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: The street, Joey is messing with a car cover and still wearing the Porsche stuff. This guy playing street football catches a pass next to the car cover Joey is fooling around with.]"
 dialogue,Joey,Hey! Hey! Be careful around my Porsche!
 dialogue,Woman,(the same one from before approaches) Hi Joey.

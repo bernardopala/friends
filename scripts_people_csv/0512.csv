@@ -287,7 +287,7 @@ action,,(Joey enters.)
 dialogue,Joey,"Umm, hi."
 dialogue,Janice,"Oh hi! Well, I guess that's two out of three, Joey. (Laughs and exits.)"
 action,,(Joey looks at Ross with a horrified look on his face.)
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: Chandler, Joey, and Ross's, Chandler is reading a magazine as Ross hands him a beer.]"
 dialogue,Ross,"Dude, we got to talk."
 dialogue,Chandler,Okay.

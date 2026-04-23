@@ -386,7 +386,7 @@ action,,(Joey sits down.)
 dialogue,Monica,"Okay, in we go."
 action,,(Monica gets behind him and in combination with his sliding the chair forward and her pushing with her leg manages to get up to the table.)
 dialogue,Fat Joey,Here we go! Here we go! Here we go! (Groans and picks up a piece of food.) How you doin’?
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: Central Perk, Joey is getting Phoebe some coffee.]"
 dialogue,Joey,Here you go.
 dialogue,Phoebe,(still reading the label) Oh my God! This is a six-hour pill! (Checks her watch) That’s it! I’m out of the woods! Ohh! What a relief!

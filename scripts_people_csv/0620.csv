@@ -278,7 +278,7 @@ dialogue,Joey,"Hey, do we do this too much?"
 dialogue,Chandler,"I think so. Yeah, get off me."
 dialogue,Joey,Yeah.
 action,,(They separate.)
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: Joey and Rachel's apartment, Joey and Phoebe are reading a scene from Mac and C.H.E.E.S.E.]"
 dialogue,Joey,"Come on C.H.E.E.S.E., I’m not leaving without you! Try routing your backup source through your primary CPU."
 dialogue,Phoebe,(overacting badly) I can’t! My circuits are fried! They’re fried I tell you!!

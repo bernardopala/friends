@@ -270,7 +270,7 @@ dialogue,Frank Sr.,"I just, I y'know, I'm not very good at this. So, umm… (Bac
 dialogue,Phoebe,"Well, I am. (Moves over and takes his hand.)"
 action,,(She holds his hand for a little while then…)
 dialogue,Phoebe,"Not yet, no. (Drops his hand and moves back.)"
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: Monica and Rachel's, Joey returns from his audition and finds everyone but Phoebe there.]"
 dialogue,Joey,(dejected) Hi.
 dialogue,All,Hey!

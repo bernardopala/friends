@@ -270,7 +270,7 @@ dialogue,Joey,"Oh, I am going to go for a walk in the rain."
 dialogue,Rachel,"Ohhh, yeah, me too."
 action,,(They both exit.)
 dialogue,Phoebe,That's weird. (Pause.) I bet they're doing it.
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: Central Perk, Phoebe, Ross, and Monica are there.]"
 dialogue,Chandler,"(entering) Oh good, okay, I can't take it anymore. I can't take it anymore. So you win, okay? Here! (Hands him the 50 bucks he's about to owe him.) Pheebs? Flying a jet? Better make it a spaceship so that you can get back to your home planet! And Ross, phone call for you today, Tom Jones, he wants his pants back! And Hornswoggle? What are you dating a character from Fraggile Rock ?! (He sits down and sighs in relief.)"
 action,,End

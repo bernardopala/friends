@@ -296,6 +296,6 @@ dialogue,The Man In The Sportscar,How hot are we? (He drives off.)
 dialogue,Ross,You wanna buy a car?
 dialogue,Joey,No.
 action,,(Ross shuts it off and they get out.)
-action,,Ending Credits
+action,,Closing Credits
 dialogue,{Transcriber’s Note,There was no credits scene with this episode.}
 action,,End

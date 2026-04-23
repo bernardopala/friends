@@ -276,7 +276,7 @@ dialogue,Rachel,Yeah.
 dialogue,Ross,"Yeah, I want my money back."
 dialogue,Rachel,"(going out the door) Yeah, uh you-you probably need that for stamps, right?"
 action,,(Ross is stunned.)
-action,,Ending Credits
+action,,Closing Credits
 heading,,"[Scene: Central Perk, everyone is there.]"
 dialogue,Ross,"Hey Pheebs, has Gary ever been shot at for real?"
 dialogue,Phoebe,"Yes. Once. Yeah, a little. He kinda did it to himself. It's not really a good story."
