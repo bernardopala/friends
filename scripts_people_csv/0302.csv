@@ -114,7 +114,7 @@ dialogue,Monica,I know the code to his answering machine.
 dialogue,Ross,"Okay, Mon, I really don't think this is the... Okay, you're dialing, you are dialing."
 action,,"(Chandler enters, and Joey is standing near the chair, they have a show down to see who gets the chair and Joey wins)"
 dialogue,Richard,"(on machine) ""Hi, this is Richard. Please, leave a message at the tone."""
-dialogue,Machine,"""You have two new messages."""
+dialogue,Answering machine,"""You have two new messages."""
 dialogue,Joey,"Wow, what a cool job. (in a machine voice) 'You have two new messages.' 'Please, pass the pie.'"
 dialogue,Monica,"(on machine) ""Hi, it's Monica. I'm just checking in 'cause I got this message from you and I didn't know if it was old or new or what. So, I'm just checkin'. So let me know, or don't, whatever. I'm breezy."""
 dialogue,Joey,"Hey, you can't say you're breezy, that, that totally negates the breezy."
@@ -262,16 +262,16 @@ dialogue,Chandler,Stop it. Stop it!
 action,,"(Monica runs into the living room, and starts dialing the phone)"
 dialogue,Phoebe,"Ross, went to get a cab so we can all... No, wh-what are you doing! No, Monica, no!"
 dialogue,Richard,"(on machine) Hi, this is Richard."
-dialogue,Machine,You have three new messages.
+dialogue,Answering machine,You have three new messages.
 dialogue,Monica,Not any more!
-dialogue,Machine,Message erased. To record a message begin speaking at the tone.
+dialogue,Answering machine,Message erased. To record a message begin speaking at the tone.
 dialogue,Monica,"Hi, uh, Richard it's Monica, um, listen I did something kind of crazy tonight, um, maybe I'm getting my period or something, I don't know. Um, anyway, I, I, I beeped into your machine and I heard a message that, that freaked me out, and um, you know what Michelle will tell you the rest. I, I, um, I'm sorry, okay, I, I hope that we can forget the whole thing. Okay, bye."
-dialogue,Machine,Your outgoing message has now been changed.
+dialogue,Answering machine,Your outgoing message has now been changed.
 dialogue,Monica,"Outgoing! Did that say outgoing?! Not, outgoing!!!"
 dialogue,Monica,"(on machine) ""Hi, uh, Richard it's Monica, um, listen I did something kind of crazy tonight, um, maybe I'm getting my period or something, I don't know."" Nooo!!"
 dialogue,Phoebe,How did you do that?
 dialogue,Monica,I don't know!
-dialogue,Machine,Good-bye.
+dialogue,Answering machine,Good-bye.
 dialogue,Monica,Noooo!!!!
 dialogue,Ross,"(entering) Okay, okay, okay, I've got two cabs and no people. Go! Go! Go!"
 dialogue,Monica,Maybe we could call the phone company. Maybe they could change the message. Maybe they can change his number.
