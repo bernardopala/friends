@@ -116,7 +116,7 @@ dialogue,Girl,"I just remembered, I have to do something."
 dialogue,Joey,Oh. What?
 dialogue,Girl,"Um, leave."
 dialogue,Joey,"Wait, wait, wait!"
-dialogue,(Joey turns around and sees his face on a poster in the subway. The poster says,"What Mario isn't telling you...V.D., you never know who might have it. A variety of scenes are shown with the poster displayed all over New York City.)"
+action,,"(Joey turns around and sees his face on a poster in the subway. The poster says: What Mario isn't telling you...V.D., you never know who might have it. A variety of scenes are shown with the poster displayed all over New York City.)"
 heading,,"[Scene: Central Perk, Joey enters, amongst snickers from the gang.]"
 dialogue,Joey,So I guess you all saw it.
 dialogue,Rachel,Saw what?
