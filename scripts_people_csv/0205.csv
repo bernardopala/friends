@@ -4,7 +4,7 @@ dialogue,Ross,"Man, I sure miss Julie."
 dialogue,Chandler,"Spanish midgets. Spanish midgets wrestling. Julie. Ok, yes, I see how you got there. (phone rings)"
 dialogue,Ross,You ever figure out what that thing's for?
 dialogue,Chandler,"No, see, I'm trying this new screening thing. You know, I figure if I'm always answering the phone, people'll think I don't have a life. My god, Rodrigo never gets pinned."
-dialogue,(Machine--Joey'S Voice),"Here comes the beep, you know what to do."
+dialogue,Joey,"(on answering machine) Here comes the beep, you know what to do."
 dialogue,Jade,"Hello, I'm looking for Bob. This is Jane. I don't know if you're still at this number, but I was just thinking about us, and how great it was, and, well, I know it's been three years, but, I was kinda hoping we could hook up again. I barely had t he nerve to make this call, so you know what I did?"
 dialogue,Chandler,What?
 dialogue,Jade,I got a little drunk...and naked.
@@ -205,7 +205,7 @@ dialogue,Chandler,"Now I know it's been awhile, but I took it as a good sign."
 action,,(phone rings)
 dialogue,Ross,Still doing the screening thing?
 dialogue,Chandler,I had sex today. I never have to answer that phone again.
-dialogue,Machine,"Here comes the beep, you know what to do."
+dialogue,Joey,"(on answering machine) Here comes the beep, you know what to do."
 dialogue,Jade,"Hey, Bob, it's Jade. Listen, I just wanted to tell you that I was really hurt when you didn't show up the other day, and just so you know, I ended up meeting a guy."
 dialogue,Chandler,Bob here.
 dialogue,Jade,"Oh, hi."
@@ -287,7 +287,7 @@ dialogue,Phoebe,Oh.
 action,,(Everyone goes over to comfort Monica)
 dialogue,Waitress,Here's your check. That'll be $4.12.
 dialogue,Joey,Let me get that. (to Chandler) You got five bucks?
-dialogue,Machine,"Here comes the beep, you know what to do."
+dialogue,Joey,"(on answering machine) Here comes the beep, you know what to do."
 dialogue,Jade,"Hi, it's me. Listen, Bob. I'm probably way out of line here. I mean, It has been 3 years, and you're probably seeing someone else now, but if we could just have one night together, just for old time's sake, one hot, steamy, wild night..."
 action,,(Joey lunges for phone and misses.)
 action,,End
