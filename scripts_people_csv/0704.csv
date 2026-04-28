@@ -1,9 +1,9 @@
 script_element,character,text
 heading,,"[Scene: Monica, Chandler, and Phoebe's, everyone is there and they are finishing watching the first episode of Mac and C.H.E.E.S.E. Joey is of course Mac.]"
 dialogue,Mac,"(on TV) Well, if we learned one thing today C.H.E.E.S.E. is that cheerleaders and high explosives don’t mix. (Cut to Joey laughing while Rachel, Chandler, and Monica aren’t amused.)"
-dialogue,C.H.E.E.S.E,You can say that again Mac.
+dialogue,C.H.E.E.S.E.,You can say that again Mac.
 dialogue,Mac,"Well, I couldn’t have done it without you buddy. You’re a genius."
-dialogue,C.H.E.E.S.E,Oh yeah? Well then how come I can’t get my VCR to stop blinking 12:00?
+dialogue,C.H.E.E.S.E.,Oh yeah? Well then how come I can’t get my VCR to stop blinking 12:00?
 action,,(They both break into a huge laugh and do that stop motion thing they had at the end of ChiPs .)
 dialogue,Joey,"(laughing and turning off the TV) So, what did you guys think?"
 action,,"(They all make happy faces as they are unable to express their feelings verbally. Finally, the phone rings and the race to answer it is won by Monica.)"
