@@ -383,6 +383,97 @@ def apply_character_name_fixes(
     return fixed_rows
 
 
+def apply_thought_voiceover_fixes(
+    episode_code: str, rows: Sequence[Tuple[str, str, str]]
+) -> List[Tuple[str, str, str]]:
+    """Opakowuje glosne mysli w <voiceover>...</voiceover>, zachowujac zwykly dialog poza nimi."""
+    fixed_rows = list(rows)
+
+    def wrap_after_marker(text: str, marker: str) -> str:
+        normalized = normalize_spaces(text)
+        if marker not in normalized:
+            return text
+        prefix, suffix = normalized.split(marker, 1)
+        suffix = suffix.strip()
+        if not suffix:
+            return text
+        return f"{prefix}{marker} <voiceover>{suffix}</voiceover>".strip()
+
+    if episode_code == "0106":
+        marker = "(to himself)"
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element == "dialogue" and normalize_spaces(character) == "Chandler" and marker in dialogue:
+                fixed_rows[idx] = (element, character, wrap_after_marker(dialogue, marker))
+                break
+
+    if episode_code == "0310":
+        marker = "(to himself)"
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element == "dialogue" and normalize_spaces(character) == "Ross" and marker in dialogue:
+                fixed_rows[idx] = (element, character, wrap_after_marker(dialogue, marker))
+
+    if episode_code == "0404":
+        marker = "(thinking to herself)"
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue" or normalize_spaces(character) != "Phoebe" or marker not in dialogue:
+                continue
+
+            normalized = normalize_spaces(dialogue)
+            after = normalized.split(marker, 1)[1].strip()
+            cut_points = [
+                after.find(" (notices the clock)"),
+                after.find(" (to Rick)"),
+            ]
+            cut_points = [cp for cp in cut_points if cp >= 0]
+            cut_at = min(cut_points) if cut_points else -1
+
+            if cut_at >= 0:
+                thought = after[:cut_at].strip()
+                rest = after[cut_at:].strip()
+                if thought:
+                    fixed_rows[idx] = (element, character, f"{marker} <voiceover>{thought}</voiceover> {rest}".strip())
+            else:
+                if after:
+                    fixed_rows[idx] = (element, character, f"{marker} <voiceover>{after}</voiceover>")
+
+    if episode_code == "0601":
+        marker = "(to himself)"
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue" or normalize_spaces(character) != "Joey" or marker not in dialogue:
+                continue
+            normalized = normalize_spaces(dialogue)
+            after = normalized.split(marker, 1)[1].strip()
+            cut = after.find(" (He opens his eyes")
+            if cut >= 0:
+                thought = after[:cut].strip()
+                rest = after[cut:].strip()
+                fixed_rows[idx] = (element, character, f"{marker} <voiceover>{thought}</voiceover> {rest}".strip())
+            elif after:
+                fixed_rows[idx] = (element, character, f"{marker} <voiceover>{after}</voiceover>")
+            break
+
+    if episode_code == "0916":
+        marker = "(to himself)"
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element == "dialogue" and normalize_spaces(character) == "Joey" and marker in dialogue:
+                fixed_rows[idx] = (element, character, wrap_after_marker(dialogue, marker))
+                break
+
+    if episode_code == "1005":
+        marker = "(to himself)"
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue" or normalize_spaces(character) != "Joey" or marker not in dialogue:
+                continue
+            normalized = normalize_spaces(dialogue)
+            prefix, after = normalized.rsplit(marker, 1)
+            after = after.strip()
+            if after:
+                fixed_rows[idx] = (element, character, f"{prefix}{marker} <voiceover>{after}</voiceover>")
+            break
+
+    return fixed_rows
+
+
 def apply_episode_specific_fixes(
     episode_code: str, rows: Sequence[Tuple[str, str, str]], html_text: str = ""
 ) -> List[Tuple[str, str, str]]:
@@ -4923,6 +5014,7 @@ def apply_episode_specific_fixes(
 
 
     fixed_rows = apply_character_name_fixes(episode_code, fixed_rows)
+    fixed_rows = apply_thought_voiceover_fixes(episode_code, fixed_rows)
     return fixed_rows
 
 

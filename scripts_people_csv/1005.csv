@@ -318,7 +318,7 @@ dialogue,Phoebe,That's not very enlightened!
 action,,"(There's booing around them, and Mike sinks in his chair, holding his hand in above his eyes, hoping no-one would recognize him)"
 dialogue,Phoebe,"Hey, hey! (shouting) Boo us? Boo you!"
 heading,,[Scene: Rachel and Joey's. Joey is in the kitchen and the telephone rings.]
-dialogue,Joey,"(picks up the phone) Hello? Yeah, this is Joey Tribbiani... Oh, hi! Well, I'm glad you liked my letter... No my mommy and daddy aren't home right now... (looks puzzled) Okay, bye bye. (hangs up) (to himself) She was nice!"
+dialogue,Joey,"(picks up the phone) Hello? Yeah, this is Joey Tribbiani... Oh, hi! Well, I'm glad you liked my letter... No my mommy and daddy aren't home right now... (looks puzzled) Okay, bye bye. (hangs up) (to himself) <voiceover>She was nice!</voiceover>"
 action,,(Rachel and Amy enter)
 dialogue,Rachel,"Joey, get Amy's bags, she is moving out!"
 dialogue,Joey,Whoo-hoo! (and leaves for Rachel's room)

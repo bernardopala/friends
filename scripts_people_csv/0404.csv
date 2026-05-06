@@ -208,9 +208,9 @@ dialogue,Bank Officer,"Okay, Ms. Lambert handles all our closures. (to a beautif
 dialogue,Ms. Lambert,"Hi, I’m Karen."
 dialogue,Chandler,I wanna quit the bank!
 heading,,"[Scene: Healing Hands, Inc., Phoebe is giving Rick a massage.]"
-dialogue,Phoebe,"(thinking to herself) Okay, baseball. Rick, playing baseball. Okay, slides into second, maybe even his pants come down a little… Oh no—wait no, no! No! Okay, all right, sandwiches, sandwiches. Umm, okay, on a plate, maybe Rick’s pants come down a little. No! No! Okay, Chandler! Okay Chandler, ooh, that’s working."
+dialogue,Phoebe,"(thinking to herself) <voiceover>Okay, baseball. Rick, playing baseball. Okay, slides into second, maybe even his pants come down a little… Oh no—wait no, no! No! Okay, all right, sandwiches, sandwiches. Umm, okay, on a plate, maybe Rick’s pants come down a little. No! No! Okay, Chandler! Okay Chandler, ooh, that’s working.</voiceover>"
 action,,"(The camera zooms in on the clock on the wall and it reads a quarter after one. Time lapse. The clock now reads 3:30, and Phoebe is still giving Rick his massage.)"
-dialogue,Phoebe,"(thinking to herself) Chandler’s knees. Chandler’s… ankles. Chandler’s ankle hair. (notices the clock) Oh no. (to Rick) Okay, you’re all set."
+dialogue,Phoebe,"(thinking to herself) <voiceover>Chandler’s knees. Chandler’s… ankles. Chandler’s ankle hair.</voiceover> (notices the clock) Oh no. (to Rick) Okay, you’re all set."
 dialogue,Rick,"Oh wow! That was amazing, was that really just an hour?!"
 dialogue,Phoebe,Yeah! In… really long hour world.
 dialogue,Rick,What?

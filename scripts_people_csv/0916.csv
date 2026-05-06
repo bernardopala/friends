@@ -101,7 +101,7 @@ dialogue,Joey,"Yeah, I know."
 dialogue,Chandler,What? What do you mean you know?
 dialogue,Joey,"Err... I just figured it out! You know, I mean you're not working and the economy is bad."
 dialogue,Chandler,Oh! Right.
-dialogue,Joey,(to himself) That's the fastest I have ever thought!
+dialogue,Joey,(to himself) <voiceover>That's the fastest I have ever thought!</voiceover>
 dialogue,Chandler,"Anyway, err... I need to borrow some money."
 dialogue,Joey,Oh! Sure! How much? Two thousand dollars?
 dialogue,Chandler,Yes! Two thousand dollars exactly! How do you know that! (Joey begins writing a cheque)

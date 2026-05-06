@@ -198,9 +198,9 @@ dialogue,Ross,What’s a scrud?
 dialogue,Girl,"Why don’t you look in the mirror, scrud."
 dialogue,Ross,I don’t have too. I can just look at you.
 dialogue,Leader,"All right girls, and man. Let’s see your final tallies. (all the girls raise their hands) Ohhhh, Debbie, (looks at her form) 321 boxes of cookies, (to Debbie) Very nice."
-dialogue,Ross,(to himself) Not nice enough.
+dialogue,Ross,(to himself) <voiceover>Not nice enough.</voiceover>
 dialogue,Leader,"Charla, 278. Sorry, dear, but still good."
-dialogue,Ross,(to himself) Good for a scrud.
+dialogue,Ross,(to himself) <voiceover>Good for a scrud.</voiceover>
 dialogue,Leader,"Oh, yes Elizabeth. Ah, 871."
 dialogue,Ross,That’s crap!! Sister Brown Bird. (to Elizabeth) Good going. (does the salute)
 dialogue,Leader,"Who’s next? (goes over and stands behind Ross, who’s feverishly writing on his form, and clears her throat to get his attention.)"

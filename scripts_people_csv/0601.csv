@@ -154,7 +154,7 @@ dialogue,Joey,Really? I don’t…
 dialogue,Phoebe,Sing!!
 dialogue,Joey,(starts singing) I wanna rock and roll all night ! (Falls asleep.)
 action,,"[Time lapse, Phoebe is asleep, Joey’s driving and having a hard time staying awake.]"
-dialogue,Joey,"(to himself) Man, this is a long drive! Are my eyes open? No! (He opens his eyes and sees a hitchhiker.)"
+dialogue,Joey,"(to himself) <voiceover>Man, this is a long drive! Are my eyes open? No!</voiceover> (He opens his eyes and sees a hitchhiker.)"
 action,,"[Time lapse, Phoebe is still asleep only Joey is now passed out next to her and the car’s still moving. She wakes up, sees Joey, and screams.]"
 dialogue,Hitchhiker,(driving) Morning! (Phoebe screams again.)
 heading,,"[Scene: Central Perk, Rachel is on the couch as Ross enters.]"
