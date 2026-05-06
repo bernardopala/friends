@@ -412,6 +412,49 @@ def apply_thought_voiceover_fixes(
             if element == "dialogue" and normalize_spaces(character) == "Ross" and marker in dialogue:
                 fixed_rows[idx] = (element, character, wrap_after_marker(dialogue, marker))
 
+    if episode_code == "0511":
+        marker_start = "(talking to himself)"
+        marker_end = "(Out loud.)"
+
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue" or normalize_spaces(character) != "Ross":
+                continue
+
+            normalized = normalize_spaces(dialogue)
+            if marker_start not in normalized or marker_end not in normalized:
+                continue
+
+            prefix, remainder = normalized.split(marker_start, 1)
+            if marker_end not in remainder:
+                continue
+            middle, suffix = remainder.split(marker_end, 1)
+
+            # W segmencie miedzy markerami opakowujemy tylko czesci mowione,
+            # zostawiajac didaskalia w nawiasach bez tagu voiceover.
+            wrapped_parts = []
+            pos = 0
+            for match in re.finditer(r"\([^)]*\)", middle):
+                spoken = normalize_spaces(middle[pos:match.start()])
+                if spoken:
+                    wrapped_parts.append(f"<voiceover>{spoken}</voiceover>")
+
+                parenthetical = normalize_spaces(match.group(0))
+                if parenthetical:
+                    wrapped_parts.append(parenthetical)
+
+                pos = match.end()
+
+            tail = normalize_spaces(middle[pos:])
+            if tail:
+                wrapped_parts.append(f"<voiceover>{tail}</voiceover>")
+
+            middle_wrapped = " ".join(wrapped_parts)
+            rebuilt = (
+                f"{normalize_spaces(prefix)} {marker_start} {middle_wrapped} {marker_end} {normalize_spaces(suffix)}"
+            )
+            fixed_rows[idx] = (element, character, normalize_spaces(rebuilt))
+            break
+
     if episode_code == "0404":
         marker = "(thinking to herself)"
         for idx, (element, character, dialogue) in enumerate(fixed_rows):
