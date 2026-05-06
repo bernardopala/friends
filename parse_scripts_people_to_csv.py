@@ -335,6 +335,54 @@ def output_filename_for_episode_code(episode_code: str) -> str:
     return f"{episode_code}.csv"
 
 
+
+def apply_character_name_fixes(
+    episode_code: str, rows: Sequence[Tuple[str, str, str]]
+) -> List[Tuple[str, str, str]]:
+    """Naklada poprawki zwiazane z normalizacja nazw postaci."""
+    fixed_rows = list(rows)
+
+    # Globalnie: usuwamy przedimek 'A ' z nazw postaci (np. 'A Waiter' -> 'Waiter').
+    for idx, (element, character, dialogue) in enumerate(fixed_rows):
+        normalized_character = normalize_spaces(character)
+        if normalized_character.startswith("A ") and len(normalized_character) > 2:
+            fixed_rows[idx] = (element, normalized_character[2:], dialogue)
+
+    if episode_code == "0704":
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if normalize_spaces(character) == "C.H.E.E.S.E":
+                fixed_rows[idx] = (element, "C.H.E.E.S.E.", dialogue)
+
+    if episode_code == "0205":
+        beep_text = "Here comes the beep, you know what to do."
+        machine_characters = {
+            "machine",
+            "(machine--joey's voice)",
+            "(machine--joey's voice)",
+            "(machine--joey’s voice)",
+        }
+        for idx, (element, character, text) in enumerate(fixed_rows):
+            if element != "dialogue":
+                continue
+            normalized_text = normalize_spaces(text)
+            normalized_character = normalize_spaces(character).lower().replace("’", "'")
+            if normalized_text == beep_text and normalized_character in machine_characters:
+                fixed_rows[idx] = (
+                    "dialogue",
+                    "Joey",
+                    f"(on answering machine) {beep_text}",
+                )
+
+    if episode_code == "0302":
+        for idx, (element, character, text) in enumerate(fixed_rows):
+            if element != "dialogue":
+                continue
+            if normalize_spaces(character).lower() == "machine":
+                fixed_rows[idx] = ("dialogue", "Answering machine", text)
+
+    return fixed_rows
+
+
 def apply_episode_specific_fixes(
     episode_code: str, rows: Sequence[Tuple[str, str, str]], html_text: str = ""
 ) -> List[Tuple[str, str, str]]:
@@ -697,6 +745,14 @@ def apply_episode_specific_fixes(
                 .lower()
                 .replace("’", "'")
                 .startswith("{transciber's note:")
+                or normalize_spaces(f"{row[1]}: {row[2]}" if row[1] else row[2])
+                .lower()
+                .replace("’", "'")
+                .startswith("{transcriber's note:")
+                or normalize_spaces(f"{row[1]}: {row[2]}" if row[1] else row[2])
+                .lower()
+                .replace("’", "'")
+                .startswith("{note:")
             )
         ]
 
@@ -3820,6 +3876,16 @@ def apply_episode_specific_fixes(
             for idx, parsed_text in zip(target_indices, parsed_texts):
                 fixed_rows[idx] = ("dialogue", cue, parsed_text)
 
+    if episode_code == "0714":
+        fixed_rows = [
+            row
+            for row in fixed_rows
+            if not (
+                row[0] == "dialogue"
+                and normalize_spaces(row[1]).lower().replace("’", "'").startswith("{transcriber's note")
+            )
+        ]
+
     if episode_code == "0715" and html_text:
         malformed_cues = {
             "Rachel and Monica": r"(?is)<p[^>]*>\s*Rachel and\s*<b>\s*Monica:\s*</b>\s*</b>\s*(.*?)</p>",
@@ -4480,7 +4546,6 @@ def apply_episode_specific_fixes(
                 if m:
                     scene_text = normalize_spaces(f"At {m.group(1)}")
                     fixed_rows[idx] = ("heading", "", f"[Scene: {scene_text}]")
-
     if episode_code == "0206":
         scene_like_actions = {
             "central perk",
@@ -4811,6 +4876,18 @@ def apply_episode_specific_fixes(
             fixed_rows.insert(insert_at, ("dialogue", "Shelley", shelley_line))
 
     if episode_code == "0109":
+        # W tym odcinku bywa blednie zmapowane jako dialogue przez dwukropek "The poster says:".
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue":
+                continue
+            normalized_character = normalize_spaces(character)
+            if not normalized_character.lower().startswith("(joey turns around and sees his face on a poster in the subway. the poster says"):
+                continue
+            normalized_dialogue = normalize_spaces(dialogue)
+            merged_action = f"{normalized_character}: {normalized_dialogue}" if normalized_dialogue else normalized_character
+            fixed_rows[idx] = ("action", "", merged_action)
+            break
+
         # W tym miejscu scena końcowa bywa rozbijana na 1 heading + 5 linii action.
         for idx in range(len(fixed_rows) - 5):
             first = fixed_rows[idx]
@@ -4845,6 +4922,7 @@ def apply_episode_specific_fixes(
             break
 
 
+    fixed_rows = apply_character_name_fixes(episode_code, fixed_rows)
     return fixed_rows
 
 

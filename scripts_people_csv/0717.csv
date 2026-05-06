@@ -98,19 +98,19 @@ dialogue,Joey,"Sounds great! Okay all right, well where does this go? (The lamp 
 dialogue,Kristen,"You look strong, why don’t I take that and you grab one of the boxes."
 dialogue,Joey,"Okay. Yeah. (She leaves and he goes to pick up a box marked books, but decides to take the box marked pillows instead.) Yeah, I’ll grab this one. (He follows her upstairs.)"
 heading,,"[Scene: Kleinman’s, a horde of women including Rachel, Phoebe, and Monica are waiting for the store to open.]"
-dialogue,A Woman,What is taking so long?! I mean whatever!
+dialogue,Woman,What is taking so long?! I mean whatever!
 dialogue,Rachel,(To Phoebe) So this is Brooklyn.
 dialogue,Monica,"All right, listen up. There is usually only one dress in each size so when they open those doors, fan out. Now, this is what you’re looking for! (Holds up a picture of it.) Memorize it! When you locate the dress, blow on these. All right? (She passes out whistles to them.) Three short blasts, when you hear it. Come running."
 dialogue,Rachel,Okay.
 dialogue,Phoebe,Got it.
 dialogue,Monica,All right.
 action,,(A worker comes to open the door and the horde starts to press forward.)
-dialogue,A Woman,Here he comes! Hurry!
+dialogue,Woman,Here he comes! Hurry!
 dialogue,Rachel,Oh they’re pushing! They’re pushing!!
 dialogue,Monica,(To Rachel) Hey! Don’t be a baby!
 dialogue,Rachel,Well I…
 action,,"(The door opens allowing the horde to charge in, knocking Rachel out of the way and to the ground.)"
-dialogue,A Woman,Let’s go!!
+dialogue,Woman,Let’s go!!
 dialogue,Phoebe,(coming back out) Hey! Rachel! Come on!!!!
 action,,"[Time lapse, inside the store, Monica is frantically looking for her dress.]"
 dialogue,Monica,"No. No. Not it. Not it. Not it. (Checks another rack and another woman tries to reach around her.) (To the woman) Don’t crowd me! (Finds it) This is it! This is the dress! Oh my God, it’s perfect! (She takes it off of the rack and someone has a hold of it on the other side of the rack and tugs on it.) I’m sorry, this one’s taken! (The other woman tugs harder pulling Monica through the rack.) Whoa!"

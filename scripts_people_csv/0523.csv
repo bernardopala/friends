@@ -18,7 +18,7 @@ dialogue,Phoebe,"(to Joey) Ooh, do you want to talk to Chandler?"
 dialogue,Chandler,(To Phoebe) Is that Joey?! (She nods yes) Let me talk to him!
 action,,[Cut to Joey]
 dialogue,Joey,No! (She nods no to Chandler) Because he didn't believe in my movie! Which is a big mistake because it is real! Real!
-dialogue,A Casino Boss,Hey! Tribbiani! Get back to work! Break time's over!
+dialogue,Casino Boss,Hey! Tribbiani! Get back to work! Break time's over!
 action,,[Cut to Phoebe]
 dialogue,Phoebe,Who was that?
 dialogue,Joey,"Uhh, my stunt double. Yeah, and y'know, he's getting a little too familiar for my tastes."
@@ -38,7 +38,7 @@ action,,[Cut to Chandler]
 dialogue,Chandler,Forgive me? You haven't been taking my calls in a week!
 action,,[Cut to Joey]
 dialogue,Joey,"Well, I'm totally over it Chandler. Friends forever! Don't come out here!"
-dialogue,A Tourist,(To Joey) Would you mind doing a picture with us?
+dialogue,Tourist,(To Joey) Would you mind doing a picture with us?
 action,,[Cut to Chandler]
 dialogue,Chandler,"Uh, what was that?"
 action,,[Cut to Joey]
@@ -456,7 +456,7 @@ dialogue,Monica,What?
 dialogue,Chandler,Two fours.
 dialogue,Monica,Okay. (Rolls the dice)
 dialogue,The Croupier,8!:
-dialogue,A Drunken Gambler,(To Chandler) Don't you let her go! You're a lucky guy!
+dialogue,Drunken Gambler,(To Chandler) Don't you let her go! You're a lucky guy!
 dialogue,Chandler,"Thank you, Mister Drunken Gambler! Okay, you get this and uh, we get the biggest suite in the place! (Everyone cheers) Wait-wait-wait-wait! We (motions to Monica and him.) get the biggest suite in the place."
 dialogue,Monica,"All right, biggest suite in the place. Come on! (Rolls the dice.)"
 dialogue,Chandler,(sees the roll) Yes!! I love you! I can't even remember what we were fighting about!

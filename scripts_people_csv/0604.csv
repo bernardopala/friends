@@ -239,15 +239,15 @@ dialogue,The Director,"Hey Joey, we’re ready for ya! (Joey stumbles over) Joey
 dialogue,Joey,"Hi Alex! (to the director) And uh, as you can see my hands are not in my pants. (Holds them both up.)"
 dialogue,The Director,"Okay. (to Alex) All right uh, Alex now when Joey says his line, ""Take good care of your Momma son,"" that’s your cue to cry. Got it? (Alex nods yes.) All right, let’s do this."
 action,,(Joey lies down on the gurney.)
-dialogue,A Crew Member,"(with that board thingy) Scene 5, take 1."
+dialogue,Crew Member,"(with that board thingy) Scene 5, take 1."
 dialogue,The Director,And Action!
 dialogue,Joey,"""Take could care of your Momma son."" (Alex just looks at him and the director motions for him to continue so he tries it again.) ""Take could care of your Momma son."" (Alex does nothing.) ""Come on son! Your Momma’s good people!"""
 dialogue,The Director,"Cut! Alex, remember you’re supposed to cry. Can you cry for us this time?"
 dialogue,Alex,Okay.
 dialogue,The Director,"All right, from the top."
-dialogue,A Crew Member,"Scene 5, take 2."
+dialogue,Crew Member,"Scene 5, take 2."
 action,,[Time lapse.]
-dialogue,A Crew Member,Take 36 is up!
+dialogue,Crew Member,Take 36 is up!
 dialogue,The Director,All right! Let’s try this again! You ready Joe?
 dialogue,Joey,"Ah, just one thing umm, is it all right with you if I, if I scream right up until you say action?"
 dialogue,The Director,Uh sure.
@@ -265,7 +265,7 @@ dialogue,Russell,"Yes, this Russell, Ross’s divorce lawyer, just tell him that
 dialogue,Rachel,Ross got married again—Nooooooo!!!!!!!!!
 heading,,"[Scene: a NYU lecture hall, Ross is trying to phase out his accent.]"
 dialogue,Ross,"(in his head) <voiceover>All right, keep going. We are phasing the accent out, phasing it out.</voiceover> So without out re-testing the results in the laboratory (pronounced the British way) the team would never have identified (British) the initial errors in their carbon dating analysis (British). Were there any questions at this point? (One student raises his hand.) Yes. (Points to him.)"
-dialogue,A Student,What’s happening to your accent?
+dialogue,Student,What’s happening to your accent?
 dialogue,Ross,"(British) Come again? What’s-what’s this nonsense? (Giggles.) (American.) All right, I’m-I’m not English. I’m from Long Island. I was really nervous and the accent just uh, just came out. I’m sorry. So, if we could just get back to the lecture. Umm, were there any questions? (Everyone raises their hands) About paleontology. (They all put their hands down.) All right, look I was just trying to make a good first impression. Obviously, I screwed up. But what you guys think of me is really important because I’m-I’m hoping to get a permanent job here. So if you just give me another chance to make a good impression…"
 action,,"(At this moment Rachel bursts through the door. Needless to say, she’s not in the best of moods having just found out Ross’s dirty little secret.)"
 dialogue,Rachel,"Ross!! Are you crazy?! I am still your wife!! What, were you just never gonna tell me?!! What the hell is wrong with you?!!!! Ugh, I could just kill you!!!!"
