@@ -452,6 +452,17 @@ def apply_thought_voiceover_fixes(
                 fixed_rows[idx] = (element, character, f"{marker} <voiceover>{after}</voiceover>")
             break
 
+    if episode_code == "0610":
+        csv_line_number = 212
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            element, character, dialogue = fixed_rows[row_index]
+            if character in {"Joey’s Head", "Joey's Head"}:
+                wrapped = normalize_spaces(dialogue)
+                if not (wrapped.startswith("<voiceover>") and wrapped.endswith("</voiceover>")):
+                    wrapped = f"<voiceover>{wrapped}</voiceover>"
+                fixed_rows[row_index] = (element, "Joey", wrapped)
+
     if episode_code == "0916":
         marker = "(to himself)"
         for idx, (element, character, dialogue) in enumerate(fixed_rows):
@@ -471,6 +482,49 @@ def apply_thought_voiceover_fixes(
                 fixed_rows[idx] = (element, character, f"{prefix}{marker} <voiceover>{after}</voiceover>")
             break
 
+
+    # Przeniesione z apply_episode_specific_fixes: centralizacja poprawek voiceover.
+    for idx, (element, character, dialogue) in enumerate(fixed_rows):
+        if element != "dialogue" or normalize_spaces(character) != "Lisa Kudrow":
+            continue
+        normalized_dialogue = normalize_spaces(dialogue)
+        if normalized_dialogue.lower().startswith("(voiceover) previously on friends"):
+            spoken_text = re.sub(r"^\(voiceover\)\s*", "", normalized_dialogue, flags=re.IGNORECASE)
+            fixed_rows[idx] = (element, character, f"<voiceover>{spoken_text}<\\voiceover>")
+
+    if episode_code == "0401":
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if element != "dialogue":
+                continue
+            if "(voice-over)" not in dialogue.lower():
+                continue
+            content = re.sub(r"\(voice-over\)\s*", "", dialogue, flags=re.IGNORECASE)
+            fixed_rows[idx] = (element, character, f"<voiceover>{content}<\\voiceover>")
+
+    if episode_code == "0617":
+        csv_line_number = 110
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            element, character, dialogue = fixed_rows[row_index]
+            if element == "dialogue" and character == "Joey":
+                match = re.match(
+                    r"^\(in his head\)\s*(.+?\?)\s*(\(.*\))$",
+                    normalize_spaces(dialogue),
+                )
+                if match:
+                    thought_text = match.group(1)
+                    trailing_action = match.group(2)
+                    fixed_rows[row_index] = (
+                        element,
+                        character,
+                        f"<voiceover>{thought_text}<\\voiceover> {trailing_action}",
+                    )
+
+    if episode_code == "0316":
+        for idx, (element, character, dialogue) in enumerate(fixed_rows):
+            if normalize_spaces(dialogue) == "(Voice Over) Previously on Friends.":
+                fixed_rows[idx] = (element, character, "<voiceover>Previously on Friends.<\\voiceover>")
+
     return fixed_rows
 
 
@@ -479,15 +533,6 @@ def apply_episode_specific_fixes(
 ) -> List[Tuple[str, str, str]]:
     """Naklada reczne poprawki dla znanych bledow klasyfikacji."""
     fixed_rows = list(rows)
-
-    # Normalizacja voiceover w recapie.
-    for idx, (element, character, dialogue) in enumerate(fixed_rows):
-        if element != "dialogue" or normalize_spaces(character) != "Lisa Kudrow":
-            continue
-        normalized_dialogue = normalize_spaces(dialogue)
-        if normalized_dialogue.lower().startswith("(voiceover) previously on friends"):
-            spoken_text = re.sub(r"^\(voiceover\)\s*", "", normalized_dialogue, flags=re.IGNORECASE)
-            fixed_rows[idx] = (element, character, f"<voiceover>{spoken_text}<\\voiceover>")
 
     # 0110: linie piosenki Phoebe sa czasem klasyfikowane jako action.
     # Chcemy oznaczyc je jako singing + character=Phoebe.
@@ -579,14 +624,6 @@ def apply_episode_specific_fixes(
                 fixed_rows[row_index] = ("singing", character, text)
 
     if episode_code == "0401":
-        for idx, (element, character, dialogue) in enumerate(fixed_rows):
-            if element != "dialogue":
-                continue
-            if "(voice-over)" not in dialogue.lower():
-                continue
-            content = re.sub(r"\(voice-over\)\s*", "", dialogue, flags=re.IGNORECASE)
-            fixed_rows[idx] = (element, character, f"<voiceover>{content}<\\voiceover>")
-
         csv_line_number = 201
         row_index = csv_line_number - 2
         if 0 <= row_index < len(fixed_rows):
@@ -2659,6 +2696,17 @@ def apply_episode_specific_fixes(
 
         fixed_rows = [row for row in fixed_rows if _as_text_0917(row) not in blocked_lines]
 
+    if episode_code == "0610":
+        csv_line_number = 212
+        row_index = csv_line_number - 2
+        if 0 <= row_index < len(fixed_rows):
+            element, character, dialogue = fixed_rows[row_index]
+            if character in {"Joey’s Head", "Joey's Head"}:
+                wrapped = normalize_spaces(dialogue)
+                if not (wrapped.startswith("<voiceover>") and wrapped.endswith("</voiceover>")):
+                    wrapped = f"<voiceover>{wrapped}</voiceover>"
+                fixed_rows[row_index] = (element, "Joey", wrapped)
+
     if episode_code == "0916":
         repaired_rows = []
         idx = 0
@@ -4326,24 +4374,6 @@ def apply_episode_specific_fixes(
                 fixed_rows[idx] = ("dialogue", "Elizabeth", text)
 
     if episode_code == "0617":
-        csv_line_number = 110
-        row_index = csv_line_number - 2
-        if 0 <= row_index < len(fixed_rows):
-            element, character, dialogue = fixed_rows[row_index]
-            if element == "dialogue" and character == "Joey":
-                match = re.match(
-                    r"^\(in his head\)\s*(.+?\?)\s*(\(.*\))$",
-                    normalize_spaces(dialogue),
-                )
-                if match:
-                    thought_text = match.group(1)
-                    trailing_action = match.group(2)
-                    fixed_rows[row_index] = (
-                        element,
-                        character,
-                        f"<voiceover>{thought_text}<\\voiceover> {trailing_action}",
-                    )
-
         malformed_cue_pattern = (
             r"(?is)<p[^>]*>\s*Janice(?:&#146;|’|')s Voice:\s*</b>\s*(.*?)</p>"
         )
@@ -4383,17 +4413,6 @@ def apply_episode_specific_fixes(
                         continue
                     fixed_rows[idx] = ("dialogue", "Joey", parsed_text)
                     break
-
-    if episode_code == "0610":
-        csv_line_number = 212
-        row_index = csv_line_number - 2
-        if 0 <= row_index < len(fixed_rows):
-            element, character, dialogue = fixed_rows[row_index]
-            if character in {"Joey’s Head", "Joey's Head"}:
-                wrapped = dialogue
-                if not (wrapped.startswith("<voiceover>") and wrapped.endswith("<\\voiceover>")):
-                    wrapped = f"<voiceover>{wrapped}<\\voiceover>"
-                fixed_rows[row_index] = (element, "Joey", wrapped)
 
     if episode_code == "0423":
         blocked_characters = {
@@ -4563,8 +4582,6 @@ def apply_episode_specific_fixes(
 
     if episode_code == "0316":
         for idx, (element, character, dialogue) in enumerate(fixed_rows):
-            if normalize_spaces(dialogue) == "(Voice Over) Previously on Friends.":
-                fixed_rows[idx] = (element, character, "<voiceover>Previously on Friends.<\\voiceover>")
 
             # W HTML jest to osobna linia akcji, ale parser potrafi rozbic ja
             # na character/text przez dwukropek w godzinie 8:30.
@@ -5015,6 +5032,10 @@ def apply_episode_specific_fixes(
 
     fixed_rows = apply_character_name_fixes(episode_code, fixed_rows)
     fixed_rows = apply_thought_voiceover_fixes(episode_code, fixed_rows)
+    fixed_rows = [
+        (el, ch, tx.replace("<\\voiceover>", "</voiceover>"))
+        for el, ch, tx in fixed_rows
+    ]
     return fixed_rows
 
 
